@@ -1,0 +1,38 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+ferrari,F8 Tributo,219891.0,2021,3902cc,"12,108 miles",Petrol,Automatic,RED/RED,Convertible,,,,,,,
+ferrari,488 GTB,139950.0,2017,3.9L,"14,870 miles",Petrol,Semiauto,Black,Coupe,4X2,2.0,2.0,659 bhp,208 mph,3.0 seconds,260 g/km
+ferrari,California,59995.0,2011,4297cc,"29,000 miles",Petrol,Automatic,Red,Convertible,,,,,,,
+ferrari,458,134950.0,2012,4497cc,"14,800 miles",Petrol,Automatic,WHITE,Convertible,4X2,2.0,2.0,570 bhp,200 mph,3.5 seconds,307 g/km
+ferrari,CALIFORNIA T,85000.0,2017,3.89L,"14,000 miles",Petrol,Semi Automatic,Black,Convertible,4X2,2.0,4.0,552 bhp,196 mph,3.6 seconds,251 g/km
+ferrari,599,117950.0,2009,5999cc,"20,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,611 bhp,205 mph,3.7 seconds,490 g/km
+ferrari,458,155995.0,2011,4497cc,"6,500 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,570 bhp,202 mph,3.4 seconds,307 g/km
+ferrari,F355,94950.0,1997,3496cc,"55,000 miles",Petrol,Manual,Red,Coupe,4X2,2.0,,,,,0 g/km
+ferrari,488,164500.0,2018,3902cc,"18,102 miles",Petrol,Automatic,GREY,Convertible,4X2,2.0,2.0,661 bhp,202 mph,3.0 seconds,294 g/km
+ferrari,812 Superfast,239950.0,2021,6.5L,"7,007 miles",Petrol,Semiauto,Red,Coupe,4X2,2.0,2.0,788 bhp,211 mph,2.9 seconds,366 g/km
+ferrari,FF,101000.0,2012,6262cc,"25,000 miles",Petrol,Automatic,GREY,Hatchback,4X4,3.0,4.0,659 bhp,208 mph,3.7 seconds,380 g/km
+ferrari,458,174995.0,2014,4497cc,"6,000 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,570 bhp,200 mph,3.5 seconds,307 g/km
+ferrari,F8 Tributo,192875.0,2020,3902cc,"8,314 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,2.0,710 bhp,211 mph,,292 g/km
+ferrari,488,169950.0,2017,3902cc,"8,700 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,659 bhp,202 mph,3.0 seconds,260 g/km
+ferrari,F12berlinetta,145000.0,2013,6262cc,"37,000 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,725 bhp,211 mph,3.1 seconds,350 g/km
+ferrari,F430,198000.0,2009,4308cc,"24,000 miles",Petrol,Automatic,RED,Coupe,4X2,2.0,2.0,503 bhp,198 mph,3.6 seconds,360 g/km
+ferrari,812 Superfast,274900.0,2020,6496cc,"2,505 miles",Petrol,Automatic,RED,Coupe,4X2,2.0,2.0,788 bhp,211 mph,2.9 seconds,366 g/km
+ferrari,599,129990.0,2010,5999cc,"8,627 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,611 bhp,205 mph,3.7 seconds,490 g/km
+ferrari,488,164950.0,2016,3.9L,"13,793 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,2.0,659 bhp,202 mph,3.0 seconds,260 g/km
+ferrari,812 Superfast,242495.0,2019,6.5L,"2,977 miles",Petrol,Semiauto,Blue,Coupe,4X2,2.0,2.0,788 bhp,211 mph,2.9 seconds,366 g/km
+ferrari,458,120000.0,2012,4497cc,"27,800 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,570 bhp,202 mph,3.4 seconds,307 g/km
+ferrari,FF,109000.0,2011,6262cc,"46,000 miles",Petrol,Manual,BLACK,Hatchback,4X4,3.0,4.0,659 bhp,208 mph,3.7 seconds,360 g/km
+ferrari,F355,119891.0,1996,3496cc,"13,827 miles",Petrol,Manual,YELLOW,Convertible,,2.0,,,,,0 g/km
+ferrari,458,119995.0,2012,4.5L,"22,000 miles",Petrol,Semi-Automatic,Nero Daytona,Coupe,4X2,2.0,2.0,570 bhp,202 mph,3.4 seconds,307 g/km
+ferrari,488,177950.0,2018,3.9L,"6,421 miles",Petrol,Semiauto,White,Convertible,4X2,2.0,2.0,659 bhp,202 mph,3.0 seconds,260 g/km
+ferrari,California,99950.0,2017,4L,"12,083 miles",Petrol,Semiauto,White,Convertible,4X2,2.0,4.0,552 bhp,196 mph,3.6 seconds,251 g/km
+ferrari,Portofino,137950.0,2019,4L,"5,721 miles",Petrol,Semiauto,Grey,Convertible,4X2,2.0,4.0,591 bhp,199 mph,3.5 seconds,267 g/km
+ferrari,458,134950.0,2012,4499cc,"20,000 miles",Petrol,Automatic,White,Coupe,4X2,2.0,2.0,570 bhp,202 mph,3.4 seconds,307 g/km
+ferrari,Portofino,144995.0,2019,4L,"5,690 miles",Petrol,Semiauto,Red,Convertible,4X2,2.0,4.0,591 bhp,199 mph,3.5 seconds,267 g/km
+ferrari,California,89995.0,2015,4L,"30,821 miles",Petrol,Semiauto,Red,Convertible,4X2,2.0,4.0,552 bhp,196 mph,3.6 seconds,251 g/km
+ferrari,488 GTB,309950.0,2019,3.9L,"4,474 miles",Petrol,Semiauto,Blue,Coupe,4X2,2.0,2.0,710 bhp,211 mph,,282 g/km
+ferrari,488 Pista,320000.0,2020,3902cc,"5,564 miles",Petrol,Automatic,Purple,Coupe,,,,,,,
+ferrari,California,68995.0,2013,4297cc,"25,000 miles",Petrol,Automatic,White,Convertible,4X2,2.0,4.0,482 bhp,193 mph,3.8 seconds,299 g/km
+ferrari,458,,2012,4497cc,"57,000 miles",Petrol,Automatic,Red,Convertible,4X2,2.0,2.0,570 bhp,200 mph,3.5 seconds,307 g/km
+ferrari,488,129950.0,2015,3902cc,"30,000 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,659 bhp,208 mph,3.0 seconds,260 g/km
+ferrari,458,134950.0,2013,4497cc,"21,000 miles",Petrol,Automatic,WHITE,Convertible,4X2,2.0,2.0,570 bhp,200 mph,3.5 seconds,307 g/km
+ferrari,California,103950.0,2018,4L,"8,861 miles",Petrol,Semiauto,Red,Convertible,4X2,2.0,4.0,552 bhp,196 mph,3.6 seconds,251 g/km

@@ -1,0 +1,337 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+mg,ZS,16599.0,2021,1L,"4,003 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,141 bhp,87 mph,8.5 seconds,0 g/km
+mg,ZS,11892.0,2019,1.5L,"40,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,22690.0,2023,1.5L,"3,989 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,12890.0,2023,1.5L,"3,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,12890.0,2023,1.5L,"3,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,22290.0,2023,1.5L,"3,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,MG3,6999.0,2015,1498cc,"46,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,MG3,12850.0,2023,1498cc,"1,604 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,14674.0,2020,1.5L,"19,020 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,HS,18999.0,2022,1.5L,532 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,GS,7995.0,2016,1490cc,"60,950 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,163 bhp,118 mph,9.8 seconds,139 g/km
+mg,MG6,3300.0,2013,1849cc,"22,000 miles",Diesel,Manual,GREY,Saloon,4X2,4.0,5.0,147 bhp,120 mph,9.4 seconds,129 g/km
+mg,HS,17049.0,2020,1490cc,"23,183 miles",Petrol,,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,148 g/km
+mg,HS,17000.0,2021,1.5L,"7,785 miles",Petrol,Manual,BLUE,MPV,,,,,,,
+mg,ZS,15600.0,2020,1L,"21,935 miles",Petrol,Automatic,Dynamic Red Metallic,MPV,,,,,,,
+mg,MG3,10495.0,2020,1.5L,"19,071 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,MG3,8495.0,2018,1.5L,"36,688 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,MG3,9995.0,2021,1.5L,"26,036 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,152 g/km
+mg,HS,16495.0,2022,1.5L,"19,779 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,14999.0,2021,1.5L,"15,462 miles",Petrol,Manual,Red,SUV,,,,,,,
+mg,MG3,11393.0,2020,1498cc,"17,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,152 g/km
+mg,ZS,16696.0,2021,1498cc,"21,156 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,17499.0,2023,1.5L,"5,000 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,MG3,13000.0,2021,999cc,"38,318 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,HS,19000.0,2000,1490cc,"6,466 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,9812.0,2019,1498cc,"62,345 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,6995.0,2017,1498cc,"19,385 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,MG5,18975.0,2022,1L,"11,000 miles",Other,Automatic,SILVER,Estate,,,,,,,
+mg,ZS,17495.0,2023,999cc,"12,102 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,7495.0,2016,1498cc,"15,000 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,MG3,10299.0,2019,1498cc,"13,416 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,14549.0,2021,1498cc,"8,773 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16800.0,2022,1.5L,"3,954 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,12900.0,2019,1L,"46,393 miles",Petrol,Automatic,BLACK,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,11440.0,2022,1498cc,"2,048 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,11995.0,2018,999cc,"38,805 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,144 g/km
+mg,HS,15789.0,2022,1490.0cc,"25,285 miles",Petrol,Automatic,Solid - Arctic White,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,HS,18000.0,2023,1490cc,"10,519 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,15300.0,2020,1498cc,"10,347 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,13990.0,2021,1.5L,"13,018 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16995.0,2022,1.5L,"7,420 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,10500.0,2018,1.5L,"31,829 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,HS,16750.0,2021,1.5L,"22,548 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,18995.0,2023,1L,"5,095 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,HS,20644.0,2022,1.5L,"7,474 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,HS,17000.0,2020,1.5L,"15,828 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,MG3,7488.0,2019,1.5L,"30,217 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,15630.0,2021,999cc,"17,500 miles",Petrol,Automatic,Artic White,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,9250.0,2011,1796cc,"31,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,137 bhp,127 mph,,185 g/km
+mg,ZS,15985.0,2021,1L,"16,642 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,141 bhp,87 mph,8.5 seconds,0 g/km
+mg,MG3,9950.0,2020,1.5L,"30,661 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,152 g/km
+mg,ZS,16649.0,2021,1498cc,"8,130 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,20950.0,2022,1.5L,"5,969 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,11998.0,2021,1.5L,"8,269 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,15995.0,2022,1498cc,"3,633 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16305.0,2021,999cc,"13,427 miles",Petrol,Manual,Orange,Other,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,MG3,8490.0,2019,"45,091 miles",Petrol,Manual,Red,Hatchback,47.1 mpg,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,HS,17999.0,2021,1490cc,"13,000 miles",Petrol,Automatic,Pearl White Metallic,Estate,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,HS,17999.0,2021,1490cc,"22,000 miles",Petrol,Automatic,Horizon Blue,Estate,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,12195.0,2022,1498cc,"5,533 miles",Petrol,Manual,Metallic - Southwark Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,5995.0,2017,1498cc,"27,964 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,124 g/km
+mg,ZS,17049.0,2022,999cc,"11,995 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,HS,24953.0,2023,1.5L,"2,000 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,15290.0,2021,1490cc,"26,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,MG3,13490.0,2019,999cc,"29,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,13700.0,2022,1498cc,"7,222 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16796.0,2021,1498cc,"12,413 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,17597.0,2021,999cc,"13,152 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,MG3,12999.0,2019,1L,"25,817 miles",Petrol,Automatic,Red,Hatchback,,,,,,,
+mg,MG3,9999.0,2018,1.5L,"81,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,MG3,14500.0,2020,1490cc,"36,731 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,ZS,12990.0,2020,1.5L,"33,040 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,ZS,13495.0,2018,1498cc,"25,900 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,ZS,15995.0,2020,1498cc,"14,420 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,1300,6950.0,1987,1275cc,"29,000 miles",Petrol,Manual,Black,Other,4X2,3.0,,72 bhp,,,0 g/km
+mg,MG3,7295.0,2017,1498cc,"16,822 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,ZS,14495.0,2020,1498cc,"8,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,ZS,10490.0,2019,1498cc,"69,950 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,16949.0,2022,1490cc,"30,276 miles",Petrol,Automatic,RED,Estate,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,18745.0,2022,1L,"4,809 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,12305.0,2022,1.5L,"4,320 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MGB GT,14995.0,1979,1798cc,"27,602 miles",Petrol,Manual,Red,Convertible,4X2,2.0,,96 bhp,,,0 g/km
+mg,MG4,35990.0,2023,1L,"3,000 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,241 bhp,112 mph,,0 g/km
+mg,HS,17995.0,2021,1.5L,"25,708 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,12687.0,2021,1.5L,"34,652 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,16995.0,2020,1.5L,"20,285 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,148 g/km
+mg,MG3,14888.0,2023,1.5L,21 miles,Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,21299.0,2022,1.5L,"5,686 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,15588.0,2019,1498cc,"25,258 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG6,1750.0,2011,1796cc,"135,000 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,158 bhp,120 mph,8.9 seconds,184 g/km
+mg,ZS,12495.0,2019,1498cc,"23,740 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,11995.0,2020,1498cc,"18,666 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,152 g/km
+mg,ZS,14995.0,2020,1498cc,"24,014 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,14415.0,2021,1.5L,"32,136 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,16605.0,2021,1.5L,"17,481 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,16512.0,2020,999cc,"18,263 miles",Petrol,Automatic,Silver,Other,4X2,5.0,5.0,110 bhp,112 mph,,166 g/km
+mg,MG3,11000.0,2021,1498cc,"16,121 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,12490.0,2019,1498cc,"23,866 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,20615.0,2023,1.5L,619 miles,Petrol,Semiauto,Silver,SUV,,,,,,,
+mg,MG3,13995.0,2020,1498cc,"34,436 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,14495.0,2020,999cc,"29,537 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,166 g/km
+mg,HS,14970.0,2023,1490cc,"15,401 miles",Petrol,Manual,RED,Estate,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,MG3,6355.0,2015,1498cc,"37,544 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,MG5,20388.0,2021,1L,"10,000 miles",Other,Automatic,SILVER,Estate,4X2,5.0,5.0,154 bhp,115 mph,,0 g/km
+mg,MG5,20388.0,2021,1L,"20,000 miles",Other,Automatic,SILVER,Estate,4X2,5.0,5.0,154 bhp,115 mph,,0 g/km
+mg,ZS,16155.0,2021,1.5L,"9,255 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,14287.0,2021,1.5L,"29,927 miles",Petrol,Manual,White,SUV,,,,,,,
+mg,HS,21305.0,2022,1.5L,"11,847 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,15695.0,2021,1.5L,"13,355 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,10800.0,2019,1.5L,"32,405 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,15950.0,2022,1L,"9,434 miles",Petrol,Manual,BLUE,SUV,4X2,5.0,5.0,110 bhp,112 mph,,
+mg,ZS,14495.0,2020,1498cc,"29,348 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,13495.0,2018,1498cc,"12,655 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,Other,3995.0,1967,1098cc,"65,712 miles",Petrol,Manual,Blue,Saloon,,,,,,,
+mg,HS,20489.0,2022,1490.0cc,"23,844 miles",Other,Automatic,Metallic - Black Pearl,Hatchback,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,MG3,6995.0,2018,1498cc,"55,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,ZS,12750.0,2020,1498cc,"23,847 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,MG6,3999.0,2015,1849cc,"101,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,120 mph,9.6 seconds,119 g/km
+mg,ZS,8600.0,2019,1498cc,"112,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,TD,18495.0,1952,1250cc,"82,028 miles",Petrol,Manual,Black,Convertible,4X2,2.0,,,,,0 g/km
+mg,Midget,8395.0,1980,1491cc,"88,792 miles",Petrol,Manual,Black,Convertible,4X2,2.0,,64 bhp,,,0 g/km
+mg,ZS,15296.0,2020,1.5L,"7,808 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,14878.0,2021,1.5L,"17,888 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,14995.0,2021,1.5L,"25,270 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,12645.0,2019,1.5L,"11,518 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,3495.0,2006,1796cc,"26,000 miles",Petrol,Manual,Blue,Other,4X2,2.0,2.0,134 bhp,127 mph,8.2 seconds,184 g/km
+mg,MG3,15499.0,2022,1.5L,"4,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,17250.0,2022,1490cc,"20,180 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,11995.0,2018,999cc,"43,299 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,144 g/km
+mg,MG3,5800.0,2015,1498cc,"41,174 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,ZS,16995.0,2023,1498cc,"1,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16950.0,2023,1498cc,"2,778 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,9995.0,2018,1498cc,"22,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,MG3,6791.0,2015,1498cc,"14,736 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,ZS,15995.0,2021,1.5L,"10,048 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,13499.0,2021,1.5L,"32,032 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,12994.0,2020,1498cc,"35,562 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,11995.0,2019,1498cc,"28,230 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,28495.0,2023,1490cc,"1,600 miles",Other,Automatic,White Pearl/Black Lthr Uph,Estate,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,ZS,15512.0,2021,1498cc,"24,535 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,13995.0,2022,1498cc,"15,495 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,18995.0,2022,1490cc,"10,573 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,HS,17995.0,2022,1490cc,"17,890 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZT,2699.0,2004,1796cc,"111,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,118 bhp,117 mph,11.4 seconds,184 g/km
+mg,MGB GT,9450.0,1975,1798cc,"24,000 miles",Petrol,Manual,Orange,Convertible,4X2,2.0,,96 bhp,,,
+mg,HS,21295.0,1490cc,"16,728 miles",Petrol,Automatic,Red,SUV,156.9 mpg,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,ZS,15505.0,2021,1.5L,"14,829 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,13295.0,2019,999cc,"23,482 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,13790.0,2022,1498cc,"25,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,13100.0,2020,999cc,"41,544 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,166 g/km
+mg,GS,8500.0,2017,1.5L,"76,543 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,163 bhp,118 mph,9.8 seconds,139 g/km
+mg,MG3,6995.0,2017,1498cc,"6,700 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,MGB GT,6500.0,1973,1798cc,"17,054 miles",Petrol,Manual,Orange,Coupe,4X2,3.0,,94 bhp,,,0 g/km
+mg,ZS,11800.0,2018,1498cc,"31,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,MG3,12499.0,2023,1498cc,"5,187 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,14700.0,2020,1L,"14,379 miles",Petrol,Automatic,Laser Blue Metallic,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,HS,15698.0,2020,1.5L,"24,060 miles",Petrol,Manual,Brown,SUV,4X2,5.0,5.0,160 bhp,118 mph,,148 g/km
+mg,MG3,17299.0,2020,1.5L,"13,384 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,ZS,14598.0,2022,1.5L,"11,599 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,GS,11995.0,2019,1490cc,"29,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,163 bhp,118 mph,9.8 seconds,139 g/km
+mg,HS,23795.0,2021,1490cc,"20,317 miles",Other,Automatic,Black/Black,Estate,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,ZS,13495.0,2020,1498cc,"30,458 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,6800.0,2017,1498cc,"25,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,MG4,27690.0,2023,1L,5 miles,Other,Automatic,Red,Hatchback,,,,,,,
+mg,MG4,24896.0,2023,1L,"1,450 miles",Other,Automatic,Blue,Hatchback,4X2,5.0,5.0,201 bhp,100 mph,,0 g/km
+mg,ZS,29990.0,2023,1L,5 miles,Other,Automatic,Black,SUV,,,,,,,
+mg,MG3,11490.0,2022,1500cc,"23,089 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,6750.0,2017,1498cc,"27,539 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,MG3,5999.0,2017,1.5L,"63,343 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,ZS,17345.0,1498cc,"9,606 miles",Petrol,Manual,White,SUV,42.8 mpg,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,13495.0,2023,1498cc,419 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,17498.0,2020,1490cc,"16,503 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,160 bhp,118 mph,,148 g/km
+mg,ZS,13784.0,2020,1.5L,"15,574 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,HS,31999.0,2023,1.5L,"1,250 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,HS,19950.0,2021,1.5L,"10,349 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,14897.0,2021,1.5L,"23,721 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,17595.0,2021,1.5L,"18,001 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,13995.0,1498cc,"14,700 miles",Petrol,Manual,Red,SUV,42.8 mpg,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,Midget,5450.0,1977,1491cc,"97,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,,64 bhp,,,0 g/km
+mg,MG3,10549.0,2020,1498cc,"11,358 miles",Petrol,,Yellow,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,152 g/km
+mg,MG3,8249.0,2018,1498cc,"55,857 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,16500.0,2022,1.5L,"10,409 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,15622.0,2020,1.5L,"11,006 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,ZS,12000.0,2019,1.5L,"37,043 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,31370.0,2023,1.5L,"4,150 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,MG3,6340.0,2017,1.5L,"45,784 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,124 g/km
+mg,ZS,16000.0,2021,1L,"5,554 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,ZS,12170.0,2020,1.5L,"23,579 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,ZS,11568.0,2020,1.5L,"64,492 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,MG3,12350.0,2022,1498cc,"6,320 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,19495.0,2022,1490cc,"11,307 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,15333.0,2022,1.5L,"31,684 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,12525.0,2020,1.5L,"30,671 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,14995.0,999cc,"20,857 miles",Petrol,Automatic,Blue,SUV,45.4 mpg,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,166 g/km
+mg,ZS,12980.0,2019,1L,"15,349 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,9690.0,2019,1.5L,"28,278 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,17693.0,2021,1498cc,"6,200 miles",Petrol,Manual,Blue,Other,,,,,,,
+mg,MG3,11799.0,2021,1498cc,"8,659 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,19746.0,2022,1.5L,"18,260 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,3995.0,2003,1796cc,"57,372 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,134 bhp,127 mph,8.2 seconds,184 g/km
+mg,ZS,18990.0,2023,1498cc,"1,750 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZT,3995.0,2004,1951cc,"63,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,114 bhp,118 mph,12.2 seconds,190 g/km
+mg,MG3,5750.0,2014,1498cc,"32,105 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,ZS,16190.0,2022,1.5L,"5,247 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,14485.0,2022,1.5L,"8,466 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,11860.0,2022,1.5L,"8,246 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,11694.0,2022,1.5L,"8,956 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,20466.0,2022,1.5L,"10,465 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,MG3,14995.0,2023,1498cc,"1,002 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14995.0,2023,1498cc,Petrol,Manual,White,Hatchback,42.8 mpg,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14995.0,2023,1498cc,Petrol,Manual,Black,Hatchback,42.8 mpg,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14995.0,2023,1498cc,Petrol,Manual,White,Hatchback,42.8 mpg,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,13700.0,1498cc,"25,287 miles",Petrol,Manual,White,SUV,42.8 mpg,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16795.0,1498cc,"14,040 miles",Petrol,Manual,Blue,SUV,42.8 mpg,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,14995.0,2020,1498cc,"29,170 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,ZS,11495.0,2019,1.5L,"41,907 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,25995.0,2022,1490cc,"3,920 miles",Other,Automatic,Red,Hatchback,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,MG3,7395.0,2017,1500cc,"20,000 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,ZS,15799.0,2021,1L,"3,612 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,HS,17820.0,2021,1.5L,"12,311 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,HS,27850.0,2023,1.5L,"2,133 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,MG3,12563.0,2022,1.5L,"9,823 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,20783.0,2022,1.5L,"7,282 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,HS,20703.0,2022,1.5L,"7,933 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,16295.0,2022,1.5L,"17,089 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,14495.0,2021,1.5L,"9,854 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,18028.0,2021,1.5L,"5,265 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,12780.0,2000,999cc,"51,110 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,9500.0,2018,1498cc,"22,847 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,HS,25299.0,2023,1.5L,"1,250 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,14653.0,2020,1498cc,"14,605 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,MG3,11490.0,2022,1498cc,"6,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,17281.0,2022,1.5L,"4,415 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,HS,17950.0,2020,1.5L,"22,140 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,ZS,13994.0,2020,1L,"25,567 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,ZS,17995.0,2023,1L,31 miles,Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,11498.0,2022,1.5L,"8,379 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,18495.0,2020,999cc,"1,000 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,166 g/km
+mg,HS,19697.0,2021,1490cc,"14,426 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,17243.0,2021,1498cc,"8,486 miles",Petrol,Manual,Red,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,17595.0,999cc,"4,118 miles",Petrol,Automatic,White,SUV,39.2 mpg,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,ZS,12379.0,2019,1.5L,"31,725 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,HS,20999.0,2021,1490cc,"14,427 miles",Petrol,Semi Automatic,Black,Other,4X2,5.0,5.0,160 bhp,118 mph,,
+mg,ZS,18725.0,1498cc,"2,329 miles",Petrol,Manual,Silver,SUV,42.8 mpg,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,17795.0,1490cc,"33,787 miles",Petrol,Automatic,Red,SUV,36.2 mpg,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,ZS,15999.0,2022,1L,"8,007 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,HS,17555.0,2021,1.5L,"17,740 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,168 g/km
+mg,ZS,11690.0,2018,999cc,"77,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,144 g/km
+mg,MG3,5495.0,2016,1500cc,"71,500 miles",Other,Manual,Blue,Other,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,ZS,14495.0,2022,1498cc,"16,488 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG4,29995.0,2023,1L,869 miles,Other,Automatic,Green,Hatchback,4X4,5.0,5.0,429 bhp,124 mph,,0 g/km
+mg,ZS,15995.0,2023,1498cc,"4,129 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,14695.0,2023,1500cc,"3,000 miles",Petrol,Manual,Black Pearl,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14990.0,2023,1498cc,7 miles,Petrol,Manual,Southwark Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,
+mg,MG4,29990.0,2023,1L,7 miles,Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,201 bhp,100 mph,,
+mg,MG3,12495.0,2022,1498cc,"2,961 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,ZS,17998.0,2022,999cc,"7,898 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,9495.0,2019,1498cc,"14,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,GS,10499.0,2018,1490cc,"40,414 miles",Petrol,,Black,SUV,4X2,5.0,5.0,163 bhp,118 mph,9.8 seconds,139 g/km
+mg,ZS,13765.0,2020,1.5L,"21,487 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,ZS,13235.0,2020,1.5L,"19,306 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,HS,19370.0,2020,1.5L,"46,030 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,ZS,16370.0,2023,1.5L,"2,081 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,12495.0,2020,1498cc,"41,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,MG3,14995.0,2023,1498cc,Petrol,Manual,Black,Hatchback,42.8 mpg,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14995.0,2023,1498cc,"6,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14995.0,2023,1498cc,"4,339 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,14800.0,2021,999cc,"17,978 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,MG3,7049.0,2017,1498cc,"24,250 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,MG3,9495.0,2020,1.5L,"18,217 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,13995.0,2021,1.5L,"11,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,HS,19995.0,2022,1490cc,"11,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,14750.0,2021,1.5L,"25,450 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,16990.0,2021,1L,"14,000 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,HS,22999.0,2023,1.5L,721 miles,Petrol,Semiauto,White,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,15995.0,2021,999cc,"22,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,MG3,12000.0,2019,1.5L,"37,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,16999.0,2021,1.5L,"10,000 miles",Petrol,Semi Automatic,Black,Estate,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,15999.0,2021,1498cc,"17,019 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,Midget,4790.0,1979,1.5L,"20,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,,64 bhp,,,0 g/km
+mg,Midget,7990.0,1971,1.3L,"81,000 miles",Petrol,Manual,Orange,Convertible,4X2,2.0,,66 bhp,,,0 g/km
+mg,ZS,10990.0,2019,1498cc,"61,412 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,11950.0,2022,1.5L,"4,797 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,HS,21054.0,2022,1.5L,"15,436 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,ZS,11994.0,2018,1.5L,"33,409 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,MG3,13000.0,2020,1498cc,"41,719 miles",Petrol,Manual,2C Wr Blue Mica,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,155 g/km
+mg,HS,14700.0,2020,1490cc,"24,174 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,172 g/km
+mg,ZS,12744.0,2019,1498cc,"26,991 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,13990.0,2020,1498cc,"14,975 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,155 g/km
+mg,ZS,13208.0,2020,1498cc,"17,218 miles",Petrol,Manual,SILVER,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,GS,9995.0,2018,1490cc,"52,568 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,163 bhp,118 mph,9.8 seconds,139 g/km
+mg,ZS,13985.0,2019,999cc,"12,800 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,ZS,15698.0,2023,1.5L,"18,777 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,9000.0,2019,1.5L,"28,615 miles",Petrol,Manual,Ruby Red Metallic,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,ZS,12795.0,2018,1L,"40,000 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,ZS,18146.0,2023,1L,"3,000 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,13990.0,2023,1.5L,"3,388 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG6,4695.0,2016,1849cc,"71,146 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,147 bhp,120 mph,9.6 seconds,119 g/km
+mg,MG3,12295.0,2022,1498cc,"9,715 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG4,28991.0,2023,1L,"5,500 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,201 bhp,100 mph,,0 g/km
+mg,MG3,19995.0,2021,1490cc,"9,700 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MG3,14999.0,2022,1L,"22,746 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,HS,15998.0,2020,1.5L,"45,929 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,MG3,9495.0,2018,1498cc,"24,300 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,140 g/km
+mg,MG3,5995.0,2018,1498cc,"56,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,124 g/km
+mg,GS,11949.0,2017,1490cc,"29,341 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,163 bhp,112 mph,10.3 seconds,141 g/km
+mg,MG3,8349.0,2018,1498cc,"14,766 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,124 g/km
+mg,ZS,11349.0,2018,1498cc,"23,726 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,MG3,9999.0,2020,1.5L,"7,858 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,152 g/km
+mg,ZS,15470.0,2021,1.5L,"18,174 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,11980.0,2019,1.5L,"33,791 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,17818.0,2022,1L,"4,543 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,110 bhp,112 mph,,149 g/km
+mg,ZS,18799.0,2023,1498cc,580 miles,Petrol,Manual,Silver,Other,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,16750.0,2021,999cc,"14,887 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,14700.0,2020,1490cc,"9,861 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,MG3,12500.0,2021,999cc,"42,066 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,110 bhp,112 mph,,163 g/km
+mg,MG3,10700.0,2018,1498cc,"28,567 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,129 g/km
+mg,HS,19995.0,2023,1.5L,212 miles,Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,MGB,5200.0,1973,1798cc,"76,000 miles",Petrol,Manual,Red,Convertible,,,,,,,
+mg,ZS,14599.0,2019,999cc,"19,531 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,10795.0,2022,1500cc,"11,236 miles",Petrol,Manual,Black Pearl,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,5995.0,2003,1588cc,"12,674 miles",Petrol,Manual,Green,Convertible,4X2,2.0,2.0,114 bhp,118 mph,9.2 seconds,169 g/km
+mg,ZS,11999.0,2018,999cc,"20,214 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,12.4 seconds,145 g/km
+mg,MG3,7200.0,2016,1498cc,"13,988 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,ZS,11998.0,2019,1.5L,"28,922 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,105 bhp,109 mph,10.9 seconds,140 g/km
+mg,ZS,15495.0,2023,1498cc,"7,879 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,ZS,15495.0,2021,1498cc,"8,538 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+mg,ZS,15495.0,2021,1498cc,"9,903 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,105 bhp,109 mph,,149 g/km
+mg,MG3,4995.0,2015,1.5L,"36,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,136 g/km
+mg,HS,22500.0,2023,1.5L,6 miles,Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,160 bhp,118 mph,,174 g/km
+mg,HS,25500.0,2023,1.5L,65 miles,Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,255 bhp,118 mph,,41 g/km
+mg,MG3,6495.0,2017,1.5L,"29,800 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,10.9 seconds,124 g/km
+mg,HS,16495.0,2022,1490.0cc,"5,857 miles",Petrol,Automatic,Solid - Holborn Blue,Hatchback,4X2,5.0,5.0,160 bhp,118 mph,,177 g/km
+mg,MG6,6295.0,2015,1849cc,"16,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,147 bhp,120 mph,9.6 seconds,119 g/km
+mg,MG3,10990.0,2022,1500cc,"8,370 miles",Petrol,Manual,Black Pearl,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km
+mg,MG3,10990.0,2022,1500cc,"8,832 miles",Petrol,Manual,Arctic White,Hatchback,4X2,5.0,5.0,105 bhp,108 mph,,147 g/km

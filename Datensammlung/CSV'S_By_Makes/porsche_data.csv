@@ -1,0 +1,322 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+porsche,911,69990.0,2017,2981cc,"20,000 miles",Petrol,Automatic,WHITE,Convertible,4X4,2.0,4.0,414 bhp,187 mph,4.2 seconds,184 g/km
+porsche,Panamera,25990.0,2010,4806cc,"70,000 miles",Petrol,Automatic,BLACK,Hatchback,4X4,5.0,4.0,493 bhp,188 mph,4.2 seconds,286 g/km
+porsche,Cayenne,68995.0,2023,2995cc,"5,041 miles",Petrol,Automatic,SILVER,Estate,4X4,5.0,5.0,336 bhp,152 mph,,267 g/km
+porsche,Cayman,13000.0,2007,3387cc,"93,469 miles",Petrol,Manual,SILVER,Coupe,4X2,2.0,2.0,295 bhp,171 mph,5.4 seconds,254 g/km
+porsche,Boxster,12995.0,2006,2.687L,"40,000 miles",Petrol,Manual,Blue,Convertible,,,,,,,
+porsche,Macan,57990.0,2021,2894cc,"16,938 miles",Petrol,Automatic,White,Estate,4X4,5.0,5.0,375 bhp,161 mph,,250 g/km
+porsche,Macan,28676.0,2016,3L,"58,600 miles",Diesel,Semiauto,Grey,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,162 g/km
+porsche,Cayenne,23495.0,2014,2967cc,"72,000 miles",Diesel,Automatic,Black,SUV,,,,,,,
+porsche,Cayenne,29995.0,2015,3604cc,"52,750 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,414 bhp,160 mph,5.5 seconds,229 g/km
+porsche,Macan,35999.0,2016,2997cc,"60,100 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,212 g/km
+porsche,Macan,29995.0,2017,2967cc,"56,145 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,162 g/km
+porsche,718,66000.0,2022,3995cc,"3,992 miles",Petrol,Manual,Silver,Coupe,,,,,,,
+porsche,Cayenne,56000.0,2020,2995cc,"47,300 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,456 bhp,157 mph,5.1 seconds,88 g/km
+porsche,911,188900.0,2022,3996cc,"2,531 miles",Petrol,Manual,White,Hatchback,4X2,2.0,2.0,504 bhp,199 mph,,294 g/km
+porsche,Macan,45995.0,2019,2995cc,"20,399 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,200 g/km
+porsche,Macan,32495.0,2016,3L,"60,000 miles",Petrol,Semiauto,Silver,SUV,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,212 g/km
+porsche,Cayenne,19995.0,2015,2967cc,"98,441 miles",Diesel,Automatic,Jet Black,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,179 g/km
+porsche,Cayenne,104999.0,2023,3996cc,10 miles,Petrol,,Carrara White Metallic,,,,,,,,
+porsche,Cayenne,16990.0,2013,2967cc,"80,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Boxster,16950.0,2009,3436cc,"79,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,306 bhp,170 mph,5.3 seconds,223 g/km
+porsche,911,51995.0,2017,2981cc,"54,000 miles",Petrol,Automatic,Black,Coupe,,,,,,,
+porsche,911,27950.0,2003,3600cc,"64,239 miles",Petrol,Manual,SILVER,Convertible,4X4,2.0,2.0,315 bhp,174 mph,5.3 seconds,277 g/km
+porsche,718,37900.0,2016,1988cc,"28,000 miles",Petrol,Automatic,BLUE,Convertible,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,911,102450.0,2021,2981cc,"22,000 miles",Petrol,Manual,GREY,Coupe,4X2,2.0,4.0,444 bhp,191 mph,,
+porsche,718,54900.0,2019,2497cc,"14,200 miles",Petrol,Automatic,GREY,Convertible,4X2,2.0,2.0,360 bhp,180 mph,4.9 seconds,195 g/km
+porsche,Taycan,95995.0,2020,1L,"12,000 miles",Other,Automatic,GREY,Saloon,4X4,4.0,4.0,751 bhp,161 mph,,0 g/km
+porsche,Boxster,27990.0,2013,2.7L,"24,813 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,261 bhp,164 mph,5.8 seconds,192 g/km
+porsche,911,95992.0,2019,2981cc,"11,672 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,4.0,444 bhp,190 mph,3.9 seconds,208 g/km
+porsche,718,53718.0,2018,2497cc,"28,286 miles",Petrol,Automatic,White,Convertible,4X2,2.0,2.0,360 bhp,180 mph,4.9 seconds,186 g/km
+porsche,Macan,44990.0,2019,2995cc,"50,000 miles",Petrol,Automatic,Jet Black Metallic,Estate,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,204 g/km
+porsche,Boxster,9995.0,2006,2687cc,"75,707 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,236 bhp,159 mph,6.2 seconds,229 g/km
+porsche,911,82900.0,2017,3800cc,"11,517 miles",Petrol,Automatic,Orange,Coupe,4X2,2.0,4.0,444 bhp,192 mph,3.7 seconds,188 g/km
+porsche,Macan,78900.0,2023,2997cc,"2,897 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,434 bhp,169 mph,,255 g/km
+porsche,Macan,44900.0,2020,2995cc,"31,217 miles",Petrol,Automatic,Porsche Metallic - Dolomite Si,Estate,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,253 g/km
+porsche,Macan,46900.0,2019,2894cc,"20,350 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,204 g/km
+porsche,Cayenne,27999.0,2017,3L,"65,866 miles",Diesel,Semiauto,Black,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,179 g/km
+porsche,Boxster,43995.0,2019,2L,"18,190 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,180 g/km
+porsche,911,104950.0,2021,2981cc,"1,500 miles",Petrol,Manual,Guards Red,Coupe,4X2,2.0,4.0,444 bhp,191 mph,,239 g/km
+porsche,911,27995.0,2002,3596cc,"41,000 miles",Petrol,Manual,Silver,Coupe,4X4,2.0,2.0,315 bhp,174 mph,5.1 seconds,294 g/km
+porsche,Panamera,46995.0,2016,3956cc,"59,000 miles",Diesel,Automatic,Black,Hatchback,4X4,5.0,4.0,417 bhp,177 mph,,178 g/km
+porsche,Macan,23490.0,2015,2967cc,"75,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,42500.0,2018,1984cc,"37,000 miles",Petrol,Automatic,BLACK,Estate,,,,,,,
+porsche,911,99995.0,2021,2981cc,"3,900 miles",Petrol,Automatic,RED,Convertible,,,,,,,
+porsche,Cayenne,17994.0,2013,2967cc,"89,992 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,911,79991.0,2018,2981cc,"16,338 miles",Petrol,Automatic,GREY,Coupe,4X2,2.0,2.0,364 bhp,180 mph,,193 g/km
+porsche,Macan,22995.0,2016,2967cc,"95,646 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,159 g/km
+porsche,Panamera,43995.0,2016,2894cc,"72,000 miles",Petrol,Automatic,WHITE,Hatchback,4X4,5.0,4.0,434 bhp,179 mph,4.4 seconds,186 g/km
+porsche,Cayenne,29995.0,2016,4134cc,"69,550 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,209 g/km
+porsche,Boxster,32351.0,2013,2706cc,"12,678 miles",Petrol,Automatic,WHITE,Convertible,,,,,,,
+porsche,Cayenne,32995.0,2016,"33,492 miles",Diesel,Automatic,WHITE,Other,32.5 mpg,4X4,5.0,5.0,340 bhp,135 mph,6.9 seconds,229 g/km
+porsche,Macan,48992.0,2020,3L,"27,532 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,350 bhp,157 mph,,243 g/km
+porsche,Macan,31651.0,2016,2997cc,"64,222 miles",Petrol,Automatic,Red,Estate,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,210 g/km
+porsche,911,131992.0,2022,2981cc,"2,739 miles",Petrol,Automatic,Red,Coupe,4X4,2.0,4.0,474 bhp,192 mph,,246 g/km
+porsche,Cayenne,74995.0,2022,2995cc,"8,356 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,336 bhp,152 mph,,260 g/km
+porsche,Cayman,14495.0,2008,3400cc,"81,000 miles",Petrol,Manual,METALLIC ATLAS GREY,Coupe,4X2,2.0,2.0,295 bhp,171 mph,5.4 seconds,254 g/km
+porsche,Cayenne,27950.0,2014,4134cc,"53,500 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,209 g/km
+porsche,911,66950.0,2016,2981cc,"27,800 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,414 bhp,190 mph,4.1 seconds,174 g/km
+porsche,Cayenne,26000.0,2013,4134cc,"39,000 miles",Diesel,Automatic,SILVER,Estate,,,,,,,
+porsche,911,106995.0,2021,2981cc,"2,500 miles",Petrol,Automatic,GREY,Coupe,4X2,2.0,4.0,444 bhp,191 mph,,240 g/km
+porsche,Macan,43999.0,2018,1984cc,"47,800 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,242 bhp,139 mph,6.7 seconds,185 g/km
+porsche,Cayenne,23990.0,2013,4134cc,"70,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,377 bhp,156 mph,5.7 seconds,
+porsche,Macan,27480.0,2017,3L,"75,422 miles",Diesel,Semi Automatic,Black,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,162 g/km
+porsche,Macan,44500.0,2020,1984cc,"36,904 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,242 bhp,139 mph,6.7 seconds,230 g/km
+porsche,911,108000.0,2023,2981cc,"2,700 miles",Petrol,Automatic,White,Convertible,4X2,2.0,4.0,380 bhp,181 mph,,237 g/km
+porsche,Boxster,9497.0,2005,3.18L,"92,211 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,276 bhp,167 mph,5.5 seconds,248 g/km
+porsche,Boxster,46990.0,2016,3436cc,"21,495 miles",Petrol,Automatic,GT Silver Metallic,Convertible,4X2,2.0,2.0,326 bhp,173 mph,4.9 seconds,190 g/km
+porsche,911,21990.0,2004,3600cc,"84,130 miles",Petrol,Automatic,SILVER,Coupe,4X4,2.0,2.0,315 bhp,171 mph,5.6 seconds,294 g/km
+porsche,Panamera,46000.0,2018,2894cc,"71,000 miles",Other,Automatic,SILVER,Hatchback,4X4,5.0,4.0,456 bhp,172 mph,4.6 seconds,56 g/km
+porsche,Macan,51600.0,2019,2995cc,"42,234 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,204 g/km
+porsche,Boxster,18999.0,2015,2706cc,"103,380 miles",Petrol,Manual,WHITE,Convertible,4X2,2.0,2.0,261 bhp,164 mph,5.8 seconds,195 g/km
+porsche,718,38975.0,2017,1988cc,"17,049 miles",Petrol,Automatic,BLUE,Convertible,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,Boxster,14250.0,2006,3387cc,"67,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,295 bhp,169 mph,5.4 seconds,254 g/km
+porsche,Macan,28995.0,2016,2967cc,"56,800 miles",Diesel,Automatic,Black,Other,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,911,122000.0,2022,2981cc,"6,000 miles",Petrol,Automatic,Black,Convertible,4X4,2.0,4.0,474 bhp,191 mph,,252 g/km
+porsche,911,136490.0,2023,2981cc,171 miles,Petrol,Automatic,Black,Coupe,4X4,2.0,4.0,474 bhp,192 mph,,252 g/km
+porsche,Cayenne,73990.0,2022,2995cc,"6,193 miles",Petrol,Automatic,White,Estate,4X4,4.0,4.0,336 bhp,150 mph,,260 g/km
+porsche,Macan,78900.0,2023,2894cc,"3,500 miles",Petrol,,Carrara White Metallic,,4X4,5.0,5.0,375 bhp,161 mph,,251 g/km
+porsche,Panamera,104900.0,2023,2894cc,"3,500 miles",Petrol/Electric Hybrid,,Jet Black Metallic,,4X4,5.0,4.0,456 bhp,174 mph,,51 g/km
+porsche,Cayenne,21995.0,2017,2967cc,"112,265 miles",Diesel,Automatic,BLACK,Estate,4X4,4.0,4.0,349 bhp,154 mph,,179 g/km
+porsche,Panamera,41995.0,2017,2995cc,"74,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,4.0,326 bhp,164 mph,,173 g/km
+porsche,Boxster,27995.0,2014,2706cc,"33,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,261 bhp,164 mph,5.8 seconds,195 g/km
+porsche,Cayenne,36659.0,2018,2967cc,"51,221 miles",Diesel,Automatic,SILVER,Estate,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,Cayenne,29990.0,2015,3604cc,"85,000 miles",Petrol,Automatic,BLACK,Estate,4X4,5.0,5.0,434 bhp,162 mph,5.2 seconds,234 g/km
+porsche,Cayman,69500.0,2023,1988cc,390 miles,Petrol,Automatic,Grey,Coupe,4X2,2.0,2.0,296 bhp,170 mph,,203 g/km
+porsche,718,37450.0,2017,2497cc,"43,000 miles",Petrol,Automatic,White,Convertible,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Cayman,43750.0,2017,2497cc,"12,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Boxster,9750.0,2001,3179cc,"62,220 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,248 bhp,162 mph,5.9 seconds,
+porsche,Panamera,20555.0,2000,2967cc,"65,919 miles",Diesel,Automatic,BLACK,Hatchback,4X2,5.0,4.0,247 bhp,150 mph,6.8 seconds,172 g/km
+porsche,911,79995.0,2016,2981cc,"36,500 miles",Petrol,Automatic,Blue,Convertible,4X4,2.0,4.0,414 bhp,187 mph,4.0 seconds,184 g/km
+porsche,911,143995.0,2023,2981cc,111 miles,Petrol,Automatic,Grey,Convertible,4X4,2.0,4.0,474 bhp,191 mph,,251 g/km
+porsche,Macan,65000.0,2022,2894cc,"5,381 miles",Petrol,Automatic,Volcano Grey Metallic,Estate,4X4,5.0,5.0,375 bhp,161 mph,,251 g/km
+porsche,Cayenne,30995.0,2018,3L,"79,099 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,718,46000.0,2018,2497cc,"11,800 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Macan,69911.0,2023,1984cc,"3,373 miles",Petrol,Automatic,Orange,SUV,4X4,5.0,5.0,262 bhp,144 mph,,229 g/km
+porsche,911,149911.0,2023,2981cc,550 miles,Petrol,Automatic,Silver,Convertible,4X2,2.0,4.0,444 bhp,190 mph,,243 g/km
+porsche,Macan,51995.0,2020,2894cc,"51,000 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,434 bhp,167 mph,,262 g/km
+porsche,911,23999.0,2004,3600cc,"57,458 miles",Petrol,Manual,RED,Coupe,4X4,2.0,2.0,315 bhp,174 mph,5.1 seconds,277 g/km
+porsche,Macan,52857.0,2021,2995cc,"8,155 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,350 bhp,157 mph,,246 g/km
+porsche,718,37995.0,2018,1988cc,"37,954 miles",Petrol,Automatic,SILVER,Coupe,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,180 g/km
+porsche,Cayenne,29990.0,2017,4.2L,"68,459 miles",Diesel,Semiauto,Grey,SUV,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,209 g/km
+porsche,Macan,39948.0,2017,2997cc,"39,000 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,210 g/km
+porsche,718,33750.0,2019,1988cc,"43,216 miles",Petrol,Manual,White,Coupe,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,186 g/km
+porsche,Macan,40290.0,2019,3L,"46,546 miles",Petrol,Semiauto,Green,SUV,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,200 g/km
+porsche,Cayenne,63911.0,2020,2894cc,"21,345 miles",Petrol,Automatic,Black,SUV,4X4,5.0,4.0,434 bhp,163 mph,5.0 seconds,266 g/km
+porsche,Cayenne,25995.0,2014,4134cc,"74,500 miles",Diesel,Automatic,JET BLACK,Estate,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,
+porsche,Cayenne,49495.0,2018,2894cc,"45,200 miles",Petrol,Automatic,JET BLACK METALLIC,Estate,4X4,5.0,5.0,434 bhp,164 mph,5.2 seconds,209 g/km
+porsche,911,65000.0,2017,2981cc,"21,500 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,364 bhp,182 mph,4.4 seconds,169 g/km
+porsche,Macan,38965.0,2016,3604cc,"31,991 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,394 bhp,165 mph,4.8 seconds,211 g/km
+porsche,Cayenne,20995.0,2014,2967cc,"111,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,179 g/km
+porsche,Cayenne,40990.0,2017,4806cc,"47,000 miles",Petrol,Automatic,BLACK,Estate,4X4,5.0,5.0,512 bhp,173 mph,4.5 seconds,267 g/km
+porsche,911,51900.0,2011,3800cc,"34,000 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,4.0,379 bhp,186 mph,4.5 seconds,240 g/km
+porsche,911,38950.0,2010,3614cc,"35,345 miles",Petrol,Manual,Black,Coupe,4X2,2.0,4.0,340 bhp,180 mph,4.9 seconds,225 g/km
+porsche,Cayenne,64950.0,2019,2894cc,"25,270 miles",Petrol,Automatic,Jet Black Metallic,Coupe,4X4,5.0,4.0,434 bhp,163 mph,5.0 seconds,216 g/km
+porsche,911,112950.0,2022,2981cc,"7,870 miles",Petrol,Automatic,Agate Grey Metallic,Convertible,4X4,2.0,4.0,380 bhp,180 mph,,240 g/km
+porsche,911,83950.0,2020,2981cc,"17,607 miles",Petrol,Automatic,Agate Grey Metallic,Coupe,4X2,2.0,4.0,380 bhp,182 mph,4.2 seconds,229 g/km
+porsche,Panamera,94950.0,2023,2894cc,"3,861 miles",Other,Automatic,Carmine Red,Estate,4X4,5.0,5.0,456 bhp,174 mph,,56 g/km
+porsche,Macan,27990.0,2015,2967cc,"71,000 miles",Diesel,Automatic,Blue,Estate,,,,,,,
+porsche,Macan,36790.0,2018,2997cc,"81,000 miles",Petrol,Automatic,Agate Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+porsche,Cayman,199900.0,2023,3996cc,"1,067 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,494 bhp,196 mph,,
+porsche,Macan,38900.0,2016,2997cc,"50,760 miles",Petrol,Automatic,Carmine Red,Estate,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,212 g/km
+porsche,911,109995.0,2022,2981cc,"5,000 miles",Petrol,Manual,SILVER,Coupe,4X2,2.0,4.0,474 bhp,193 mph,,
+porsche,Cayenne,59250.0,2021,2995cc,"16,550 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,336 bhp,152 mph,,266 g/km
+porsche,Macan,68911.0,2022,1984cc,"3,242 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,262 bhp,144 mph,,229 g/km
+porsche,Macan,67911.0,2022,2894cc,"6,574 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,375 bhp,161 mph,,253 g/km
+porsche,Cayenne,71911.0,2022,2995cc,"5,467 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,336 bhp,152 mph,,270 g/km
+porsche,Cayenne,28991.0,2016,3000cc,"87,669 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,Cayenne,62991.0,2021,3000cc,"45,191 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,456 bhp,157 mph,,73 g/km
+porsche,Cayenne,19991.0,2009,4800cc,"77,300 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,394 bhp,160 mph,5.9 seconds,245 g/km
+porsche,Cayenne,19991.0,2014,3000cc,"60,439 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayenne,16991.0,2012,3000cc,"74,595 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayenne,22991.0,2013,4800cc,"101,059 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,414 bhp,162 mph,5.7 seconds,251 g/km
+porsche,Cayenne,18991.0,2012,3000cc,"75,353 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayenne,15991.0,2013,3000cc,"116,845 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayenne,14991.0,2012,3000cc,"120,700 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayenne,18991.0,2013,3000cc,"83,175 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Boxster,64980.0,2016,3800cc,"17,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,370 bhp,180 mph,4.5 seconds,230 g/km
+porsche,Macan,34990.0,2016,2967cc,"22,975 miles",Diesel,Automatic,Grey,Other,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,159 g/km
+porsche,Panamera,79950.0,2021,2894cc,"16,073 miles",Petrol,Automatic,Crayon,Estate,4X4,5.0,5.0,434 bhp,180 mph,,245 g/km
+porsche,Cayenne,60950.0,2019,2995cc,"37,500 miles",Petrol,Automatic,Black,SUV,4X4,5.0,4.0,336 bhp,150 mph,6.0 seconds,215 g/km
+porsche,Macan,51995.0,2020,2995cc,"8,000 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,350 bhp,157 mph,,242 g/km
+porsche,Taycan,105540.0,2022,1L,"6,500 miles",Other,Automatic,GREY,Saloon,4X4,4.0,4.0,482 bhp,155 mph,,0 g/km
+porsche,Macan,44985.0,2020,1984cc,"35,244 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,242 bhp,139 mph,6.7 seconds,233 g/km
+porsche,911,98500.0,2007,3600cc,"20,610 miles",Petrol,Manual,WHITE,Coupe,,,,,,,
+porsche,911,21000.0,2002,3596cc,"70,950 miles",Petrol,Manual,Arctic Silver,Coupe,4X4,2.0,2.0,315 bhp,177 mph,5.0 seconds,274 g/km
+porsche,Cayenne,61000.0,2020,2995cc,"37,116 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,4.0,456 bhp,157 mph,5.1 seconds,92 g/km
+porsche,911,209999.0,2023,3996cc,100 miles,Petrol,Manual,Grey,Hatchback,4X2,2.0,2.0,504 bhp,199 mph,,292 g/km
+porsche,718,52718.0,2021,1988cc,"7,846 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,2.0,296 bhp,170 mph,,203 g/km
+porsche,Cayenne,70911.0,2022,2995cc,"24,640 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,456 bhp,157 mph,,71 g/km
+porsche,Macan,27499.0,2016,2967cc,"67,128 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,159 g/km
+porsche,Macan,63800.0,2022,2894cc,"3,773 miles",Petrol,Automatic,Orange,Estate,4X4,5.0,5.0,375 bhp,161 mph,,248 g/km
+porsche,Macan,43990.0,2021,1984cc,"31,841 miles",Petrol,Automatic,Dolomite Silver,Estate,4X4,5.0,5.0,242 bhp,139 mph,,234 g/km
+porsche,911,146500.0,2020,3745cc,"18,000 miles",Petrol,Automatic,Silver,Coupe,4X4,2.0,4.0,641 bhp,205 mph,,272 g/km
+porsche,Panamera,55995.0,2017,3996cc,"52,600 miles",Petrol,Automatic,GREY,Hatchback,4X4,5.0,4.0,543 bhp,190 mph,3.8 seconds,214 g/km
+porsche,Macan,27999.0,2017,2967cc,"63,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Cayenne,12650.0,2011,2967cc,"110,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Boxster,32490.0,2014,3436cc,"49,236 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,2.0,311 bhp,172 mph,5.0 seconds,188 g/km
+porsche,911,66899.0,2017,2981cc,"42,123 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,364 bhp,182 mph,4.4 seconds,169 g/km
+porsche,911,169990.0,2023,3745cc,250 miles,Petrol,Automatic,Unknown,Coupe,4X4,2.0,4.0,573 bhp,199 mph,,271 g/km
+porsche,Boxster,76900.0,2023,2497cc,"1,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,2.0,346 bhp,177 mph,,219 g/km
+porsche,Cayenne,100600.0,2023,2995cc,15 miles,Petrol Plugin Hybrid,Automatic,Unknown,SUV,4X4,4.0,4.0,456 bhp,157 mph,,77 g/km
+porsche,Macan,67911.0,2022,2894cc,"7,060 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,375 bhp,161 mph,,250 g/km
+porsche,Panamera,25245.0,2015,2967cc,"70,312 miles",Diesel,Automatic,PURE WHITE,Hatchback,4X2,5.0,4.0,296 bhp,160 mph,6.0 seconds,169 g/km
+porsche,911,99000.0,2019,2981cc,"15,233 miles",Petrol,Automatic,Grey,Coupe,4X4,2.0,4.0,444 bhp,190 mph,3.6 seconds,206 g/km
+porsche,911,77995.0,2014,3800cc,"24,575 miles",Petrol,Automatic,GREY,Coupe,4X4,2.0,4.0,423 bhp,187 mph,4.2 seconds,212 g/km
+porsche,911,77950.0,2015,3800cc,"28,913 miles",Petrol,Automatic,Carmine Red,Coupe,4X2,2.0,4.0,423 bhp,188 mph,4.2 seconds,202 g/km
+porsche,Cayenne,31000.0,2016,4134cc,"74,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,209 g/km
+porsche,Panamera,37990.0,2014,4806cc,"23,056 miles",Petrol,Automatic,WHITE,Hatchback,4X4,5.0,4.0,434 bhp,178 mph,4.4 seconds,249 g/km
+porsche,911,189991.0,1981,2994cc,"1,000 miles",Petrol,Automatic,BLUE,Other,,,,,,,
+porsche,Boxster,37480.0,2017,2.5L,"41,784 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Boxster,34999.0,2016,2L,"23,184 miles",Petrol,Semiauto,White,Convertible,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,Cayman,37980.0,2017,2.5L,"31,118 miles",Petrol,Semiauto,Grey,Coupe,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,911,47990.0,2015,3.4L,"51,414 miles",Petrol,Semiauto,White,Coupe,4X2,2.0,4.0,344 bhp,178 mph,4.6 seconds,191 g/km
+porsche,Cayenne,76995.0,2022,2995cc,"17,100 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,4.0,4.0,456 bhp,157 mph,,71 g/km
+porsche,Cayenne,54995.0,2019,2995cc,"30,000 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,336 bhp,152 mph,6.2 seconds,210 g/km
+porsche,Macan,55995.0,2022,1984cc,"6,300 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,262 bhp,144 mph,,224 g/km
+porsche,911,179995.0,2018,"10,777 miles",Petrol,Automatic,Green,Coupe,22.1 mpg,4X2,2.0,2.0,513 bhp,193 mph,3.2 seconds,291 g/km
+porsche,911,46985.0,2006,3600cc,"89,509 miles",Petrol,Automatic,Silver,Coupe,4X4,2.0,4.0,473 bhp,193 mph,3.7 seconds,326 g/km
+porsche,Macan,52990.0,2020,2.9L,"42,188 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,434 bhp,167 mph,,259 g/km
+porsche,911,43999.0,2007,3600cc,"100,000 miles",Petrol,Automatic,Silver,Convertible,4X4,2.0,4.0,473 bhp,193 mph,3.8 seconds,326 g/km
+porsche,911,18495.0,2006,3824cc,"95,000 miles",Petrol,Automatic,Black,Convertible,4X4,2.0,4.0,350 bhp,174 mph,5.4 seconds,286 g/km
+porsche,718,64948.0,2023,1988cc,"1,500 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,2.0,296 bhp,171 mph,,203 g/km
+porsche,Macan,59995.0,2020,2.89L,"20,000 miles",Petrol,Semi Automatic,Grey,Estate,4X4,5.0,5.0,375 bhp,162 mph,,257 g/km
+porsche,Cayenne,67900.0,2019,2894cc,"18,699 miles",Petrol,Automatic,Black,Estate,4X4,5.0,4.0,434 bhp,163 mph,5.0 seconds,216 g/km
+porsche,Taycan,77400.0,2020,1L,"13,656 miles",Other,Automatic,BLUE,Saloon,4X4,4.0,4.0,482 bhp,155 mph,,0 g/km
+porsche,Cayman,72950.0,2023,3995cc,"1,612 miles",Petrol,Automatic,Agate Grey Metallic,Coupe,4X2,2.0,2.0,395 bhp,179 mph,,230 g/km
+porsche,Macan,46950.0,2019,2995cc,"26,141 miles",Petrol,Automatic,Jet Black Metallic,Estate,4X4,5.0,5.0,350 bhp,157 mph,5.3 seconds,200 g/km
+porsche,Boxster,12990.0,2006,2687cc,"81,842 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,2.0,236 bhp,155 mph,7.1 seconds,250 g/km
+porsche,Cayenne,5995.0,2006,4511cc,"93,982 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,335 bhp,150 mph,7.2 seconds,361 g/km
+porsche,Cayenne,4000.0,2003,4500cc,"98,000 miles",Petrol,Automatic,Blue,Other,4X4,5.0,5.0,335 bhp,152 mph,,0 g/km
+porsche,Macan,35220.0,2018,3L,"39,014 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,340 bhp,157 mph,5.4 seconds,207 g/km
+porsche,944,19500.0,1987,2479cc,"115,000 miles",Petrol,Manual,Grey,Coupe,4X2,2.0,,163 bhp,137 mph,7.2 seconds,0 g/km
+porsche,718,44718.0,2019,1988cc,"14,879 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,181 g/km
+porsche,911,112950.0,2017,3800cc,"36,000 miles",Petrol,Automatic,Black,Convertible,4X4,2.0,4.0,572 bhp,205 mph,3.0 seconds,216 g/km
+porsche,Macan,33999.0,2018,2997cc,"85,599 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,212 g/km
+porsche,Macan,33995.0,2018,1984cc,"54,000 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,248 bhp,142 mph,6.7 seconds,168 g/km
+porsche,Cayenne,25995.0,2016,2967cc,"76,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,718,45990.0,2018,2497cc,"26,000 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Cayenne,61955.0,2019,2.9L,"36,895 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,4.0,434 bhp,163 mph,5.0 seconds,216 g/km
+porsche,Cayenne,41990.0,2018,"31,755 miles",Petrol,Automatic,Black,SUV,31.4 mpg,4X4,5.0,5.0,336 bhp,152 mph,6.2 seconds,205 g/km
+porsche,718,39718.0,2018,1988cc,"8,777 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,911,38995.0,2009,3800cc,"75,534 miles",Petrol,Automatic,Silver,Coupe,4X2,2.0,4.0,379 bhp,186 mph,4.5 seconds,240 g/km
+porsche,Cayenne,75000.0,2019,3996cc,"22,800 miles",Petrol,Automatic,Quartz Grey Metallic,Estate,4X4,5.0,5.0,543 bhp,177 mph,3.9 seconds,258 g/km
+porsche,Cayenne,47495.0,2018,2894cc,"47,000 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,434 bhp,164 mph,5.2 seconds,209 g/km
+porsche,911,49790.0,2013,3800cc,"77,000 miles",Petrol,Automatic,Black,Coupe,4X4,2.0,4.0,394 bhp,184 mph,4.3 seconds,215 g/km
+porsche,Boxster,7995.0,2002,3179cc,"75,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,2.0,248 bhp,160 mph,6.5 seconds,280 g/km
+porsche,Cayenne,42990.0,2017,2995cc,"24,674 miles",Petrol / Electric Hybrid,Automatic,Brown,Estate,4X4,5.0,5.0,328 bhp,150 mph,5.9 seconds,75 g/km
+porsche,911,175950.0,2022,2L,"2,248 miles",Petrol,Semiauto,Blue,Coupe,4X2,2.0,2.0,504 bhp,198 mph,,294 g/km
+porsche,Panamera,82950.0,2022,2.9L,"14,001 miles",Petrol,Semiauto,Black,Estate,4X4,5.0,5.0,326 bhp,163 mph,,251 g/km
+porsche,Macan,36948.0,2017,2997cc,"41,000 miles",Petrol,Automatic,White,Estate,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,210 g/km
+porsche,718,39750.0,2018,2497cc,"76,761 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,2.0,360 bhp,180 mph,4.9 seconds,186 g/km
+porsche,911,67990.0,2015,3800cc,"23,566 miles",Petrol,Automatic,White,Convertible,4X4,2.0,4.0,394 bhp,182 mph,4.5 seconds,214 g/km
+porsche,Macan,54990.0,2020,2894cc,"32,500 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,434 bhp,167 mph,,259 g/km
+porsche,Cayenne,62991.0,2020,3L,"14,277 miles",Petrol,Automatic,Silver,Coupe,4X4,5.0,4.0,336 bhp,150 mph,6.0 seconds,273 g/km
+porsche,Taycan,57999.0,2020,0L,"15,518 miles",Other,Automatic,Silver,Saloon,4X4,4.0,4.0,429 bhp,155 mph,,0 g/km
+porsche,Panamera,104911.0,2023,2894cc,"3,025 miles",Petrol Hybrid,Automatic,Grey,Estate,4X4,5.0,5.0,456 bhp,174 mph,,
+porsche,Cayenne,99911.0,2023,2995cc,911 miles,Petrol,Automatic,Grey,SUV,4X4,4.0,4.0,456 bhp,157 mph,,
+porsche,Boxster,20499.0,2011,2.89L,"25,614 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,252 bhp,163 mph,5.9 seconds,221 g/km
+porsche,Boxster,5995.0,2002,3179cc,"81,750 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,2.0,248 bhp,160 mph,6.5 seconds,280 g/km
+porsche,Cayenne,97900.0,2022,3996cc,"3,412 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,541 bhp,168 mph,,305 g/km
+porsche,Cayenne,76995.0,2019,3996cc,"31,547 miles",Petrol,Automatic,Carrara White Pearl,Coupe,4X4,5.0,5.0,543 bhp,177 mph,3.9 seconds,261 g/km
+porsche,Cayenne,73991.0,2023,2995cc,"8,991 miles",Petrol,Automatic,Crayon,Estate,4X4,5.0,5.0,336 bhp,152 mph,,259 g/km
+porsche,Cayenne,19495.0,2013,2967cc,"67,000 miles",Diesel,Automatic,Brown,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,718,36950.0,2018,1988cc,"32,791 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,911,57000.0,2013,3800cc,"34,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,394 bhp,187 mph,4.3 seconds,205 g/km
+porsche,911,44990.0,2004,3600cc,"66,000 miles",Petrol,Automatic,Black,Convertible,4X4,2.0,2.0,414 bhp,185 mph,4.9 seconds,309 g/km
+porsche,911,19990.0,2003,3596cc,"85,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,315 bhp,177 mph,5.2 seconds,269 g/km
+porsche,Taycan,78995.0,2022,1L,"17,000 miles",Other,Automatic,RED,Estate,4X4,5.0,4.0,564 bhp,149 mph,,0 g/km
+porsche,Macan,25490.0,2017,2967cc,"89,658 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,159 g/km
+porsche,Panamera,49995.0,2017,3956cc,"70,000 miles",Diesel,Automatic,BLACK,Hatchback,4X4,5.0,4.0,417 bhp,177 mph,,178 g/km
+porsche,911,26950.0,2006,3824cc,"101,000 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,2.0,350 bhp,177 mph,5.3 seconds,283 g/km
+porsche,911,50995.0,2012,3436cc,"40,220 miles",Petrol,Automatic,White,Coupe,4X2,2.0,4.0,344 bhp,178 mph,4.6 seconds,194 g/km
+porsche,911,52995.0,2012,3800cc,"53,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,394 bhp,185 mph,4.5 seconds,210 g/km
+porsche,911,43995.0,2012,3436cc,"72,000 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,4.0,344 bhp,178 mph,4.6 seconds,194 g/km
+porsche,Boxster,42950.0,2019,1988cc,"19,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,187 g/km
+porsche,911,153995.0,2023,3745cc,"1,000 miles",Petrol,Automatic,Grey,Coupe,4X4,2.0,4.0,573 bhp,199 mph,,272 g/km
+porsche,911,104950.0,2018,3800cc,"34,512 miles",Petrol,Automatic,Grey,Coupe,,,,,,,
+porsche,Boxster,10990.0,2004,3179cc,"104,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,261 bhp,164 mph,5.7 seconds,255 g/km
+porsche,944,11750.0,1990,2990cc,"163,000 miles",Petrol,Manual,Turquoise,Coupe,4X2,2.0,,211 bhp,149 mph,6.9 seconds,0 g/km
+porsche,911,149995.0,2022,3745cc,"4,994 miles",Petrol,Automatic,Silver,Coupe,4X4,2.0,4.0,573 bhp,199 mph,,273 g/km
+porsche,911,89995.0,2021,2981cc,"8,000 miles",Petrol,Automatic,White,Coupe,4X4,2.0,4.0,380 bhp,182 mph,,237 g/km
+porsche,Cayenne,29990.0,2016,2995cc,"64,900 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,328 bhp,150 mph,5.9 seconds,79 g/km
+porsche,911,89948.0,2018,2981cc,"23,000 miles",Petrol,Automatic,Grey,Convertible,4X4,2.0,4.0,444 bhp,190 mph,3.7 seconds,207 g/km
+porsche,Panamera,,2021,2894cc,"24,000 miles",Hybrid,Automatic,White,Hatchback,,,,,,,
+porsche,718,184718.0,2023,3996cc,"1,244 miles",Petrol,Automatic,Silver,Coupe,4X2,2.0,2.0,494 bhp,196 mph,,299 g/km
+porsche,Panamera,78900.0,2020,2894cc,"28,837 miles",Petrol/Electric Hybrid,Automatic,Porsche Metallic -  Gentian Blue,Hatchback,4X4,5.0,4.0,553 bhp,185 mph,,58 g/km
+porsche,Cayenne,81900.0,2023,2995cc,"10,560 miles",Petrol/Electric Hybrid,Automatic,Moonlight Blue Metallic,Estate,4X4,4.0,4.0,456 bhp,157 mph,,71 g/km
+porsche,718,35000.0,2019,1988cc,"55,078 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,295 bhp,170 mph,4.9 seconds,158 g/km
+porsche,Boxster,14995.0,2006,3179cc,"79,882 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,276 bhp,167 mph,5.5 seconds,248 g/km
+porsche,911,34980.0,2009,3800cc,"97,057 miles",Petrol,Manual,White,Coupe,,,,,,,
+porsche,Boxster,7999.0,2006,2687cc,"104,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,236 bhp,159 mph,6.2 seconds,229 g/km
+porsche,911,27995.0,2007,3824cc,"44,500 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,350 bhp,177 mph,5.3 seconds,283 g/km
+porsche,911,25990.0,2004,3596cc,"84,000 miles",Petrol,Manual,Silver,Coupe,4X4,2.0,2.0,315 bhp,174 mph,5.1 seconds,277 g/km
+porsche,Cayenne,27499.0,2017,2967cc,"83,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,911,43995.0,2013,3800cc,"91,510 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,394 bhp,187 mph,4.3 seconds,205 g/km
+porsche,718,89995.0,2021,3995cc,"3,610 miles",Petrol,Automatic,Blue,Coupe,,,,,,,
+porsche,Macan,24990.0,2016,3604cc,"120,250 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,394 bhp,165 mph,4.8 seconds,211 g/km
+porsche,Macan,28495.0,2016,2967cc,"58,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,79999.0,2022,2894cc,"8,130 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,434 bhp,169 mph,,259 g/km
+porsche,718,87999.0,2020,3995cc,"4,500 miles",Petrol,Manual,Black,Coupe,4X2,2.0,2.0,415 bhp,188 mph,4.4 seconds,249 g/km
+porsche,944,12995.0,1989,2681cc,"145,118 miles",Petrol,Manual,Blue,Coupe,4X2,2.0,,162 bhp,,,0 g/km
+porsche,Cayenne,16994.0,2013,2967cc,"83,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,241 bhp,136 mph,7.6 seconds,189 g/km
+porsche,Cayman,15990.0,2006,3387cc,"51,000 miles",Petrol,Manual,Grey,Coupe,4X2,2.0,2.0,295 bhp,171 mph,5.4 seconds,254 g/km
+porsche,911,36999.0,2003,3600cc,"94,000 miles",Petrol,Automatic,SILVER,Coupe,,,,,,,
+porsche,911,20999.0,2004,3596cc,"60,000 miles",Petrol,Manual,SILVER,Coupe,4X2,2.0,2.0,296 bhp,170 mph,,
+porsche,Macan,25481.0,2017,2967cc,"100,884 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,27000.0,2016,3L,"75,000 miles",Diesel,Semi Automatic,Silver,Estate,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Taycan,69850.0,2020,0L,"11,956 miles",Other,Automatic,Grey,Saloon,4X4,4.0,4.0,671 bhp,161 mph,,0 g/km
+porsche,Cayenne,30400.0,2016,3604cc,"50,099 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,414 bhp,160 mph,5.5 seconds,223 g/km
+porsche,Cayenne,91990.0,2022,3996cc,"12,404 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,541 bhp,168 mph,,304 g/km
+porsche,911,36995.0,2006,3824cc,"77,000 miles",Petrol,Automatic,Silver,Convertible,4X4,2.0,4.0,350 bhp,174 mph,5.4 seconds,286 g/km
+porsche,Macan,24990.0,2014,2967cc,"57,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,24995.0,2017,2967cc,"90,946 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,24995.0,2017,2967cc,"94,780 miles",Diesel,Automatic,Jet Black,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Macan,60900.0,2022,2894cc,"14,649 miles",Petrol,Automatic,White,Estate,4X4,5.0,5.0,375 bhp,161 mph,,249 g/km
+porsche,911,69950.0,2016,2981cc,"29,319 miles",Petrol,Automatic,Guards Red,Coupe,4X2,2.0,4.0,364 bhp,182 mph,4.4 seconds,169 g/km
+porsche,Cayenne,81000.0,2022,2995cc,"9,500 miles",Other,Automatic,Quarzite Grey Metallic,Estate,4X4,5.0,5.0,456 bhp,157 mph,,73 g/km
+porsche,911,299995.0,2023,3745cc,100 miles,Petrol,Automatic,Grey,Convertible,4X4,2.0,4.0,641 bhp,205 mph,,274 g/km
+porsche,911,309995.0,2023,3745cc,100 miles,Petrol,Automatic,Black,Coupe,4X4,2.0,4.0,641 bhp,205 mph,,272 g/km
+porsche,911,89500.0,2020,2981cc,"5,000 miles",Petrol,Automatic,Grey,Coupe,4X4,2.0,4.0,380 bhp,182 mph,,237 g/km
+porsche,718,51900.0,2019,1988cc,"5,000 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,180 g/km
+porsche,911,99500.0,2020,2981cc,"22,000 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,4.0,444 bhp,191 mph,3.7 seconds,228 g/km
+porsche,718,52900.0,2019,1988cc,"25,500 miles",Petrol,Automatic,Yellow,Coupe,4X2,2.0,2.0,296 bhp,170 mph,5.3 seconds,180 g/km
+porsche,911,399995.0,2023,3996cc,12 miles,Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,518 bhp,184 mph,,305 g/km
+porsche,Macan,101994.0,2023,2894cc,"3,000 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,434 bhp,169 mph,,257 g/km
+porsche,Macan,42980.0,2020,2L,"32,700 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,242 bhp,139 mph,,232 g/km
+porsche,Boxster,47495.0,2020,2497cc,"25,670 miles",Petrol,Automatic,Guards Red,Convertible,4X2,2.0,2.0,346 bhp,177 mph,,218 g/km
+porsche,Cayenne,48500.0,2019,2995cc,"29,500 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,336 bhp,152 mph,6.2 seconds,210 g/km
+porsche,Cayenne,101000.0,2022,3996cc,"29,500 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,4.0,4.0,671 bhp,183 mph,,87 g/km
+porsche,Cayenne,70990.0,2022,2995cc,"24,823 miles",Petrol Plugin Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,456 bhp,157 mph,,73 g/km
+porsche,Boxster,47500.0,2019,2.5L,"22,250 miles",Petrol,Semiauto,Silver,Convertible,4X2,2.0,2.0,346 bhp,177 mph,4.9 seconds,194 g/km
+porsche,911,81900.0,2019,2981cc,"17,177 miles",Petrol,Automatic,Jet Black,Coupe,,,,,,,
+porsche,Macan,61490.0,2021,2894cc,"9,000 miles",Petrol,Automatic,Dolomite Silver,Estate,4X4,5.0,5.0,375 bhp,161 mph,,250 g/km
+porsche,Macan,35995.0,2016,2997cc,"58,000 miles",Petrol,Automatic,Carmine,SUV,4X4,5.0,5.0,355 bhp,159 mph,5.2 seconds,207 g/km
+porsche,Cayman,12995.0,2006,2687cc,"85,470 miles",Petrol,Manual,Black,Coupe,4X2,2.0,2.0,241 bhp,160 mph,6.1 seconds,222 g/km
+porsche,Cayenne,31450.0,2017,2967cc,"64,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,Boxster,6750.0,2002,3200cc,"74,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,260 bhp,164 mph,5.7 seconds,255 g/km
+porsche,Boxster,12980.0,2007,3387cc,"90,863 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,295 bhp,169 mph,5.4 seconds,254 g/km
+porsche,Boxster,10990.0,2007,2687cc,"67,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,241 bhp,160 mph,6.1 seconds,222 g/km
+porsche,Cayenne,28995.0,2016,2967cc,"66,667 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,259 bhp,137 mph,7.3 seconds,173 g/km
+porsche,Cayenne,99995.0,2022,3996cc,"4,000 miles",Petrol,Automatic,Black,SUV,,,,,,,
+porsche,Cayenne,89995.0,2022,3996cc,"18,500 miles",Petrol,Automatic,Red,SUV,4X4,4.0,4.0,541 bhp,168 mph,,309 g/km
+porsche,Cayenne,15495.0,2010,2967cc,"71,229 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,236 bhp,135 mph,7.8 seconds,195 g/km
+porsche,Boxster,6995.0,2005,3179cc,"90,428 miles",Petrol,Manual,Black,Convertible,,,,,,,
+porsche,Cayenne,33990.0,2017,4134cc,"65,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,379 bhp,156 mph,,215 g/km
+porsche,911,94990.0,2016,3800cc,"32,000 miles",Petrol,Automatic,White,Coupe,4X4,2.0,4.0,532 bhp,198 mph,3.0 seconds,212 g/km
+porsche,Macan,24800.0,2015,3L,"61,101 miles",Diesel,Semiauto,Blue,SUV,4X4,5.0,5.0,255 bhp,142 mph,6.3 seconds,161 g/km
+porsche,Boxster,9990.0,2003,3179cc,"76,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,260 bhp,164 mph,5.7 seconds,255 g/km
+porsche,911,69995.0,2018,3L,"24,000 miles",Petrol,Manual,Carrera White,Coupe,4X2,2.0,4.0,364 bhp,183 mph,4.6 seconds,190 g/km
+porsche,Macan,41990.0,2020,1984cc,"24,714 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,242 bhp,139 mph,,233 g/km
+porsche,Cayenne,75995.0,2022,2894cc,"24,023 miles",Petrol,Automatic,Blue,SUV,4X4,4.0,4.0,434 bhp,163 mph,,278 g/km
+porsche,Cayenne,39995.0,2017,4134cc,"54,911 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,379 bhp,156 mph,5.4 seconds,209 g/km
+porsche,Panamera,47980.0,2018,2995cc,"42,228 miles",Petrol,Automatic,BURGUNDY RED PEARL,Estate,4X4,5.0,5.0,326 bhp,160 mph,,178 g/km
+porsche,Cayenne,45980.0,2019,2995cc,"50,807 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,336 bhp,152 mph,6.2 seconds,207 g/km
+porsche,Boxster,6995.0,2003,2687cc,"83,000 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,2.0,228 bhp,154 mph,7.3 seconds,259 g/km
+porsche,Cayenne,9990.0,2009,4806cc,"105,000 miles",Petrol,Auto,Black,4x4,,,,,,,
+porsche,911,54995.0,2007,3600cc,"47,682 miles",Petrol,Automatic,Red,Coupe,4X4,2.0,4.0,473 bhp,193 mph,3.7 seconds,326 g/km
+porsche,Cayenne,85950.0,2023,2995cc,"7,843 miles",Other,Automatic,Carmine Red,Estate,4X4,5.0,5.0,456 bhp,157 mph,,78 g/km
+porsche,Cayman,32500.0,2013,3436cc,"56,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,320 bhp,175 mph,4.6 seconds,188 g/km
+porsche,Cayman,35995.0,2016,2497cc,"60,400 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,344 bhp,177 mph,4.4 seconds,167 g/km
+porsche,Cayenne,64800.0,2020,2894cc,"45,169 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,434 bhp,164 mph,5.0 seconds,267 g/km
+porsche,911,103200.0,2020,2981cc,"51,552 miles",Petrol,Automatic,BLUE,Convertible,4X4,2.0,4.0,444 bhp,188 mph,3.6 seconds,246 g/km

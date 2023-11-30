@@ -1,0 +1,829 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+mazda,323,1495.0,1997,1489cc,"127,649 miles",Petrol,Manual,GREEN,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,11.9 seconds,0 g/km
+mazda,MADZA3,8999.0,2018,1998cc,"46,814 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-3,13995.0,2016,1998cc,"26,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,118 bhp,116 mph,9.9 seconds,136 g/km
+mazda,CX-60,39990.0,2023,3.3L,"3,841 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,251 bhp,136 mph,,138 g/km
+mazda,MADZA2,16190.0,2023,1.5L,"9,169 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,CX-5,31990.0,2023,2L,"8,216 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,MADZA2,23518.0,2023,1.5L,"3,000 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,92 g/km
+mazda,CX-30,21495.0,2020,2L,"30,845 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,177 bhp,127 mph,,160 g/km
+mazda,CX-5,18499.0,2019,2191cc,"35,084 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,128 g/km
+mazda,CX-3,14652.0,2019,1998cc,"26,500 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-5,15990.0,2018,2L,"47,897 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,Mazda3,2590.0,2010,1598cc,"130,480 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,149 g/km
+mazda,MADZA6,22149.0,2021,2.5L,"17,000 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,192 bhp,142 mph,,167 g/km
+mazda,MADZA6,7750.0,2014,2191cc,"70,453 miles",Diesel,Manual,Blue,Saloon,4X2,4.0,5.0,147 bhp,131 mph,9.0 seconds,108 g/km
+mazda,MX-5,14490.0,2016,1496cc,"19,500 miles",Petrol,Manual,GREY,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,CX-3,13049.0,2018,1998cc,"39,469 miles",Petrol,,Red,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,CX-5,21549.0,2021,1998cc,"30,032 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,CX-5,20599.0,2020,1998cc,"33,503 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,Mazda2,14599.0,2020,1496cc,"12,482 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,94 g/km
+mazda,MX-5,13049.0,2016,1998cc,"43,430 miles",Petrol,,Black,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,CX-3,12999.0,2017,1998cc,"45,937 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,116 mph,9.9 seconds,136 g/km
+mazda,Mazda6,14849.0,2019,2191cc,"47,612 miles",Diesel,,Black,Saloon,4X2,4.0,5.0,147 bhp,131 mph,10.0 seconds,117 g/km
+mazda,CX-3,14049.0,2019,1998cc,"41,326 miles",Petrol,,Red,SUV,4X2,5.0,5.0,120 bhp,119 mph,,141 g/km
+mazda,Mazda2,9699.0,2018,1.5L,"41,000 miles",Petrol,Manual,BLACK,Hatchback,,,,,,,
+mazda,CX-5,21060.0,2020,2L,"25,509 miles",Petrol,Automatic,BLACK,Estate,,,,,,,
+mazda,CX-30,21242.0,2020,2L,"18,000 miles",Petrol,Automatic,GREY,Hatchback,,,,,,,
+mazda,CX-5,19796.0,2020,2L,"22,390 miles",Petrol,Manual,BLUE,Estate,,,,,,,
+mazda,MADZA3,22995.0,2023,2L,"1,750 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MADZA3,24295.0,2023,2L,750 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-3,11900.0,2018,2L,"44,998 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,MX-5,14999.0,2019,1496cc,"19,918 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,130 bhp,127 mph,8.3 seconds,143 g/km
+mazda,CX-3,12995.0,2016,2000cc,"40,487 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,118 bhp,116 mph,9.9 seconds,136 g/km
+mazda,MADZA2,8600.0,2017,1496cc,"40,042 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,6995.0,2009,1798cc,"32,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,MX-5,8995.0,2011,1798cc,"33,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,Mazda3,3490.0,2010,1598cc,"93,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,149 g/km
+mazda,Mazda6,8800.0,2016,2191cc,"62,460 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,110 g/km
+mazda,CX-5,20740.0,2020,2L,"22,394 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-5,17222.0,2018,2L,"31,892 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,CX-3,12700.0,2019,2L,"27,813 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-5,25250.0,2022,2L,"22,000 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MX-5,20500.0,2021,2L,"29,017 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,155 g/km
+mazda,Mazda6,15900.0,2019,1998cc,"24,203 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,143 bhp,128 mph,10.9 seconds,141 g/km
+mazda,CX-5,15499.0,2018,1998cc,"67,129 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MADZA3,19995.0,2023,1998cc,"4,250 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MADZA5,2690.0,2011,1560cc,"137,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MADZA6,5995.0,2011,2499cc,"58,300 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,168 bhp,137 mph,8.4 seconds,186 g/km
+mazda,MADZA6,6495.0,2013,1998cc,"98,000 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,143 bhp,129 mph,10.5 seconds,136 g/km
+mazda,MX-5,12995.0,2017,1998cc,"19,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,MADZA3,4750.0,2009,1598cc,"38,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,149 g/km
+mazda,MADZA6,6590.0,2015,2200cc,"92,000 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,110 g/km
+mazda,MADZA6,2500.0,2008,2500cc,"133,605 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,170 bhp,137 mph,8.3 seconds,192 g/km
+mazda,MADZA2,8500.0,2016,1496cc,"39,750 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,CX-5,18795.0,2018,1998cc,"24,306 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MADZA6,4295.0,2014,2191cc,"129,765 miles",Diesel,Manual,BLACK,Saloon,,,,,,,
+mazda,CX-5,6990.0,2014,2191cc,"96,000 miles",Diesel,Manual,WHITE,Estate,4X4,5.0,5.0,147 bhp,122 mph,9.4 seconds,136 g/km
+mazda,MADZA3,8750.0,2015,1998cc,"50,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-30,17489.0,2021,1998.0cc,"9,601 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-3,10449.0,2016,1998cc,"44,438 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,Mazda2,4495.0,2013,1349cc,"63,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,CX-5,30295.0,2023,1998cc,10 miles,,Manual,Soul Red,Estate,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-5,26995.0,2021,2500cc,"24,846 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,192 bhp,121 mph,,182 g/km
+mazda,Mazda2,5295.0,2014,1300cc,"74,501 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,Mazda3,16995.0,2019,2000cc,"17,558 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,119 g/km
+mazda,Mazda2,13995.0,2019,1500cc,"14,243 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,129 mph,9.0 seconds,127 g/km
+mazda,MX-5,19300.0,2019,"13,000 miles",Petrol,Manual,Red,Convertible,40.9 mpg,4X2,2.0,2.0,182 bhp,136 mph,6.8 seconds,156 g/km
+mazda,Mazda6,11500.0,2019,2191cc,"119,190 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,181 bhp,140 mph,8.6 seconds,126 g/km
+mazda,Mazda2,15545.0,0L,"5,500 miles",Petrol,Manual,Soul Red Crystal (Metallic),Hatchback,60.1 mpg,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-5,9995.0,2012,1998cc,"42,325 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,162 bhp,124 mph,9.2 seconds,139 g/km
+mazda,CX-5,21999.0,2019,1998cc,"14,432 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-5,15900.0,2019,1998cc,"46,134 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,Mazda2,5189.0,2010,1349.0cc,"72,130 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,CX-60,37989.0,2022,2488.0cc,"11,741 miles",Other,Automatic,Premium Metallic - Rhodium White,Estate,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,Mazda3,15900.0,2021,1998cc,"17,243 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,CX-30,17490.0,2021,2L,"30,322 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,MADZA2,14690.0,2020,1.5L,"8,531 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA3,12650.0,2017,2L,"28,283 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,CX-3,16199.0,2019,2L,"17,945 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,MADZA3,7995.0,2016,1.5L,"49,100 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,116 mph,11.0 seconds,99 g/km
+mazda,MADZA2,7995.0,2015,1.5L,"27,800 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.1 seconds,110 g/km
+mazda,CX-30,17597.0,2020,2L,"28,737 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,121 bhp,116 mph,,151 g/km
+mazda,CX-60,40999.0,2023,2.5L,"5,610 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,CX-5,19999.0,2020,2L,"25,749 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,168 g/km
+mazda,MADZA2,14369.0,2020,1.5L,"14,649 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA2,12195.0,2019,1.5L,"16,327 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,MX-5,14300.0,2017,1.5L,"18,206 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,129 bhp,127 mph,,142 g/km
+mazda,CX-3,12299.0,2017,2L,"31,474 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,CX-5,15249.0,2018,2L,"43,875 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,CX-5,18995.0,2020,2L,"23,945 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,163 g/km
+mazda,MADZA3,18683.0,2021,2L,"14,460 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-30,16500.0,2020,2L,"23,492 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,CX-3,9740.0,2016,1.5L,"55,367 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,103 bhp,110 mph,10.1 seconds,105 g/km
+mazda,MX-5,19250.0,2018,2L,"12,013 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,182 bhp,136 mph,6.8 seconds,156 g/km
+mazda,MADZA2,12699.0,2019,1.5L,"18,870 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,MADZA3,16225.0,2020,2L,"25,371 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,103 g/km
+mazda,CX-5,13450.0,2017,2191cc,"45,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,173 bhp,129 mph,8.8 seconds,136 g/km
+mazda,MADZA5,9750.0,2015,1600cc,"96,500 miles",Diesel,Manual,White,Hatchback,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MADZA2,13995.0,2020,1496cc,"22,020 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA2,8995.0,2017,1496cc,"52,170 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,3700.0,2008,1798cc,"106,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,MX-5,9995.0,2016,1496cc,"37,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA2,5295.0,2012,1349cc,"41,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,MX-5,4295.0,2006,1798cc,"41,850 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,MADZA6,5895.0,2014,2200cc,"110,800 miles",Diesel,Manual,White,Other,4X2,4.0,5.0,147 bhp,131 mph,9.1 seconds,104 g/km
+mazda,CX-5,8995.0,2014,2191cc,"69,000 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,173 bhp,129 mph,8.8 seconds,136 g/km
+mazda,MADZA3,15588.0,2020,1998cc,"47,532 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,,125 g/km
+mazda,MX-5,15740.0,2019,1998cc,"35,770 miles",Petrol,Manual,GREY,Convertible,4X2,2.0,2.0,182 bhp,136 mph,6.8 seconds,156 g/km
+mazda,MADZA2,2500.0,2013,1349cc,"115,459 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,MADZA6,9490.0,2013,1998cc,"58,000 miles",Petrol,Manual,BLUE,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.1 seconds,135 g/km
+mazda,CX-3,7995.0,2015,1998cc,"108,450 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,MADZA2,4250.0,2010,1349cc,"43,569 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,84 bhp,107 mph,12.9 seconds,125 g/km
+mazda,MADZA2,6595.0,2014,1349cc,"56,400 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,CX-5,10899.0,2015,2191cc,"67,869 miles",Diesel,Manual,GREY,Estate,4X4,5.0,5.0,173 bhp,129 mph,8.8 seconds,136 g/km
+mazda,MADZA2,6995.0,2013,1498cc,"47,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,101 bhp,106 mph,11.9 seconds,145 g/km
+mazda,MADZA2,7695.0,2015,1496cc,"59,909 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,8.7 seconds,117 g/km
+mazda,MADZA2,6000.0,2017,1496cc,"51,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,105 g/km
+mazda,CX-5,19994.0,2018,2191cc,"31,691 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,181 bhp,129 mph,9.3 seconds,137 g/km
+mazda,MX-5,16499.0,2020,1998cc,"57,649 miles",Petrol,Manual,GREY,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,155 g/km
+mazda,CX-5,24999.0,2020,2L,"7,213 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MADZA3,18790.0,2021,2L,"26,583 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,MADZA2,14990.0,2021,1.5L,"5,238 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA3,23495.0,2023,2L,850 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-30,15349.0,2020,1998cc,"47,607 miles",Petrol,,Black,SUV,4X2,5.0,5.0,121 bhp,116 mph,,116 g/km
+mazda,CX-30,22049.0,2021,1998cc,"13,650 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,MX-5,13299.0,2017,1496cc,"27,755 miles",Petrol,,Silver,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,Mazda2,9449.0,2018,1496cc,"37,747 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,74 bhp,117 mph,11.3 seconds,111 g/km
+mazda,Mazda2,12293.0,2020,1.5L,"34,496 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-3,13995.0,2018,1998cc,"42,474 miles",Petrol,Manual,Silver,Hatchback,4X4,5.0,5.0,148 bhp,124 mph,8.8 seconds,160 g/km
+mazda,MADZA2,15989.0,2021,1.5L,"8,101 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,133 g/km
+mazda,MADZA3,19795.0,2020,2L,"26,900 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.6 seconds,142 g/km
+mazda,MADZA3,20770.0,2021,2L,"12,656 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,,131 g/km
+mazda,Mazda3,7495.0,2014,2L,"77,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,Mazda2,12990.0,2021,1496cc,"43,605 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda3,11700.0,2017,1998cc,"30,429 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,Mazda3,20999.0,2021,1998cc,"19,199 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.6 seconds,142 g/km
+mazda,MADZA3,9495.0,2016,1998cc,"49,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MADZA3,13995.0,2020,1998cc,"52,168 miles",Petrol,Manual,Metallic - Polymetal Grey,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,,100 g/km
+mazda,CX-30,20945.0,2021,2000cc,"26,454 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,MADZA5,4993.0,2014,1560cc,"83,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MADZA2,6950.0,2016,1496cc,"69,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.1 seconds,110 g/km
+mazda,MADZA2,5995.0,2011,1349cc,"44,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,MADZA3,3350.0,2011,1999cc,"106,680 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,149 bhp,128 mph,10.4 seconds,159 g/km
+mazda,MADZA6,6250.0,2012,1798cc,"41,852 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,11.7 seconds,155 g/km
+mazda,Mazda2,11399.0,2018,1496cc,"43,698 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,114 bhp,129 mph,9.0 seconds,127 g/km
+mazda,Mazda3,18949.0,2020,1998cc,"10,568 miles",Petrol,,Red,Saloon,4X2,4.0,5.0,177 bhp,134 mph,8.2 seconds,127 g/km
+mazda,CX-5,12049.0,2016,1998cc,"53,357 miles",Petrol,,Red,SUV,4X2,5.0,5.0,162 bhp,124 mph,9.2 seconds,139 g/km
+mazda,Mazda2,10499.0,2017,1496cc,"30,046 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MADZA2,13390.0,2020,1.5L,"26,327 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-3,11313.0,2018,2L,"58,299 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,CX-30,19995.0,2021,2L,"15,173 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,MADZA3,18763.0,2021,2L,"18,216 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-5,30495.0,2023,2L,"2,500 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-30,19795.0,2020,2L,"28,005 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,15434.0,2018,2.2L,"33,387 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,130 g/km
+mazda,MADZA3,15900.0,2020,2L,"19,753 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,136 g/km
+mazda,MADZA6,14430.0,2019,2L,"27,432 miles",Petrol,Manual,Black,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.9 seconds,142 g/km
+mazda,CX-5,18495.0,2018,1998cc,"26,195 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,21295.0,0L,"12,730 miles",Petrol,Manual,METALLIC - SONIC SILVER,SUV,38.2 mpg,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,168 g/km
+mazda,CX-5,22899.0,2019,2191cc,"13,055 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,124 mph,10.7 seconds,143 g/km
+mazda,MX-5,9990.0,2015,1998cc,"81,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,MX-5,10600.0,2013,1999cc,"26,009 miles",Petrol,Manual,WHITE,Convertible,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,MADZA3,9850.0,2014,1998cc,"42,522 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,162 bhp,130 mph,8.2 seconds,135 g/km
+mazda,CX-3,10500.0,2018,1998cc,"72,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,MX-5,3495.0,2007,1798cc,"92,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,MADZA2,15490.0,2021,1.5L,"9,476 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA2,12690.0,2018,1.5L,"17,561 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,CX-30,19908.0,2020,1998cc,"15,422 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,Mazda6,12779.0,2018,2000cc,"56,800 miles",Petrol,Manual,Red,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,146 g/km
+mazda,MADZA2,4795.0,2010,1498cc,"37,082 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,102 bhp,117 mph,10.4 seconds,135 g/km
+mazda,CX-3,9495.0,2015,1499cc,"67,400 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,103 bhp,110 mph,10.1 seconds,105 g/km
+mazda,CX-3,12099.0,2019,1998cc,"49,479 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,Mazda2,9099.0,2018,1496cc,"50,391 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,CX-5,15899.0,2018,1998cc,"61,680 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-30,19424.0,2020,2L,"13,699 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA3,18355.0,2021,2L,"38,344 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.6 seconds,142 g/km
+mazda,CX-3,15400.0,2019,2L,"35,091 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-30,27495.0,2023,1998cc,"1,283 miles",Petrol,Manual,Deep Crystal Blue,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,Mazda3,11495.0,2019,1496cc,"41,507 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,116 mph,11.0 seconds,99 g/km
+mazda,MADZA2,14000.0,2020,1.5L,"15,543 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-30,16350.0,2020,2L,"37,545 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,CX-3,11479.0,2017,2000cc,"41,200 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,Mazda2,2995.0,2010,1349cc,"61,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,5.0,74 bhp,104 mph,14.0 seconds,125 g/km
+mazda,MX-5,14720.0,2018,2L,"43,279 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,MADZA2,15400.0,2022,1.5L,"5,310 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,MADZA3,17675.0,2020,2L,"15,557 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,103 g/km
+mazda,CX-3,16663.0,2019,2L,"12,132 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,MADZA2,15146.0,2021,1.5L,"15,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda6,19951.0,2020,2L,"18,000 miles",Petrol,Manual,Red,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,152 g/km
+mazda,CX-5,23215.0,2021,2L,"22,615 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,162 bhp,119 mph,,165 g/km
+mazda,MADZA2,19058.0,2023,1.5L,"4,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,MADZA3,20823.0,2023,2L,"5,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-60,41339.0,2023,3.3L,"6,000 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,251 bhp,136 mph,,139 g/km
+mazda,MADZA2,14447.0,2020,1.5L,"16,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA6,19668.0,2020,2L,"18,000 miles",Petrol,Manual,Blue,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,152 g/km
+mazda,MADZA2,16862.0,2022,1.5L,"17,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,,113 g/km
+mazda,MX-5,17761.0,2018,2L,"12,800 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,CX-5,22552.0,2019,2L,"14,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MX-5,12746.0,2018,2L,"49,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,Mazda2,15129.0,2021,1.5L,"20,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MX-5,19674.0,2020,1.5L,"15,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,130 bhp,126 mph,,142 g/km
+mazda,Mazda3,17301.0,2019,2L,"17,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,119 g/km
+mazda,CX-3,15706.0,2019,2L,"24,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-5,21588.0,2019,2191cc,"48,153 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,181 bhp,129 mph,9.3 seconds,137 g/km
+mazda,Mazda6,11690.0,2017,2191cc,"67,700 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,173 bhp,134 mph,8.6 seconds,129 g/km
+mazda,Mazda3,5495.0,2009,1999cc,"87,605 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,149 bhp,128 mph,10.4 seconds,159 g/km
+mazda,CX-5,26495.0,2019,2200cc,"7,719 miles",Diesel,Automatic,Red,Estate,4X4,5.0,5.0,181 bhp,129 mph,9.6 seconds,145 g/km
+mazda,CX-3,12299.0,2017,1998cc,"43,339 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,CX-5,21099.0,2020,1998cc,"35,315 miles",Petrol,,Black,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-3,12349.0,2016,1998cc,"27,532 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,MX-5,13777.0,2018,1.5L,"16,318 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,130 bhp,127 mph,8.3 seconds,143 g/km
+mazda,MX-5,23980.0,2023,1496cc,"2,406 miles",Petrol,Manual,Deep Crystal Blue,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,CX-30,19999.0,2020,2L,"6,698 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,MADZA6,20999.0,2021,2L,"9,536 miles",Petrol,Manual,Grey,Saloon,4X2,4.0,5.0,162 bhp,134 mph,,152 g/km
+mazda,CX-5,28950.0,2022,2L,"8,900 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,Mazda2,16450.0,2021,1.5L,"10,250 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-5,20500.0,2019,2191cc,"19,395 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,124 mph,10.7 seconds,143 g/km
+mazda,MADZA2,9995.0,2017,1.5L,"38,724 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MADZA2,10995.0,2019,1.5L,"35,650 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,CX-30,19900.0,2021,2L,"21,112 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,184 bhp,127 mph,,138 g/km
+mazda,CX-5,23500.0,2022,2L,"15,000 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,,
+mazda,MADZA3,18000.0,2020,2L,"29,254 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,MADZA2,13350.0,2019,1.5L,"22,727 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,129 mph,9.0 seconds,127 g/km
+mazda,CX-5,20000.0,2019,2L,"27,735 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,20749.0,2019,2L,"41,329 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,MADZA3,22000.0,2023,2L,"1,669 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-30,20950.0,2021,2L,"19,921 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,184 bhp,127 mph,,138 g/km
+mazda,MADZA3,14387.0,2020,2L,"20,660 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,
+mazda,MADZA2,13000.0,2020,1.5L,"21,922 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MX-5,23900.0,2023,1.5L,11 miles,Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,CX-30,16920.0,2020,2L,"51,501 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA6,19950.0,2021,1998cc,"18,547 miles",Petrol,Manual,GREY,Saloon,4X2,4.0,5.0,162 bhp,134 mph,,152 g/km
+mazda,Mazda3,4750.0,2014,2184cc,"120,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,8.1 seconds,107 g/km
+mazda,MADZA3,10895.0,2017,1998cc,"58,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MADZA3,14500.0,2019,1998cc,"25,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,119 g/km
+mazda,MADZA6,2295.0,2006,1999cc,"90,322 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,145 bhp,130 mph,9.9 seconds,191 g/km
+mazda,MADZA3,10995.0,2016,1998cc,"55,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MX-5,2999.0,2000,1597cc,"66,000 miles",Petrol,Manual,Black,Convertible,,,,,,,
+mazda,MADZA3,9650.0,2013,1598cc,"27,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,103 bhp,107 mph,13.1 seconds,171 g/km
+mazda,CX-5,18995.0,2019,2L,"42,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MADZA3,16900.0,2020,2L,"18,526 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,
+mazda,CX-30,21495.0,2020,2L,"15,196 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,MX-5,23199.0,2023,1.5L,95 miles,Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,CX-30,19995.0,2022,2L,"9,390 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-30,22995.0,2021,2L,"12,818 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-5,26495.0,2020,2000cc,"14,500 miles",Petrol,Automatic,Red,Estate,4X2,5.0,5.0,162 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-30,17500.0,2022,1998cc,"16,243 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,121 bhp,116 mph,,143 g/km
+mazda,CX-3,12495.0,2017,1998cc,"31,052 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,CX-5,31490.0,2023,2L,7 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,MX-5,23990.0,2023,1.5L,3 miles,Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MX-5,23990.0,2023,1.5L,3 miles,Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MADZA3,23990.0,2023,2L,14 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,MX-5,23495.0,2021,2L,"15,087 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,155 g/km
+mazda,CX-30,19394.0,0L,"24,359 miles",Petrol,Manual,Soul Red Crystal (Metallic),SUV,43.5 mpg,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,MADZA2,4495.0,2010,1498cc,"84,581 miles",Petrol,Manual,Passion Orange Metallic,Hatchback,4X2,5.0,5.0,102 bhp,117 mph,10.4 seconds,135 g/km
+mazda,CX-5,13995.0,2012,1998cc,"6,875 miles",Petrol,Manual,Electric Sky Blue,Estate,4X2,5.0,5.0,162 bhp,124 mph,9.0 seconds,139 g/km
+mazda,Mazda3,5995.0,2011,1598cc,"53,308 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,149 g/km
+mazda,CX-3,11395.0,2018,1497cc,"39,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,103 bhp,110 mph,,105 g/km
+mazda,CX-5,8195.0,2014,2191cc,"83,000 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,147 bhp,123 mph,10.0 seconds,139 g/km
+mazda,MADZA2,6399.0,2013,1349cc,"31,885 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,Mazda2,12649.0,2019,1496cc,"16,719 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,MADZA6,19549.0,2019,2.5L,"39,360 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,192 bhp,139 mph,8.1 seconds,156 g/km
+mazda,MX-5,17499.0,2017,2L,"12,393 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,MADZA2,15295.0,2021,1.5L,"20,077 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,133 g/km
+mazda,MADZA3,18795.0,2021,2L,"4,423 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-5,29244.0,2022,2L,"6,955 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,Mazda2,1995.0,2008,1349cc,"101,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,107 mph,12.9 seconds,129 g/km
+mazda,Mazda6,5695.0,2012,1999cc,"93,386 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,153 bhp,134 mph,10.3 seconds,159 g/km
+mazda,CX-5,19241.0,2020,2L,"34,075 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,22093.0,2019,2L,"7,346 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,11295.0,2015,2L,"82,380 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,162 bhp,124 mph,9.0 seconds,139 g/km
+mazda,MADZA3,19500.0,2023,2L,"2,792 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-30,18499.0,2021,2L,"16,343 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,Mazda3,19284.0,2019,1998.0cc,"9,908 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-3,14900.0,2018,1998.0cc,"30,996 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-30,24900.0,2022,1998.0cc,"5,705 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-30,17489.0,2020,1998.0cc,"29,229 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,Mazda6,16000.0,2019,1998cc,"24,749 miles",Petrol,Manual,Red,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,146 g/km
+mazda,Mazda6,13410.0,2019,1998cc,"37,465 miles",Petrol,Manual,Silver,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.9 seconds,142 g/km
+mazda,CX-5,18500.0,2020,2L,"33,015 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,16900.0,2019,1998.0cc,"49,600 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,146 g/km
+mazda,CX-5,22300.0,2022,1998cc,"14,930 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,162 bhp,119 mph,,164 g/km
+mazda,CX-5,22350.0,2022,1998cc,"14,929 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,162 bhp,119 mph,,164 g/km
+mazda,Mazda6,5995.0,2016,2200cc,"1,060,000 miles",Diesel,Manual,White,Saloon,4X2,4.0,5.0,147 bhp,131 mph,9.1 seconds,107 g/km
+mazda,CX-5,17990.0,2018,1998cc,"36,885 miles",Petrol,Manual,RED,Estate,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,MADZA2,8490.0,2015,1496cc,"47,257 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,6989.0,2009,1999cc,"27,758 miles",Petrol,Automatic,BLACK,Convertible,4X2,2.0,2.0,158 bhp,119 mph,8.5 seconds,188 g/km
+mazda,CX-3,14694.0,2000,2000cc,"28,776 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,MX-5,8500.0,2002,1839cc,"62,380 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,137 bhp,118 mph,11.0 seconds,229 g/km
+mazda,CX-30,17484.0,2020,1998.0cc,"20,713 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,Mazda3,10689.0,2017,1998.0cc,"61,597 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,Mazda2,10349.0,2018,1496cc,"25,531 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,MADZA2,16190.0,2023,1.5L,"7,549 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,CX-5,23381.0,2020,2L,"30,794 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,162 bhp,119 mph,,173 g/km
+mazda,MADZA2,18999.0,2022,1.5L,"3,346 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,CX-5,18495.0,2020,2L,"45,366 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,,163 g/km
+mazda,MX-5,20950.0,2019,2L,"17,800 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,182 bhp,137 mph,6.5 seconds,156 g/km
+mazda,CX-30,14950.0,2020,2L,"39,962 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,CX-5,17500.0,2019,2.2L,"23,544 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,128 g/km
+mazda,MX-5,24775.0,2023,2L,"3,750 miles",Petrol,Manual,GREY,Convertible,4X2,2.0,2.0,182 bhp,136 mph,,155 g/km
+mazda,CX-5,15182.0,2017,2.2L,"45,638 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,CX-30,19995.0,2020,2000cc,"21,306 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,CX-3,12750.0,2017,1499cc,"18,914 miles",Diesel,Manual,Red,Hatchback,4X4,5.0,5.0,103 bhp,107 mph,10.5 seconds,123 g/km
+mazda,Mazda3,8295.0,2016,2L,"95,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-3,13200.0,2019,1998cc,"52,100 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,CX-5,20400.0,2020,2L,"21,691 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,168 g/km
+mazda,CX-5,22250.0,2022,1998cc,"14,098 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,162 bhp,119 mph,,164 g/km
+mazda,CX-5,28499.0,2022,2.5L,"11,100 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,192 bhp,121 mph,,182 g/km
+mazda,Mazda2,12900.0,2017,1.5L,"12,820 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.0 seconds,112 g/km
+mazda,Mazda2,9495.0,2016,1500cc,"39,108 miles",Petrol,Manual,Deep Crystal Blue Mica,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,8.7 seconds,117 g/km
+mazda,MADZA3,23995.0,2023,1998cc,10 miles,Petrol,Manual,Special Metallic - Soul Red Crystal,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-3,10750.0,2018,1998cc,"65,945 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,MX-5,11995.0,2018,1496cc,"35,950 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA3,15995.0,2020,1998cc,"11,031 miles",Petrol,Manual,Special Metallic - S,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,136 g/km
+mazda,MX-5,17995.0,2019,1496cc,"9,292 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,129 bhp,127 mph,,142 g/km
+mazda,Mazda3,7995.0,2017,1496cc,"98,545 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,116 mph,11.0 seconds,99 g/km
+mazda,Mazda3,17850.0,2022,1998cc,"8,232 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MX-5,13995.0,2015,1998cc,"24,866 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,MADZA6,4098.0,2010,1999cc,"69,751 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,153 bhp,134 mph,10.3 seconds,159 g/km
+mazda,MADZA6,6790.0,2012,1798cc,"30,999 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,11.7 seconds,155 g/km
+mazda,MX-5,17795.0,2018,1998cc,"28,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,Mazda3,3995.0,2012,1598cc,"90,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,103 bhp,112 mph,12.2 seconds,147 g/km
+mazda,CX-3,13995.0,2019,1998cc,"37,200 miles",Petrol,Manual,White,Hatchback,,,,,,,
+mazda,MX-30,18995.0,2021,0L,"8,900 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,143 bhp,87 mph,,0 g/km
+mazda,MX-30,24995.0,2023,0L,"6,900 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,143 bhp,87 mph,,0 g/km
+mazda,CX-5,24700.0,2021,2000cc,"21,000 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,162 bhp,119 mph,,165 g/km
+mazda,CX-5,34995.0,2023,2200cc,50 miles,Diesel,Automatic,Red,SUV,4X4,5.0,5.0,181 bhp,129 mph,,173 g/km
+mazda,CX-30,21450.0,2020,2000cc,"27,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,118 g/km
+mazda,MADZA3,17950.0,2020,2000cc,"7,000 miles",Petrol,Manual,Silver,Saloon,4X2,4.0,5.0,177 bhp,134 mph,8.2 seconds,127 g/km
+mazda,MADZA3,15750.0,2021,2000cc,"61,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,MX-5,21950.0,2023,1500cc,10 miles,Petrol,Manual,White,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MADZA3,17995.0,2020,2000cc,"28,854 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,142 g/km
+mazda,MX-5,12995.0,2014,2000cc,"40,648 miles",Petrol,Manual,Soul Red,Convertible,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,MX-5,9250.0,2014,1798cc,"49,880 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,MADZA3,11500.0,2018,1998cc,"42,724 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MADZA6,9795.0,2014,1997cc,"45,000 miles",Petrol,Manual,White,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.1 seconds,135 g/km
+mazda,CX-5,19995.0,2021,1998cc,"24,250 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,,154 g/km
+mazda,CX-5,27995.0,2023,2L,"1,300 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,MADZA3,14355.0,2020,2L,"35,924 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,138 g/km
+mazda,MADZA3,14998.0,2020,2L,"45,586 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,MX-5,14132.0,2016,1.5L,"13,973 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,CX-30,21000.0,2021,2000cc,"23,658 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,138 g/km
+mazda,MADZA6,16990.0,2021,1998cc,"30,478 miles",Petrol,Manual,Grey,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,152 g/km
+mazda,MX-5,11490.0,2016,1496cc,"24,044 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA3,3495.0,2009,1598cc,"128,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,149 g/km
+mazda,CX-3,12995.0,2019,1798cc,"42,755 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,113 bhp,114 mph,9.9 seconds,114 g/km
+mazda,MX-5,3995.0,2006,1798cc,"79,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,MX-5,24490.0,2023,1496cc,743 miles,Petrol,Manual,Deep Crystal Blue,Convertible,4X2,2.0,2.0,130 bhp,126 mph,,142 g/km
+mazda,MADZA2,8990.0,2018,1496cc,"30,434 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.1 seconds,110 g/km
+mazda,MADZA3,17555.0,2021,1998cc,"9,560 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,138 g/km
+mazda,Mazda5,3875.0,2011,1560cc,"125,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MX-5,7495.0,2012,1798cc,"57,926 miles",Petrol,Manual,Multi-Coloured,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,MX-5,16995.0,2018,1998cc,"56,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,CX-30,17995.0,2021,1998cc,"37,200 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-3,15995.0,2019,1998cc,"26,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-5,29995.0,2022,1998cc,"12,800 miles",Petrol,Automatic,Red,Estate,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,Mazda2,3995.0,2012,1349cc,"93,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,Mazda2,13995.0,2018,1498cc,"31,270 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,12.0 seconds,118 g/km
+mazda,MX-5,6495.0,2011,0L,"100,000 miles",Petrol,Manual,BLACK,Convertible,4X2,2.0,2.0,158 bhp,135 mph,7.9 seconds,177 g/km
+mazda,MX-5,17995.0,2017,1998cc,"27,000 miles",Petrol,Manual,Grey,Other,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,Mazda3,7490.0,2014,1998cc,"86,950 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-30,20984.0,2020,1998.0cc,"16,182 miles",Petrol,Manual,Premium Metallic - Machine Grey,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,Mazda3,9995.0,2016,1998cc,"62,108 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,162 bhp,130 mph,8.2 seconds,135 g/km
+mazda,CX-5,20989.0,2019,1998.0cc,"25,218 miles",Petrol,Manual,Special Metallic - Machine Grey,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,168 g/km
+mazda,MADZA3,18687.0,2020,2L,"17,945 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.8 seconds,152 g/km
+mazda,Mazda6,17750.0,2191cc,"37,489 miles",Diesel,Automatic,Blue,Estate,47.1 mpg,4X2,5.0,5.0,181 bhp,135 mph,9.2 seconds,134 g/km
+mazda,MADZA2,13295.0,2019,1496cc,"19,159 miles",Petrol,Manual,Snowflake White,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,MADZA2,11750.0,2017,1496cc,"16,465 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,105 g/km
+mazda,MADZA2,9495.0,2017,1496cc,"43,779 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,10950.0,2015,1999cc,"51,045 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,MADZA2,6695.0,2015,1349cc,"52,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,MADZA2,5995.0,2014,1349cc,"55,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,CX-3,14900.0,2019,1998cc,"33,400 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,MADZA3,13799.0,2018,1998cc,"21,600 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MADZA2,7500.0,2015,1496cc,"49,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.1 seconds,110 g/km
+mazda,MADZA2,17995.0,2022,1.5L,"7,265 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,MX-5,14990.0,2017,2L,"32,941 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,Mazda3,16995.0,2020,2000cc,"17,935 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,138 g/km
+mazda,Mazda3,13195.0,2018,2L,"35,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,CX-5,20900.0,2021,1998cc,"20,674 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,MADZA3,21930.0,2023,2L,"2,124 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-5,20980.0,2020,2L,"34,524 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,MADZA3,12058.0,2017,2L,"49,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,15500.0,2018,2191cc,"45,335 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,MADZA2,4850.0,2013,1349cc,"69,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,CX-3,8150.0,2016,1497cc,"101,548 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,110 mph,10.1 seconds,105 g/km
+mazda,MX-5,16450.0,2018,1998cc,"40,400 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,MADZA2,8498.0,2015,1496cc,"53,778 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,11995.0,2016,1496cc,"39,400 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA6,13995.0,2019,2191cc,"54,000 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,147 bhp,130 mph,10.2 seconds,119 g/km
+mazda,CX-5,7495.0,2014,2191cc,"91,884 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,CX-5,8500.0,2016,2191cc,"97,500 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MADZA2,11299.0,2015,1496cc,"4,240 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MADZA3,9345.0,2015,2184cc,"64,033 miles",Diesel,Automatic,GREY,Hatchback,4X2,5.0,5.0,147 bhp,125 mph,9.7 seconds,127 g/km
+mazda,MADZA6,9780.0,2015,1998cc,"65,218 miles",Petrol,Manual,BLUE,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.1 seconds,135 g/km
+mazda,MADZA3,17529.0,2022,2L,"6,841 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MADZA5,2495.0,2009,1998cc,"119,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,110 bhp,110 mph,13.9 seconds,159 g/km
+mazda,MX-5,5179.0,2009,1.8L,"71,188 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,MX-5,12995.0,2016,1998cc,"43,000 miles",Petrol,Manual,WHITE,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,CX-5,27250.0,2021,2L,"10,543 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MADZA3,11995.0,2018,1998cc,"23,845 miles",Petrol,Manual,Black,Saloon,4X2,4.0,5.0,118 bhp,123 mph,8.8 seconds,119 g/km
+mazda,MADZA2,10995.0,2019,1496cc,"13,980 miles",Petrol,Manual,Solid - Arctic White,Hatchback,4X2,5.0,5.0,74 bhp,117 mph,11.3 seconds,111 g/km
+mazda,CX-5,23743.0,2021,2000cc,"15,200 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,MX-5,8995.0,1995,1839cc,"90,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,,129 bhp,123 mph,8.6 seconds,0 g/km
+mazda,MADZA3,9295.0,2015,1998cc,"67,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,MADZA6,8690.0,2016,2191cc,"95,771 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.2 seconds,116 g/km
+mazda,MADZA6,3995.0,2008,1998cc,"51,621 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,145 bhp,132 mph,10.2 seconds,168 g/km
+mazda,CX-5,13649.0,2017,1998cc,"63,236 miles",Petrol,Manual,WHITE,Estate,,,,,,,
+mazda,CX-3,11995.0,2016,1998cc,"44,773 miles",Petrol,Manual,RED,Hatchback,4X4,5.0,5.0,147 bhp,124 mph,8.7 seconds,150 g/km
+mazda,MX-5,12500.0,2016,1998cc,"49,236 miles",Petrol,Manual,RED,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,MX-5,24685.0,2023,1496.0cc,2 miles,Petrol,Manual,Mica - Jet Black,Sports,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MX-5,24984.0,2023,1496.0cc,4 miles,Petrol,Manual,Special Metallic - Soul Red Crystal,Sports,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MADZA6,10995.0,2016,1998cc,"46,203 miles",Petrol,Manual,Blue,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.5 seconds,129 g/km
+mazda,CX-5,7257.0,2016,2191cc,"110,725 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MADZA6,2890.0,2009,1798cc,"74,466 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,123 mph,11.6 seconds,162 g/km
+mazda,CX-30,17549.0,2021,1998cc,"16,953 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,CX-30,15999.0,2020,1998cc,"53,447 miles",Petrol,,Black,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,MADZA3,22250.0,2023,2L,54 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-5,32990.0,2023,2L,"1,231 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,CX-60,40490.0,2023,3.3L,"1,770 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,251 bhp,136 mph,,139 g/km
+mazda,MADZA2,14295.0,2019,1.5L,"15,222 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,CX-5,20750.0,2020,2L,"25,540 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,168 g/km
+mazda,CX-5,20290.0,2019,2L,"30,000 miles",Petrol,Automatic,Blue,SUV,,,,,,,
+mazda,CX-5,20999.0,2019,2L,"14,547 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MX-5,17899.0,2019,2L,"37,063 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,182 bhp,137 mph,6.5 seconds,156 g/km
+mazda,MX-5,25399.0,2023,2L,"2,126 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,182 bhp,136 mph,,155 g/km
+mazda,CX-5,17749.0,2020,2L,"38,041 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,163 g/km
+mazda,MADZA2,15149.0,2019,1.5L,"9,958 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,118 g/km
+mazda,CX-5,17049.0,2018,2L,"49,700 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,23495.0,2021,2L,"23,156 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,CX-5,22495.0,2020,2L,"25,234 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-5,19498.0,2019,2L,"24,803 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,Mazda2,22016.0,2023,1.5L,"2,700 miles",Petrol/Electric,Automatic,BLACK,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,92 g/km
+mazda,CX-30,20400.0,2021,2L,"14,752 miles",Petrol,Manual,Grey,SUV,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,CX-30,19850.0,2021,2L,"15,351 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-5,24450.0,2019,2L,"26,503 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,162 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-5,25500.0,2021,2.2L,"24,494 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,181 bhp,129 mph,,160 g/km
+mazda,MX-5,20300.0,2020,2L,"27,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,
+mazda,Mazda3,21450.0,2023,2L,"3,250 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,CX-30,23950.0,2023,2L,"5,397 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-5,30950.0,2023,2L,"4,405 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,CX-5,22450.0,2020,2L,"30,017 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-30,17900.0,2020,2L,"35,028 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MX-5,17399.0,2017,2000cc,"33,352 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,CX-30,21995.0,2020,1998cc,"12,874 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,29995.0,2023,2191cc,3 miles,Diesel,Automatic,Eternal Blue,Estate,4X2,5.0,5.0,147 bhp,124 mph,,160 g/km
+mazda,CX-30,19200.0,2020,2000cc,"31,323 miles",Petrol,Manual,Unknown,Hatchback,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,MADZA3,9290.0,2015,1998cc,"50,010 miles",Petrol,Manual,Gloss White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,13500.0,2019,1998cc,"103,380 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,Mazda2,6495.0,2014,1349cc,"59,305 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,CX-5,16490.0,2016,2L,"9,541 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,124 mph,9.0 seconds,139 g/km
+mazda,CX-5,14650.0,2017,2L,"57,971 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,MADZA2,16499.0,2022,1.5L,"4,500 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,CX-30,19112.0,2021,2L,"27,060 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,CX-30,16995.0,2020,1998cc,"19,200 miles",Petrol,Manual,Machine Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,116 g/km
+mazda,MX-5,14250.0,2016,1496cc,"17,000 miles",Petrol,Manual,Soul Red Pearl,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA5,4495.0,2011,1560cc,"94,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,CX-30,17599.0,2021,1998cc,"28,699 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,Mazda3,16599.0,2020,1998cc,"14,552 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,136 g/km
+mazda,CX-3,15984.0,2018,1998.0cc,"17,140 miles",Petrol,Manual,Special Paint - Soul Red Crystal,Hatchback,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-30,18195.0,2021,2L,"14,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,184 bhp,127 mph,,127 g/km
+mazda,CX-5,22990.0,2019,2.2L,"33,462 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,181 bhp,129 mph,9.6 seconds,145 g/km
+mazda,CX-3,14490.0,2019,2L,"27,606 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-5,31495.0,2023,2L,550 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-5,27649.0,2023,2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-5,29499.0,2023,2L,10 miles,Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,CX-5,31999.0,2023,2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-3,11900.0,2016,2L,"45,137 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,Mazda6,13000.0,2019,2L,"44,921 miles",Petrol,Manual,Machine Grey Metallic,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.9 seconds,142 g/km
+mazda,MX-5,16990.0,2019,1.5L,"17,250 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,130 bhp,126 mph,8.3 seconds,143 g/km
+mazda,Mazda2,15250.0,2021,1.5L,"18,269 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda6,8490.0,2014,2.18L,"80,100 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,173 bhp,137 mph,8.0 seconds,121 g/km
+mazda,CX-30,15895.0,2020,2L,"17,550 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,CX-5,19690.0,2019,2L,"28,831 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,24490.0,2021,2L,"15,384 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,CX-5,30750.0,2023,2L,"3,550 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,MADZA2,13850.0,2020,1.5L,"29,537 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-60,40500.0,2023,3.3L,"8,468 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,251 bhp,136 mph,,139 g/km
+mazda,CX-5,19499.0,2020,2L,"34,262 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-30,17750.0,2021,2L,"2,806 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-5,15999.0,2018,2L,"66,937 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,MADZA2,16495.0,2021,1.5L,"11,807 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-5,28663.0,2021,2.5L,"9,364 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,192 bhp,121 mph,,182 g/km
+mazda,CX-30,20495.0,2020,1998cc,"8,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,MADZA3,5995.0,2013,1598cc,"48,136 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,103 bhp,112 mph,12.2 seconds,144 g/km
+mazda,Mazda3,22900.0,2023,2000cc,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,
+mazda,CX-5,31990.0,2023,1998cc,966 miles,Petrol,Automatic,Machine Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,CX-5,5995.0,2013,2191cc,"97,708 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,Mazda2,11899.0,2018,1496cc,"35,508 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,114 bhp,129 mph,9.0 seconds,127 g/km
+mazda,CX-5,19990.0,2019,2L,"30,043 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-30,21558.0,2020,2L,"23,044 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA2,15495.0,2020,1.5L,"16,528 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA3,21995.0,2021,2L,"10,652 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-30,18450.0,2021,2L,"43,903 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA3,18995.0,2020,2L,"22,567 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,Mazda3,15450.0,2020,2L,"29,433 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,142 g/km
+mazda,MX-5,11490.0,1496cc,"42,857 miles",Petrol,Manual,Grey,Convertible,47.1 mpg,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,Mazda3,14995.0,2017,2000cc,"8,500 miles",Petrol,Manual,Silver,Hatchback,,,,,,,
+mazda,Mazda2,15495.0,2020,1500cc,"12,600 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda3,11990.0,2018,2L,"43,076 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,Mazda2,9460.0,2014,1498cc,"19,818 miles",Petrol,Automatic,Maroon,Hatchback,4X2,5.0,5.0,101 bhp,106 mph,11.9 seconds,145 g/km
+mazda,MX-5,6750.0,2013,1798cc,"67,200 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,Mazda2,19740.0,2022,1490cc,"1,007 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,87 g/km
+mazda,Mazda3,17999.0,2022,1998cc,"12,575 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,CX-30,19699.0,2022,1998cc,"3,978 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-30,25999.0,2022,1998cc,"4,192 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,121 bhp,116 mph,,144 g/km
+mazda,Mazda3,12179.0,2018,2000cc,"40,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,16979.0,2018,2200cc,"56,800 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,173 bhp,128 mph,,152 g/km
+mazda,MADZA3,13699.0,2019,1998cc,"56,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,119 g/km
+mazda,MX-5,17990.0,2020,1496cc,"12,000 miles",Petrol,Manual,POLYMETAL GREY METALLIC,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,MX-5,17495.0,2018,1998cc,"18,778 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,158 bhp,133 mph,,161 g/km
+mazda,MADZA6,16999.0,2019,1998cc,"17,922 miles",Petrol,Automatic,SILVER,Saloon,4X2,4.0,5.0,143 bhp,128 mph,10.9 seconds,141 g/km
+mazda,CX-30,19618.0,2021,2L,"19,461 miles",Petrol,Manual,Grey,SUV,4X4,5.0,5.0,177 bhp,127 mph,,146 g/km
+mazda,CX-3,10700.0,2016,2L,"42,999 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,MX-5,18980.0,2020,1998cc,"27,728 miles",Petrol,Manual,Polymetal Grey,Convertible,4X2,2.0,2.0,182 bhp,136 mph,,155 g/km
+mazda,CX-3,14990.0,2019,1998cc,"57,893 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-60,38995.0,2023,2500cc,"5,957 miles",Petrol/Plu,Automatic,Black,Estate,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,Mazda2,7495.0,2015,1.5L,"47,900 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,Mazda6,24426.0,2022,2488cc,"12,518 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,192 bhp,142 mph,,167 g/km
+mazda,CX-5,15951.0,2015,2.2L,"42,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,173 g/km
+mazda,CX-5,18477.0,2021,2L,"47,844 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,CX-30,24250.0,2023,2L,"2,043 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,MADZA3,11332.0,2016,2L,"41,167 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,22495.0,2020,2L,"8,522 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-5,34990.0,2023,2488cc,"3,201 miles",Petrol,Automatic,Polymetal Grey,SUV,4X4,5.0,5.0,192 bhp,121 mph,,171 g/km
+mazda,CX-5,15790.0,2018,2191cc,"55,000 miles",Diesel,Manual,Bordeaux Red Metallic,Estate,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,Mazda2,6550.0,2014,1349cc,"30,098 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,CX-3,11990.0,2018,1998cc,"26,809 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,CX-60,38484.0,2022,2488.0cc,"8,823 miles",Other,Automatic,Metallic - Sonic Silver,Estate,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,Mazda6,14299.0,2018,1998cc,"42,339 miles",Petrol,,Grey,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.4 seconds,146 g/km
+mazda,MX-5,9089.0,2012,1798cc,"32,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,CX-5,22990.0,2021,2L,"35,006 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MADZA2,14890.0,2021,1.5L,"13,276 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA2,15990.0,2021,1.5L,"12,467 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA2,13490.0,2020,1.5L,"34,612 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-30,17770.0,2020,2L,"21,218 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA3,14995.0,2019,2L,"21,391 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,117 g/km
+mazda,CX-5,17995.0,2017,2.2L,"57,933 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,173 bhp,128 mph,,152 g/km
+mazda,CX-5,20499.0,2018,2.2L,"23,720 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,181 bhp,129 mph,9.6 seconds,145 g/km
+mazda,MX-5,31490.0,2022,1998cc,"7,485 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,155 g/km
+mazda,Mazda2,18990.0,2022,1496cc,"5,743 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-5,29990.0,2022,1998cc,"12,495 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,CX-5,27990.0,2022,1998cc,"5,862 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,CX-30,27990.0,2023,1998cc,10 miles,Petrol,Manual,Gold,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,
+mazda,CX-30,27990.0,2023,1998cc,10 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,
+mazda,CX-30,27299.0,2023,1998cc,10 miles,Petrol,Manual,Unknown,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,
+mazda,MADZA6,14989.0,2019,2191cc,"52,000 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,181 bhp,137 mph,9.0 seconds,133 g/km
+mazda,MADZA2,6950.0,2015,1496cc,"67,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,CX-5,31990.0,2023,2L,"7,800 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,CX-30,21790.0,2020,2L,"9,653 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,25900.0,2021,2L,"14,796 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,CX-5,27000.0,2021,2L,"11,083 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,CX-60,41000.0,2023,2.5L,"1,899 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,MADZA6,12278.0,2017,2L,"45,935 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,143 bhp,128 mph,9.6 seconds,131 g/km
+mazda,CX-30,16780.0,2021,2L,"10,850 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,MADZA5,6295.0,2011,1560cc,"58,700 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,CX-5,22990.0,2019,1998cc,"19,162 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,MX-5,7995.0,2010,1999cc,"38,966 miles",Petrol,Manual,Silver,Convertible,,,,,,,
+mazda,MADZA2,15495.0,2020,1496cc,"9,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MADZA3,14491.0,2019,1998cc,"54,478 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.8 seconds,128 g/km
+mazda,MADZA2,2985.0,2009,1349cc,"90,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,125 g/km
+mazda,MADZA2,11495.0,2016,1496cc,"31,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.0 seconds,112 g/km
+mazda,MX-5,24950.0,2021,2L,"14,278 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,182 bhp,137 mph,,155 g/km
+mazda,CX-30,16395.0,2020,1998cc,"58,913 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-30,24495.0,2022,2000cc,"8,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,Mazda3,20995.0,2021,2000cc,"25,500 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,177 bhp,131 mph,8.9 seconds,157 g/km
+mazda,Mazda3,25990.0,2023,1998cc,9 miles,Petrol,Manual,Grey,Saloon,4X2,4.0,5.0,184 bhp,134 mph,,117 g/km
+mazda,MADZA2,15341.0,2022,1.5L,"8,392 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,MADZA2,4995.0,2011,1498cc,"55,507 miles",Petrol,Manual,Aquatic Blue Metallic,Hatchback,4X2,5.0,5.0,101 bhp,116 mph,10.7 seconds,135 g/km
+mazda,CX-5,34495.0,2023,1998cc,"3,250 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,163 bhp,119 mph,,156 g/km
+mazda,MADZA2,23795.0,2023,1490cc,"2,250 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,92 g/km
+mazda,MX-5,8995.0,2012,1999cc,"44,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,MX-5,8995.0,2012,1999cc,"55,547 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,CX-5,30995.0,2022,2191cc,"11,600 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,181 bhp,129 mph,,160 g/km
+mazda,CX-5,28995.0,2022,2191cc,"9,600 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,127 mph,,147 g/km
+mazda,CX-5,34950.0,2023,2191cc,"10,500 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,181 bhp,129 mph,,173 g/km
+mazda,MADZA2,9995.0,2018,1496cc,"14,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,117 mph,11.3 seconds,111 g/km
+mazda,CX-30,20495.0,2021,2000cc,"16,183 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,MADZA3,14393.0,2021,2L,"25,362 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MX-5,24000.0,2023,0L,10 miles,Petrol,Manual,Machine Grey Metallic,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,
+mazda,CX-5,25500.0,2023,0L,15 miles,Petrol,Manual,Eternal Blue Mica,Estate,4X2,5.0,5.0,163 bhp,125 mph,,
+mazda,CX-5,31500.0,2023,0L,15 miles,Petrol,Manual,Soul Red Crystal,Estate,4X2,5.0,5.0,163 bhp,125 mph,,
+mazda,MX-5,24200.0,2023,0L,10 miles,Petrol,Manual,Deep Crystal Blue,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,
+mazda,MX-5,24000.0,2023,0L,10 miles,Petrol,Manual,Platinum Quartz Metallic,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,
+mazda,CX-5,14500.0,2019,1998cc,"65,858 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,146 g/km
+mazda,CX-5,24995.0,2020,2.2L,"21,353 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,124 mph,,171 g/km
+mazda,Mazda2,12495.0,2020,1500cc,"29,950 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-5,19100.0,2020,1998cc,"27,646 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-30,19990.0,2020,"24,490 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg,4X4,5.0,5.0,177 bhp,127 mph,,160 g/km
+mazda,CX-5,22250.0,2020,2L,"20,157 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,MX-5,7250.0,2010,2L,"62,733 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,158 bhp,132 mph,7.6 seconds,181 g/km
+mazda,CX-60,34500.0,2023,2.5L,"2,457 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,Mazda2,18623.0,2023,0L,"4,000 miles",Petrol,Manual,Platinum Quartz Metallic,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-30,20490.0,2021,2L,"14,549 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,121 bhp,116 mph,,144 g/km
+mazda,MADZA6,14281.0,2019,2L,"41,285 miles",Petrol,Manual,Red,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.9 seconds,142 g/km
+mazda,CX-60,34995.0,2022,2.5L,"3,300 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,Mazda3,16950.0,2019,2L,"9,637 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,Mazda3,17450.0,2020,2L,"24,280 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,142 g/km
+mazda,CX-30,19495.0,2021,2000cc,"23,178 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,144 g/km
+mazda,CX-30,23995.0,2023,2000cc,"3,800 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,143 g/km
+mazda,CX-30,26995.0,2023,2000cc,"3,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,Mazda3,14599.0,2020,2L,"31,260 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,136 g/km
+mazda,MX-5,3450.0,2004,1839cc,"47,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,143 bhp,130 mph,8.4 seconds,215 g/km
+mazda,CX-5,13800.0,2019,2191cc,"84,310 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,128 g/km
+mazda,Mazda6,10500.0,2019,2191cc,"80,940 miles",Diesel,Manual,Blue,Saloon,4X2,4.0,5.0,147 bhp,131 mph,10.0 seconds,117 g/km
+mazda,MX-5,25999.0,2023,1496cc,25 miles,Petrol,Manual,Machine Grey,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,
+mazda,CX-5,34799.0,2023,1998cc,25 miles,Petrol,Automatic,Machine Grey,SUV,4X2,5.0,5.0,163 bhp,119 mph,,
+mazda,CX-5,20500.0,2019,2L,"30,670 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MX-5,18500.0,2021,1.5L,"5,260 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,142 g/km
+mazda,Mazda3,17195.0,0L,"13,846 miles",Petrol,Manual,PREMIUM METALLIC - MACHINE GRE,Hatchback,48.7 mpg,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-60,37629.0,2022,2.5L,"8,965 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,MADZA2,16795.0,2021,1.5L,"9,188 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda2,14995.0,2021,1500cc,"16,691 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,Mazda2,4195.0,2013,1349cc,"109,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,Mazda6,11999.0,2013,2191cc,"44,965 miles",Diesel,Automatic,BLUE,Estate,4X2,5.0,5.0,173 bhp,134 mph,8.6 seconds,129 g/km
+mazda,CX-3,11800.0,2017,1998cc,"26,813 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,CX-5,18790.0,2018,2191cc,"48,500 miles",Diesel,Automatic,Diamond Silver Metallic,Estate,4X2,5.0,5.0,147 bhp,124 mph,10.7 seconds,143 g/km
+mazda,Mazda6,8495.0,2015,2191cc,"93,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,173 bhp,134 mph,8.6 seconds,129 g/km
+mazda,CX-5,23990.0,2020,1998cc,"22,000 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-3,14989.0,2019,1998cc,"26,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,MADZA2,9495.0,2017,1496cc,"27,095 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.1 seconds,110 g/km
+mazda,Mazda3,17795.0,2020,1998cc,"20,089 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-5,19254.0,2021,1998cc,"32,619 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,162 bhp,125 mph,,154 g/km
+mazda,CX-5,17490.0,2018,2191cc,"45,943 miles",Diesel,Automatic,Red,Estate,4X2,5.0,5.0,147 bhp,124 mph,,147 g/km
+mazda,MADZA3,2995.0,2009,1998cc,"86,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,141 bhp,126 mph,9.9 seconds,162 g/km
+mazda,CX-5,18995.0,2019,1998cc,"40,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,Mazda3,7995.0,2015,1998cc,"67,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,9080.0,2014,2191cc,"86,150 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,147 bhp,121 mph,10.2 seconds,144 g/km
+mazda,MADZA5,4995.0,2013,1560cc,"62,377 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,CX-5,30995.0,2022,2191cc,"17,600 miles",Diesel,Automatic,Red,Estate,4X2,5.0,5.0,181 bhp,129 mph,,160 g/km
+mazda,CX-30,19999.0,2020,2000cc,"26,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,MADZA2,11987.0,2020,1496cc,"18,301 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,,95 g/km
+mazda,MADZA3,14499.0,2016,1998cc,"18,746 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,MADZA3,20000.0,2021,1998cc,"29,895 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.6 seconds,142 g/km
+mazda,MADZA3,15994.0,2018,2L,"12,382 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,CX-5,6795.0,2015,2191cc,"109,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MADZA3,10995.0,2000,2000cc,"122,207 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,119 g/km
+mazda,CX-5,6995.0,2014,2184cc,"104,088 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,173 bhp,129 mph,8.8 seconds,136 g/km
+mazda,CX-3,13799.0,2019,1998cc,"45,604 miles",Petrol,,White,SUV,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,CX-5,20249.0,2020,2191cc,"23,108 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,147 bhp,127 mph,,151 g/km
+mazda,Mazda2,12049.0,2020,1496cc,"51,101 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,94 g/km
+mazda,CX-30,20549.0,2020,1998cc,"15,837 miles",Petrol,,Red,SUV,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,Mazda6,16899.0,2018,1998cc,"21,110 miles",Petrol,,White,Estate,4X2,5.0,5.0,162 bhp,133 mph,9.1 seconds,136 g/km
+mazda,CX-5,17099.0,2019,1998cc,"69,248 miles",Petrol,,Red,SUV,4X2,5.0,5.0,162 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-30,17000.0,2020,2L,"24,733 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA2,22976.0,2023,1.5L,100 miles,Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,92 g/km
+mazda,CX-3,10495.0,2016,1998cc,"63,853 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,CX-30,18990.0,2021,2L,"20,213 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-5,19400.0,2020,2L,"34,488 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,MX-5,14495.0,2018,1.5L,"54,408 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,129 bhp,127 mph,,142 g/km
+mazda,Mazda2,12999.0,2019,1.5L,"24,110 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,12.0 seconds,118 g/km
+mazda,Mazda6,3295.0,2009,1798cc,"80,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,123 mph,11.6 seconds,162 g/km
+mazda,CX-30,19950.0,2021,2L,"26,574 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-5,20715.0,2020,2L,"18,484 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-5,33495.0,2022,2.2L,"11,347 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,181 bhp,129 mph,,173 g/km
+mazda,CX-30,21989.0,2022,1998.0cc,"14,229 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,CX-30,17699.0,2020,1998cc,"29,307 miles",Petrol,,White,SUV,4X2,5.0,5.0,121 bhp,116 mph,,141 g/km
+mazda,MX-5,25996.0,2023,2L,"3,089 miles",Petrol,Manual,GREY,Convertible,4X2,2.0,2.0,182 bhp,136 mph,,155 g/km
+mazda,MADZA3,13298.0,2017,2L,"18,667 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,32995.0,2023,1998cc,10 miles,Petrol,Manual,Eternal Blue,Estate,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-5,30495.0,2023,2L,"1,150 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,CX-3,15690.0,2019,2L,"22,467 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,CX-5,24990.0,2021,2L,"13,134 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MADZA2,13480.0,2019,1.5L,"9,315 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,129 mph,9.0 seconds,127 g/km
+mazda,CX-30,18000.0,2022,2L,"6,965 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,CX-3,13995.0,2017,2L,"15,981 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,MADZA2,13795.0,2019,1.5L,"9,791 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,95 g/km
+mazda,CX-30,18800.0,2021,2000cc,"14,950 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,143 g/km
+mazda,CX-30,19600.0,2020,2000cc,"21,350 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,17600.0,2018,2000cc,"28,248 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,16200.0,2019,2000cc,"59,181 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,145 g/km
+mazda,CX-5,11495.0,2017,2200cc,"49,900 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MX-5,10995.0,2013,2000cc,"47,300 miles",Petrol,Manual,Grey,Coupe,4X2,2.0,2.0,158 bhp,136 mph,7.9 seconds,181 g/km
+mazda,MADZA6,2500.0,2006,1999cc,"62,800 miles",Petrol,Manual,Grey Metallic,Estate,4X2,5.0,5.0,145 bhp,128 mph,9.9 seconds,191 g/km
+mazda,CX-5,17999.0,2018,2.2L,"18,054 miles",Diesel,Automatic,Red,Estate,4X2,5.0,5.0,147 bhp,124 mph,,147 g/km
+mazda,CX-3,9995.0,2015,1998cc,"56,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,MADZA6,13354.0,2018,2.2L,"38,902 miles",Diesel,Manual,Grey,Saloon,4X2,4.0,5.0,173 bhp,139 mph,7.9 seconds,119 g/km
+mazda,CX-30,19981.0,2023,2L,"1,551 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,MADZA2,9000.0,2017,1.5L,"51,363 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,MX-5,14950.0,2017,2L,"14,242 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,CX-5,18000.0,2020,2.2L,"48,542 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,127 mph,,151 g/km
+mazda,MADZA6,19000.0,2020,2L,"13,323 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,143 bhp,128 mph,10.0 seconds,155 g/km
+mazda,CX-5,12395.0,2016,2191cc,"52,500 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,CX-60,46499.0,2023,3283cc,"1,079 miles",Diesel Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,251 bhp,136 mph,,139 g/km
+mazda,CX-5,31799.0,2023,1998cc,"3,950 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,Mazda5,5395.0,2012,1560cc,"67,000 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,CX-5,19000.0,2019,1998cc,"52,538 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-5,16998.0,2018,2.2L,"37,955 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,128 g/km
+mazda,MADZA3,16998.0,2020,2L,"37,169 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-30,16698.0,2020,2L,"30,636 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,CX-5,18000.0,2018,2L,"42,000 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,Mazda2,11830.0,2019,1496cc,"30,969 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,CX-30,28995.0,2023,2L,"1,505 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,184 bhp,127 mph,,128 g/km
+mazda,MADZA2,6790.0,2014,1349cc,"40,000 miles",Petrol,Manual,True Red,Hatchback,4X2,5.0,5.0,83 bhp,107 mph,12.9 seconds,115 g/km
+mazda,CX-5,26495.0,2023,1998cc,"4,468 miles",Petrol,Automatic,Deep Crystal Blue,Estate,4X2,5.0,5.0,162 bhp,119 mph,,166 g/km
+mazda,MADZA6,3390.0,2013,2191cc,"146,000 miles",Diesel,Manual,Red,Saloon,4X2,4.0,5.0,147 bhp,131 mph,9.1 seconds,104 g/km
+mazda,CX-5,8150.0,2015,2191cc,"99,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MADZA3,4495.0,2012,1598cc,"80,366 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,112 mph,12.2 seconds,147 g/km
+mazda,MX-5,7495.0,2010,1999cc,"45,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,2.0,158 bhp,135 mph,7.9 seconds,177 g/km
+mazda,MADZA2,8995.0,2017,1496cc,"38,480 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,CX-3,8995.0,2016,1499cc,"75,053 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,103 bhp,107 mph,10.5 seconds,123 g/km
+mazda,MADZA6,7250.0,2013,2191cc,"80,912 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,173 bhp,139 mph,7.9 seconds,119 g/km
+mazda,MADZA5,5495.0,2011,1560cc,"85,600 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MADZA5,7345.0,2015,1560cc,"63,000 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,114 bhp,111 mph,13.7 seconds,138 g/km
+mazda,MX-5,3990.0,2005,1839cc,"122,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,143 bhp,127 mph,8.5 seconds,210 g/km
+mazda,CX-5,6490.0,2012,2191cc,"92,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MADZA6,6490.0,2015,2191cc,"120,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.2 seconds,116 g/km
+mazda,MX-5,7495.0,2013,1798cc,"64,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,MADZA2,7495.0,2015,1496cc,"76,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,8.7 seconds,117 g/km
+mazda,MADZA3,11495.0,2014,1998cc,"25,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,MADZA2,3495.0,2008,1349cc,"83,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,12.9 seconds,129 g/km
+mazda,CX-5,12495.0,2018,2191cc,"94,243 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,CX-5,13995.0,2018,2191cc,"87,353 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,124 mph,,147 g/km
+mazda,CX-3,14495.0,2018,1998cc,"24,336 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,120 bhp,119 mph,,141 g/km
+mazda,MADZA6,12495.0,2017,1998cc,"39,820 miles",Petrol,Manual,Red,Saloon,4X2,4.0,5.0,162 bhp,134 mph,9.1 seconds,135 g/km
+mazda,CX-30,19999.0,2020,1998cc,"17,697 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MADZA6,9495.0,2018,2191cc,"59,000 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,147 bhp,131 mph,9.1 seconds,107 g/km
+mazda,MADZA2,7995.0,2014,1498cc,"31,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,106 mph,11.9 seconds,145 g/km
+mazda,MADZA6,8937.0,2013,2191cc,"38,533 miles",Diesel,Manual,BLACK,Saloon,4X2,4.0,5.0,173 bhp,139 mph,7.9 seconds,119 g/km
+mazda,MADZA2,1695.0,2010,1498cc,"103,676 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,5.0,102 bhp,117 mph,10.4 seconds,135 g/km
+mazda,CX-30,22894.0,2021,1998.0cc,"7,000 miles",Petrol,Automatic,Mica - Deep Crystal Blue,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,144 g/km
+mazda,CX-30,20900.0,2022,1998.0cc,"9,246 miles",Petrol,Manual,Metallic - Polymetal Grey,Hatchback,4X4,5.0,5.0,184 bhp,127 mph,,137 g/km
+mazda,CX-5,21740.0,2020,2L,"17,653 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,MADZA3,10986.0,2016,2L,"47,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,15477.0,2018,2.2L,"40,458 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,CX-30,15995.0,2020,2L,"33,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,177 bhp,127 mph,,105 g/km
+mazda,MX-5,14890.0,2016,1.5L,"9,500 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,MADZA2,23995.0,2023,1.5L,750 miles,Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,115 bhp,109 mph,,87 g/km
+mazda,MADZA6,12495.0,2016,2.2L,"43,115 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,173 bhp,134 mph,8.4 seconds,127 g/km
+mazda,CX-3,10495.0,2016,2L,"52,279 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,CX-5,10400.0,2016,2.2L,"91,699 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,173 bhp,127 mph,9.4 seconds,144 g/km
+mazda,CX-30,26995.0,2023,1998cc,10 miles,Petrol,Automatic,Soul Red,Hatchback,4X2,5.0,5.0,184 bhp,127 mph,,138 g/km
+mazda,Mazda2,20495.0,2023,1496cc,10 miles,Petrol,Manual,Snowflake White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-5,32495.0,2023,1998cc,10 miles,Petrol,Manual,Jet Black Mica,Estate,4X2,5.0,5.0,163 bhp,125 mph,,146 g/km
+mazda,Mazda2,16980.0,2021,1496cc,"10,005 miles",Petrol,Automatic,Soul Red Crystal,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,,122 g/km
+mazda,MX-5,16990.0,2021,1496cc,"23,500 miles",Petrol,Manual,Deep Blue Metallic,Convertible,4X2,2.0,2.0,130 bhp,126 mph,,142 g/km
+mazda,MADZA2,7995.0,2016,1496cc,"60,111 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,8.7 seconds,117 g/km
+mazda,MX-5,23990.0,2023,1496cc,181 miles,Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,130 bhp,126 mph,,142 g/km
+mazda,Mazda2,15990.0,2022,1496cc,"13,161 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,Mazda6,17999.0,2019,1998cc,"30,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,162 bhp,133 mph,9.4 seconds,148 g/km
+mazda,CX-5,14995.0,2017,2200cc,"70,877 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,124 mph,,147 g/km
+mazda,CX-5,15495.0,2018,2200cc,"60,756 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,147 bhp,127 mph,,132 g/km
+mazda,MADZA2,11750.0,2020,1.5L,"17,857 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,95 g/km
+mazda,MX-5,16980.0,2019,2L,"12,166 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,182 bhp,136 mph,6.8 seconds,156 g/km
+mazda,CX-5,9650.0,2016,2184cc,"96,022 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,173 bhp,129 mph,8.8 seconds,136 g/km
+mazda,Mazda2,8775.0,0L,"48,963 miles",Petrol,Manual,Deep Crystal Blue,Hatchback,56.5 mpg,4X2,5.0,5.0,114 bhp,124 mph,8.7 seconds,117 g/km
+mazda,MX-5,13999.0,2019,1496cc,"25,879 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,130 bhp,127 mph,,138 g/km
+mazda,MX-5,12795.0,2016,1998cc,"44,340 miles",Petrol,Manual,Ruby Red,Convertible,4X2,2.0,2.0,158 bhp,133 mph,7.3 seconds,161 g/km
+mazda,Mazda2,10495.0,2018,1496cc,"29,826 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,9.4 seconds,105 g/km
+mazda,CX-3,11308.0,2017,1998cc,"57,985 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,Mazda3,12350.0,2021,1998cc,"58,931 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,CX-5,13399.0,2014,2184cc,"26,000 miles",Diesel,Automatic,SOUL RED METALLIC,Estate,4X4,5.0,5.0,173 bhp,127 mph,9.4 seconds,144 g/km
+mazda,MADZA2,4495.0,2013,1349cc,"54,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,MADZA3,9750.0,2016,1998cc,"49,366 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,10995.0,2017,2191cc,"71,500 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,CX-5,8891.0,2014,2191cc,"67,000 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,MX-5,2995.0,2006,1800cc,"81,000 miles",Petrol,Manual,Red,Other,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,CX-5,19199.0,2019,2191cc,"20,424 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,147 bhp,127 mph,9.9 seconds,128 g/km
+mazda,CX-3,15989.0,2018,1998.0cc,"6,261 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,Mazda3,17199.0,2022,1998cc,"11,647 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,CX-3,12990.0,2017,2L,"32,962 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,,137 g/km
+mazda,MADZA2,16950.0,2023,1.5L,"2,308 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-5,21490.0,2021,2L,"15,182 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,CX-3,13298.0,2018,2L,"62,176 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,CX-30,21500.0,2021,2L,"6,317 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,22990.0,2020,2L,"30,031 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-3,13980.0,2017,2L,"14,300 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,118 bhp,116 mph,9.9 seconds,136 g/km
+mazda,CX-5,19995.0,2020,2L,"20,028 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,162 bhp,125 mph,,160 g/km
+mazda,CX-60,39900.0,2023,2.5L,88 miles,Hybrid,Automatic,White,SUV,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,MADZA3,22750.0,2023,2L,"1,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,127 g/km
+mazda,Mazda2,11980.0,2020,1496cc,"45,916 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,CX-30,26995.0,2023,1998cc,10 miles,Petrol,Automatic,Soul Red,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,143 g/km
+mazda,CX-3,10990.0,2016,1998cc,"29,574 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,9.0 seconds,137 g/km
+mazda,CX-5,21990.0,2021,1998cc,"14,873 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,162 bhp,125 mph,,152 g/km
+mazda,CX-60,39990.0,2022,2488cc,"6,073 miles",Petrol/PlugIn Elec Hybrid,Automatic,Grey,Estate,4X4,5.0,5.0,323 bhp,124 mph,,33 g/km
+mazda,CX-30,24995.0,2022,2000cc,"4,246 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,
+mazda,MADZA3,6495.0,2015,2191cc,"85,479 miles",Diesel,Manual,Red,Saloon,4X2,4.0,5.0,147 bhp,132 mph,8.0 seconds,104 g/km
+mazda,CX-5,14995.0,2018,1998cc,"48,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,162 bhp,120 mph,,149 g/km
+mazda,MX-5,8190.0,2014,1800cc,"47,393 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,125 bhp,121 mph,9.9 seconds,167 g/km
+mazda,Mazda3,4895.0,2013,1598cc,"78,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,112 mph,12.2 seconds,144 g/km
+mazda,Mazda6,11995.0,2017,2191cc,"53,012 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,173 bhp,134 mph,8.4 seconds,127 g/km
+mazda,MADZA3,13498.0,2017,2L,"16,641 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,MADZA2,12000.0,2020,1.5L,"22,658 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,121 g/km
+mazda,CX-5,21500.0,2020,2L,"34,075 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,173 g/km
+mazda,CX-30,17995.0,2020,2L,"41,406 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,CX-5,29499.0,2022,2191cc,"8,192 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,181 bhp,129 mph,,160 g/km
+mazda,CX-5,29499.0,2022,2191cc,"6,275 miles",Diesel,Automatic,Bronze,SUV,4X2,5.0,5.0,147 bhp,124 mph,,160 g/km
+mazda,CX-5,27499.0,2022,2191cc,"10,159 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,127 mph,,147 g/km
+mazda,CX-5,24850.0,2021,2191cc,"30,736 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,181 bhp,129 mph,,173 g/km
+mazda,CX-5,8995.0,2016,2.2L,"66,068 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,CX-3,15980.0,2019,2L,"21,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,120 bhp,116 mph,9.9 seconds,140 g/km
+mazda,MADZA2,15995.0,2023,1496cc,"7,507 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-5,10650.0,2015,2191cc,"79,214 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,173 bhp,127 mph,9.4 seconds,144 g/km
+mazda,CX-3,13950.0,2019,1998cc,"18,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,120 bhp,119 mph,9.0 seconds,141 g/km
+mazda,MADZA6,8990.0,2017,2191cc,"82,350 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,126 mph,10.0 seconds,129 g/km
+mazda,CX-5,8495.0,2014,2191cc,"97,000 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,123 mph,10.0 seconds,139 g/km
+mazda,CX-5,9495.0,2015,2184cc,"84,714 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,173 bhp,127 mph,9.4 seconds,144 g/km
+mazda,MADZA6,13950.0,2019,1998cc,"25,161 miles",Petrol,Manual,Black,Saloon,4X2,4.0,5.0,143 bhp,129 mph,9.9 seconds,142 g/km
+mazda,CX-3,10356.0,2016,1499cc,"40,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,103 bhp,107 mph,10.5 seconds,123 g/km
+mazda,CX-5,16495.0,2019,1998cc,"26,733 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,163 bhp,125 mph,10.3 seconds,146 g/km
+mazda,MADZA5,4495.0,2011,1999cc,"99,000 miles",Petrol,Manual,Blue,MPV,4X2,5.0,7.0,147 bhp,121 mph,11.0 seconds,159 g/km
+mazda,MADZA2,6995.0,2015,1499cc,"63,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,111 mph,10.1 seconds,89 g/km
+mazda,MX-5,2995.0,2006,1798cc,"75,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,125 bhp,122 mph,9.4 seconds,174 g/km
+mazda,MADZA3,12094.0,2020,1998cc,"62,884 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,10.4 seconds,136 g/km
+mazda,MADZA2,12588.0,2018,1498cc,"31,556 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,117 mph,9.7 seconds,111 g/km
+mazda,Mazda3,24584.0,2024,1998.0cc,"2,000 miles",Petrol,Manual,Mica - Deep Crystal Blue,Hatchback,4X2,5.0,5.0,184 bhp,134 mph,,120 g/km
+mazda,MADZA6,10495.0,2016,2.2L,"47,888 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,110 g/km
+mazda,CX-5,23496.0,2020,2L,"9,124 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,163 bhp,119 mph,9.8 seconds,150 g/km
+mazda,CX-30,19986.0,2021,2L,"15,533 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,177 bhp,127 mph,,133 g/km
+mazda,MX-5,11890.0,2016,1496cc,"29,150 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,129 bhp,127 mph,8.3 seconds,139 g/km
+mazda,CX-5,13495.0,2017,2200cc,"41,099 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km
+mazda,Mazda3,13995.0,2018,2000cc,"37,879 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.4 seconds,129 g/km
+mazda,Mazda3,10995.0,2017,2000cc,"49,193 miles",Petrol,Manual,Unknown,Saloon,4X2,4.0,5.0,118 bhp,123 mph,8.8 seconds,119 g/km
+mazda,CX-5,19450.0,0L,"38,196 miles",Petrol,Manual,GREY,SUV,41.5 mpg,4X2,5.0,5.0,162 bhp,125 mph,,153 g/km
+mazda,MADZA2,13750.0,2022,1.5L,"11,275 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,,107 g/km
+mazda,CX-30,21999.0,2022,1998cc,"15,359 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,184 bhp,127 mph,,149 g/km
+mazda,MADZA3,16990.0,2020,2L,"22,565 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,177 bhp,134 mph,8.2 seconds,131 g/km
+mazda,CX-5,14495.0,2020,1998cc,"90,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,162 bhp,125 mph,,163 g/km
+mazda,MADZA3,17995.0,2022,1998cc,"4,739 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,122 mph,,124 g/km
+mazda,MADZA6,6995.0,2015,2191cc,"88,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,110 g/km
+mazda,CX-30,20995.0,2022,1998cc,"6,153 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,121 bhp,116 mph,,134 g/km
+mazda,MADZA2,15299.0,2021,"21,500 miles",Petrol,Manual,Silver,Hatchback,53.3 mpg,4X2,5.0,5.0,88 bhp,114 mph,,120 g/km
+mazda,MX-5,3750.0,2006,1800cc,"96,000 miles",Petrol,Manual,Blue,Convertible,,2.0,2.0,130 bhp,,,0 g/km
+mazda,MADZA2,2395.0,2012,1349cc,"124,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.0 seconds,115 g/km
+mazda,MADZA3,7995.0,2014,1998cc,"80,640 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,162 bhp,130 mph,8.2 seconds,135 g/km
+mazda,MADZA2,3995.0,2011,1498cc,"64,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,101 bhp,116 mph,10.7 seconds,135 g/km
+mazda,Mazda2,11984.0,2020,1496.0cc,"22,997 miles",Petrol,Manual,Mica - Eternal Blue,Hatchback,,,,,,,
+mazda,MADZA3,10299.0,2017,1998cc,"14,900 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,8.9 seconds,119 g/km
+mazda,CX-5,7495.0,2012,2191cc,"75,613 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.2 seconds,119 g/km

@@ -1,0 +1,64 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+alfa,Romeo Stelvio,67991.0,2019,2891cc,"26,146 miles",Petrol,Automatic,GREY,Estate,,,,,,,
+alfa,Romeo Giulia,16450.0,2017,2143cc,"34,000 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,4.0,148 bhp,137 mph,,109 g/km
+alfa,Romeo Giulietta,16049.0,2020,1368cc,"14,031 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,9.4 seconds,168 g/km
+alfa,Romeo Stelvio,47490.0,2020,2.9L,"19,298 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,504 bhp,176 mph,,
+alfa,Romeo Mito,4595.0,2012,1368cc,"107,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,168 bhp,136 mph,7.5 seconds,139 g/km
+alfa,Romeo Giulietta,14995.0,2014,1742cc,"57,000 miles",Petrol,Automatic,RED,Hatchback,,,,,,,
+alfa,Romeo Giulietta,5595.0,2016,1368cc,"111,184 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,9.4 seconds,144 g/km
+alfa,Romeo Mito,3350.0,2010,1598cc,"71,333 miles",Diesel,Manual,RED,Hatchback,4X2,3.0,4.0,118 bhp,123 mph,9.9 seconds,126 g/km
+alfa,Romeo Mito,2995.0,2009,1368cc,"117,000 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,118 bhp,123 mph,8.8 seconds,145 g/km
+alfa,Romeo Giulia,23599.0,2020,1995cc,"39,088 miles",Petrol,,Blue,Saloon,4X2,4.0,4.0,198 bhp,146 mph,,176 g/km
+alfa,Romeo Giulietta,15990.0,2019,1956cc,"23,884 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,170 bhp,133 mph,,130 g/km
+alfa,Romeo Giulietta,5699.0,2011,1956cc,"60,056 miles",Diesel,Manual,Bianco,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.0 seconds,119 g/km
+alfa,Romeo Giulia,42263.0,2019,2.9L,"24,250 miles",Petrol,Semiauto,Black,Saloon,4X2,4.0,4.0,504 bhp,191 mph,3.9 seconds,206 g/km
+alfa,Romeo Giulietta,12200.0,2019,1368cc,"37,715 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,9.4 seconds,164 g/km
+alfa,Romeo GTV,3495.0,2002,1970cc,"138,000 miles",Petrol,Manual,Blue,Coupe,4X2,2.0,4.0,147 bhp,137 mph,8.5 seconds,220 g/km
+alfa,Romeo Giulietta,8950.0,2015,1956cc,"55,000 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,172 bhp,136 mph,7.8 seconds,113 g/km
+alfa,Romeo Giulietta,12049.0,2019,1368cc,"36,513 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,,164 g/km
+alfa,Romeo Stelvio,36649.0,2022,2L,"18,682 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,276 bhp,143 mph,,197 g/km
+alfa,Romeo Giulietta,9499.0,2019,1368cc,"50,875 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,9.4 seconds,164 g/km
+alfa,Romeo 147,9995.0,2005,3170cc,"56,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,5.0,247 bhp,153 mph,6.3 seconds,0 g/km
+alfa,Romeo Giulietta,4995.0,2016,1956cc,"143,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,8.8 seconds,110 g/km
+alfa,Romeo Mito,5995.0,2015,1598cc,"51,245 miles",Diesel,Manual,BLACK,Hatchback,4X2,3.0,4.0,118 bhp,123 mph,9.9 seconds,112 g/km
+alfa,Romeo Stelvio,28679.0,2019,2L,"30,898 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,276 bhp,143 mph,5.7 seconds,182 g/km
+alfa,Romeo Giulia,39490.0,2019,2.9L,"38,646 miles",Petrol,Semiauto,Grey,Saloon,4X2,4.0,4.0,504 bhp,191 mph,3.9 seconds,206 g/km
+alfa,Romeo Mito,6995.0,2017,875cc,"67,435 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,105 bhp,114 mph,,99 g/km
+alfa,Romeo Stelvio,19495.0,2018,2143cc,"62,215 miles",Diesel,Automatic,Black,Estate,,,,,,,
+alfa,Romeo Giulia,20907.0,2017,1995cc,"34,444 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,4.0,276 bhp,149 mph,5.7 seconds,141 g/km
+alfa,Romeo Giulia,37970.0,2017,2891cc,"52,000 miles",Petrol,Automatic,RED,Saloon,4X2,4.0,4.0,504 bhp,191 mph,3.9 seconds,189 g/km
+alfa,Romeo Giulia,20499.0,2019,1995cc,"61,603 miles",Petrol,,White,Saloon,4X2,4.0,4.0,276 bhp,149 mph,,159 g/km
+alfa,Romeo Stelvio,21995.0,2019,2.2L,"50,600 miles",Diesel,Semiauto,Grey,SUV,4X4,5.0,5.0,188 bhp,130 mph,7.6 seconds,147 g/km
+alfa,Romeo Giulietta,9990.0,2019,1598cc,"63,266 miles",Diesel,Semi Auto,GREY,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.2 seconds,125 g/km
+alfa,Romeo Mito,6490.0,2016,875cc,"44,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,103 bhp,114 mph,11.4 seconds,99 g/km
+alfa,Romeo Giulia,22999.0,2019,1995cc,"32,460 miles",Petrol,,Grey,Saloon,4X2,4.0,4.0,276 bhp,149 mph,,159 g/km
+alfa,Romeo Giulia,26490.0,2020,2L,"20,777 miles",Petrol,Semiauto,Grey,Saloon,4X2,4.0,4.0,276 bhp,149 mph,,191 g/km
+alfa,Romeo Giulietta,16199.0,2020,1368cc,"27,503 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,,168 g/km
+alfa,Romeo Giulia,17699.0,2018,2143cc,"56,189 miles",Diesel,,Black,Saloon,4X2,4.0,4.0,178 bhp,143 mph,,109 g/km
+alfa,Romeo Stelvio,46590.0,2023,2000cc,7 miles,Petrol,Automatic,Other,33.2 mpg,4X4,5.0,5.0,276 bhp,143 mph,,
+alfa,Romeo 156,2495.0,2002,1598cc,"81,000 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,118 bhp,124 mph,11.0 seconds,198 g/km
+alfa,Romeo Giulietta,16500.0,2021,1.4L,"26,468 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,,168 g/km
+alfa,Romeo Giulia,24000.0,2019,2L,"32,747 miles",Petrol,Semiauto,Grey,Saloon,4X2,4.0,4.0,276 bhp,149 mph,,160 g/km
+alfa,Romeo Stelvio,23495.0,2017,2143cc,"35,200 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,207 bhp,134 mph,6.6 seconds,127 g/km
+alfa,Romeo Giulia,20999.0,2017,1995cc,"28,566 miles",Petrol,Automatic,White,Saloon,4X2,4.0,4.0,276 bhp,149 mph,5.7 seconds,141 g/km
+alfa,Romeo Giulia,27990.0,2019,1995cc,"27,500 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,4.0,276 bhp,149 mph,,158 g/km
+alfa,Romeo Giulia,23995.0,2017,1995cc,"19,350 miles",Petrol,Automatic,RED,Saloon,4X2,4.0,4.0,276 bhp,149 mph,5.7 seconds,141 g/km
+alfa,Romeo Giulietta,13998.0,2020,1.4L,"41,809 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,,168 g/km
+alfa,Romeo Giulietta,13700.0,2017,1742cc,"54,482 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,237 bhp,152 mph,6.0 seconds,157 g/km
+alfa,Romeo Giulietta,14298.0,2020,1.4L,"25,328 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,9.4 seconds,172 g/km
+alfa,Romeo Giulietta,3500.0,2012,1956cc,"129,251 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.0 seconds,119 g/km
+alfa,Romeo Mito,10739.0,2018,875cc,"14,838 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,105 bhp,114 mph,,99 g/km
+alfa,Romeo Giulietta,3500.0,2013,1956cc,"106,941 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,168 bhp,135 mph,8.0 seconds,124 g/km
+alfa,Romeo Giulietta,7250.0,2015,1598cc,"54,500 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,115 mph,11.3 seconds,104 g/km
+alfa,Romeo Giulietta,10049.0,2019,1598cc,"56,964 miles",Diesel,,Blue,Hatchback,4X2,5.0,5.0,118 bhp,121 mph,10.0 seconds,119 g/km
+alfa,Romeo Giulia,18990.0,2017,2L,"34,700 miles",Petrol,Semiauto,Blue,Saloon,4X2,4.0,4.0,276 bhp,149 mph,5.7 seconds,141 g/km
+alfa,Romeo Giulietta,9399.0,2016,1368cc,"73,341 miles",Petrol,Automatic,Rosso Alfa Ewd,Hatchback,4X2,5.0,5.0,168 bhp,135 mph,7.7 seconds,114 g/km
+alfa,Romeo Giulietta,5490.0,2014,1598cc,"85,125 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,115 mph,11.3 seconds,104 g/km
+alfa,Romeo Giulietta,3495.0,2012,1956cc,"108,694 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.0 seconds,119 g/km
+alfa,Romeo Giulietta,5549.0,2015,1956cc,"85,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,8.8 seconds,110 g/km
+alfa,Romeo Giulietta,4890.0,2011,1368cc,"61,876 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,168 bhp,135 mph,7.8 seconds,134 g/km
+alfa,Romeo Giulietta,3995.0,2012,1956cc,"104,600 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.0 seconds,119 g/km
+alfa,Romeo Brera,10495.0,2008,2198cc,"37,600 miles",Petrol,Automatic,GREY/BROWN,Coupe,,,,,,,
+alfa,Romeo Giulietta,8290.0,2014,1368cc,"71,023 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,168 bhp,135 mph,7.7 seconds,119 g/km
+alfa,Romeo Tonale,43495.0,2023,1332cc,280 miles,Other,Automatic,Blue,Hatchback,4X4,5.0,5.0,276 bhp,128 mph,,29 g/km
+alfa,Romeo Giulietta,5790.0,2013,1598cc,"36,690 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,115 mph,11.3 seconds,114 g/km

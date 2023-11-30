@@ -1,0 +1,694 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+jaguar,E-PACE,23000.0,2017,1997cc,"46,500 miles",Petrol,Automatic,BLACK,Estate,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,174 g/km
+jaguar,XE,11495.0,2015,1999cc,"58,958 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XE,13490.0,2015,1999cc,"65,000 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,F-PACE,21990.0,2018,1999cc,"70,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,19999.0,2019,2L,"21,504 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,21999.0,2018,2L,"23,583 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,147 g/km
+jaguar,F-PACE,26999.0,2020,2L,"63,282 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,XE,13499.0,2017,2L,"60,700 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XF,17499.0,2018,2L,"43,388 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,XF,35990.0,2023,1998cc,"11,866 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,201 bhp,146 mph,7.6 seconds,138 g/km
+jaguar,E-PACE,24795.0,2020,2L,"43,417 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,E-PACE,19000.0,2019,1999cc,"31,281 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,F-TYPE,35995.0,2017,5000cc,"66,000 miles",Petrol,Automatic,Red,Coupe,4X4,2.0,2.0,541 bhp,186 mph,4.1 seconds,269 g/km
+jaguar,XK8,11995.0,2001,3996cc,"66,000 miles",Petrol,Automatic,Blue,Convertible,,,,,,,
+jaguar,F-PACE,27995.0,2020,1999cc,"35,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,F-PACE,19990.0,2017,2993cc,"81,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,XE,18490.0,2017,1999cc,"25,050 miles",Diesel,Automatic,Black,Saloon,4X4,4.0,5.0,237 bhp,155 mph,,137 g/km
+jaguar,I-PACE,24500.0,2020,1L,"33,335 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,XF,8671.0,2014,2993cc,"110,000 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,X Type,3290.0,2009,1998cc,"75,079 miles",Diesel,Manual,BLUE,Saloon,4X2,4.0,5.0,129 bhp,125 mph,9.5 seconds,149 g/km
+jaguar,E-PACE,27600.0,2019,1999cc,"42,075 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,E-PACE,22049.0,2018,1999cc,"36,854 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,XJ,26549.0,2017,2995cc,"33,064 miles",Petrol,,Blue,Saloon,4X2,4.0,5.0,296 bhp,155 mph,5.9 seconds,155 g/km
+jaguar,E-PACE,23949.0,2019,1999cc,"35,631 miles",Diesel,,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XF,27799.0,2018,2993cc,"31,082 miles",Diesel,,Black,Estate,4X2,5.0,5.0,296 bhp,155 mph,6.6 seconds,164 g/km
+jaguar,F-PACE,17949.0,2018,1999cc,"59,121 miles",Diesel,,Black,SUV,4X2,5.0,5.0,161 bhp,121 mph,10.2 seconds,150 g/km
+jaguar,XF,12549.0,2017,1999cc,"62,428 miles",Diesel,,Black,Saloon,4X2,4.0,5.0,161 bhp,132 mph,,104 g/km
+jaguar,XF,18990.0,2020,2L,"50,900 miles",Petrol,Automatic,BLUE,Saloon,,,,,,,
+jaguar,F-PACE,26000.0,2020,2000cc,"45,652 miles",Diesel,Automatic,BLACK,Estate,,,,,,,
+jaguar,XE,13299.0,2016,2L,"31,823 miles",Diesel,Automatic,Red,Saloon,,,,,,,
+jaguar,F-PACE,25999.0,2020,2L,"69,282 miles",Diesel,Automatic,Black,SUV,,,,,,,
+jaguar,F-PACE,26599.0,2020,2L,"47,200 miles",Diesel,Automatic,Blue,SUV,,,,,,,
+jaguar,E-PACE,26900.0,2019,1999cc,"37,371 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,27900.0,2020,1999cc,"53,681 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,E-PACE,25490.0,2019,1999cc,"24,327 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,28780.0,2020,2L,"40,108 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,189 g/km
+jaguar,E-PACE,30240.0,2020,2L,"14,211 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,197 g/km
+jaguar,F-PACE,57442.0,2023,2L,"7,499 miles",Hybrid,Automatic,Other,SUV,4X4,5.0,5.0,399 bhp,149 mph,5.3 seconds,51 g/km
+jaguar,F-PACE,29723.0,2019,2L,"35,378 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-PACE,42500.0,2021,1997cc,"17,500 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.3 seconds,219 g/km
+jaguar,E-PACE,18800.0,2019,2L,"33,905 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,10.1 seconds,146 g/km
+jaguar,F-PACE,45000.0,2022,2996cc,"9,464 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,296 bhp,143 mph,6.4 seconds,196 g/km
+jaguar,XE,18999.0,2015,2995cc,"40,100 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,335 bhp,155 mph,5.1 seconds,194 g/km
+jaguar,E-PACE,26999.0,2020,1997cc,"38,300 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,F-TYPE,39500.0,2016,2995cc,"22,000 miles",Petrol,Automatic,White,Coupe,4X4,2.0,2.0,375 bhp,171 mph,5.1 seconds,211 g/km
+jaguar,XF,10799.0,2009,5000cc,"87,500 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,513 bhp,155 mph,4.9 seconds,292 g/km
+jaguar,F-TYPE,47999.0,2020,5000cc,"30,000 miles",Petrol,Automatic,Grey,Coupe,4X4,2.0,2.0,444 bhp,177 mph,4.4 seconds,249 g/km
+jaguar,XF,10995.0,2014,2179cc,"61,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,197 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,XE,20995.0,2019,1999cc,"35,251 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,XE,8950.0,2016,1999cc,"87,254 miles",Diesel,Manual,SILVER,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.4 seconds,99 g/km
+jaguar,F-PACE,19874.0,2016,1999cc,"57,266 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XF,10975.0,2014,2179cc,"46,238 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,XE,11995.0,2017,1999cc,"77,500 miles",Diesel,Automatic,BLUE,Saloon,4X4,4.0,5.0,177 bhp,140 mph,7.9 seconds,123 g/km
+jaguar,XF,21000.0,2019,1997cc,"44,500 miles",Petrol,Automatic,WHITE,Saloon,4X4,4.0,5.0,296 bhp,155 mph,5.9 seconds,170 g/km
+jaguar,XE,14800.0,2018,1999cc,"53,600 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,137 g/km
+jaguar,F-PACE,15995.0,2017,1999cc,"110,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,161 bhp,121 mph,10.2 seconds,129 g/km
+jaguar,XF,9995.0,2014,2179cc,"85,208 miles",Diesel,Automatic,GREEN,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,135 g/km
+jaguar,XE,21995.0,2020,1999cc,"35,000 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,148 g/km
+jaguar,XF,19500.0,2018,1997cc,"31,461 miles",Petrol,Automatic,WHITE,Estate,4X2,5.0,5.0,247 bhp,150 mph,6.9 seconds,170 g/km
+jaguar,F-TYPE,34895.0,2014,5000cc,"29,165 miles",Petrol,Automatic,GREY,Coupe,4X2,2.0,2.0,543 bhp,186 mph,4.2 seconds,259 g/km
+jaguar,F-PACE,33949.0,2020,2993cc,"20,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,206 g/km
+jaguar,E-PACE,14995.0,2019,1999cc,"79,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,27896.0,2019,1997cc,"13,516 miles",Petrol,Automatic,SILVER,Estate,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,185 g/km
+jaguar,XF,13995.0,2016,1999cc,"53,736 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.7 seconds,109 g/km
+jaguar,XE,25995.0,2021,1997cc,"19,553 miles",Petrol,Automatic,RED,Saloon,4X2,4.0,5.0,247 bhp,150 mph,6.5 seconds,179 g/km
+jaguar,XE,9975.0,2015,1999cc,"71,485 miles",Diesel,Automatic,SILVER,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,F-PACE,23495.0,2019,1999cc,"50,000 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,152 g/km
+jaguar,F-PACE,22299.0,2018,1999cc,"40,761 miles",Diesel,,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,21708.0,2019,2L,"19,500 miles",Diesel,Manual,RED,4x4,4X4,5.0,5.0,178 bhp,128 mph,9.4 seconds,149 g/km
+jaguar,XKR,18995.0,1999,3996cc,"65,000 miles",Petrol,Automatic,Silver,Convertible,,,,,,,
+jaguar,XE,13295.0,2018,1999cc,"38,726 miles",Diesel,Automatic,Bronze,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,XF,17700.0,2017,2995cc,"69,635 miles",Petrol,Automatic,White,Saloon,4X2,4.0,5.0,375 bhp,155 mph,5.3 seconds,198 g/km
+jaguar,XF,11995.0,2018,1999cc,"106,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,F-PACE,44990.0,2022,1997cc,"8,205 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,247 bhp,135 mph,7.3 seconds,222 g/km
+jaguar,S Type,4995.0,2007,2720cc,"80,000 miles",Diesel,Manual,Red,Saloon,4X2,4.0,5.0,206 bhp,141 mph,8.6 seconds,208 g/km
+jaguar,F-PACE,58490.0,2023,2997cc,"5,791 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,296 bhp,143 mph,,195 g/km
+jaguar,F-TYPE,41700.0,2017,3L,"10,431 miles",Petrol,Automatic,Black,Coupe,4X4,2.0,2.0,395 bhp,171 mph,,211 g/km
+jaguar,F-PACE,26799.0,2019,2L,"34,491 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,179 g/km
+jaguar,XE,29399.0,2021,2L,"4,319 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,137 g/km
+jaguar,F-PACE,27699.0,2019,2L,"44,059 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-PACE,27499.0,2019,2L,"39,241 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,E-PACE,27699.0,2020,2L,"16,164 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,XE,14523.0,2017,2L,"41,715 miles",Diesel,Automatic,Other,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,E-PACE,23399.0,2019,2L,"14,925 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,10.1 seconds,148 g/km
+jaguar,E-PACE,23199.0,2018,2L,"44,277 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,,147 g/km
+jaguar,E-PACE,27799.0,2020,2L,"21,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,E-PACE,29079.0,2020,2L,"7,812 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,XE,11000.0,2015,2L,"66,810 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,XF,28916.0,2019,3L,"35,266 miles",Diesel,Automatic,Red,Estate,4X2,5.0,5.0,296 bhp,155 mph,6.6 seconds,160 g/km
+jaguar,XF,18250.0,2017,3L,"48,914 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.4 seconds,144 g/km
+jaguar,XE,24495.0,2019,2L,"4,601 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,159 g/km
+jaguar,F-PACE,25500.0,2017,2L,"33,672 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,170 g/km
+jaguar,E-PACE,46999.0,2023,1.5L,"5,359 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,35 g/km
+jaguar,XF,37999.0,2023,2L,"6,298 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,201 bhp,146 mph,7.6 seconds,140 g/km
+jaguar,XE,28490.0,2020,1999cc,"13,000 miles",Diesel,Automatic,METALLIC SANTORINI BLACK,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,153 g/km
+jaguar,E-PACE,23990.0,2018,1999cc,"47,000 miles",Diesel,Automatic,METALLIC CORRIS GREY,Other,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,XE,7990.0,2016,1999cc,"91,839 miles",Diesel,Manual,Blue,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.4 seconds,99 g/km
+jaguar,XE,12990.0,2016,1999cc,"57,093 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XJ,10995.0,2010,5000cc,"65,426 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,387 bhp,155 mph,5.7 seconds,264 g/km
+jaguar,XE,12300.0,2015,1999cc,"39,182 miles",Petrol,Automatic,BLUE,Saloon,4X2,4.0,5.0,197 bhp,155 mph,6.9 seconds,179 g/km
+jaguar,XF,15299.0,2017,1999cc,"41,706 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,161 bhp,132 mph,9.1 seconds,109 g/km
+jaguar,XK,9995.0,2006,4196cc,"128,000 miles",Petrol,Automatic,BLUE,Coupe,,,,,,,
+jaguar,XE,15489.0,2018,1999cc,"54,300 miles",Diesel,Automatic,BLACK,Saloon,4X4,4.0,5.0,237 bhp,155 mph,,137 g/km
+jaguar,F-PACE,12000.0,2016,1999cc,"120,500 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,177 bhp,130 mph,8.9 seconds,129 g/km
+jaguar,F-PACE,19995.0,2017,1999cc,"43,371 miles",Diesel,Manual,RED,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,134 g/km
+jaguar,XF,11990.0,2016,1999cc,"73,200 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.1 seconds,114 g/km
+jaguar,F-PACE,16490.0,2016,1999cc,"88,700 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XJ,13000.0,2012,2993cc,"51,010 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,184 g/km
+jaguar,I-PACE,27300.0,2020,1L,"47,746 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,F-TYPE,33500.0,2016,2995cc,"15,601 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,XK,36995.0,2014,5000cc,"33,915 miles",Petrol,Automatic,BLACK,Convertible,4X2,2.0,4.0,507 bhp,155 mph,4.4 seconds,292 g/km
+jaguar,F-PACE,26999.0,2020,2L,"36,446 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,XE,15999.0,2017,2L,"44,572 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,E-PACE,21249.0,2018,1999cc,"45,432 miles",Diesel,,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,147 g/km
+jaguar,F-PACE,23200.0,2016,3L,"45,808 miles",Diesel,Automatic,Red,Estate,4X4,5.0,5.0,296 bhp,150 mph,6.2 seconds,159 g/km
+jaguar,E-PACE,27990.0,2020,1997cc,"19,994 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,
+jaguar,E-PACE,23495.0,2019,2L,"43,971 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,23900.0,2017,1997cc,"58,464 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,170 g/km
+jaguar,F-PACE,25500.0,2018,1999cc,"30,117 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,XJ,28000.0,2018,2993cc,"64,140 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,302 bhp,155 mph,6.2 seconds,155 g/km
+jaguar,XF,20500.0,2018,1997cc,"39,098 miles",Petrol,Automatic,Black,Saloon,4X4,4.0,5.0,296 bhp,155 mph,,174 g/km
+jaguar,XF,9495.0,2015,2179cc,"59,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,197 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,E-PACE,20980.0,2019,1999cc,"62,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,162 g/km
+jaguar,F-PACE,23490.0,2018,1999cc,"50,000 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,153 g/km
+jaguar,XK,9995.0,2006,4196cc,"69,000 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,4.0,295 bhp,155 mph,5.9 seconds,269 g/km
+jaguar,E-PACE,17675.0,2018,1999cc,"48,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,148 bhp,120 mph,10.1 seconds,137 g/km
+jaguar,F-PACE,26975.0,2019,1999cc,"21,000 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,XF,6795.0,2014,2179cc,"104,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,E-PACE,26421.0,2020,2L,"27,600 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,E-PACE,25049.0,2019,1999cc,"34,610 miles",Diesel,,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,28649.0,2019,1999cc,"33,023 miles",Diesel,,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,XE,21049.0,2019,1998cc,"29,655 miles",Diesel,,Grey,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,E-PACE,35690.0,2021,2L,196 miles,Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,173 g/km
+jaguar,E-PACE,19790.0,1999cc,"55,405 miles",Diesel,Automatic,Grey,SUV,50.4 mpg,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,F-PACE,26709.0,2020,2L,"22,500 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,XF,7589.0,2015,2993cc,"140,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,XF,7290.0,2012,2179cc,"113,500 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,S Type,2995.0,2005,2720cc,"133,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,206 bhp,141 mph,8.2 seconds,208 g/km
+jaguar,F-TYPE,27750.0,2015,2995cc,"34,200 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,F-TYPE,39990.0,2019,2995cc,"22,494 miles",Petrol,Manual,Green,Coupe,4X2,2.0,2.0,336 bhp,161 mph,5.7 seconds,234 g/km
+jaguar,XF,8995.0,2012,2179cc,"48,268 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,
+jaguar,F-TYPE,30498.0,2018,3L,"48,381 miles",Petrol,Automatic,White,Coupe,,,,,,,
+jaguar,XF,18299.0,2015,3L,"47,333 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,276 bhp,155 mph,6.6 seconds,163 g/km
+jaguar,F-TYPE,40950.0,2019,3L,"33,000 miles",Petrol,Automatic,FUJI WHITE,Coupe,,,,,,,
+jaguar,XE,17390.0,2018,2L,"27,510 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,
+jaguar,XE,26427.0,2020,2L,"30,751 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,160 g/km
+jaguar,XE,22350.0,2020,2L,"16,912 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,148 g/km
+jaguar,F-TYPE,25200.0,2017,2995cc,"26,963 miles",Petrol,Automatic,White,Convertible,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,XJ,19999.0,2016,2993cc,"80,562 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,302 bhp,155 mph,6.4 seconds,155 g/km
+jaguar,E-PACE,20820.0,2019,2L,"45,145 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,59000.0,2023,2L,"2,416 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,399 bhp,149 mph,5.3 seconds,49 g/km
+jaguar,XF,36750.0,2023,2L,"10,652 miles",Diesel,Automatic,Grey,Saloon,,,,,,,
+jaguar,F-PACE,47000.0,2022,1997cc,"12,374 miles",Petrol/PlugIn Elec Hybrid,Automatic,Blue,Estate,4X4,5.0,5.0,399 bhp,149 mph,5.3 seconds,51 g/km
+jaguar,XE,20450.0,2019,1999cc,"42,849 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,I-PACE,32394.0,2020,1L,"13,418 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,E-PACE,23644.0,2019,1999cc,"35,315 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,21300.0,2017,1999cc,"68,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,27000.0,2021,2L,"38,376 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,161 bhp,124 mph,9.8 seconds,171 g/km
+jaguar,XF,46800.0,2023,2L,"2,689 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,201 bhp,143 mph,,146 g/km
+jaguar,E-PACE,27995.0,2018,2L,"21,825 miles",Diesel,Automatic,Caesium Blue,Estate,4X4,5.0,5.0,237 bhp,139 mph,6.8 seconds,
+jaguar,F-PACE,29900.0,2019,1999cc,"39,428 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-TYPE,37490.0,2017,5L,"50,846 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,541 bhp,186 mph,4.2 seconds,255 g/km
+jaguar,F-PACE,26508.0,2018,2L,"21,010 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,170 g/km
+jaguar,XJ,10448.0,2011,2993cc,"76,991 miles",Diesel,Automatic,GOLD,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,184 g/km
+jaguar,I-PACE,29995.0,2020,0L,"40,000 miles",Other,Automatic,Grey,SUV,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,F-TYPE,44995.0,2020,5000cc,"37,000 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,444 bhp,177 mph,4.4 seconds,242 g/km
+jaguar,F-PACE,25495.0,2019,1997cc,"49,000 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,172 g/km
+jaguar,I-PACE,28188.0,2020,1L,"45,000 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,F-TYPE,38495.0,2018,2995cc,"32,619 miles",Petrol,Automatic,GREY,Coupe,4X4,2.0,2.0,375 bhp,171 mph,5.1 seconds,233 g/km
+jaguar,XE,7995.0,2016,1999cc,"97,000 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,109 g/km
+jaguar,F-PACE,25995.0,2016,2995cc,"45,955 miles",Petrol,Automatic,Italian Racing Red,Estate,4X4,5.0,5.0,375 bhp,155 mph,5.5 seconds,209 g/km
+jaguar,XJ,16300.0,2014,3L,"62,088 miles",Diesel,Automatic,Orange,Saloon,4X4,2.0,4.0,523 bhp,155 mph,3.9 seconds,229 g/km
+jaguar,E-PACE,30000.0,2021,1997cc,"27,245 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,173 g/km
+jaguar,F-TYPE,26000.0,2016,2995cc,"30,451 miles",Petrol,Automatic,Red,Convertible,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,XK8,7995.0,1997,3996cc,"89,000 miles",Petrol,Automatic,Gold,Convertible,4X2,2.0,,292 bhp,154 mph,6.7 seconds,0 g/km
+jaguar,F-TYPE,26995.0,2014,3L,"41,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,213 g/km
+jaguar,XK,10995.0,2006,4.2L,"121,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,4.0,295 bhp,155 mph,5.9 seconds,269 g/km
+jaguar,F-TYPE,27995.0,2014,3L,"36,000 miles",Petrol,Automatic,White,Coupe,4X2,2.0,4.0,507 bhp,155 mph,4.4 seconds,209 g/km
+jaguar,F-TYPE,35995.0,2016,5L,"36,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,541 bhp,186 mph,4.2 seconds,255 g/km
+jaguar,XF,10495.0,2014,2.99L,"88,178 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,F-PACE,26990.0,2020,1999cc,"54,000 miles",Diesel,Automatic,Santorini Black,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,XK,20995.0,2009,5000cc,"51,600 miles",Petrol,Automatic,Lunar Grey,Convertible,4X2,2.0,4.0,387 bhp,155 mph,5.6 seconds,264 g/km
+jaguar,XE,16495.0,2017,1999cc,"24,000 miles",Diesel,Automatic,WHITE,Saloon,4X4,4.0,5.0,177 bhp,140 mph,7.9 seconds,123 g/km
+jaguar,XJR,24995.0,2013,5000cc,"37,500 miles",Petrol,Automatic,GREY,Saloon,4X2,4.0,5.0,543 bhp,174 mph,4.6 seconds,270 g/km
+jaguar,XF,11995.0,2015,2179cc,"78,600 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,161 bhp,130 mph,10.9 seconds,129 g/km
+jaguar,X Type,2490.0,2005,2099cc,"128,000 miles",Petrol,Automatic,BLUE,Saloon,4X2,4.0,5.0,157 bhp,127 mph,10.4 seconds,239 g/km
+jaguar,XKR,15990.0,2008,4196cc,"79,559 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,418 bhp,155 mph,4.9 seconds,294 g/km
+jaguar,XF,16495.0,2018,1999cc,"46,750 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,XF,6489.0,2009,2993cc,"70,000 miles",Diesel,Automatic,SILVER,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,179 g/km
+jaguar,E-PACE,25000.0,2019,1997cc,"27,000 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,XKR,20000.0,2010,5000cc,"42,500 miles",Petrol,Automatic,Other,Coupe,4X2,2.0,4.0,513 bhp,155 mph,4.8 seconds,292 g/km
+jaguar,XF,25300.0,2018,3000cc,"43,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,296 bhp,155 mph,6.6 seconds,164 g/km
+jaguar,XE,12899.0,2016,1999cc,"48,617 miles",Diesel,Automatic,BRONZE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XF,16549.0,2018,1999cc,"46,092 miles",Diesel,,Red,Estate,4X2,5.0,5.0,161 bhp,132 mph,10.0 seconds,118 g/km
+jaguar,XE,18991.0,2019,2L,"44,389 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,F-PACE,25980.0,2018,3L,"39,321 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,F-PACE,38800.0,2021,3L,"63,003 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,296 bhp,143 mph,8.0 seconds,201 g/km
+jaguar,F-PACE,41495.0,2021,2L,"6,434 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.3 seconds,221 g/km
+jaguar,XJ,9950.0,2009,2967cc,"51,500 miles",Petrol,Automatic,White,Saloon,,,,,,,
+jaguar,E-PACE,16421.0,2018,2L,"46,659 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XF,7999.0,2014,2179cc,"117,500 miles",Diesel,Automatic,Silver,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,I-PACE,33990.0,2021,0L,"30,000 miles",Other,Automatic,Black,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,F-TYPE,49000.0,2022,5000cc,"3,057 miles",Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,444 bhp,177 mph,4.6 seconds,242 g/km
+jaguar,F-PACE,21990.0,2018,1999cc,"34,360 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,16695.0,2018,2L,"50,000 miles",Diesel,Manual,Blue,4X4,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,124 g/km
+jaguar,XK8,12995.0,2001,3996cc,"104,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,,292 bhp,154 mph,6.7 seconds,284 g/km
+jaguar,F-PACE,37250.0,2021,1997cc,"25,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,167 g/km
+jaguar,F-PACE,20990.0,2017,1999cc,"40,000 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,XF,3995.0,2011,2993cc,"136,618 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,XF,18495.0,2016,2993cc,"44,588 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,F-PACE,32358.0,2020,1999cc,"43,669 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,166 g/km
+jaguar,F-PACE,20495.0,2018,1999cc,"72,500 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,F-PACE,16990.0,2017,1999cc,"95,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XE,8995.0,2015,1999cc,"102,000 miles",Diesel,Automatic,WHITE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,109 g/km
+jaguar,XJ,8950.0,2005,4200cc,"55,000 miles",Petrol,Automatic,Green,Saloon,,,,,,,
+jaguar,XF,8490.0,2013,2179cc,"112,784 miles",Diesel,Automatic,GREY,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,XKR,35000.0,2011,5000cc,"59,956 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,4.0,553 bhp,186 mph,4.4 seconds,
+jaguar,E-PACE,18649.0,2019,1999cc,"46,247 miles",Diesel,Manual,GREY,Estate,4X4,5.0,5.0,178 bhp,128 mph,9.4 seconds,149 g/km
+jaguar,F-TYPE,39495.0,2018,2995cc,"50,000 miles",Petrol,Automatic,Green,Coupe,4X2,2.0,2.0,336 bhp,161 mph,5.3 seconds,224 g/km
+jaguar,F-PACE,44500.0,2020,5L,"35,248 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,543 bhp,176 mph,4.3 seconds,272 g/km
+jaguar,F-PACE,42948.0,2019,"29,000 miles",Petrol,Automatic,Silver,SUV,23.7 mpg,4X4,5.0,5.0,543 bhp,176 mph,4.3 seconds,272 g/km
+jaguar,XK,26495.0,2014,5000cc,"69,500 miles",Petrol,Automatic,Red,Coupe,,,,,,,
+jaguar,F-PACE,25495.0,2018,2993cc,"39,161 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,170 g/km
+jaguar,F-PACE,23500.0,2018,1997cc,"35,752 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,170 g/km
+jaguar,F-PACE,30100.0,2021,1999cc,"24,675 miles",Diesel,Automatic,White,SUV,,,,,,,
+jaguar,E-PACE,24999.0,2019,2L,"23,934 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,42644.0,2022,2L,"5,196 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,201 bhp,130 mph,9.9 seconds,170 g/km
+jaguar,E-PACE,28995.0,0L,"70,498 miles",Petrol,Automatic,BLACK,SUV,141.3 mpg,4X4,5.0,5.0,304 bhp,134 mph,6.5 seconds,44 g/km
+jaguar,F-TYPE,28500.0,2017,3L,"56,158 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,336 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,XE,21699.0,2019,2L,"17,992 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,160 g/km
+jaguar,E-PACE,19299.0,2019,2L,"23,188 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,29629.0,2021,2L,"19,789 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,161 bhp,124 mph,9.8 seconds,171 g/km
+jaguar,XF,12058.0,2017,2L,"70,564 miles",Diesel,Manual,Blue,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.0 seconds,114 g/km
+jaguar,XF,9995.0,2013,2179cc,"42,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,E-PACE,20990.0,2019,1999cc,"32,371 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XE,12599.0,2017,1999cc,"56,757 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,109 g/km
+jaguar,XF,10432.0,2013,2179cc,"56,183 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,XF,9650.0,2013,2179cc,"42,000 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,F-TYPE,27995.0,2015,2995cc,"33,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,XE,20995.0,2015,2995cc,"29,548 miles",Petrol,Automatic,RED,Saloon,4X2,4.0,5.0,335 bhp,155 mph,5.1 seconds,194 g/km
+jaguar,XF,16995.0,2018,1999cc,"54,000 miles",Diesel,Automatic,Red,Saloon,4X4,4.0,5.0,177 bhp,136 mph,8.5 seconds,148 g/km
+jaguar,F-PACE,16782.0,2017,1999cc,"71,628 miles",Diesel,Manual,BLACK,Estate,4X4,4.0,5.0,255 bhp,145 mph,5.8 seconds,129 g/km
+jaguar,F-PACE,18147.0,2016,1999cc,"81,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XE,16490.0,2018,1999cc,"54,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,E-PACE,18495.0,2019,1999cc,"62,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,F-PACE,23350.0,2019,1999cc,"67,911 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,XE,15950.0,2017,1999cc,"52,000 miles",Diesel,Automatic,Red,Saloon,4X4,4.0,5.0,177 bhp,140 mph,,123 g/km
+jaguar,F-PACE,31450.0,2020,1999cc,"26,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,XE,16490.0,2018,1997cc,"54,000 miles",Petrol,Automatic,BLACK,Saloon,4X2,4.0,5.0,197 bhp,143 mph,7.6 seconds,165 g/km
+jaguar,F-TYPE,26000.0,2017,1997cc,"46,885 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,163 g/km
+jaguar,F-PACE,35887.0,2021,2L,"30,871 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,171 g/km
+jaguar,F-PACE,38000.0,2021,2L,"26,209 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,F-PACE,29995.0,2018,2993cc,"34,820 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,E-PACE,44995.0,2022,1498cc,"5,139 miles",Petrol,Automatic,Borasco Grey,Estate,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,35 g/km
+jaguar,F-TYPE,44995.0,2021,1997cc,"19,326 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,217 g/km
+jaguar,XE,12990.0,2018,1999cc,"91,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,111 g/km
+jaguar,XF,6990.0,2011,2993cc,"65,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,E-PACE,28250.0,2018,2L,"14,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,178 bhp,127 mph,,147 g/km
+jaguar,XF,15995.0,2016,2993cc,"69,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,XF,10795.0,2014,2179cc,"72,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,F-PACE,38995.0,2021,1997cc,"29,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,173 g/km
+jaguar,E-PACE,36995.0,2021,1998cc,"15,000 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,175 g/km
+jaguar,XE,14495.0,2017,1999cc,"78,518 miles",Diesel,Automatic,Black,Saloon,4X4,4.0,5.0,237 bhp,155 mph,,137 g/km
+jaguar,E-PACE,19990.0,2019,2000cc,"60,447 miles",Diesel,Automatic,Red,Other,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,I-PACE,35990.0,2020,1L,"15,000 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,XF,13495.0,2017,1999cc,"73,938 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.1 seconds,114 g/km
+jaguar,XE,10984.0,2015,1999cc,"84,120 miles",Diesel,Automatic,SILVER,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,F-PACE,13990.0,2017,1999cc,"125,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,177 bhp,130 mph,8.9 seconds,129 g/km
+jaguar,XF,12995.0,2012,2.2L,"38,000 miles",Diesel,Automatic,Meteor Silver Grey Metallic,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,135 g/km
+jaguar,E-PACE,20200.0,2019,1999cc,"61,229 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XF,14800.0,2018,1999cc,"62,734 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,F-PACE,17990.0,2017,2993cc,"117,000 miles",Diesel,Auto,Black,4x4,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,F-PACE,32995.0,2020,2L,"19,412 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,XE,26869.0,2019,2L,"11,359 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,160 g/km
+jaguar,E-PACE,26995.0,2020,2L,"27,525 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,223 g/km
+jaguar,XJ,11995.0,2008,2722cc,"59,900 miles",Diesel,Automatic,Frost Blue,Saloon,4X2,4.0,5.0,205 bhp,141 mph,7.8 seconds,209 g/km
+jaguar,F-PACE,23991.0,2019,2000cc,"74,106 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,152 g/km
+jaguar,F-PACE,23991.0,2018,2000cc,"80,703 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,134 g/km
+jaguar,E-PACE,24991.0,2018,2000cc,"79,727 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,F-PACE,23991.0,2018,2000cc,"52,241 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,134 g/km
+jaguar,XE,13995.0,2016,1999cc,"41,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,109 g/km
+jaguar,E-PACE,23995.0,2020,1999cc,"75,400 miles",Diesel,Automatic,Corris Grey,Estate,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,XE,11995.0,2018,1999cc,"98,000 miles",Diesel,Automatic,Firenze Red Metallic,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,141 g/km
+jaguar,F-TYPE,34000.0,2018,1997cc,"13,375 miles",Petrol,Automatic,Red,Coupe,,,,,,,
+jaguar,E-PACE,27995.0,2020,1999cc,"15,000 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,192 g/km
+jaguar,E-PACE,25444.0,2019,1999cc,"41,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,19600.0,2017,1999cc,"91,000 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XF,7295.0,2012,2179cc,"72,000 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,XE,15995.0,2018,1999cc,"53,634 miles",Diesel,Automatic,GREY,Saloon,4X4,4.0,5.0,237 bhp,155 mph,,137 g/km
+jaguar,XF,16995.0,2018,1999cc,"48,106 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,F-PACE,23999.0,2019,1999cc,"63,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,XF,13990.0,2014,2179cc,"21,600 miles",Diesel,Automatic,BRONZE,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,XF,4990.0,2009,2993cc,"95,000 miles",Diesel,Automatic,GREEN,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,XE,15500.0,2017,1999cc,"33,519 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,F-PACE,19999.0,2018,1999cc,"67,797 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,29999.0,2020,1998cc,"23,318 miles",Petrol,,Grey,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,E-PACE,26199.0,2019,1999cc,"29,529 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XE,38965.0,2024,2L,100 miles,Diesel,Automatic,BLACK,Saloon,,,,,,,
+jaguar,E-PACE,43000.0,2024,2L,100 miles,Diesel,Automatic,GREY,Estate,,,,,,,
+jaguar,E-PACE,26990.0,2020,2L,"27,500 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,F-PACE,31250.0,2020,1997cc,"50,698 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,296 bhp,145 mph,6.1 seconds,182 g/km
+jaguar,XE,25250.0,2019,1998cc,"40,352 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,159 g/km
+jaguar,E-PACE,22966.0,2018,2L,"49,512 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,,147 g/km
+jaguar,XF,12499.0,2013,2993cc,"67,358 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,E-PACE,15920.0,2018,2L,"47,067 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,20495.0,2018,1999cc,"32,000 miles",Diesel,Automatic,Red,Estate,,,,,,,
+jaguar,XF,6990.0,2013,2179cc,"78,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,163 bhp,130 mph,10.5 seconds,135 g/km
+jaguar,XE,13995.0,2016,1999cc,"62,000 miles",Diesel,Automatic,White,Saloon,4X4,4.0,5.0,177 bhp,140 mph,7.9 seconds,123 g/km
+jaguar,XF,12995.0,2017,1999cc,"98,105 miles",Diesel,Automatic,Black,Saloon,4X4,4.0,5.0,177 bhp,136 mph,8.5 seconds,129 g/km
+jaguar,XKR,33500.0,2006,4196cc,"11,000 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,4.0,400 bhp,155 mph,,304 g/km
+jaguar,XF,6595.0,2011,2993cc,"59,987 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,XF,11898.0,2015,2179cc,"83,394 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,197 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,F-TYPE,19999.0,2014,2995cc,"32,000 miles",Petrol,Automatic,White,Coupe,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,209 g/km
+jaguar,E-PACE,19500.0,2020,1999cc,"29,994 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,177 g/km
+jaguar,XE,34995.0,2023,2L,"7,464 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,136 g/km
+jaguar,E-PACE,28995.0,2020,1999cc,"21,331 miles",Diesel,Automatic,Red,Estate,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,196 g/km
+jaguar,XF,8395.0,2012,2179cc,"62,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,163 bhp,130 mph,10.5 seconds,149 g/km
+jaguar,F-PACE,29890.0,2020,1999cc,"27,905 miles",Diesel,Automatic,White,Estate,,,,,,,
+jaguar,XJ,11490.0,2013,2993cc,"103,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,XE,10850.0,2017,1999cc,"81,943 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,F-PACE,16690.0,2017,1999cc,"101,860 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,E-PACE,24500.0,2018,1999cc,"47,500 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,237 bhp,139 mph,6.8 seconds,178 g/km
+jaguar,F-TYPE,35000.0,2017,2995cc,"18,206 miles",Petrol,Automatic,RED,Convertible,4X2,2.0,2.0,336 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,F-PACE,24995.0,2019,2000cc,"32,266 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,F-PACE,20999.0,2018,2L,"57,300 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,XF,14995.0,2015,3L,"58,200 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,E-PACE,29900.0,2020,1998cc,"29,642 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,219 g/km
+jaguar,XF,6495.0,2010,2993cc,"116,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,179 g/km
+jaguar,XE,10995.0,2016,1999cc,"77,800 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,109 g/km
+jaguar,XF,4995.0,2010,2993cc,"123,000 miles",Diesel,Automatic,GREEN,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,179 g/km
+jaguar,E-PACE,14500.0,2018,1999cc,"91,000 miles",Diesel,Manual,BLACK,Estate,4X4,5.0,5.0,148 bhp,120 mph,10.1 seconds,137 g/km
+jaguar,I-PACE,29394.0,2020,1L,"36,000 miles",Other,Automatic,GREY,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,XK,21999.0,2013,5000cc,"60,000 miles",Petrol,Automatic,GOLD,Convertible,4X2,2.0,4.0,382 bhp,155 mph,5.6 seconds,264 g/km
+jaguar,E-PACE,22999.0,2019,1999cc,"60,445 miles",Diesel,,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,E-PACE,34899.0,2021,1.5L,"13,277 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,304 bhp,134 mph,6.5 seconds,44 g/km
+jaguar,E-PACE,25500.0,2020,2L,"33,981 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XE,20980.0,2019,2L,"39,708 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,F-PACE,31980.0,2020,2L,"29,480 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,193 g/km
+jaguar,F-PACE,29340.0,2020,2L,"31,096 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,E-PACE,39990.0,2022,1.5L,"22,193 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,304 bhp,134 mph,6.5 seconds,44 g/km
+jaguar,E-PACE,19700.0,2018,2L,"32,384 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,178 bhp,128 mph,9.4 seconds,137 g/km
+jaguar,F-PACE,34817.0,2021,2L,"38,528 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,XE,17000.0,2018,2L,"38,718 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,111 g/km
+jaguar,F-PACE,28290.0,2019,2L,"32,720 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,E-PACE,24390.0,2021,2L,"30,279 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,161 bhp,128 mph,10.0 seconds,162 g/km
+jaguar,E-PACE,23190.0,2019,2L,"40,940 miles",Petrol,Automatic,RED,Estate,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,E-PACE,23300.0,2018,2L,"27,508 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,174 g/km
+jaguar,F-TYPE,27995.0,2015,2995cc,"44,620 miles",Petrol,Automatic,Corris Grey,Convertible,4X4,2.0,2.0,375 bhp,171 mph,5.1 seconds,211 g/km
+jaguar,F-PACE,21490.0,2017,1999cc,"46,000 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,153 g/km
+jaguar,F-PACE,27990.0,2019,1999cc,"18,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,F-PACE,23000.0,2019,1999cc,"56,565 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,XE,12700.0,2017,1997cc,"72,240 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,F-TYPE,57480.0,2022,5L,"5,652 miles",Petrol,Automatic,Grey,Convertible,4X4,2.0,2.0,444 bhp,177 mph,4.6 seconds,247 g/km
+jaguar,F-PACE,30700.0,2020,2L,"13,998 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,188 g/km
+jaguar,E-PACE,23650.0,2019,2L,"17,600 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,26000.0,2018,2L,"39,470 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,179 g/km
+jaguar,F-PACE,24846.0,2017,2L,"40,233 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,42885.0,2023,2L,"6,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,173 g/km
+jaguar,F-PACE,46899.0,2022,3L,"24,434 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,296 bhp,143 mph,6.4 seconds,203 g/km
+jaguar,E-PACE,33959.0,2022,2L,"13,472 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,174 g/km
+jaguar,F-PACE,41866.0,2022,2L,"7,980 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.3 seconds,220 g/km
+jaguar,E-PACE,48923.0,2023,1.5L,"7,756 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,35 g/km
+jaguar,E-PACE,22200.0,2018,1999cc,"32,715 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XE,14000.0,2015,1999cc,"56,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XF,12499.0,2015,2179cc,"64,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,197 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,X Type,10850.0,2010,2000cc,"5,000 miles",Petrol,Automatic,White,Saloon,,,,,,,
+jaguar,XF,8000.0,2014,2179cc,"88,341 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,E-PACE,23894.0,2018,2L,"55,897 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,E-PACE,21675.0,2018,2L,"24,950 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,48480.0,2023,2L,"3,708 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,,171 g/km
+jaguar,E-PACE,39980.0,2022,1.5L,"21,641 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,35 g/km
+jaguar,XF,40280.0,2023,2L,"5,000 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.9 seconds,191 g/km
+jaguar,E-PACE,21495.0,2019,2L,"41,212 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,E-PACE,25500.0,2020,1999cc,"33,053 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,XJ,8200.0,2013,2993cc,"106,090 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,E-PACE,36000.0,2022,1997cc,"14,686 miles",Diesel,Automatic,Red,Estate,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,174 g/km
+jaguar,E-PACE,40790.0,2021,1997cc,"7,500 miles",Petrol,Automatic,White,Estate,,,,,,,
+jaguar,F-PACE,25999.0,2020,2L,"42,510 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,166 g/km
+jaguar,E-PACE,24840.0,2018,2L,"30,725 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,E-PACE,25000.0,2019,2L,"36,792 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,E-PACE,26416.0,2020,2L,"40,665 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,F-PACE,28858.0,2019,2L,"20,479 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,172 g/km
+jaguar,F-PACE,40079.0,2021,3L,"23,989 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,296 bhp,143 mph,6.4 seconds,204 g/km
+jaguar,F-PACE,34407.0,2021,2L,"32,737 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,XF,12990.0,2015,2179cc,"74,375 miles",Diesel,Automatic,BLACK,Estate,4X2,5.0,5.0,197 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,F-TYPE,22953.0,2013,2995cc,"54,865 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,213 g/km
+jaguar,S Type,2495.0,2006,2720cc,"109,000 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,206 bhp,141 mph,8.2 seconds,208 g/km
+jaguar,F-TYPE,33995.0,2018,2995cc,"33,750 miles",Petrol,Automatic,Carpathian Grey,Coupe,4X2,2.0,2.0,335 bhp,161 mph,5.7 seconds,199 g/km
+jaguar,E-PACE,17320.0,2019,2L,"33,209 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,23620.0,2021,2L,"22,191 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,161 bhp,128 mph,10.0 seconds,162 g/km
+jaguar,XF,16750.0,2015,2993cc,"55,557 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,E-PACE,28980.0,2019,1999cc,"12,382 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,25995.0,2019,1999cc,"63,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,XF,9995.0,2014,2993cc,"84,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,237 bhp,149 mph,7.1 seconds,159 g/km
+jaguar,XE,13995.0,2016,1999cc,"56,250 miles",Diesel,Automatic,BLACK,Saloon,4X4,4.0,5.0,177 bhp,140 mph,7.9 seconds,123 g/km
+jaguar,XF,9750.0,2012,2179cc,"48,000 miles",Diesel,Automatic,Pacific Blue,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,E-PACE,20949.0,2018,1999cc,"26,893 miles",Diesel,,Black,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,XE,15899.0,2016,1999cc,"29,595 miles",Petrol,,Red,Saloon,4X2,4.0,5.0,237 bhp,155 mph,6.9 seconds,179 g/km
+jaguar,XJ,20290.0,2016,3L,"52,740 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,302 bhp,155 mph,6.2 seconds,155 g/km
+jaguar,XF,69499.0,2023,2L,84 miles,Diesel,Automatic,Blue,Saloon,4X2,2.0,2.0,444 bhp,177 mph,4.6 seconds,242 g/km
+jaguar,F-PACE,34800.0,2021,2L,"38,233 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,E-PACE,29000.0,2021,2L,"24,763 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,161 bhp,124 mph,9.8 seconds,171 g/km
+jaguar,E-PACE,43000.0,2024,2L,100 miles,Diesel,Automatic,BLACK,Estate,,,,,,,
+jaguar,XE,17000.0,2018,2L,"34,804 miles",Diesel,Automatic,RED,Saloon,,,,,,,
+jaguar,E-PACE,41000.0,2024,2L,100 miles,Diesel,Automatic,RED,Estate,,,,,,,
+jaguar,E-PACE,50214.0,2024,2L,100 miles,Diesel,Automatic,BLACK,Estate,,,,,,,
+jaguar,F-PACE,71830.0,2024,2L,100 miles,Petrol/Electric,Automatic,GREY,Estate,,,,,,,
+jaguar,XK,29990.0,2014,5L,"39,997 miles",Petrol,Automatic,White,Coupe,4X2,2.0,4.0,503 bhp,155 mph,4.8 seconds,292 g/km
+jaguar,XE,11900.0,2017,1999cc,"70,720 miles",Diesel,Manual,Red,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.3 seconds,109 g/km
+jaguar,XF,5995.0,2009,2993cc,"98,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,179 g/km
+jaguar,XE,19795.0,2020,1998cc,"76,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,137 g/km
+jaguar,XF,6000.0,2011,2993cc,"109,511 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,XJ,11690.0,2010,2993cc,"61,000 miles",Diesel,Automatic,Metallic Grey,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,184 g/km
+jaguar,XF,8995.0,2012,2179cc,"88,000 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,XJS,12995.0,1986,5343cc,"52,000 miles",Petrol,Automatic,Blue,Saloon,4X2,2.0,,300 bhp,150 mph,7.5 seconds,0 g/km
+jaguar,E-PACE,19500.0,2018,2L,"64,856 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,F-TYPE,65292.0,2019,5L,"24,039 miles",Petrol,Automatic,Blue,Convertible,4X4,2.0,2.0,568 bhp,195 mph,,
+jaguar,F-PACE,28620.0,2019,2L,"53,634 miles",Petrol,Automatic,White,SUV,,,,,,,
+jaguar,F-TYPE,69632.0,2023,5L,"8,000 miles",Petrol,Automatic,Grey,Coupe,4X4,2.0,2.0,444 bhp,177 mph,4.6 seconds,243 g/km
+jaguar,XE,37430.0,2023,2L,"8,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,136 g/km
+jaguar,F-TYPE,38031.0,2017,3L,"27,036 miles",Petrol,Automatic,Silver,Coupe,4X4,2.0,2.0,395 bhp,171 mph,,211 g/km
+jaguar,F-PACE,31620.0,2019,2L,"13,050 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-PACE,19859.0,2018,2L,"79,632 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,XE,34844.0,2023,2L,"12,698 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,136 g/km
+jaguar,XF,49844.0,2023,2L,"6,493 miles",Petrol,Automatic,Grey,Saloon,4X4,4.0,5.0,296 bhp,155 mph,6.1 seconds,205 g/km
+jaguar,F-TYPE,56695.0,2023,2L,"5,211 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,217 g/km
+jaguar,F-PACE,21288.0,2019,2L,"76,254 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,F-PACE,54840.0,2021,5L,"31,355 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,543 bhp,178 mph,4.0 seconds,275 g/km
+jaguar,F-PACE,44621.0,2020,5L,"27,319 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,543 bhp,176 mph,4.3 seconds,272 g/km
+jaguar,E-PACE,29042.0,2021,2L,"21,688 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,161 bhp,124 mph,9.8 seconds,171 g/km
+jaguar,F-PACE,31902.0,2020,2L,"19,102 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,F-PACE,32173.0,2021,2L,"49,678 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,171 g/km
+jaguar,E-PACE,23984.0,2019,2L,"36,411 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,186 g/km
+jaguar,XE,20909.0,2020,2L,"39,658 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,178 g/km
+jaguar,E-PACE,19199.0,2019,1999cc,"26,218 miles",Diesel,,Black,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XF,15900.0,2016,3L,"59,085 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,E-PACE,27300.0,2019,2L,"11,240 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,XF,18250.0,2019,1999cc,"41,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,135 g/km
+jaguar,F-PACE,32250.0,2020,1997cc,"45,381 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,296 bhp,145 mph,6.1 seconds,182 g/km
+jaguar,XE,16495.0,2018,1999cc,"35,954 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,111 g/km
+jaguar,E-PACE,20998.0,2019,2L,"55,527 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XF,12480.0,2015,2.2L,"49,595 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,135 g/km
+jaguar,E-PACE,15750.0,2018,1999cc,"61,464 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,F-PACE,26409.0,2020,2L,"41,755 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,184 g/km
+jaguar,F-PACE,29656.0,2020,2L,"42,345 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-TYPE,45999.0,2019,2995cc,"17,700 miles",Petrol,Automatic,Red,Coupe,4X4,2.0,2.0,375 bhp,171 mph,5.1 seconds,233 g/km
+jaguar,F-PACE,18495.0,2017,1999cc,"79,381 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,134 g/km
+jaguar,XF,15995.0,2016,1999cc,"29,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.7 seconds,109 g/km
+jaguar,XE,20000.0,2019,1997cc,"17,000 miles",Petrol,Automatic,RED,Saloon,4X2,4.0,5.0,197 bhp,143 mph,7.6 seconds,165 g/km
+jaguar,F-TYPE,22980.0,2014,2995cc,"78,000 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,205 g/km
+jaguar,S Type,2290.0,2006,2720cc,"130,800 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,206 bhp,141 mph,8.2 seconds,208 g/km
+jaguar,XK,29995.0,2013,5000cc,"18,500 miles",Petrol,Automatic,Italian Racing Red,Coupe,4X2,2.0,4.0,382 bhp,155 mph,5.5 seconds,264 g/km
+jaguar,XE,18490.0,2019,1999cc,"67,910 miles",Diesel,Automatic,Caldera Red,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,130 g/km
+jaguar,X Type,2581.0,2003,2495cc,"53,592 miles",Petrol,Automatic,Blue,Saloon,4X4,4.0,5.0,196 bhp,137 mph,8.5 seconds,244 g/km
+jaguar,XF,5181.0,2010,2968cc,"97,740 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,239 bhp,148 mph,7.9 seconds,249 g/km
+jaguar,E-PACE,25799.0,2020,1999cc,"34,098 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,XF,14975.0,2016,2993cc,"87,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,E-PACE,16995.0,2018,1999cc,"73,239 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,129 g/km
+jaguar,XK,13950.0,2008,4196cc,"94,000 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,4.0,418 bhp,155 mph,4.9 seconds,294 g/km
+jaguar,E-PACE,24995.0,2019,1999cc,"53,000 miles",Diesel,Automatic,Corris Grey Metallic,Estate,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,17999.0,2016,1999cc,"104,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,F-PACE,12995.0,2017,1999cc,"120,020 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,161 bhp,121 mph,10.2 seconds,129 g/km
+jaguar,XF,12995.0,2015,2179cc,"81,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,197 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,F-TYPE,29995.0,2015,3000cc,"27,650 miles",Petrol,Automatic,Black,Other,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,X Type,2495.0,2008,2000cc,Diesel,Manual,Black,Other,48.7 mpg,4X2,5.0,5.0,129 bhp,123 mph,9.8 seconds,154 g/km
+jaguar,E-PACE,15949.0,2018,1999cc,"66,528 miles",Diesel,,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,F-PACE,26549.0,2019,1999cc,"24,174 miles",Diesel,,Red,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,146 g/km
+jaguar,XE,14998.0,2018,2L,"36,137 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,F-PACE,25499.0,2020,2L,"43,228 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,166 g/km
+jaguar,F-PACE,26990.0,2020,2L,"20,000 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,XK,14995.0,2010,5L,"72,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,4.0,387 bhp,155 mph,5.5 seconds,264 g/km
+jaguar,XK,21995.0,2010,5L,"47,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,387 bhp,155 mph,5.6 seconds,264 g/km
+jaguar,XJ,9999.0,2010,2993cc,"96,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,189 g/km
+jaguar,XE,13370.0,2016,2L,"43,075 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,197 bhp,155 mph,6.9 seconds,179 g/km
+jaguar,F-PACE,29800.0,2020,2L,"41,985 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,E-PACE,19023.0,2018,2L,"75,422 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,F-PACE,38168.0,2021,2L,"14,394 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,E-PACE,24881.0,2019,2L,"32,234 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,E-PACE,18995.0,2019,1999cc,"66,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XF,6990.0,2012,2179cc,"96,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,XE,12596.0,2015,1999cc,"67,214 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,E-PACE,31800.0,2021,2L,"22,624 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,171 g/km
+jaguar,F-PACE,38500.0,2021,2L,"25,043 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,170 g/km
+jaguar,E-PACE,28800.0,2021,2L,"34,539 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,171 g/km
+jaguar,F-PACE,41000.0,2021,3L,"13,491 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,296 bhp,143 mph,6.4 seconds,200 g/km
+jaguar,F-PACE,23800.0,2019,2L,"47,133 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,157 g/km
+jaguar,F-PACE,45000.0,2023,2L,"6,125 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,9.9 seconds,165 g/km
+jaguar,F-PACE,54800.0,2023,2L,"3,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,,172 g/km
+jaguar,F-TYPE,69800.0,2023,5L,"1,345 miles",Petrol,Automatic,Grey,Convertible,4X4,2.0,2.0,444 bhp,177 mph,4.6 seconds,242 g/km
+jaguar,E-PACE,31995.0,2021,1997cc,"17,200 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,198 bhp,132 mph,8.5 seconds,202 g/km
+jaguar,E-PACE,23495.0,2019,2L,"39,581 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,31799.0,2020,1999cc,"27,840 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,187 g/km
+jaguar,F-TYPE,29000.0,2016,2995cc,"24,000 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,E-PACE,16300.0,2018,2L,"49,339 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XK8,9995.0,2015,3990cc,"57,000 miles",Petrol,Automatic,Blue,Coupe,,,,,,,
+jaguar,F-PACE,44000.0,2019,5000cc,"36,000 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,543 bhp,176 mph,4.3 seconds,272 g/km
+jaguar,E-PACE,21495.0,2019,1999cc,"74,880 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,XJS,9995.0,1982,5343cc,"24,000 miles",Petrol,Automatic,Black,Other,4X2,2.0,,300 bhp,155 mph,7.5 seconds,0 g/km
+jaguar,F-PACE,24980.0,2019,1997cc,"46,011 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,296 bhp,145 mph,6.1 seconds,182 g/km
+jaguar,F-TYPE,42280.0,2017,5L,"32,228 miles",Petrol,Automatic,Black,Coupe,4X4,2.0,2.0,543 bhp,186 mph,4.1 seconds,269 g/km
+jaguar,XF,5995.0,2013,2993cc,"113,000 miles",Diesel,Auto,Red,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,159 g/km
+jaguar,E-PACE,46930.0,2024,2L,100 miles,Diesel,Automatic,BLUE,Estate,,,,,,,
+jaguar,E-PACE,44539.0,2022,1.5L,"3,683 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,34 g/km
+jaguar,F-PACE,26999.0,2019,2L,"36,779 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,172 g/km
+jaguar,F-PACE,33544.0,2020,2L,"20,814 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,221 g/km
+jaguar,XF,16300.0,2016,2993cc,"46,814 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,XF,12000.0,2015,2993cc,"78,595 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,159 g/km
+jaguar,F-PACE,18500.0,2016,1999cc,"55,778 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,F-PACE,20895.0,2016,1999cc,"52,813 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,E-PACE,15420.0,2018,2L,"49,640 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,124 g/km
+jaguar,E-PACE,22290.0,2020,1999cc,"31,760 miles",Diesel,Manual,Black,Other,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,177 g/km
+jaguar,F-PACE,26899.0,2018,2993cc,"29,339 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,170 g/km
+jaguar,F-TYPE,49500.0,2023,2L,"7,237 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,214 g/km
+jaguar,E-PACE,36990.0,2022,1.5L,"20,698 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,33 g/km
+jaguar,E-PACE,21890.0,2018,2L,"62,503 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,I-PACE,29990.0,2020,0L,"11,000 miles",Other,Automatic,Blue,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,E-PACE,24900.0,2020,1999cc,"28,196 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,192 g/km
+jaguar,F-PACE,58900.0,2021,5000cc,"16,252 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,543 bhp,178 mph,4.0 seconds,275 g/km
+jaguar,E-PACE,26990.0,2020,1999cc,"8,700 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,195 g/km
+jaguar,F-PACE,44867.0,2021,3L,"19,779 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,296 bhp,143 mph,8.0 seconds,198 g/km
+jaguar,E-PACE,20920.0,2018,2L,"32,355 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,46400.0,2023,2L,"6,648 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,9.9 seconds,165 g/km
+jaguar,F-TYPE,47216.0,2023,2L,"2,579 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,214 g/km
+jaguar,F-TYPE,47556.0,2023,2L,10 miles,Petrol,Automatic,Red,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,214 g/km
+jaguar,XF,48066.0,2023,2L,"2,289 miles",Petrol,Automatic,Black,Saloon,4X4,4.0,5.0,296 bhp,155 mph,6.1 seconds,205 g/km
+jaguar,XE,8800.0,2016,1999cc,"64,067 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.4 seconds,99 g/km
+jaguar,F-TYPE,27500.0,2017,2995cc,"46,247 miles",Petrol,Automatic,White,Coupe,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,XF,9750.0,2013,2.18L,"73,077 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,XF,8999.0,2012,2179cc,"63,874 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,F-PACE,29795.0,2020,2000cc,"9,338 miles",Petrol,Automatic,BRILLIANT RED,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,221 g/km
+jaguar,E-PACE,22800.0,2019,1999cc,"31,709 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,237 bhp,139 mph,6.8 seconds,178 g/km
+jaguar,XE,17990.0,2019,1997cc,"59,582 miles",Petrol,Automatic,Santorini Black Metallic,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.5 seconds,162 g/km
+jaguar,XJ8,4995.0,1999,3248cc,"74,000 miles",Petrol,Automatic,Green,Saloon,4X2,4.0,5.0,241 bhp,140 mph,8.1 seconds,0 g/km
+jaguar,XF,14495.0,2017,1999cc,"65,000 miles",Diesel,Automatic,GREY,Saloon,4X4,4.0,5.0,177 bhp,136 mph,8.4 seconds,129 g/km
+jaguar,XF,7690.0,2012,2179cc,"57,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,163 bhp,130 mph,10.5 seconds,149 g/km
+jaguar,XE,9650.0,2017,1999cc,"104,000 miles",Diesel,Manual,Blue,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.3 seconds,109 g/km
+jaguar,XJ,7495.0,2009,2967cc,"102,000 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,241 bhp,145 mph,7.8 seconds,249 g/km
+jaguar,XJ,18995.0,2012,5000cc,"41,311 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,387 bhp,155 mph,5.7 seconds,264 g/km
+jaguar,XF,5995.0,2013,2179cc,"99,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,XF,14950.0,2017,1999cc,"70,000 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.1 seconds,114 g/km
+jaguar,XE,21995.0,2019,1997cc,"56,531 miles",Petrol,Automatic,White,Saloon,4X4,4.0,5.0,296 bhp,155 mph,5.4 seconds,168 g/km
+jaguar,F-PACE,31990.0,2021,1997cc,"16,000 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,171 g/km
+jaguar,XF,10295.0,2014,2179cc,"48,886 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,XF,6995.0,2014,2179cc,"43,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,
+jaguar,XE,8995.0,2015,1999cc,"63,268 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.4 seconds,99 g/km
+jaguar,XJS,15995.0,1994,3980cc,"91,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,,239 bhp,145 mph,8.0 seconds,0 g/km
+jaguar,XE,8995.0,2016,1999cc,"73,000 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.4 seconds,99 g/km
+jaguar,E-PACE,19995.0,2019,1999cc,"48,555 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-PACE,27990.0,2020,1999cc,"60,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,XJ,5995.0,2005,3555cc,"107,000 miles",Petrol,Automatic,Green,Saloon,4X2,4.0,5.0,263 bhp,150 mph,7.3 seconds,254 g/km
+jaguar,E-PACE,38564.0,2023,2L,"5,673 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,131 mph,8.4 seconds,173 g/km
+jaguar,F-PACE,46902.0,2022,2L,"19,282 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,399 bhp,149 mph,5.3 seconds,52 g/km
+jaguar,E-PACE,26990.0,2020,1999cc,"31,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,E-PACE,20199.0,2019,1999cc,"31,420 miles",Diesel,,Red,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,146 g/km
+jaguar,E-PACE,19849.0,2018,1999cc,"31,673 miles",Diesel,,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,E-PACE,21799.0,2019,1999cc,"66,740 miles",Diesel,,White,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,XF,16849.0,2018,1997cc,"46,402 miles",Petrol,,White,Saloon,4X2,4.0,5.0,247 bhp,152 mph,6.7 seconds,154 g/km
+jaguar,E-PACE,18549.0,2019,1999cc,"28,492 miles",Diesel,,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,E-PACE,25349.0,2020,1999cc,"38,226 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,E-PACE,23950.0,2019,2L,"21,300 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,E-PACE,45480.0,2023,1.5L,"12,593 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,305 bhp,134 mph,6.5 seconds,34 g/km
+jaguar,E-PACE,26690.0,2020,2L,"20,601 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,195 g/km
+jaguar,XF,13900.0,2015,2179cc,"60,075 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,197 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,XE,24160.0,2019,2L,"35,540 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,160 g/km
+jaguar,XKR,20970.0,2010,5000cc,"52,699 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,4.0,513 bhp,155 mph,4.8 seconds,292 g/km
+jaguar,E-PACE,27990.0,2019,1999cc,"23,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XE,13349.0,2017,1999cc,"54,359 miles",Diesel,,Black,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,XE,14499.0,2018,1999cc,"46,404 miles",Diesel,,Blue,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.8 seconds,106 g/km
+jaguar,E-PACE,20499.0,2018,1999cc,"52,956 miles",Diesel,,Blue,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,147 g/km
+jaguar,XE,15950.0,2016,2L,"25,312 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XE,17998.0,2018,2L,"20,587 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,E-PACE,26990.0,2020,1999cc,"14,793 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,195 g/km
+jaguar,XJ,6495.0,2010,2993cc,"123,200 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,189 g/km
+jaguar,F-TYPE,39995.0,2019,2995cc,"21,000 miles",Petrol,Automatic,BLUE,Coupe,4X4,2.0,2.0,375 bhp,171 mph,5.1 seconds,211 g/km
+jaguar,F-PACE,23990.0,2016,3L,"39,000 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,296 bhp,150 mph,6.2 seconds,159 g/km
+jaguar,I-PACE,25990.0,2020,0L,"13,000 miles",Other,Automatic,Black,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,E-PACE,29995.0,2021,2L,"20,534 miles",Diesel,Automatic,White,SUV,,,,,,,
+jaguar,XF,32170.0,2021,2L,"13,845 miles",Petrol,Automatic,Red,Estate,4X2,5.0,5.0,247 bhp,150 mph,7.1 seconds,201 g/km
+jaguar,E-PACE,26278.0,2019,2L,"22,426 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,E-PACE,24914.0,2020,2L,"9,675 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,179 g/km
+jaguar,E-PACE,20850.0,2019,2L,"68,572 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,237 bhp,139 mph,6.8 seconds,175 g/km
+jaguar,F-TYPE,20795.0,2014,2995cc,"89,000 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,205 g/km
+jaguar,XF,9600.0,2014,2993cc,"86,025 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,241 bhp,149 mph,7.1 seconds,163 g/km
+jaguar,E-PACE,34490.0,2021,1498cc,"12,750 miles",Petrol Plug-In Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,304 bhp,134 mph,6.5 seconds,44 g/km
+jaguar,F-PACE,20049.0,2019,1999cc,"43,651 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,161 bhp,121 mph,10.2 seconds,140 g/km
+jaguar,XE,19549.0,2019,1998cc,"57,161 miles",Petrol,,Black,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,159 g/km
+jaguar,XE,16549.0,2019,1997cc,"55,467 miles",Petrol,,Grey,Saloon,4X2,4.0,5.0,197 bhp,143 mph,7.6 seconds,162 g/km
+jaguar,E-PACE,26249.0,2019,1998cc,"32,432 miles",Petrol,,Grey,SUV,4X4,5.0,5.0,197 bhp,134 mph,7.7 seconds,182 g/km
+jaguar,F-PACE,20450.0,2017,1999cc,"34,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,134 g/km
+jaguar,XF,8750.0,2012,2993cc,"79,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,169 g/km
+jaguar,XJ,11995.0,2011,2993cc,Diesel,Automatic,Black,Saloon,39.2 mpg,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,189 g/km
+jaguar,XF,8995.0,2016,1999cc,"107,313 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.1 seconds,114 g/km
+jaguar,F-TYPE,29750.0,2015,2995cc,"38,000 miles",Petrol,Automatic,White,Convertible,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,XF,20495.0,2016,2993cc,"23,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.2 seconds,144 g/km
+jaguar,XF,7290.0,2012,2179cc,"62,979 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,XF,10995.0,2014,2993cc,"66,500 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,237 bhp,149 mph,7.1 seconds,159 g/km
+jaguar,XKR,13995.0,2006,4196cc,"99,000 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,4.0,418 bhp,155 mph,4.9 seconds,294 g/km
+jaguar,F-TYPE,25499.0,2015,2995cc,"45,000 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,335 bhp,161 mph,5.3 seconds,199 g/km
+jaguar,F-PACE,19499.0,2016,1999cc,"67,499 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,Sovereign,8490.0,2008,2722cc,"80,000 miles",Diesel,Automatic,Other,Saloon,4X2,4.0,5.0,205 bhp,141 mph,7.8 seconds,214 g/km
+jaguar,XJ,12490.0,2012,2993cc,"67,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,184 g/km
+jaguar,E-PACE,14994.0,2019,1999cc,"50,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XF,6994.0,2008,2968cc,"40,000 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,239 bhp,148 mph,7.9 seconds,249 g/km
+jaguar,Sovereign,6995.0,2006,2722cc,Diesel,Automatic,Blue,Saloon,35 mpg,4X2,4.0,5.0,206 bhp,141 mph,7.8 seconds,214 g/km
+jaguar,XJ,25995.0,1975,4235cc,"110,000 miles",Petrol,Manual,Red,Saloon,4X2,2.0,,,,,0 g/km
+jaguar,F-TYPE,64990.0,2022,5000cc,"3,166 miles",Petrol,Automatic,Red,Coupe,4X4,2.0,2.0,568 bhp,186 mph,3.7 seconds,243 g/km
+jaguar,XKR,21900.0,2004,4196cc,"66,000 miles",Petrol,Automatic,BLUE,Convertible,4X2,2.0,4.0,400 bhp,155 mph,,304 g/km
+jaguar,F-PACE,29699.0,2019,2L,"46,000 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,175 g/km
+jaguar,E-PACE,20998.0,2019,2L,"23,138 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,148 bhp,124 mph,9.5 seconds,143 g/km
+jaguar,XE,13528.0,2018,2L,"77,200 miles",Petrol,Automatic,White,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,E-PACE,24995.0,2018,2L,"42,424 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,178 bhp,127 mph,,147 g/km
+jaguar,F-PACE,23490.0,2019,2L,"47,100 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,151 g/km
+jaguar,F-PACE,35499.0,2021,2L,"28,415 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,170 g/km
+jaguar,X Type,2995.0,2009,2198cc,"115,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,146 bhp,129 mph,9.5 seconds,184 g/km
+jaguar,F-PACE,21499.0,2016,1999cc,"36,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XF,19038.0,2019,2L,"38,500 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,136 mph,8.4 seconds,114 g/km
+jaguar,E-PACE,28979.0,2020,2L,"6,509 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,196 g/km
+jaguar,XJ,2995.0,2006,3L,"141,000 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,241 bhp,145 mph,7.8 seconds,249 g/km
+jaguar,I-PACE,39995.0,2023,0L,"7,047 miles",Other,Automatic,Red,Hatchback,4X4,5.0,5.0,395 bhp,124 mph,4.8 seconds,0 g/km
+jaguar,XF,7985.0,2014,2179cc,"94,822 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,161 bhp,130 mph,10.5 seconds,129 g/km
+jaguar,XE,22995.0,2020,1999cc,"14,026 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,148 g/km
+jaguar,E-PACE,26450.0,2020,2L,"24,000 miles",Diesel,Automatic,YULONG WHITE,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,198 g/km
+jaguar,XE,25900.0,2019,1998cc,"42,140 miles",Petrol,Automatic,Silver,Saloon,4X4,4.0,5.0,296 bhp,155 mph,5.4 seconds,170 g/km
+jaguar,E-PACE,20000.0,2018,1999cc,"54,178 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,XE,14995.0,2016,1999cc,"31,000 miles",Diesel,Automatic,Unlisted,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,E-PACE,29500.0,2019,1998cc,"17,000 miles",Petrol,Automatic,Caesium Blue,SUV,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,185 g/km
+jaguar,XE,13990.0,2017,1999cc,"60,000 miles",Diesel,Automatic,Ultimate Black,Saloon,4X2,4.0,5.0,177 bhp,140 mph,8.1 seconds,111 g/km
+jaguar,F-TYPE,29995.0,2019,1997cc,"14,159 miles",Petrol,Automatic,Eiger Grey Metallic,Coupe,4X2,2.0,2.0,296 bhp,155 mph,5.7 seconds,179 g/km
+jaguar,XF,6990.0,2011,2179cc,"60,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,190 bhp,140 mph,8.5 seconds,149 g/km
+jaguar,F-PACE,36000.0,2021,1997cc,"10,487 miles",Diesel,Automatic,Metallic - Eiger Grey,Estate,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,166 g/km
+jaguar,F-PACE,29995.0,2000,3000cc,"8,846 miles",Diesel,Automatic,Bronze,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.2 seconds,159 g/km
+jaguar,E-PACE,22000.0,2018,1999cc,"40,500 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,162 g/km
+jaguar,XF,7932.0,2013,2179cc,"71,515 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,201 bhp,140 mph,8.5 seconds,139 g/km
+jaguar,F-PACE,15975.0,2016,1999cc,"94,210 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,F-PACE,28990.0,2019,1999cc,"23,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-PACE,28000.0,2018,2993cc,"53,894 miles",Diesel,Automatic,SILVER,Estate,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,XF,9250.0,2013,2179cc,"102,737 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,197 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,F-TYPE,44990.0,2015,5000cc,"4,820 miles",Petrol,Automatic,BLACK,Coupe,4X4,2.0,2.0,541 bhp,186 mph,4.1 seconds,269 g/km
+jaguar,E-PACE,21849.0,2018,1999cc,"17,958 miles",Diesel,,White,SUV,4X4,5.0,5.0,148 bhp,120 mph,9.9 seconds,158 g/km
+jaguar,F-PACE,26699.0,2017,3L,"31,878 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,F-PACE,39795.0,2021,2L,"14,601 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,171 g/km
+jaguar,X Type,840.0,2001,2967cc,"95,500 miles",Petrol,Automatic,Black,Saloon,4X4,4.0,5.0,232 bhp,143 mph,7.1 seconds,249 g/km
+jaguar,XF,23750.0,2019,3L,"19,159 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,296 bhp,155 mph,6.4 seconds,161 g/km
+jaguar,F-PACE,32499.0,2020,2L,"12,842 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,155 g/km
+jaguar,F-TYPE,39490.0,2995cc,"3,480 miles",Petrol,Automatic,Blue,Convertible,32.8 mpg,4X2,2.0,2.0,375 bhp,171 mph,4.9 seconds,203 g/km
+jaguar,E-PACE,21995.0,2019,1999cc,"48,000 miles",Diesel,Automatic,RED,Estate,4X4,5.0,5.0,237 bhp,139 mph,6.8 seconds,162 g/km
+jaguar,F-PACE,31500.0,2021,1997cc,"43,409 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,135 mph,7.0 seconds,220 g/km
+jaguar,F-PACE,32000.0,2020,2993cc,"35,129 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,170 g/km
+jaguar,F-TYPE,48000.0,2021,5000cc,"3,500 miles",Petrol,Automatic,Yellow,Coupe,4X4,2.0,2.0,444 bhp,177 mph,4.4 seconds,248 g/km
+jaguar,F-PACE,22750.0,2018,1999cc,"38,750 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,152 g/km
+jaguar,E-PACE,26490.0,2018,1998cc,"39,919 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,246 bhp,143 mph,6.7 seconds,185 g/km
+jaguar,XE,24900.0,2020,1998cc,"14,175 miles",Diesel,Automatic,Unknown,Saloon,4X2,4.0,5.0,201 bhp,146 mph,,137 g/km
+jaguar,E-PACE,24900.0,2019,1999cc,"18,812 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,F-TYPE,42490.0,2019,2995cc,"8,961 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,2.0,336 bhp,161 mph,5.3 seconds,224 g/km
+jaguar,XJ,26900.0,2018,2993cc,"36,899 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,302 bhp,155 mph,6.2 seconds,155 g/km
+jaguar,F-PACE,23500.0,2019,1999cc,"28,134 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,177 bhp,129 mph,8.6 seconds,146 g/km
+jaguar,F-PACE,37000.0,2021,2L,"16,064 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,173 g/km
+jaguar,F-PACE,36500.0,2021,2L,"25,787 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,171 g/km
+jaguar,XE,14106.0,2017,2L,"45,058 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,XE,24413.0,2020,2L,"24,753 miles",Petrol,Automatic,White,Saloon,4X2,4.0,5.0,247 bhp,155 mph,6.2 seconds,178 g/km
+jaguar,F-PACE,36808.0,2021,2L,"17,405 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,201 bhp,130 mph,8.0 seconds,172 g/km
+jaguar,XE,14841.0,2018,2L,"61,561 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,197 bhp,148 mph,7.6 seconds,144 g/km
+jaguar,F-PACE,21200.0,2018,2L,"61,898 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,XE,24400.0,2020,1999cc,"44,000 miles",Diesel,Automatic,Portofino Blue Metallic,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,132 g/km
+jaguar,XF,5990.0,2012,2993cc,"132,500 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,169 g/km
+jaguar,XJ,14495.0,2016,3000cc,"99,654 miles",Diesel,Automatic,Ammonite Grey Metallic,Saloon,,,,,,,
+jaguar,F-PACE,17995.0,2016,1999cc,"60,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XF,8995.0,2014,2179cc,"77,638 miles",Diesel,Automatic,Red,Saloon,,,,,,,
+jaguar,F-PACE,62000.0,2022,5000cc,"5,234 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,543 bhp,178 mph,4.0 seconds,275 g/km
+jaguar,S Type,4995.0,2007,2967cc,"80,705 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,241 bhp,145 mph,7.9 seconds,259 g/km
+jaguar,XE,12395.0,2016,1999cc,"72,500 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,197 bhp,155 mph,6.9 seconds,179 g/km
+jaguar,F-PACE,20999.0,2016,1999cc,"67,100 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,F-PACE,14999.0,2016,1999cc,"83,826 miles",Diesel,Automatic,Green,SUV,4X4,5.0,5.0,177 bhp,129 mph,8.7 seconds,139 g/km
+jaguar,XF,15990.0,2018,2000cc,"30,000 miles",Diesel,Automatic,Silver,Saloon,,,,,,,
+jaguar,XJ6,7495.0,2006,2967cc,"67,000 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,241 bhp,145 mph,7.8 seconds,249 g/km
+jaguar,F-PACE,18994.0,2018,1999cc,"88,850 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,E-PACE,26999.0,2019,1999cc,"16,672 miles",Diesel,Automatic,SILVER,Estate,4X4,5.0,5.0,178 bhp,127 mph,8.6 seconds,158 g/km
+jaguar,XF,8795.0,2013,2179cc,"100,000 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,201 bhp,134 mph,8.8 seconds,139 g/km
+jaguar,F-PACE,21799.0,2017,1999cc,"45,438 miles",Diesel,Automatic,GREEN,Estate,4X4,5.0,5.0,177 bhp,129 mph,9.0 seconds,139 g/km
+jaguar,XF,1850.0,2009,2993cc,"197,000 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,241 bhp,149 mph,7.1 seconds,179 g/km
+jaguar,F-PACE,25790.0,2017,2993cc,"37,818 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,296 bhp,150 mph,6.4 seconds,159 g/km
+jaguar,XF,5995.0,2008,2.7L,"72,641 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,205 bhp,143 mph,7.7 seconds,199 g/km
+jaguar,XE,12000.0,2017,2L,"75,716 miles",Diesel,Automatic,White,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,F-PACE,32950.0,2019,1997cc,"25,000 miles",Petrol,Automatic,BLACK,Estate,4X4,5.0,5.0,296 bhp,145 mph,6.1 seconds,182 g/km
+jaguar,XE,20200.0,2000,1999cc,"67,100 miles",Diesel,Automatic,WHITE,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.6 seconds,132 g/km
+jaguar,XE,11995.0,2016,1999cc,"81,245 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km
+jaguar,XJ,4950.0,2005,2967cc,"130,000 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,241 bhp,145 mph,7.8 seconds,249 g/km
+jaguar,F-PACE,23990.0,2017,1999cc,"52,599 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,237 bhp,135 mph,7.2 seconds,153 g/km
+jaguar,XE,9995.0,2015,1999cc,"51,000 miles",Diesel,Automatic,Ultimate Black,Saloon,4X2,4.0,5.0,161 bhp,132 mph,8.2 seconds,106 g/km
+jaguar,XF,2494.0,2011,2993cc,"193,573 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,179 g/km
+jaguar,XJ,11995.0,2010,2993cc,"60,000 miles",Diesel,Automatic,Red,Saloon,4X2,4.0,5.0,276 bhp,155 mph,6.4 seconds,184 g/km
+jaguar,XF,8925.0,2012,2993cc,"90,000 miles",Diesel,Automatic,BLACK,Saloon,,,,,,,
+jaguar,XE,12695.0,2018,1999cc,"69,465 miles",Diesel,Automatic,RED,Saloon,4X2,4.0,5.0,177 bhp,140 mph,7.8 seconds,111 g/km

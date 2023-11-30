@@ -1,0 +1,4 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+daihatsu,Sirion,3795.0,2008,1298cc,"57,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,86 bhp,102 mph,13.0 seconds,151 g/km
+daihatsu,Sirion,2890.0,2009,1298cc,"84,726 miles",Petrol,Manual,GOLD,Hatchback,4X2,5.0,5.0,86 bhp,105 mph,11.4 seconds,137 g/km
+daihatsu,Sirion,2750.0,2007,1298cc,"36,589 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,105 mph,,137 g/km

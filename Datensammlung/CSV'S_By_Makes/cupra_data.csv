@@ -1,0 +1,113 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+cupra,Formentor,30250.0,0L,"19,000 miles",Petrol,Automatic,Magnetic Grey (Metallic),SUV,217.3 mpg,4X2,5.0,5.0,201 bhp,127 mph,,29 g/km
+cupra,Formentor,36850.0,2023,2L,"4,502 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Formentor,41970.0,2023,1984cc,204 miles,Petrol,Automatic,Black,SUV,4X4,5.0,4.0,306 bhp,155 mph,,195 g/km
+cupra,Formentor,28440.0,2023,1.5L,"5,881 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,35000.0,2023,2L,12 miles,Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,241 bhp,148 mph,,174 g/km
+cupra,Leon,27203.0,2023,1.5L,"3,000 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Formentor,37990.0,2023,2L,"5,998 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Leon,26000.0,2023,1.5L,"4,998 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,134 g/km
+cupra,Formentor,32590.0,2023,1.4L,"7,998 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,201 bhp,127 mph,,27 g/km
+cupra,Formentor,28990.0,2023,1.5L,"4,998 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,127 mph,,147 g/km
+cupra,Formentor,28000.0,2022,1.4L,"15,240 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,201 bhp,127 mph,,29 g/km
+cupra,Formentor,21796.0,2022,1.5L,"11,900 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,127 mph,,143 g/km
+cupra,Leon,24767.0,2020,1.4L,"24,000 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,241 bhp,140 mph,,31 g/km
+cupra,Formentor,28490.0,2023,1.5L,"8,826 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,39990.0,2023,1.4L,10 miles,Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Formentor,30390.0,2021,2L,"18,856 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Ateca,34297.0,2023,2L,"4,633 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,296 bhp,155 mph,,202 g/km
+cupra,Formentor,34635.0,2023,2L,196 miles,Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,24899.0,2022,1.5L,"9,620 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,127 mph,,147 g/km
+cupra,Formentor,30990.0,2023,2L,76 miles,Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,188 bhp,137 mph,,176 g/km
+cupra,Formentor,22699.0,2021,1.5L,"19,070 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,127 mph,,147 g/km
+cupra,Leon,28900.0,2023,1.5L,"2,999 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,31800.0,2023,2L,"2,200 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,162 g/km
+cupra,Formentor,24495.0,2021,1.5L,"12,948 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,127 mph,,147 g/km
+cupra,Formentor,41490.0,2023,1.4L,"2,000 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Formentor,32890.0,2023,1.5L,"1,500 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,157 g/km
+cupra,Leon,37490.0,2023,1.4L,"6,000 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,241 bhp,140 mph,,29 g/km
+cupra,Leon,34636.0,2023,2L,"2,177 miles",Petrol,Semiauto,White,Hatchback,,,,,,,
+cupra,Formentor,29649.0,2021,1.4L,"3,939 miles",Hybrid,Semiauto,Grey,SUV,,,,,,,
+cupra,Formentor,37990.0,2023,1.4L,"2,218 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Formentor,31495.0,2023,1.5L,"1,065 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Ateca,33000.0,2023,1.5L,7 miles,Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+cupra,Formentor,21750.0,2021,1.5L,"16,098 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+cupra,Formentor,35900.0,2023,1.4L,"5,677 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Ateca,32990.0,2023,1.5L,2 miles,Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+cupra,Leon,30990.0,2023,1.5L,"2,500 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Ateca,32937.0,2023,1.5L,"2,999 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+cupra,Ateca,34790.0,2023,1.5L,100 miles,Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+cupra,Leon,30490.0,2023,1.5L,"3,500 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,28440.0,2023,1.5L,"2,000 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Formentor,27400.0,2022,1.5L,"10,158 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Ateca,32000.0,2021,2L,"13,633 miles",Petrol,Semiauto,Silver,SUV,4X4,5.0,5.0,296 bhp,155 mph,,201 g/km
+cupra,Ateca,34990.0,2023,2L,"2,500 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,296 bhp,155 mph,,202 g/km
+cupra,Ateca,35000.0,2023,2L,"3,000 miles",Petrol,Semiauto,Black,SUV,,,,,,,
+cupra,Formentor,31995.0,2021,1984cc,"37,340 miles",Petrol,Automatic,GREY,Hatchback,4X4,5.0,5.0,306 bhp,155 mph,,194 g/km
+cupra,Ateca,27000.0,2020,2L,"26,260 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,296 bhp,153 mph,4.9 seconds,197 g/km
+cupra,Leon,38990.0,2023,1984cc,345 miles,Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,
+cupra,Leon,38990.0,2023,1984cc,"2,965 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,163 g/km
+cupra,Formentor,23200.0,0L,"36,583 miles",Petrol,Automatic,Midnight Black (Metallic),SUV,235.4 mpg,4X2,5.0,5.0,201 bhp,127 mph,,27 g/km
+cupra,Leon,27995.0,2023,2L,"6,582 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,188 bhp,143 mph,,136 g/km
+cupra,Formentor,27594.0,2022,1498cc,"10,889 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,148 bhp,127 mph,,143 g/km
+cupra,Leon,28290.0,2022,2L,"13,231 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,296 bhp,155 mph,,172 g/km
+cupra,Formentor,32490.0,2022,2L,"10,068 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,23499.0,2022,1.5L,"14,000 miles",Petrol,Semi Automatic,Grey,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+cupra,Ateca,38440.0,2023,2L,10 miles,Petrol,Semiauto,Grey,SUV,,,,,,,
+cupra,Leon,26949.0,2023,1.5L,"3,503 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,27500.0,2023,1.5L,10 miles,Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,27500.0,2023,1.5L,10 miles,Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,26499.0,2023,1.5L,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,134 g/km
+cupra,Leon,27999.0,2023,1.5L,10 miles,Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,27000.0,2023,1.5L,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,134 g/km
+cupra,Leon,27890.0,2023,1.5L,10 miles,Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,27890.0,2023,1.5L,10 miles,Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Formentor,40000.0,2023,2L,"4,689 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Formentor,37490.0,2023,2L,10 miles,Petrol,Semiauto,White,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,25490.0,2021,1.4L,"15,142 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,201 bhp,127 mph,,27 g/km
+cupra,Formentor,29449.0,2021,1.4L,"23,766 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Formentor,28990.0,2021,2L,"15,002 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Formentor,27000.0,2021,1984cc,"23,991 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Leon,26749.0,2023,1.5L,"1,000 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Leon,26000.0,2023,1.5L,"3,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,134 g/km
+cupra,Ateca,36990.0,2023,1984cc,"11,844 miles",Petrol,Automatic,White,Estate,4X4,5.0,5.0,296 bhp,155 mph,,202 g/km
+cupra,Formentor,37990.0,2023,1.4L,"1,253 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,201 bhp,127 mph,,29 g/km
+cupra,Formentor,36240.0,2023,2L,"10,406 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,194 g/km
+cupra,Formentor,30300.0,2022,1395cc,"15,064 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Ateca,27295.0,0L,"17,716 miles",Petrol,Automatic,GREY,SUV,33.2 mpg,4X4,5.0,5.0,296 bhp,153 mph,4.9 seconds,197 g/km
+cupra,Ateca,25700.0,0L,"30,012 miles",Petrol,Automatic,GRETY,SUV,33.2 mpg,4X4,5.0,5.0,296 bhp,153 mph,4.9 seconds,168 g/km
+cupra,Formentor,29990.0,2021,2L,"17,004 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,30999.0,2021,2L,"7,486 miles",Petrol,Semiauto,Silver,SUV,4X4,5.0,5.0,306 bhp,155 mph,,
+cupra,Formentor,30000.0,2023,1.5L,"3,686 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Ateca,38500.0,2023,2L,"4,224 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,296 bhp,155 mph,,202 g/km
+cupra,Ateca,32980.0,2023,1.5L,"1,000 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+cupra,Formentor,35900.0,2023,1.4L,"7,632 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,241 bhp,130 mph,,33 g/km
+cupra,Formentor,29999.0,2021,2L,"10,051 miles",Petrol,Semi Automatic,Grey,Hatchback,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Ateca,28300.0,2020,1984cc,"18,037 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,296 bhp,152 mph,,
+cupra,Ateca,32950.0,0L,"8,630 miles",Petrol,Automatic,Black Magic,SUV,31.7 mpg,4X4,5.0,5.0,296 bhp,155 mph,,203 g/km
+cupra,Leon,35950.0,0L,25 miles,Petrol,Automatic,Magnetic Grey (Metallic),Hatchback,217.3 mpg,4X2,5.0,5.0,241 bhp,140 mph,,
+cupra,Formentor,31990.0,2022,2L,"6,800 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,28790.0,2023,1.5L,"4,265 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,30999.0,2021,2L,"14,454 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Formentor,23495.0,2022,1498cc,"16,471 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,127 mph,,143 g/km
+cupra,Formentor,30750.0,2022,2L,"9,760 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Leon,30990.0,2023,1498cc,"5,881 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+cupra,Formentor,23499.0,2021,1.5L,"10,872 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,148 bhp,127 mph,,148 g/km
+cupra,Formentor,30999.0,2021,2L,"12,721 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,306 bhp,155 mph,,192 g/km
+cupra,Formentor,27599.0,2022,1498cc,"11,746 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+cupra,Formentor,28849.0,2023,1.5L,"3,000 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,157 g/km
+cupra,Formentor,23740.0,2023,1.5L,"15,539 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+cupra,Formentor,29740.0,2023,2L,"5,516 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,188 bhp,137 mph,,176 g/km
+cupra,Formentor,27850.0,2023,1.5L,"11,359 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,29390.0,2023,2L,"8,951 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,188 bhp,137 mph,,176 g/km
+cupra,Formentor,25990.0,2022,1.5L,"23,419 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,29740.0,2023,2L,"5,738 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,188 bhp,137 mph,,176 g/km
+cupra,Ateca,24450.0,2020,2L,"26,532 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,296 bhp,153 mph,4.9 seconds,197 g/km
+cupra,Formentor,24695.0,2021,1498cc,"10,964 miles",Petrol,Manual,Metallic - Asphalt Blue,SUV,4X2,5.0,5.0,148 bhp,127 mph,,147 g/km
+cupra,Formentor,27590.0,2022,1.5L,"7,070 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,25500.0,2020,1984cc,"40,128 miles",Petrol,Automatic,BLACK,Hatchback,4X4,5.0,5.0,306 bhp,155 mph,,193 g/km
+cupra,Formentor,26000.0,2022,1498cc,"13,988 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Ateca,39900.0,2023,2L,"3,900 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,296 bhp,155 mph,,204 g/km
+cupra,Formentor,27990.0,2023,1.5L,"11,250 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,155 g/km
+cupra,Formentor,25995.0,2021,1.4L,"5,884 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,201 bhp,127 mph,,29 g/km
+cupra,Ateca,28400.0,2020,2L,"7,751 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,296 bhp,153 mph,,

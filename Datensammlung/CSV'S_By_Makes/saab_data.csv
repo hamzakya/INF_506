@@ -1,0 +1,23 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+saab,9 3,2390.0,2004,2000cc,"103,000 miles",Petrol,Automatic,BLUE,Saloon,4X2,4.0,5.0,210 bhp,142 mph,9.0 seconds,232 g/km
+saab,9 3,2000.0,2008,1796cc,"149,585 miles",Petrol,Automatic,BLUE,Convertible,,,,,,,
+saab,9 3,2750.0,2009,1910cc,"150,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,120 bhp,121 mph,11.5 seconds,149 g/km
+saab,9 3,1699.0,2004,1998cc,"69,000 miles",Petrol,Manual,Silver,Saloon,4X2,4.0,5.0,150 bhp,129 mph,9.5 seconds,
+saab,9 3,3450.0,2007,1998cc,"79,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,5.0,150 bhp,127 mph,10.0 seconds,206 g/km
+saab,9 3,3995.0,2010,1910cc,"116,000 miles",Diesel,Manual,SILVER,Convertible,4X2,2.0,4.0,177 bhp,137 mph,8.7 seconds,154 g/km
+saab,9 3,3495.0,2008,1998cc,"99,079 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,175 bhp,137 mph,8.0 seconds,216 g/km
+saab,9 3,4495.0,2007,1900cc,"80,000 miles",Diesel,Manual,Fusion Blue,Convertible,4X2,2.0,5.0,150 bhp,124 mph,1.0 seconds,169 g/km
+saab,9 3,3495.0,2008,2792cc,"123,468 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,247 bhp,152 mph,7.1 seconds,259 g/km
+saab,9 3,1995.0,2002,1985cc,"123,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,185 bhp,143 mph,8.0 seconds,210 g/km
+saab,9 3,1475.0,2002,1985cc,"128,000 miles",Petrol,Automatic,Steel Grey Metallic,Hatchback,4X2,3.0,5.0,154 bhp,130 mph,9.9 seconds,243 g/km
+saab,9 5,2595.0,2006,1910cc,"106,925 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,150 bhp,127 mph,10.5 seconds,199 g/km
+saab,9 3,4995.0,2009,1.89L,"66,600 miles",Diesel,Automatic,Blue,Convertible,4X2,2.0,4.0,150 bhp,121 mph,11.2 seconds,189 g/km
+saab,9 5,795.0,2005,2171cc,"177,452 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,120 bhp,122 mph,11.3 seconds,178 g/km
+saab,9 5,8995.0,2007,1910cc,"34,500 miles",Diesel,Automatic,Snow Silver Metallic,Estate,4X2,5.0,5.0,150 bhp,124 mph,11.0 seconds,204 g/km
+saab,96,3800.0,1972,1498cc,"56,329 miles",Petrol,Manual,Beige,Saloon,,,,,,,
+saab,9 3,5495.0,2007,2000cc,"84,426 miles",Petrol,Automatic,METALLIC SILVER,Estate,4X2,5.0,5.0,175 bhp,131 mph,9.4 seconds,230 g/km
+saab,9 5,7995.0,2009,2300cc,"79,517 miles",Petrol,Automatic,METALLIC IRIDIUM SILVER,Estate,4X2,5.0,5.0,256 bhp,152 mph,8.5 seconds,244 g/km
+saab,9 3,3499.0,2005,1910cc,"116,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,150 bhp,124 mph,9.7 seconds,159 g/km
+saab,9 3,4300.0,2010,1998cc,"99,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,147 bhp,127 mph,10.5 seconds,186 g/km
+saab,9 3,3995.0,2002,1985cc,"62,500 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,4.0,154 bhp,130 mph,9.9 seconds,243 g/km
+saab,9 3,1500.0,2006,1910cc,"178,000 miles",Diesel,Manual,Black,Convertible,4X2,2.0,4.0,150 bhp,124 mph,10.0 seconds,169 g/km

@@ -1,0 +1,84 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+ifor,unassigned,20495.0,2017,2100cc,"73,143 miles",Diesel,Automatic,Grey,Other,4X4,5.0,5.0,168 bhp,130 mph,8.3 seconds,129 g/km
+ifor,unassigned,69995.0,2023,2000cc,650 miles,Diesel,Automatic,Black,Van,,,,168 bhp,,,
+ifor,unassigned,24465.0,2023,1499cc,9 miles,Diesel,Manual,GREY,Van,4X2,,,118 bhp,99 mph,,
+ifor,unassigned,25445.0,2023,1499cc,9 miles,Diesel,Manual,WHITE,Van,4X2,,,118 bhp,99 mph,,
+ifor,unassigned,26645.0,2023,1499cc,9 miles,Diesel,Manual,BLACK,Van,4X2,,,118 bhp,99 mph,,
+ifor,unassigned,22995.0,2022,999cc,"8,014 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,134 g/km
+ifor,unassigned,22795.0,2022,1199cc,"9,514 miles",Petrol,Manual,WHITE,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+ifor,unassigned,46140.0,2023,1L,"5,000 miles",Other,Automatic,WHITE,MPV,4X2,5.0,5.0,295 bhp,135 mph,,0 g/km
+ifor,unassigned,31188.0,2021,1L,"27,295 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,221 bhp,100 mph,,0 g/km
+ifor,unassigned,36444.0,2023,1L,"7,544 miles",Other,Automatic,BLUE,MPV,4X2,5.0,5.0,295 bhp,135 mph,,0 g/km
+ifor,unassigned,28590.0,2023,1598cc,"8,543 miles",Other,Automatic,Black,Coupe,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+ifor,unassigned,7499.0,2019,689cc,"11,318 miles",Petrol,Manual,White,Other,,,,72 bhp,,,0 g/km
+ifor,unassigned,74980.0,2023,2993cc,50 miles,Diesel,Automatic,Black,MPV,4X4,6.0,5.0,245 bhp,99 mph,,336 g/km
+ifor,unassigned,49990.0,2012,2287cc,"44,700 miles",Diesel,Manual,White,Other,,,,,,,
+ifor,unassigned,39950.0,2011,4735cc,"43,000 miles",Petrol,Automatic,BLACK,Convertible,4X2,2.0,2.0,433 bhp,190 mph,5.0 seconds,299 g/km
+ifor,unassigned,13500.0,2000,1800cc,0 miles,Petrol,Manual,Green,Saloon,,,,,,,
+ifor,unassigned,38440.0,2023,"10,000 miles",Other,Automatic,Pearl White,MPV,0.1 mpg,4X2,5.0,5.0,295 bhp,135 mph,,0 g/km
+ifor,unassigned,22350.0,2020,1798cc,"20,760 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,121 bhp,112 mph,,112 g/km
+ifor,unassigned,7500.0,2015,1600cc,"74,000 miles",Diesel,Manual,Blue,Other,,,,,,,
+ifor,unassigned,8400.0,2015,1600cc,"83,000 miles",Diesel,Manual,Blue,Other,4X2,,,101 bhp,104 mph,12.6 seconds,149 g/km
+ifor,unassigned,9000.0,2019,1500cc,"61,000 miles",Diesel,Manual,White,Other,4X2,,,90 bhp,99 mph,0 seconds,112 g/km
+ifor,unassigned,14250.0,2006,2500cc,"72,000 miles",Petrol,Manual,Grey,Other,4X4,4.0,5.0,277 bhp,158 mph,5.4 seconds,257 g/km
+ifor,unassigned,34990.0,2020,1950cc,"34,410 miles",Diesel,Automatic,Brilliant Blue Metallic,Estate,4X4,5.0,5.0,241 bhp,144 mph,6.5 seconds,154 g/km
+ifor,unassigned,8995.0,2014,1600cc,"84,802 miles",Diesel,Manual,White,Other,4X2,,,110 bhp,122 mph,10.2 seconds,103 g/km
+ifor,unassigned,32999.0,2010,1368cc,"5,000 miles",Petrol,Automatic,RED,Hatchback,,,,,,,
+ifor,unassigned,4995.0,2016,399cc,"3,224 miles",Petrol,Manual,Grey,Other,,,,,,,0 g/km
+ifor,unassigned,26995.0,2007,1390cc,"68,000 miles",Petrol,Manual,Blue,Other,,,,76 bhp,,,0 g/km
+ifor,unassigned,74000.0,2012,6800cc,"12,000 miles",Other,Automatic,Black/Gold,Other,4X2,,,,,,0 g/km
+ifor,unassigned,32388.0,2021,1L,"24,000 miles",Other,Automatic,BLUE,Saloon,4X2,4.0,5.0,221 bhp,100 mph,,0 g/km
+ifor,unassigned,19745.0,2022,1199cc,"14,629 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+ifor,unassigned,25990.0,2022,1598cc,"1,985 miles",Other,Automatic,Grey,Estate,4X2,4.0,5.0,145 bhp,108 mph,,108 g/km
+ifor,unassigned,23350.0,2022,999cc,"5,401 miles",Petrol,Automatic,Metallic - Smokey Gr,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,134 g/km
+ifor,unassigned,48950.0,2023,0L,10 miles,Other,Automatic,Metallic - Glacier White,Coupe,4X2,5.0,5.0,201 bhp,99 mph,,0 g/km
+ifor,unassigned,21490.0,2022,999cc,"10,123 miles",Petrol,Manual,Metallic - Reef Blue,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,126 g/km
+ifor,unassigned,47950.0,2022,0L,"9,542 miles",Other,Automatic,Grey,SUV,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+ifor,unassigned,20490.0,2021,1598cc,"21,305 miles",Other,Automatic,Grey,Coupe,4X2,4.0,5.0,145 bhp,108 mph,,109 g/km
+ifor,unassigned,26495.0,2022,0L,"9,999 miles",Other,Manual,Visual Green,SUV,4X2,5.0,5.0,109 bhp,119 mph,,128 g/km
+ifor,unassigned,24750.0,2022,999cc,"3,189 miles",Petrol,Manual,Smokey Grey,SUV,4X2,5.0,5.0,109 bhp,119 mph,,127 g/km
+ifor,unassigned,18995.0,2022,1L,"3,000 miles",Other,Automatic,Green,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ifor,unassigned,8995.0,2022,689cc,471 miles,Petrol,Manual,White,Other,,,,72 bhp,,,0 g/km
+ifor,unassigned,2850.0,2011,125cc,"14,000 miles",Petrol,Manual,Other,Other,,,,,,,0 g/km
+ifor,unassigned,49800.0,2022,1L,"7,000 miles",Other,Automatic,WHITE,MPV,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+ifor,unassigned,11250.0,2022,1200cc,"3,879 miles",Petrol,Manual,Multicolour,Other,,,,79 bhp,,,0 g/km
+ifor,unassigned,35750.0,2023,1600cc,"3,300 miles",Other,Automatic,Blue,Coupe,4X2,5.0,5.0,221 bhp,145 mph,,27 g/km
+ifor,unassigned,27995.0,2022,1499cc,"7,741 miles",Diesel,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,121 mph,,139 g/km
+ifor,unassigned,26995.0,2023,1199cc,"3,915 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,136 g/km
+ifor,unassigned,18000.0,2019,1500cc,"31,000 miles",Petrol,Other,White,Other,4X2,5.0,5.0,147 bhp,132 mph,8.8 seconds,118 g/km
+ifor,unassigned,6395.0,2015,1200cc,"12,401 miles",Petrol,Other,White,Other,,,,,,,0 g/km
+ifor,unassigned,33795.0,2023,1598cc,"6,012 miles",Other,Automatic,Blue,Hatchback,4X2,5.0,5.0,221 bhp,145 mph,,27 g/km
+ifor,unassigned,9999.0,1993,1995cc,"71,000 miles",Petrol,Manual,White,Other,4X2,,,,,,0 g/km
+ifor,unassigned,30880.0,2023,99 miles,Other,Automatic,Kings Red,SUV,47.9 mpg,4X2,5.0,5.0,109 bhp,119 mph,,
+ifor,unassigned,3095.0,2021,300cc,221 miles,Petrol,Manual,Brown,Other,,,,20 bhp,71 mph,,0 g/km
+ifor,unassigned,3795.0,2003,6000cc,"17,548 miles",Petrol,Other,Red,Other,,,,,,,0 g/km
+ifor,unassigned,56999.0,2022,2287cc,"6,500 miles",Diesel,Manual,Grey,Van,4X2,,,140 bhp,93 mph,,
+ifor,unassigned,69995.0,2021,2287cc,"7,127 miles",Diesel,Automatic,White,Van,,,,,,,
+ifor,unassigned,6995.0,2016,1200cc,"37,000 miles",Other,Manual,White,Other,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,100 g/km
+ifor,unassigned,64999.0,2022,2179cc,"1,600 miles",Diesel,Manual,Black,Other,,,,,,,
+ifor,unassigned,64999.0,2019,2287cc,"8,000 miles",Diesel,Manual,Black/White,Other,4X2,,,129 bhp,,,0 g/km
+ifor,unassigned,3599.0,2023,125cc,1 miles,Petrol,Manual,Black,Other,,,,,,,
+ifor,unassigned,1999.0,2023,125cc,1 miles,Petrol,Manual,Other,Other,,,,,,,
+ifor,unassigned,1699.0,2023,50cc,1 miles,Petrol,Automatic,Blue,Other,,,,,,,
+ifor,unassigned,1899.0,1960,50cc,1 miles,Petrol,Manual,Other,Other,,,,,,,
+ifor,unassigned,3599.0,2023,125cc,1 miles,Petrol,Manual,Black,Other,,,,,,,
+ifor,unassigned,1999.0,2023,125cc,1 miles,Petrol,Automatic,Other,Other,,,,,,,
+ifor,unassigned,2495.0,1961,248cc,249 miles,Petrol,Manual,Black/Red,Other,,,,,,,
+ifor,unassigned,16999.0,2017,0L,0 miles,Other,Automatic,WHITE/WHITE,Other,,,,,,,
+ifor,unassigned,14999.0,2012,1248cc,"86,000 miles",Diesel,Manual,Red,Other,4X2,4.0,,74 bhp,98 mph,15.6 seconds,0 g/km
+ifor,unassigned,38995.0,2021,1991cc,"12,475 miles",Petrol,Automatic,Cosmos Black,SUV,4X4,5.0,5.0,302 bhp,155 mph,,198 g/km
+ifor,unassigned,94995.0,2023,3995cc,300 miles,Petrol,Manual,Silver,Coupe,4X2,2.0,2.0,415 bhp,188 mph,4.4 seconds,251 g/km
+ifor,unassigned,10990.0,2020,1254cc,"6,067 miles",Petrol,Manual,Blue,Other,,,,134 bhp,,,110 g/km
+ifor,unassigned,2295.0,2007,1300cc,"45,559 miles",Petrol,Manual,Black,Other,,,,,,,0 g/km
+ifor,unassigned,39995.0,2022,"21,805 miles",Other,Automatic,White,Other,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+ifor,unassigned,3295.0,2023,100cc,"1,875 miles",Petrol,Other,Grey,Other,,,,15 bhp,,,0 g/km
+ifor,unassigned,33990.0,2023,1598cc,"2,950 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,221 bhp,145 mph,,27 g/km
+ifor,unassigned,4995.0,2011,1600cc,"108,000 miles",Diesel,Manual,White,Other,4X2,3.0,4.0,103 bhp,118 mph,10.5 seconds,99 g/km
+ifor,unassigned,18695.0,2020,1950cc,"61,095 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,192 bhp,145 mph,7.0 seconds,119 g/km
+ifor,unassigned,22690.0,2022,1598cc,"20,362 miles",Other,Automatic,Grey,Coupe,4X2,4.0,5.0,145 bhp,107 mph,,109 g/km
+ifor,unassigned,99995.0,2018,3982cc,"7,600 miles",Petrol,Automatic,Green,Coupe,4X2,2.0,2.0,576 bhp,198 mph,3.6 seconds,259 g/km
+ifor,unassigned,9500.0,2012,18000cc,"57,997 miles",Other,Automatic,Silver,Other,,,,,,,
+ifor,unassigned,3695.0,2014,3500cc,"78,000 miles",Petrol,Automatic,White,Other,,5.0,,,,,0 g/km
+ifor,unassigned,399495.0,2022,6728cc,"3,680 miles",Diesel,Manual,Grey,Van,4X4,,,276 bhp,,,
+ifor,unassigned,76995.0,2023,2184cc,"9,828 miles",Diesel,Automatic,White,Other,4X2,,,140 bhp,,,0 g/km
+ifor,unassigned,3000.0,2018,100cc,"10,300 miles",Petrol,Manual,Red,Other,,,,46 bhp,,,0 g/km

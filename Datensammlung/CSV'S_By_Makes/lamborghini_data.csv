@@ -1,0 +1,28 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+lamborghini,Urus,229950.0,2022,4L,"8,500 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,325 g/km
+lamborghini,Gallardo,79995.0,2006,4961cc,"34,671 miles",Petrol,Automatic,YELLOW,Convertible,4X4,2.0,2.0,516 bhp,193 mph,3.8 seconds,450 g/km
+lamborghini,Urus,184000.0,2020,4L,"32,366 miles",Petrol,Automatic,GRIGIO KERES,Estate,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,325 g/km
+lamborghini,Huracan,319950.0,2022,5.2L,"3,834 miles",Petrol,Semiauto,Orange,Coupe,4X2,2.0,2.0,630 bhp,193 mph,,331 g/km
+lamborghini,Huracan,294950.0,2023,5204cc,300 miles,Petrol,Automatic,Blue,Coupe,4X2,2.0,2.0,630 bhp,193 mph,,331 g/km
+lamborghini,Huracan,239950.0,2020,5.2L,"3,500 miles",Petrol,Semiauto,Black,Convertible,4X4,2.0,2.0,630 bhp,201 mph,3.1 seconds,338 g/km
+lamborghini,Urus,272490.0,2023,4L,"1,030 miles",Petrol,Automatic,NERO HELENE,Estate,,,,,,,
+lamborghini,Urus,274950.0,2023,4L,"1,786 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,320 g/km
+lamborghini,Aventador,359950.0,2016,6.5L,"5,546 miles",Petrol,Semiauto,Red,Convertible,4X4,2.0,2.0,738 bhp,217 mph,2.9 seconds,370 g/km
+lamborghini,Huracan,314950.0,2022,5.2L,"6,312 miles",Petrol,Semiauto,Red,Coupe,4X2,2.0,2.0,630 bhp,193 mph,,331 g/km
+lamborghini,Urus,269000.0,2023,4L,"1,423 miles",Petrol,Automatic,BLU ASTRAEUS,Estate,,,,,,,
+lamborghini,Urus,174948.0,2018,3996cc,"31,000 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,279 g/km
+lamborghini,Huracan,229950.0,2019,5204cc,"10,650 miles",Petrol,Automatic,Grey,Convertible,4X4,2.0,2.0,630 bhp,201 mph,3.1 seconds,352 g/km
+lamborghini,Aventador,189995.0,2014,6498cc,"17,100 miles",Petrol,Automatic,White,Convertible,4X4,2.0,2.0,695 bhp,217 mph,2.9 seconds,370 g/km
+lamborghini,Huracan,179995.0,2019,5204cc,"29,000 miles",Petrol,Automatic,YELLOW,Convertible,4X4,2.0,2.0,630 bhp,201 mph,3.1 seconds,352 g/km
+lamborghini,Urus,214950.0,2021,4L,"9,000 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,292 g/km
+lamborghini,Urus,209950.0,2019,4L,"6,670 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,325 g/km
+lamborghini,Urus,229950.0,2021,4L,"6,469 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,325 g/km
+lamborghini,Urus,199950.0,2020,4L,"12,000 miles",Petrol,Automatic,NERO HELENE METALLIC,Estate,,,,,,,
+lamborghini,Urus,179900.0,2018,4L,"33,336 miles",Petrol,Automatic,NERO HELENE,Estate,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,279 g/km
+lamborghini,Huracan,204950.0,2019,5.2L,"10,786 miles",Petrol,Semiauto,White,Coupe,4X4,2.0,2.0,630 bhp,201 mph,,342 g/km
+lamborghini,Huracan,149985.0,2016,5204cc,"19,500 miles",Petrol,Automatic,YELLOW,Convertible,4X4,2.0,4.0,616 bhp,202 mph,4.4 seconds,347 g/km
+lamborghini,Gallardo,137991.0,2013,4961cc,"10,991 miles",Petrol,Automatic,Black,Coupe,4X4,2.0,2.0,497 bhp,192 mph,4.2 seconds,319 g/km
+lamborghini,Urus,209995.0,2021,3996cc,"19,150 miles",Petrol,Automatic,Yellow,SUV,4X4,5.0,5.0,641 bhp,190 mph,,325 g/km
+lamborghini,Urus,206995.0,2022,3996cc,"21,000 miles",Petrol,Automatic,Grey,SUV,,,,,,,
+lamborghini,Urus,204900.0,2022,3996cc,"12,975 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,641 bhp,190 mph,3.6 seconds,325 g/km
+lamborghini,Urus,265000.0,2023,4L,"3,448 miles",Petrol,Automatic,Gregio Keres,Estate,,,,,,,

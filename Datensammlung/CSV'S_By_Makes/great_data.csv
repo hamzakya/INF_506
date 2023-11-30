@@ -1,0 +1,4 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+great,Wall Steed,4800.0,2012,1996cc,"113,493 miles",Diesel,Manual,Black,Pick Up,4X4,4.0,,142 bhp,87 mph,16.4 seconds,220 g/km
+great,Wall Steed,7194.0,2015,1996cc,"107,000 miles",Diesel,Manual,BLACK,Other,4X4,,,141 bhp,87 mph,16.4 seconds,220 g/km
+great,Wall Steed,6890.0,2015,1996cc,"83,600 miles",Diesel,Manual,WHITE,Other,4X4,,,137 bhp,87 mph,16.4 seconds,222 g/km

@@ -1,0 +1,60 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+isuzu,D-Max,20995.0,2018,1898cc,"62,836 miles",Diesel,Automatic,Red,Van,4X4,4.0,,161 bhp,111 mph,13.0 seconds,
+isuzu,D-Max,21495.0,2020,1898cc,"29,152 miles",Diesel,Manual,Red,Van,4X4,,,161 bhp,111 mph,12.7 seconds,
+isuzu,Rodeo,6995.0,2008,2499cc,"73,000 miles",Diesel,Manual,Green,Van,4X4,,,134 bhp,,,
+isuzu,D-Max,16995.0,2014,2499cc,"63,000 miles",Diesel,Automatic,RED,Other,4X4,,,161 bhp,111 mph,12.8 seconds,220 g/km
+isuzu,D-Max,21795.0,2018,1900cc,"35,744 miles",Diesel,Manual,Sapphire Blue Mica,Pick Up,4X4,4.0,,161 bhp,111 mph,12.7 seconds,183 g/km
+isuzu,D-Max,19995.0,2018,1900cc,"52,004 miles",Diesel,Automatic,Galena Grey Metallic,Pick Up,4X4,4.0,,161 bhp,111 mph,13.0 seconds,205 g/km
+isuzu,D-Max,17495.0,2016,2499cc,"73,324 miles",Diesel,Auto,White,Pick Up,4X4,,,161 bhp,111 mph,12.8 seconds,220 g/km
+isuzu,D-Max,7500.0,2015,2499cc,"146,000 miles",Diesel,Manual,Grey,Van,4X4,,,161 bhp,111 mph,12.8 seconds,
+isuzu,D-Max,9995.0,2015,2499cc,"112,000 miles",Diesel,Automatic,RED,Other,4X4,,,161 bhp,111 mph,12.8 seconds,220 g/km
+isuzu,D-Max,13995.0,2019,1898cc,"115,678 miles",Diesel,Manual,BLACK,Other,4X4,,,161 bhp,111 mph,12.7 seconds,183 g/km
+isuzu,D-Max,16794.0,2018,1898cc,"87,000 miles",Diesel,Manual,BLACK,Other,4X4,4.0,,161 bhp,111 mph,12.7 seconds,183 g/km
+isuzu,D-Max,28000.0,2021,1900cc,"42,419 miles",Diesel,Automatic,Grey,Pick Up,4X4,,,161 bhp,112 mph,,241 g/km
+isuzu,D-Max,18500.0,2015,2.5L,"45,124 miles",Diesel,Automatic,Grey,Pick Up,4X4,,,161 bhp,111 mph,12.8 seconds,220 g/km
+isuzu,D-Max,35388.0,2020,1898cc,"14,367 miles",Diesel,Automatic,BLACK,Other,4X4,,,161 bhp,111 mph,13.0 seconds,205 g/km
+isuzu,D-Max,41950.0,2019,1898cc,"38,000 miles",Diesel,Manual,White,Van,4X4,2.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,47988.0,2023,1.9L,"3,000 miles",Diesel,Manual,Black,Pick Up,4X4,,,161 bhp,112 mph,,220 g/km
+isuzu,D-Max,40794.0,2021,1.9L,"19,986 miles",Diesel,Automatic,Grey,Pick Up,4X4,,,161 bhp,112 mph,,241 g/km
+isuzu,D-Max,18990.0,2020,1898cc,"35,724 miles",Diesel,Manual,Silver,Van,4X4,,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,36662.0,2023,1898cc,"8,500 miles",Diesel,Automatic,Valencia Orange,Van,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,37995.0,2023,1898cc,"5,500 miles",Diesel,Automatic,Orange,Van,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,33995.0,2020,1898cc,"37,760 miles",Diesel,Automatic,Grey,Van,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,26950.0,2021,1898cc,"81,000 miles",Diesel,Automatic,White,Van,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,34495.0,2020,1898cc,"26,100 miles",Diesel,Automatic,Black,Van,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,12990.0,2019,1898cc,"93,561 miles",Diesel,Manual,Grey,Van,4X4,4.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,21995.0,2019,1898cc,"63,000 miles",Diesel,Manual,Black,Van,4X4,4.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,Rodeo,7490.0,2011,2499cc,"101,271 miles",Diesel,Manual,WHITE,Other,4X4,,,134 bhp,108 mph,12.8 seconds,0 g/km
+isuzu,D-Max,34788.0,2021,1.9L,"35,500 miles",Diesel,Automatic,Red,Pick Up,4X4,,,161 bhp,112 mph,,241 g/km
+isuzu,D-Max,31788.0,2021,1.9L,"10,300 miles",Diesel,Manual,Black,Pick Up,4X4,,,161 bhp,112 mph,,219 g/km
+isuzu,D-Max,38990.0,2023,1.9L,"1,200 miles",Diesel,Automatic,Grey,Pick Up,4X4,,,161 bhp,112 mph,,241 g/km
+isuzu,D-Max 1.9 TD 161 BHP BLADE EDITION 4WD AUTOMATIC ( NO VAT ! ),20989.0,2018,1.9L,"80,000 miles",Diesel,Automatic,White,Van,4X4,4.0,,161 bhp,111 mph,13.0 seconds,
+isuzu,D-Max,20829.0,2020,1898cc,"70,000 miles",Diesel,Automatic,Sapphire Blue,Van,4X4,,,161 bhp,111 mph,13.0 seconds,
+isuzu,D-Max,21995.0,2019,1900cc,"42,153 miles",Diesel,Automatic,Obsidian Gray Mica,Pick Up,4X4,,,161 bhp,111 mph,13.0 seconds,205 g/km
+isuzu,TRUCKS FORWARD,17995.0,2018,3L,"30,000 miles",Diesel,Automatic,Turquoise,Other,4X2,,,147 bhp,,,0 g/km
+isuzu,D-Max,21950.0,2020,1898cc,"26,000 miles",Diesel,Manual,Blue,Van,4X4,,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,13990.0,2019,1898cc,"48,194 miles",Diesel,Manual,White,Van,4X4,4.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,21588.0,2018,1.9L,"70,750 miles",Diesel,Manual,Black,Pick Up,4X4,4.0,,161 bhp,111 mph,12.7 seconds,183 g/km
+isuzu,Forward N75.190 S 4x2 Day Cab 7.5ton Hgv Stainless Vacuum Tanker Truck Lorry,9994.0,2014,5.193L,"149,000 miles",Diesel,Automatic,White,Van,4X2,,,188 bhp,,,
+isuzu,D-Max,15989.0,2018,1898cc,"89,663 miles",Diesel,Manual,BLUE,Van,4X4,4.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,12995.0,2012,2499cc,"30,993 miles",Diesel,Manual,Red,Other,4X4,,,161 bhp,111 mph,12.8 seconds,194 g/km
+isuzu,D-Max,27995.0,2023,1900cc,5 miles,Diesel,Manual,Splash White,Pick Up,,,,,,,
+isuzu,D-Max,26495.0,2020,1900cc,"23,352 miles",Diesel,Manual,Cosmic Black,Pick Up,4X4,,,161 bhp,111 mph,12.7 seconds,183 g/km
+isuzu,Forward,14995.0,2019,5193cc,"141,250 miles",Diesel,Automatic,White,Van,4X2,,,188 bhp,,,
+isuzu,Grafter 1.9 D N35 GREEN DROPSIDE,16995.0,2020,1898cc,"76,921 miles",Diesel,Manual,White,Dropside,4X2,,,121 bhp,78 mph,,
+isuzu,Forward,19995.0,2018,2999cc,"31,250 miles",Diesel,Automatic,White/Black,Van,4X2,,,147 bhp,,,
+isuzu,D-Max,15995.0,2016,2500cc,"125,000 miles",Diesel,Automatic,Black,Other,4X4,,,161 bhp,111 mph,12.8 seconds,220 g/km
+isuzu,D-Max,37200.0,2021,1898cc,"12,000 miles",Diesel,Automatic,RED,Other,4X4,,,161 bhp,112 mph,,241 g/km
+isuzu,D-Max,19194.0,2015,2499cc,"7,000 miles",Diesel,Manual,WHITE,Other,,,,,,,
+isuzu,D-Max 2.5 TD BLADE DCB 164 BHP AUTOMATIC,14995.0,2016,2499cc,"113,954 miles",Diesel,Automatic,Black,van,4X4,,,161 bhp,111 mph,12.8 seconds,
+isuzu,D-Max,24750.0,2019,1898cc,"29,745 miles",Diesel,Automatic,White,Van,4X4,4.0,,161 bhp,111 mph,13.0 seconds,
+isuzu,D-Max,14990.0,2015,2499cc,"64,000 miles",Diesel,Automatic,Black,Van,,,,,,,
+isuzu,D-Max,22500.0,2020,1900cc,"51,000 miles",Diesel,Automatic,White,Pick Up,4X4,,,161 bhp,111 mph,13.0 seconds,205 g/km
+isuzu,D-Max,16800.0,2020,1898cc,"27,000 miles",Diesel,Manual,Black,Van,4X4,,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,9995.0,2019,1898cc,"135,562 miles",Diesel,Manual,White,Van,4X4,4.0,,161 bhp,111 mph,12.7 seconds,
+isuzu,D-Max,28788.0,2019,1.9L,"34,000 miles",Diesel,Automatic,Grey,Pick Up,4X4,,,161 bhp,111 mph,13.0 seconds,205 g/km
+isuzu,D-Max,12495.0,2014,2500cc,"128,000 miles",Diesel,Manual,Grey,Other,4X4,,,161 bhp,111 mph,12.8 seconds,192 g/km
+isuzu,D-Max,40800.0,2022,"25,500 miles",Diesel,Automatic,WHITE,Other,30.7 mpg,4X4,,,161 bhp,112 mph,,
+isuzu,D-Max,9995.0,2014,2499cc,"123,296 miles",Diesel,Manual,Red,Van,4X4,,,161 bhp,111 mph,12.8 seconds,
+isuzu,Rodeo,4995.0,2007,2499cc,"104,183 miles",Diesel,Manual,Silver,Van,4X4,,,134 bhp,,,
+isuzu,D-Max,18998.0,2016,2499cc,"23,107 miles",Diesel,Automatic,Blue,Van,4X4,,,161 bhp,111 mph,12.8 seconds,

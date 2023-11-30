@@ -1,0 +1,4 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+morgan,Plus 8,39995.0,2001,4000cc,"20,641 miles",Petrol,Manual,Jaguar British Racing Green,Other,,,,,,,
+morgan,4 4,22995.0,1993,1597cc,"77,000 miles",Petrol,Manual,Green,Convertible,4X2,2.0,,105 bhp,,,0 g/km
+morgan,Plus 4,34995.0,1952,2300cc,"50,000 miles",Petrol,Manual,Green,Other,,,,,,,

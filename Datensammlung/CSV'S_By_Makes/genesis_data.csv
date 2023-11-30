@@ -1,0 +1,6 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+genesis,GV70,39994.0,2022,2.5L,"3,197 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,300 bhp,149 mph,,220 g/km
+genesis,GV70,36999.0,2021,2.5L,"12,223 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,300 bhp,149 mph,,220 g/km
+genesis,G70,34499.0,2022,2L,"6,805 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,241 bhp,146 mph,,199 g/km
+genesis,GV80,53499.0,2021,3L,"7,302 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,275 bhp,143 mph,,233 g/km
+genesis,G70,26180.0,2021,2L,"12,288 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,241 bhp,149 mph,,194 g/km

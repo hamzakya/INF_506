@@ -1,0 +1,93 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+subaru,XV,4595.0,2012,1998cc,"82,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,145 bhp,123 mph,8.9 seconds,146 g/km
+subaru,Outback,23990.0,2021,2.5L,"42,250 miles",Petrol,Semiauto,Blue,Estate,,,,,,,
+subaru,Forester,39900.0,2023,2L,"2,000 miles",Hybrid,Semiauto,Black,SUV,,,,,,,
+subaru,BRZ,22497.0,2020,1998cc,"29,500 miles",Petrol,Manual,BLUE,Coupe,4X2,2.0,4.0,197 bhp,140 mph,,191 g/km
+subaru,XV,29990.0,2023,2L,"4,000 miles",Hybrid,Semiauto,Blue,SUV,4X4,5.0,5.0,147 bhp,119 mph,,180 g/km
+subaru,Outback,24990.0,2021,2.5L,"22,550 miles",Petrol,Semiauto,Blue,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,193 g/km
+subaru,Forester,9999.0,2016,2L,"88,868 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,145 bhp,118 mph,10.2 seconds,148 g/km
+subaru,Legacy,8995.0,2007,2000cc,"45,611 miles",Petrol,Automatic,White,Estate,,,,,,,
+subaru,Exiga,8995.0,2008,2000cc,"54,296 miles",Petrol,Automatic,Blue,Estate,,,,,,,
+subaru,XV,24995.0,2022,1995cc,"14,098 miles",Petrol Hybrid,Automatic,Yellow,SUV,4X4,5.0,5.0,147 bhp,119 mph,,180 g/km
+subaru,Forester,26995.0,2021,1995cc,"14,250 miles",Other,Automatic,Red,Estate,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,XV,7995.0,2014,1998cc,"67,000 miles",Diesel,Manual,Silver,Hatchback,4X4,5.0,5.0,145 bhp,123 mph,8.9 seconds,146 g/km
+subaru,Legacy,12985.0,2008,0L,"82,642 miles",Petrol,Manual,Grey,Saloon,,,,,,,
+subaru,Impreza,8795.0,2015,1.6L,"31,000 miles",Petrol,Manual,White,Hatchback,4X4,5.0,5.0,113 bhp,115 mph,12.3 seconds,147 g/km
+subaru,Forester,21599.0,2021,2L,"48,107 miles",Hybrid,Semiauto,Green,SUV,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,Impreza,6250.0,2015,1.6L,"85,159 miles",Petrol,Manual,Blue,Hatchback,4X4,5.0,5.0,113 bhp,115 mph,13.1 seconds,147 g/km
+subaru,Forester,7995.0,2007,2457cc,"61,000 miles",Petrol,Automatic,Grey,Other,4X4,5.0,5.0,226 bhp,132 mph,7.6 seconds,250 g/km
+subaru,Impreza,3750.0,2008,1994cc,"91,000 miles",Petrol,Automatic,Silver,Hatchback,4X4,5.0,5.0,147 bhp,113 mph,11.6 seconds,194 g/km
+subaru,WRX STI,24995.0,2016,2457cc,"28,928 miles",Petrol,Manual,Grey,Saloon,4X4,4.0,5.0,296 bhp,159 mph,5.2 seconds,242 g/km
+subaru,Outback,39995.0,2023,2.5L,150 miles,Petrol,Semiauto,Grey,Estate,4X4,5.0,5.0,166 bhp,120 mph,,193 g/km
+subaru,Outback,23995.0,2021,2498cc,"41,000 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,193 g/km
+subaru,Outback,4495.0,2011,1998cc,"97,000 miles",Diesel,Manual,Grey,Estate,4X4,5.0,5.0,147 bhp,127 mph,9.7 seconds,167 g/km
+subaru,BRZ,17998.0,2018,2L,"44,080 miles",Petrol,Semiauto,White,Coupe,,,,,,,
+subaru,Forester,34995.0,2023,2000cc,11 miles,Hybrid,Semiautomatic,Autumn Green Metallic,Estate,4X4,5.0,5.0,147 bhp,117 mph,,
+subaru,Forester,4995.0,2013,1998cc,"136,921 miles",Diesel,Manual,Dark Grey,Estate,4X4,5.0,5.0,145 bhp,119 mph,10.2 seconds,150 g/km
+subaru,Outback,38695.0,2023,2500cc,"1,000 miles",Petrol,Semiautomatic,Brilliant Bronze Metallic,Estate,4X4,5.0,5.0,166 bhp,120 mph,,
+subaru,Forester,36895.0,2023,2000cc,5 miles,Hybrid,Semiautomatic,Magnetite Grey Metallic,Estate,4X4,5.0,5.0,147 bhp,117 mph,,
+subaru,XV,31795.0,2023,2000cc,7 miles,Hybrid,Semiautomatic,Dark Blue Pearl,Hatchback,4X4,5.0,5.0,147 bhp,119 mph,,
+subaru,Forester,3995.0,2010,1998cc,"122,000 miles",Diesel,Manual,GREEN,Estate,4X4,5.0,5.0,145 bhp,115 mph,10.4 seconds,170 g/km
+subaru,XV,16990.0,2019,1600cc,"42,370 miles",Petrol,Automatic,Grey,Hatchback,4X4,5.0,5.0,113 bhp,109 mph,13.9 seconds,157 g/km
+subaru,Forester,7995.0,2014,1998cc,"99,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,145 bhp,119 mph,10.2 seconds,156 g/km
+subaru,WRX,18995.0,2015,2457cc,"63,437 miles",Petrol,Manual,BLACK,Saloon,4X4,4.0,5.0,296 bhp,159 mph,5.2 seconds,242 g/km
+subaru,Forester,8995.0,2013,1998cc,"75,000 miles",Diesel,Manual,Grey,Estate,4X4,5.0,5.0,145 bhp,115 mph,10.4 seconds,158 g/km
+subaru,Forester,22490.0,2022,2L,"41,525 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,XV,9950.0,2012,1995cc,"40,792 miles",Petrol,Automatic,BLUE,Hatchback,4X4,5.0,5.0,147 bhp,116 mph,10.3 seconds,153 g/km
+subaru,WRX,24995.0,2015,2457cc,"44,000 miles",Petrol,Manual,BLUE,Saloon,4X4,4.0,5.0,296 bhp,159 mph,5.2 seconds,242 g/km
+subaru,XV,9995.0,2016,1995cc,"82,000 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,116 mph,10.7 seconds,151 g/km
+subaru,XV,22995.0,2021,1995cc,"31,800 miles",Petrol,Automatic,GREY,Hatchback,4X4,5.0,5.0,147 bhp,120 mph,,180 g/km
+subaru,Forester,30995.0,2021,2L,"3,575 miles",Hybrid,Semiauto,Other,SUV,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,WRX,16850.0,2012,2000cc,"55,000 miles",Petrol,Automatic,Blue,Hatchback,,,,,,,
+subaru,Forester,9995.0,2015,1998cc,"101,372 miles",Diesel,Automatic,Green,SUV,4X4,5.0,5.0,145 bhp,117 mph,9.9 seconds,158 g/km
+subaru,L Series,24500.0,2021,1995cc,"11,000 miles",Petrol,Automatic,SILVER,Estate,4X4,5.0,5.0,147 bhp,121 mph,,196 g/km
+subaru,WRX,15495.0,2011,2000cc,"55,000 miles",Petrol,Automatic,Other,Hatchback,,,,,,,
+subaru,BRZ,26990.0,2020,2L,"9,900 miles",Petrol,Manual,Grey,Coupe,4X2,2.0,4.0,197 bhp,140 mph,,191 g/km
+subaru,Forester,8750.0,2014,1998cc,"73,000 miles",Diesel,Manual,Silver,Estate,4X4,5.0,5.0,145 bhp,119 mph,10.2 seconds,156 g/km
+subaru,Justy,3295.0,2008,998cc,"38,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,99 mph,13.9 seconds,118 g/km
+subaru,Outback,9995.0,2016,1998cc,"122,000 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,147 bhp,119 mph,9.9 seconds,159 g/km
+subaru,Forester,37995.0,2023,2000cc,5 miles,Petrol,Automatic,White,Estate,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,XV,31591.0,2023,1995cc,"3,836 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,5.0,147 bhp,119 mph,,180 g/km
+subaru,Outback,38495.0,2023,2.5L,"2,839 miles",Petrol,Semiauto,Blue,Estate,4X4,5.0,5.0,166 bhp,120 mph,,193 g/km
+subaru,Forester,7750.0,2014,1998cc,"96,722 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,145 bhp,119 mph,10.2 seconds,156 g/km
+subaru,Outback,14495.0,2015,1998cc,"65,689 miles",Diesel,Automatic,GOLD,Estate,4X4,5.0,5.0,147 bhp,124 mph,9.9 seconds,159 g/km
+subaru,WRX STI,14999.0,2010,2457cc,"67,072 miles",Petrol,Manual,GREY,Saloon,4X4,4.0,5.0,296 bhp,158 mph,5.2 seconds,243 g/km
+subaru,XV,19995.0,2019,1995cc,"23,886 miles",Petrol,Automatic,GREY,Hatchback,4X4,5.0,5.0,154 bhp,120 mph,10.4 seconds,155 g/km
+subaru,Forester,24995.0,2021,1995cc,"27,000 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,147 bhp,117 mph,,185 g/km
+subaru,Outback,27995.0,2021,2.5L,"21,236 miles",Petrol,Semiauto,Blue,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,193 g/km
+subaru,XV,23999.0,2021,2000cc,"6,000 miles",Petrol/Electric Hybrid,Automatic,SILVER,Hatchback,4X4,5.0,5.0,147 bhp,120 mph,,180 g/km
+subaru,Legacy,5250.0,2012,2.46L,"88,939 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,165 bhp,133 mph,10.3 seconds,196 g/km
+subaru,XV,32750.0,2023,1995cc,8 miles,Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,119 mph,,180 g/km
+subaru,Outback,20495.0,2019,2498cc,"49,169 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,166 g/km
+subaru,Outback,10495.0,2013,2457cc,"60,000 miles",Petrol,Automatic,Camellia Red,Estate,4X4,5.0,5.0,165 bhp,129 mph,10.4 seconds,194 g/km
+subaru,Outback,41995.0,2023,2500cc,10 miles,Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,166 bhp,120 mph,,193 g/km
+subaru,Forester,37999.0,2023,2000cc,100 miles,Petrol,Automatic,Dark Blue Metallic,Estate,4X4,5.0,5.0,147 bhp,117 mph,,
+subaru,Outback,39999.0,2023,2500cc,500 miles,Petrol,Automatic,Magnetite Grey,Estate,4X4,5.0,5.0,166 bhp,120 mph,,
+subaru,WRX,17985.0,2004,1998cc,"73,321 miles",Petrol,Manual,Blue,Saloon,,,,,,,
+subaru,XV,6795.0,2016,1998cc,"103,000 miles",Diesel,Manual,Red,Hatchback,4X4,5.0,5.0,145 bhp,123 mph,9.3 seconds,141 g/km
+subaru,Outback,18950.0,2018,2498cc,"87,000 miles",Petrol,Automatic,Gold,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,166 g/km
+subaru,Forester,17650.0,2018,1995cc,"74,000 miles",Petrol,Automatic,Gold,Estate,4X4,5.0,5.0,147 bhp,119 mph,,150 g/km
+subaru,XV,19995.0,2018,1995cc,"21,659 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,154 bhp,120 mph,10.4 seconds,155 g/km
+subaru,Forester,20995.0,2019,2000cc,"40,453 miles",Petrol,Automatic,Silver,Estate,4X4,5.0,5.0,147 bhp,119 mph,11.8 seconds,168 g/km
+subaru,Forester,4750.0,2008,1994cc,"99,700 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,114 mph,12.7 seconds,199 g/km
+subaru,Impreza,15999.0,2007,2457cc,"89,000 miles",Petrol,Manual,Sonic,Estate,4X4,5.0,5.0,228 bhp,142 mph,6.1 seconds,244 g/km
+subaru,Forester,28995.0,2019,1995cc,"12,000 miles",Petrol/Electric Hybrid,Automatic,Silver,Estate,4X4,5.0,5.0,147 bhp,117 mph,,154 g/km
+subaru,Impreza,9950.0,2015,1600cc,"48,000 miles",Petrol,Automatic,Blue,Hatchback,4X4,5.0,5.0,113 bhp,107 mph,12.6 seconds,140 g/km
+subaru,XV,4995.0,2014,1998cc,"102,950 miles",Diesel,Manual,White,Hatchback,4X4,5.0,5.0,145 bhp,123 mph,8.9 seconds,146 g/km
+subaru,XV,14000.0,2017,2L,"15,488 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,147 bhp,116 mph,10.7 seconds,151 g/km
+subaru,XV,11995.0,2017,1995cc,"56,000 miles",Petrol,Automatic,Red,Other,4X4,5.0,5.0,147 bhp,116 mph,10.7 seconds,151 g/km
+subaru,XV,10995.0,2017,2L,"78,979 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,147 bhp,116 mph,10.7 seconds,151 g/km
+subaru,Forester,17995.0,2017,2L,"28,609 miles",Petrol,Manual,Blue,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,160 g/km
+subaru,XV,15995.0,2018,2L,"53,378 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,154 bhp,120 mph,10.4 seconds,155 g/km
+subaru,Impreza,6950.0,1999,1994cc,"120,000 miles",Petrol,Manual,Green,Saloon,4X4,4.0,5.0,208 bhp,144 mph,6.4 seconds,0 g/km
+subaru,Outback,24995.0,2021,2498cc,"39,981 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,173 bhp,123 mph,10.2 seconds,193 g/km
+subaru,XV,12995.0,2016,1995cc,"44,769 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,147 bhp,116 mph,10.5 seconds,160 g/km
+subaru,Forester,2750.0,2007,1.99L,"132,927 miles",Petrol,Automatic,Red,Estate,4X4,5.0,5.0,155 bhp,117 mph,11.9 seconds,220 g/km
+subaru,Outback,6995.0,2011,2457cc,"88,517 miles",Petrol,Automatic,Red,Estate,4X4,5.0,5.0,165 bhp,129 mph,10.4 seconds,194 g/km
+subaru,Outback,40085.0,2023,2498cc,5 miles,Petrol,Automatic,Blue,Estate,,,,,,,
+subaru,Outback,41585.0,2023,2498cc,5 miles,Petrol,Automatic,Grey,Estate,,,,,,,
+subaru,Outback,41585.0,2023,2498cc,5 miles,Petrol,Automatic,Green,Estate,,,,,,,
+subaru,Forester,39185.0,2023,1995cc,5 miles,Petrol,Automatic,Blue,SUV,,,,,,,
+subaru,Forester,23500.0,2018,2000cc,"16,900 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,147 bhp,119 mph,,150 g/km
+subaru,XV,21994.0,2019,1995cc,"9,660 miles",Other,Other,Blue,Hatchback,4X4,5.0,5.0,147 bhp,120 mph,,149 g/km
+subaru,Forester,6990.0,2006,2457cc,"62,887 miles",Petrol,Manual,Silver,Hatchback,4X4,5.0,5.0,226 bhp,134 mph,6.0 seconds,254 g/km

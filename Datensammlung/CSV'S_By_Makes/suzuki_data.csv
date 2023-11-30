@@ -1,0 +1,867 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+suzuki,Vitara,10495.0,2015,1586cc,"53,491 miles",Petrol,Manual,TURQUOISE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,10950.0,2020,1373cc,"63,787 miles",Other,Manual,GREY,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,11499.0,2017,1.6L,"52,553 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,SX4,16699.0,2021,1.4L,"24,197 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Alto,4750.0,2011,1L,"65,000 miles",Petrol,Automatic,Brown,Hatchback,4X2,5.0,4.0,67 bhp,93 mph,17.0 seconds,122 g/km
+suzuki,GSX-S1000GT 1 OWNER FROM NEW,10490.0,2023,999cc,143 miles,Petrol,Manual,Black,bike,,,,150 bhp,,,
+suzuki,GSX-8S 1 OWNER FROM NEW,7190.0,2023,776cc,283 miles,Petrol,Manual,Blue,bike,Chain,,,82 bhp,,,
+suzuki,SX4,8995.0,2017,1373cc,"103,800 miles",Petrol,Manual,Grey,Hatchback,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,127 g/km
+suzuki,Swift,9587.0,2020,1.2L,"24,223 miles",Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,SX4,3250.0,2008,1586cc,"49,500 miles",Petrol,Manual,Orange,Other,4X2,5.0,5.0,106 bhp,112 mph,10.8 seconds,165 g/km
+suzuki,Swift,1795.0,2007,1328cc,"100,100 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,91 bhp,109 mph,,143 g/km
+suzuki,Swift,5750.0,2012,1200cc,"67,422 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,SX4,8490.0,2016,1586cc,"57,035 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.0 seconds,127 g/km
+suzuki,Swift,10199.0,2019,998cc,"36,568 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,98 g/km
+suzuki,Vitara,15349.0,2020,1373cc,"29,653 miles",Petrol,,White,SUV,4X2,5.0,5.0,138 bhp,124 mph,,156 g/km
+suzuki,Celerio,8049.0,2019,998cc,"22,644 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,13.5 seconds,89 g/km
+suzuki,Vitara,14299.0,2018,1373cc,"48,121 miles",Petrol,,Red,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Ignis,11499.0,2019,1242cc,"11,669 miles",Petrol,,Blue,SUV,4X2,5.0,4.0,88 bhp,105 mph,,107 g/km
+suzuki,Vitara,13849.0,2019,1373cc,"17,596 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Vitara,12499.0,2016,1586cc,"38,300 miles",Petrol,Automatic,White,Hatchback,,,,,,,
+suzuki,Vitara,15195.0,2018,1.6L,"7,245 miles",Petrol,Automatic,Grey,SUV,,,,,,,
+suzuki,Ignis,12490.0,2021,1200cc,"22,000 miles",Petrol,Manual,Hatchback,55.4 mpg,4X2,5.0,4.0,82 bhp,103 mph,,
+suzuki,Vitara,12995.0,2020,1.39L,"31,426 miles",Other,Manual,Grey,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,10996.0,2020,1242cc,"22,476 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Celerio,7193.0,2017,998cc,"35,725 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Vitara,14495.0,2017,1598cc,"35,000 miles",Diesel,Manual,White,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,12.4 seconds,111 g/km
+suzuki,SX4,6495.0,2013,1586cc,"28,105 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,17.2 seconds,141 g/km
+suzuki,GN250,1790.0,1991,249cc,"24,811 miles",Petrol,Manual,Multicolour,bike,,,,,,,
+suzuki,Vitara,21500.0,2023,1373cc,8 miles,Petrol Hybrid,Manual,Atlantis Turquo,SUV,4X2,5.0,5.0,127 bhp,118 mph,,
+suzuki,Baleno,7995.0,2018,1L,"27,780 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,125 mph,11.4 seconds,103 g/km
+suzuki,Grand Vitara,6250.0,2011,1586cc,"37,000 miles",Petrol,Manual,Silver,SUV,4X4,3.0,4.0,105 bhp,99 mph,14.4 seconds,195 g/km
+suzuki,Swift,10895.0,2020,1242cc,"27,576 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,9779.0,2020,1200cc,"24,200 miles",Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Baleno,8650.0,2018,1242cc,"19,550 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.3 seconds,98 g/km
+suzuki,Swift,2995.0,2009,1328cc,"70,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,91 bhp,108 mph,11.0 seconds,140 g/km
+suzuki,Swace,22994.0,2023,1798cc,"2,175 miles",Other,Other,Super White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Swift,9495.0,2019,1242cc,"24,250 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,8995.0,2016,1586cc,"67,000 miles",Petrol,Manual,Black/White,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,2757.0,2008,1490cc,"63,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,100 bhp,115 mph,10.0 seconds,150 g/km
+suzuki,Jimny,5495.0,2003,1298cc,"67,158 miles",Petrol,Manual,Black,Convertible,4X4,3.0,5.0,79 bhp,87 mph,16.8 seconds,179 g/km
+suzuki,SX4,26464.0,2023,1373cc,5 miles,Petrol,Manual,Titan Dark Grey/Leather Seat,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,SX4,26249.0,2023,1373cc,5 miles,Petrol,Manual,Sphere Blue/Leather Seat,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Ignis,9995.0,2017,1242cc,"42,000 miles",Petrol,Automatic,Blue/Black,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,104 g/km
+suzuki,Swift,5990.0,2015,1242cc,"67,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Jimny,11950.0,2012,1328cc,"26,585 miles",Petrol,Manual,GREY,Other,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Swift,7890.0,2016,1242cc,"39,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Swift,9790.0,2020,1242cc,"29,000 miles",Other,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,11750.0,2018,1586cc,"47,000 miles",Petrol,Manual,TURQUOISE/BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,7995.0,2014,1242cc,"24,986 miles",Petrol,Manual,SILVER,Hatchback,4X4,5.0,5.0,92 bhp,103 mph,13.4 seconds,126 g/km
+suzuki,Vitara,17890.0,2021,1373cc,"7,000 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,19490.0,2023,1373cc,"2,343 miles",Other,Manual,SILVER,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,9995.0,2016,1586cc,"31,662 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,12399.0,2019,988cc,"29,830 miles",Petrol,,Black,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Vitara,17199.0,2019,1373cc,"31,196 miles",Petrol,,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,143 g/km
+suzuki,Swift,9949.0,2017,1242cc,"20,534 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Ignis,13990.0,1197cc,"5,788 miles",Petrol Hybrid,Manual,Red,Hatchback,55.4 mpg,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,SX4,9600.0,2017,1000cc,"43,589 miles",Petrol,Manual,Unknown,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,11.0 seconds,113 g/km
+suzuki,Ignis,17239.0,2023,1197cc,"1,250 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Vitara,31234.0,2023,1500cc,100 miles,Other,Automatic,Blue,SUV,4X4,5.0,5.0,101 bhp,112 mph,,
+suzuki,Grand Vitara,3750.0,2007,1995cc,"89,000 miles",Petrol,Manual,Blue,Estate,4X4,5.0,5.0,138 bhp,109 mph,12.5 seconds,220 g/km
+suzuki,Swift,12995.0,2018,1200cc,"23,787 miles",Petrol,Manual,White,Hatchback,4X4,5.0,5.0,88 bhp,106 mph,12.6 seconds,101 g/km
+suzuki,Vitara,18474.0,2022,1400cc,"11,146 miles",Petrol,Manual,Superior White,Estate,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,SX4,22999.0,2023,1400cc,"13,357 miles",Petrol,Manual,Silky Silver,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Ignis,15999.0,2023,1200cc,288 miles,Petrol,Manual,Tough Khaki,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,
+suzuki,Vitara,18474.0,2022,1400cc,"4,338 miles",Petrol,Manual,Galactic Grey Metallic,Estate,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Swift,12450.0,2021,1200cc,"5,139 miles",Petrol,Manual,Super Black Pearl,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,13774.0,2020,1400cc,"15,321 miles",Petrol,Manual,Cosmic Black Pearl Metallic,Estate,4X2,5.0,5.0,138 bhp,124 mph,,148 g/km
+suzuki,Vitara,13499.0,2021,1400cc,"22,312 miles",Petrol,Manual,Atlantis Turquoise Metallic,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,20495.0,2023,1400cc,20 miles,Petrol,Manual,ATLANTIS TURQUIOSE MET,Estate,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Vitara,18499.0,2020,1400cc,"9,415 miles",Petrol,Manual,Silky Silver,Estate,4X4,5.0,5.0,127 bhp,118 mph,,141 g/km
+suzuki,SX4,22865.0,2023,1373cc,"1,080 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swift,16515.0,2023,1197cc,"2,259 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,
+suzuki,Vitara,21691.0,2021,1373cc,"11,985 miles",Petrol,Automatic,BLACK,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,142 g/km
+suzuki,Vitara,15291.0,2018,1586cc,"15,986 miles",Petrol,Automatic,Bright Red With Black Roof,SUV,,,,,,,
+suzuki,Swift,12591.0,2022,1197cc,"16,066 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Baleno,9495.0,2019,998cc,"10,131 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,110 bhp,124 mph,11.4 seconds,114 g/km
+suzuki,Swift,12999.0,2022,1197cc,"3,456 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Jimny,24999.0,2000,1462cc,"17,000 miles",Petrol,Manual,SILVER,SUV,4X4,3.0,4.0,101 bhp,90 mph,,154 g/km
+suzuki,Vitara,12299.0,2018,1.6L,"36,232 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,,123 g/km
+suzuki,Vitara,17650.0,2021,1373cc,"7,142 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,9950.0,2017,1586cc,"23,557 miles",Petrol,Manual,Turquoise,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,13799.0,2020,1197cc,"28,333 miles",Petrol Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,S-Cross,24590.0,2023,1.4L,"1,452 miles",Hybrid,Manual,Grey,SUV,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Swift,13499.0,2019,1L,"17,545 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.0 seconds,121 g/km
+suzuki,Vitara,20150.0,2022,1.4L,"5,763 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,9999.0,2019,1L,"50,127 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.0 seconds,113 g/km
+suzuki,Swift,19499.0,2023,1.2L,"1,000 miles",Hybrid,Automatic,Orange,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Vitara,24499.0,2023,1.4L,"1,500 miles",Hybrid,Manual,Grey,SUV,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Swace,24999.0,2023,1.8L,"7,528 miles",Hybrid,Automatic,Black,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Swace,29344.0,2023,1.8L,"1,500 miles",Hybrid,Automatic,Other,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Ignis,18999.0,2023,1.2L,"1,500 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Swift,10599.0,2021,1.2L,"23,359 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,19995.0,2023,1.4L,3 miles,Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,S-Cross,21995.0,2023,1.4L,"6,338 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,19995.0,2023,1.4L,3 miles,Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,Jimny,22995.0,2023,1.5L,3 miles,Petrol,Manual,White,Pick Up,4X4,,,101 bhp,90 mph,,173 g/km
+suzuki,Swift,15650.0,2021,1.4L,"9,846 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,127 g/km
+suzuki,Vitara,18995.0,2023,1.4L,50 miles,Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,Vitara,12020.0,2016,1.6L,"30,689 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swace,26790.0,2023,1.8L,"3,364 miles",Hybrid,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,SX4,11490.0,2017,1L,"46,699 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,110 bhp,106 mph,12.4 seconds,119 g/km
+suzuki,Vitara,15499.0,2020,1.4L,"11,071 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,9599.0,2015,1586cc,"73,737 miles",Petrol,Manual,White,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,12.0 seconds,130 g/km
+suzuki,Vitara,20494.0,2023,1373cc,"2,447 miles",Petrol,Manual,Silky Silver,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Across,34995.0,2023,2487cc,"16,629 miles",Other,Automatic,Grey,Estate,4X4,5.0,5.0,297 bhp,111 mph,,22 g/km
+suzuki,Ignis,16699.0,2023,1200cc,11 miles,Other,Manual,White,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Baleno,6995.0,2016,998cc,"53,700 miles",Petrol,Manual,Jet Black,Hatchback,4X2,5.0,5.0,110 bhp,125 mph,11.4 seconds,103 g/km
+suzuki,Swift,14750.0,2021,1197cc,"19,183 miles",Other,Automatic,Orange,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Alto,3495.0,2009,996cc,"31,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Alto,2895.0,2013,996cc,"83,179 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Swift,6595.0,2016,1242cc,Petrol,Automatic,WHITE,Hatchback,50.4 mpg,4X2,5.0,5.0,92 bhp,99 mph,13.5 seconds,128 g/km
+suzuki,Swift,9650.0,2016,1586cc,"29,000 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Swift,6595.0,2016,1242cc,Petrol,Automatic,WHITE,Hatchback,50.4 mpg,4X2,5.0,5.0,92 bhp,99 mph,13.5 seconds,128 g/km
+suzuki,Vitara,10650.0,2017,1586cc,"39,515 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,10495.0,2018,1L,"77,600 miles",Petrol,Automatic,Other,Hatchback,4X2,5.0,5.0,110 bhp,118 mph,10.0 seconds,114 g/km
+suzuki,Vitara,10598.0,2017,1.6L,"58,214 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,12498.0,2021,1.2L,"8,105 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,13495.0,2019,1L,"63,141 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,110 bhp,111 mph,12.5 seconds,129 g/km
+suzuki,Swift,15495.0,2021,1.2L,"24,500 miles",Hybrid,Manual,Black,Hatchback,4X4,5.0,5.0,82 bhp,103 mph,,123 g/km
+suzuki,Vitara,13749.0,2018,1586cc,"33,007 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,127 g/km
+suzuki,Swift,9349.0,2019,998cc,"38,272 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.6 seconds,110 g/km
+suzuki,Swift,11049.0,2020,1242cc,"17,400 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,17002.0,2023,1.2L,"3,326 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,11000.0,2020,1242cc,"20,492 miles",Other,Manual,Super Black Metallic,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,15500.0,2022,1197cc,"5,164 miles",Other,Manual,Fervent Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,22000.0,2022,1462cc,"4,929 miles",Other,Automatic,Super Black Metallic,Hatchback,4X2,5.0,5.0,114 bhp,112 mph,,121 g/km
+suzuki,Ignis,9684.0,2018,1242cc,"69,362 miles",Petrol,Manual,BLUE/BLACK,Other,4X4,5.0,4.0,88 bhp,103 mph,11.1 seconds,106 g/km
+suzuki,Vitara,12000.0,2018,1586cc,"13,850 miles",Petrol,Manual,GREY,Other,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,10673.0,2019,1242cc,"10,768 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Ignis,12999.0,2020,1197cc,"12,438 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Vitara,15799.0,2020,1400cc,"17,004 miles",Petrol,Manual,Silky Silver Met,Estate,,,,,,,
+suzuki,Vitara,19999.0,2023,1400cc,"9,394 miles",Petrol,Manual,Galactic Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Swift,11999.0,2022,1197cc,"12,254 miles",Petrol,Manual,Premium Silver,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,15999.0,2020,1400cc,"3,866 miles",Petrol,Manual,Cosmic Black,Estate,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,12999.0,2020,1.4L,"14,000 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,11768.0,2021,1197cc,"17,205 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,10799.0,2019,1L,"30,400 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Vitara,11995.0,2017,1586cc,"46,000 miles",Petrol,Automatic,Multicolour,SUV,4X2,5.0,5.0,118 bhp,112 mph,,127 g/km
+suzuki,SV650,4190.0,2018,645cc,"10,414 miles",Petrol,Manual,Multicolour,bike,,,,75 bhp,,,
+suzuki,GSXR125 1 OWNER FROM NEW,3690.0,2022,124cc,635 miles,Petrol,Manual,Blue,bike,Chain,,,15 bhp,,,
+suzuki,GSXR600 K9,5690.0,2010,599cc,"10,947 miles",Petrol,Manual,Blue,bike,,,,,,,
+suzuki,Vitara,21000.0,2023,1373cc,"3,488 miles",Petrol Hybrid,Manual,Turquoise,SUV,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Vitara,12300.0,2016,1586cc,"33,369 miles",Petrol,Manual,Red/Black,Estate,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Ignis,12600.0,2019,1242cc,"15,049 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,109 g/km
+suzuki,Vitara,19500.0,2022,1373cc,"4,533 miles",Other,Manual,Grey,Other,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Vitara,12499.0,2019,1.4L,"30,600 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,S-Cross,25188.0,1373cc,960 miles,Petrol Hybrid,Manual,White,SUV,47.9 mpg,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,S-Cross,16995.0,2021,1.4L,"9,678 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swift,13995.0,2021,1.2L,"16,954 miles",Hybrid,Manual,Grey,Hatchback,4X4,5.0,5.0,82 bhp,103 mph,,121 g/km
+suzuki,Vitara,11499.0,2019,1.4L,"44,306 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Intruder 1500 FULL LUGGAGE,3490.0,2001,1462cc,"28,121 miles",Petrol,Manual,Multicolour,bike,,,,,,,
+suzuki,Vitara,12799.0,2018,1586cc,"38,142 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Baleno,7999.0,2016,1000cc,"40,187 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,125 mph,11.4 seconds,103 g/km
+suzuki,Vitara,8590.0,2017,1586cc,"86,183 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Alto,2495.0,2010,996cc,"77,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Vitara,18999.0,2021,1373cc,"22,253 miles",Other,Manual,Turquoise,SUV,4X4,5.0,5.0,127 bhp,118 mph,,141 g/km
+suzuki,Swift,15990.0,2021,1200cc,"6,960 miles",Other,Automatic,Red,Other,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,SX4,24494.0,2022,1373cc,"4,345 miles",Other,Manual,Red,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,SX4,23994.0,2022,1462cc,"13,007 miles",Other,Manual,Black,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,SX4,24494.0,2022,1462cc,"3,826 miles",Other,Manual,Silver,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,SX4,19694.0,2022,1373cc,"5,250 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,20895.0,2023,1373cc,"2,182 miles",Other,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Swift,11100.0,2020,1242cc,"26,298 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,SX4,15490.0,2021,1373cc,"13,200 miles",Other,Manual,GREY,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Swace,24995.0,2000,1798cc,"1,650 miles",Other,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Swift,8995.0,2017,1242cc,"20,744 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,SX4,3995.0,2015,1598cc,"129,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,109 mph,13.0 seconds,110 g/km
+suzuki,Vitara,14049.0,2018,1373cc,"27,905 miles",Petrol,,White,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Vitara,13599.0,2016,1373cc,"28,610 miles",Petrol,,Grey,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Ignis,9149.0,2018,1242cc,"38,648 miles",Petrol,,Red,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,8899.0,2019,1242cc,"47,527 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,SX4,18495.0,2020,1373cc,"6,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,157 g/km
+suzuki,Vitara,16495.0,2019,1373cc,"24,337 miles",Petrol,Manual,Metallic - Silky Silver,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,139 g/km
+suzuki,Swift,10063.0,2019,998cc,"15,172 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.6 seconds,110 g/km
+suzuki,Ignis,11790.0,2022,1.2L,"11,802 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,82 bhp,103 mph,,110 g/km
+suzuki,Vitara,16595.0,2021,1.4L,"17,751 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Jimny,14995.0,2010,1328cc,"27,500 miles",Petrol,Automatic,Grey,SUV,4X4,3.0,4.0,84 bhp,84 mph,17.2 seconds,181 g/km
+suzuki,Jimny,5995.0,2006,1328cc,"110,000 miles",Petrol,Manual,Grey,SUV,4X4,3.0,4.0,82 bhp,87 mph,14.1 seconds,174 g/km
+suzuki,Swift,10000.0,2017,998cc,"47,090 miles",Petrol,Manual,BLACK/SILVER,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,SX4,4295.0,2011,1586cc,"62,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.7 seconds,141 g/km
+suzuki,Swift,16999.0,2023,1200cc,"2,194 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Celerio,6499.0,2015,998cc,"26,070 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Swift,7999.0,2016,1242cc,"69,168 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,88 bhp,103 mph,13.4 seconds,111 g/km
+suzuki,Swift,15990.0,2021,1.2L,"6,737 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Vitara,14442.0,2019,1373cc,"13,268 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,S-Cross,33199.0,2023,1462cc,5 miles,Petrol/Electric,Automatic,Silky Silver,Hatchback,4X4,5.0,5.0,114 bhp,108 mph,,132 g/km
+suzuki,Swift,17506.0,2022,1.2L,"5,021 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Swift,16500.0,2022,1.4L,"6,773 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,
+suzuki,SX4,28500.0,2023,1462cc,255 miles,Other,Automatic,WHITE,Other,4X4,5.0,5.0,114 bhp,108 mph,,132 g/km
+suzuki,Swift,24270.0,2023,1373cc,0 miles,Petrol,Manual,Mineral Grey Metallic,Hatchback,,,,,,,
+suzuki,Jimny,2500.0,2006,1328cc,"104,000 miles",Petrol,Manual,Blue,Estate,4X4,3.0,5.0,82 bhp,87 mph,14.1 seconds,174 g/km
+suzuki,Vitara,14299.0,2020,1400cc,"19,300 miles",Other,Manual,Atlantis,SUV,4X2,5.0,5.0,127 bhp,118 mph,,
+suzuki,Vitara,15995.0,2020,1373cc,"29,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Swift,9975.0,2016,1242cc,"8,100 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Swift,11490.0,2020,1242cc,"9,200 miles",Petrol Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Jimny 1.5 LCV ALLGRIP Euro 6 3dr PRE REG: White Suzuki Jimny,18999.0,2023,1462cc,5 miles,Petrol,Manual,White,van,,,,,,,
+suzuki,Swace,25490.0,2023,1.8L,"1,809 miles",Hybrid,Automatic,Silver,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Jimny,24995.0,2023,1.5L,6 miles,Petrol,Manual,Silver,Pick Up,4X4,,,101 bhp,90 mph,,173 g/km
+suzuki,S-Cross,21999.0,2023,1.4L,"1,000 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,S-Cross,21999.0,2023,1.4L,"1,000 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,17809.0,2021,1.4L,"20,790 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,16684.0,2019,1.4L,"19,072 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,139 g/km
+suzuki,SX4,10498.0,2017,1598cc,"75,218 miles",Diesel,Manual,WHITE,Hatchback,4X4,5.0,5.0,118 bhp,108 mph,,114 g/km
+suzuki,Swift,7898.0,2015,1242cc,"22,487 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Swift,8498.0,2016,1242cc,"43,718 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Vitara,11400.0,2016,1586cc,"45,204 miles",Petrol,Manual,Superior White,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Jimny,14995.0,2012,1328cc,"35,000 miles",Petrol,Automatic,Blue,SUV,4X4,3.0,4.0,84 bhp,84 mph,13.6 seconds,167 g/km
+suzuki,Grand Vitara,5995.0,2011,1870cc,"68,700 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,127 bhp,106 mph,12.8 seconds,179 g/km
+suzuki,SX4,4400.0,2012,1586cc,"69,000 miles",Petrol,Manual,Orange,SUV,4X4,5.0,5.0,118 bhp,109 mph,11.5 seconds,149 g/km
+suzuki,Vitara,11995.0,2019,998cc,"39,794 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Swift,8350.0,2017,1586cc,"52,400 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Swift,4995.0,2015,1242cc,"81,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Vitara,21294.0,2022,1373cc,"7,099 miles",Other,Manual,Grey,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Vitara,19494.0,2023,1373cc,"1,115 miles",Other,Manual,Galactic Grey,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,10995.0,2016,1586cc,"33,204 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.0 seconds,127 g/km
+suzuki,S-Cross,22890.0,2022,1462cc,"6,513 miles",Petrol/Electric,Automatic,Titan Grey,Hatchback,4X2,5.0,5.0,114 bhp,108 mph,,118 g/km
+suzuki,Ignis,10403.0,2019,1.2L,"23,414 miles",Petrol,Manual,Red,SUV,4X2,5.0,4.0,88 bhp,105 mph,,107 g/km
+suzuki,Ignis,12790.0,2020,1242cc,"18,212 miles",Petrol,Manual,WHITE,Hatchback,4X4,5.0,4.0,88 bhp,103 mph,,127 g/km
+suzuki,Swift,11720.0,2021,1197cc,"12,372 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,111 g/km
+suzuki,Vitara,15962.0,2021,1400cc,"14,642 miles",Other,Manual,Superior White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,17491.0,2020,1373cc,"7,009 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,133 g/km
+suzuki,Ignis,14995.0,2021,1197cc,"6,685 miles",Other,Manual,Red,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Vitara,12450.0,2000,1373cc,"70,345 miles",Petrol,Automatic,Galactic Grey,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Vitara,15250.0,2000,1373cc,"37,165 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,11650.0,2017,1.6L,"43,100 miles",Petrol,Manual,Hatchback,53.3 mpg,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Ignis,4995.0,2007,1.5L,"42,200 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,98 bhp,103 mph,11.0 seconds,174 g/km
+suzuki,SX4,5495.0,2013,1586cc,"75,000 miles",Petrol,Manual,Black,SUV,4X4,5.0,5.0,118 bhp,109 mph,11.5 seconds,149 g/km
+suzuki,Vitara,18550.0,2023,1.4L,844 miles,Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Vitara,16300.0,2021,1373cc,"20,005 miles",Petrol Hybrid,Manual,Silver,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,4495.0,2010,1586cc,"52,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,143 g/km
+suzuki,Ignis,8795.0,2019,1200cc,"50,452 miles",Petrol,Manual,Orange,Other,4X2,5.0,5.0,88 bhp,105 mph,,107 g/km
+suzuki,Celerio,5995.0,2015,998cc,"37,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Baleno,9990.0,2019,998cc,"21,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,110 bhp,124 mph,11.4 seconds,114 g/km
+suzuki,Swift,14039.0,2021,1197cc,"23,490 miles",Other,Manual,RED,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,16695.0,2022,1197cc,"6,617 miles",Other,Manual,RED,Hatchback,,,,,,,
+suzuki,Vitara,11699.0,2017,1373cc,"67,477 miles",Petrol,,Black,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Vitara,10599.0,2019,988cc,"57,474 miles",Petrol,,Black,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Vitara,16498.0,2019,1.4L,"12,475 miles",Petrol,Automatic,Other,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,133 g/km
+suzuki,Swift,14999.0,2023,1.2L,"2,281 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,11455.0,2017,1.6L,"53,873 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,,127 g/km
+suzuki,Vitara,18367.0,2022,1373cc,"11,829 miles",Petrol,Manual,Turquoise,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Vitara,24749.0,2023,1373cc,"2,418 miles",Petrol,Manual,Grey,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Swift,13799.0,2022,1200cc,"19,341 miles",Petrol,Manual,Fervent Red,Hatchback,4X4,5.0,5.0,82 bhp,103 mph,,121 g/km
+suzuki,Vitara,18995.0,2023,1373cc,"3,080 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,Swift,19799.0,2023,1197cc,5 miles,Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Ignis,12073.0,2018,1242cc,"22,710 miles",Petrol,Manual,Orange,Other,4X4,5.0,4.0,88 bhp,103 mph,11.1 seconds,105 g/km
+suzuki,Vitara,15495.0,2018,1373cc,"34,821 miles",Petrol,Manual,Red,Hatchback,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Ignis,17495.0,2020,1197cc,"9,771 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Vitara,13690.0,2020,1373cc,"42,597 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,17490.0,2021,1373cc,"20,918 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Alto,4490.0,2014,996cc,"69,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,17490.0,2021,1373cc,"13,168 miles",Petrol Hybrid,Manual,Silver,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,14996.0,2017,1373cc,"24,087 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,128 g/km
+suzuki,GSR750,4890.0,2015,749cc,"10,880 miles",Petrol,Manual,Multicolour,bike,,,,,,,
+suzuki,Bandit 1200 LOW MILES,3990.0,2000,1157cc,"4,743 miles",Petrol,Manual,Blue,bike,,,,,,,
+suzuki,SX4,11490.0,2018,1.4L,"41,800 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,127 g/km
+suzuki,Vitara,13795.0,2018,1373cc,"37,000 miles",Petrol,Manual,Multi-Coloured,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Swift,4295.0,2012,1242cc,"73,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Alto,3195.0,2009,996cc,"82,871 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Jimny,8995.0,2013,1328cc,"146,000 miles",Petrol,Manual,Blue,SUV,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,SX4,7995.0,2015,1586cc,"70,902 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,118 bhp,106 mph,11.0 seconds,125 g/km
+suzuki,Vitara,13985.0,2016,1373cc,"26,327 miles",Petrol,Manual,GREY,Other,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Vitara,12990.0,2020,1373cc,"52,000 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,19995.0,2022,1373cc,"6,227 miles",Other,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Ignis,6495.0,2017,1242cc,"49,682 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,13590.0,2017,1586cc,"26,270 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,118 bhp,112 mph,,130 g/km
+suzuki,Vitara,12000.0,2018,1586cc,"31,073 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,12594.0,2018,1586cc,"60,708 miles",Petrol,Manual,GREY/BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Jimny,15399.0,2014,1328cc,"34,386 miles",Petrol,Automatic,WHITE,Estate,4X4,3.0,4.0,84 bhp,84 mph,22.2 seconds,167 g/km
+suzuki,SX4,4500.0,2013,1586cc,"68,670 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,115 mph,17.2 seconds,141 g/km
+suzuki,Ignis,9500.0,2017,1242cc,"25,807 miles",Petrol,Manual,Multicolour,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,14399.0,2020,1373cc,"29,728 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,10999.0,2020,1242cc,"15,003 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Ignis,10690.0,2018,1.2L,"29,638 miles",Petrol,Manual,Black,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,17490.0,2020,1.4L,"17,489 miles",Hybrid,Manual,Grey,SUV,,,,,,,
+suzuki,Swift,14695.0,2020,1.2L,"18,169 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Ignis,10750.0,2020,1.2L,"25,976 miles",Hybrid,Manual,Red,SUV,,,,,,,
+suzuki,Vitara,14799.0,2020,1373cc,"35,978 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Celerio,6000.0,2015,998cc,"37,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Grand Vitara,6250.0,2011,1870cc,"89,903 miles",Diesel,Manual,GREY,Estate,4X4,5.0,5.0,127 bhp,106 mph,12.8 seconds,179 g/km
+suzuki,SX4,24331.0,2023,1373cc,"1,511 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swift,9995.0,2019,1242cc,"28,844 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,24995.0,2023,1373cc,5 miles,Petrol,Manual,Black,Estate,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Vitara,16800.0,2017,1586cc,"21,496 miles",Petrol,Automatic,ORANGE/BLACK,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,13.0 seconds,131 g/km
+suzuki,unassigned,23800.0,2023,1462cc,"7,691 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,114 bhp,108 mph,,118 g/km
+suzuki,SX4,21885.0,2023,1373cc,"4,162 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,13995.0,2018,1.6L,"37,600 miles",Petrol,Automatic,Hatchback,51.4 mpg,4X2,5.0,5.0,118 bhp,112 mph,,127 g/km
+suzuki,Swift,12800.0,2021,1197cc,"9,212 miles",Petrol Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,DR250,2190.0,1991,250cc,"33,791 miles",Petrol,Manual,Multicolour,bike,,,,,,,
+suzuki,SV650S,2490.0,2003,645cc,"24,709 miles",Petrol,Manual,Silver,bike,,,,,,,
+suzuki,Bandit 600,2190.0,2004,600cc,"27,875 miles",Petrol,Manual,Silver,bike,,,,,,,
+suzuki,Burgman 400,3690.0,2015,400cc,"18,527 miles",Petrol,Automatic,Black,bike,,,,,,,
+suzuki,Vitara,16142.0,2018,1.4L,"19,074 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,143 g/km
+suzuki,Jimny,5995.0,2000,1298cc,"62,800 miles",Petrol,Manual,Red,4X4,4X4,3.0,4.0,79 bhp,87 mph,,
+suzuki,Ignis,11399.0,2020,1.2L,"6,502 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,126 g/km
+suzuki,Carry,6995.0,2003,1298cc,"57,000 miles",Petrol,Manual,White,Van,4X2,,,74 bhp,,,
+suzuki,Vitara,16350.0,2020,1373cc,"3,685 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,156 g/km
+suzuki,Baleno,7650.0,2017,998cc,"31,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,125 mph,11.4 seconds,103 g/km
+suzuki,Swift,9990.0,2019,1242cc,"35,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Alto,4995.0,2014,996cc,"14,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,15995.0,2020,1373cc,"14,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,138 bhp,124 mph,,156 g/km
+suzuki,Alto,3995.0,2014,996cc,"62,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,SX4,3250.0,2010,1586cc,"94,651 miles",Petrol,Manual,Blue,Hatchback,,,,,,,
+suzuki,Swift,5695.0,2012,1242cc,"48,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Swift,10995.0,2020,1200cc,"16,632 miles",Petrol,Manual,Pearl Cool White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,10495.0,2020,1200cc,"23,322 miles",Other,Manual,Burning Red Pearl,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,10995.0,2020,1200cc,"17,048 miles",Other,Manual,Premium Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swace,18990.0,2020,1800cc,"17,250 miles",Other,Automatic,White,Hatchback,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Vitara,18990.0,2021,1400cc,"9,863 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,15995.0,2021,1400cc,"11,318 miles",Petrol,Manual,Silky Silver,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,17995.0,2021,1400cc,"15,768 miles",Petrol,Manual,Mineral Gray,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,128 g/km
+suzuki,Vitara,18495.0,2021,1400cc,"7,064 miles",Petrol,Manual,White,Hatchback,,,,,,,
+suzuki,Vitara,11495.0,2018,1600cc,"45,948 miles",Petrol,Manual,Red And Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,15995.0,2020,1373cc,"16,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,156 g/km
+suzuki,SX4,15995.0,2019,1400cc,"21,630 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,141 g/km
+suzuki,Swift,10495.0,2019,1200cc,"22,904 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,16799.0,2020,1373cc,"43,231 miles",Other,Manual,WHITE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,7995.0,2017,1242cc,"43,157 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,SX4,6950.0,2009,1586cc,"9,500 miles",Petrol,Automatic,Grey,Other,4X2,5.0,5.0,106 bhp,106 mph,12.3 seconds,175 g/km
+suzuki,Swift,5550.0,2013,1242cc,"53,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Vitara,14390.0,2021,1373cc,"26,220 miles",Other,Manual,WHITE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,10500.0,2019,1242cc,"46,428 miles",Other,Manual,Grey,Hatchback,4X4,5.0,5.0,88 bhp,106 mph,12.6 seconds,101 g/km
+suzuki,Swift,9995.0,2019,1.2L,"18,089 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Swift,14495.0,2023,1.2L,"1,750 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,13602.0,2020,1.2L,"13,925 miles",Hybrid,Manual,White,SUV,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Swift,12046.0,2019,1.4L,"45,123 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,15995.0,2020,1.4L,"42,087 miles",Hybrid,Manual,Grey,SUV,4X4,5.0,5.0,127 bhp,118 mph,,141 g/km
+suzuki,S-Cross,23686.0,2023,1.4L,"2,788 miles",Hybrid,Manual,White,SUV,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Swift,12326.0,2021,1.2L,"10,970 miles",Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,11996.0,2021,1.2L,"16,681 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,12296.0,2021,1.2L,"11,315 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,13499.0,2021,1400cc,"21,994 miles",Petrol,Manual,Superior White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,14000.0,2023,1200cc,"7,182 miles",Petrol,Manual,Fervent Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,20795.0,2023,1373cc,"2,319 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Vitara,9485.0,2017,1586cc,"66,946 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,18485.0,2022,1373cc,"14,020 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Swift,11990.0,2021,1197cc,"19,585 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Jimny,19990.0,2023,1462cc,23 miles,Petrol,Manual,White,Estate,4X4,,,101 bhp,90 mph,,173 g/km
+suzuki,Ignis,9990.0,2017,1242cc,"42,908 miles",Petrol,Manual,White Dualtone,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Baleno,8490.0,2019,1242cc,"30,562 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.3 seconds,107 g/km
+suzuki,Vitara,13990.0,2019,998cc,"23,484 miles",Petrol,Automatic,White Superior,Estate,4X2,5.0,5.0,110 bhp,111 mph,12.5 seconds,129 g/km
+suzuki,Ignis,8990.0,2019,1242cc,"51,098 miles",Petrol,Manual,Two Tone Solid/Metal,Hatchback,4X2,5.0,5.0,88 bhp,105 mph,,98 g/km
+suzuki,Vitara,15490.0,2020,1373cc,"19,542 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Jimny,19990.0,2023,1462cc,83 miles,Petrol,Manual,White,Estate,4X4,,,101 bhp,90 mph,,173 g/km
+suzuki,Vitara,18490.0,2022,1373cc,"9,691 miles",Petrol,Manual,Solid - White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,13990.0,2020,1373cc,"33,615 miles",Petrol,Manual,Pearl - Sphere Blue,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,128 g/km
+suzuki,Vitara,14695.0,2018,988cc,"7,600 miles",Petrol,Manual,Silver,Hatchback,4X4,5.0,5.0,110 bhp,111 mph,12.0 seconds,129 g/km
+suzuki,Vitara,8995.0,2016,1598cc,"79,360 miles",Diesel,Manual,TURQUOISE/BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,106 g/km
+suzuki,Ignis,10685.0,2018,1242cc,"20,346 miles",Petrol,Manual,BLACK,Other,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,11891.0,2021,1197cc,"11,040 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,22991.0,2022,1462cc,"8,604 miles",Petrol,Automatic,TURQUOISE,Hatchback,4X2,5.0,5.0,114 bhp,112 mph,,121 g/km
+suzuki,Swift,16995.0,2021,1197cc,"25,500 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,SX4,7595.0,2015,1598cc,"60,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,109 mph,13.0 seconds,110 g/km
+suzuki,Vitara,9395.0,2016,1373cc,"93,000 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Vitara,9495.0,2016,1586cc,"80,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Celerio,5895.0,2016,996cc,"57,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Alto,3995.0,2012,996cc,"15,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,SX4,8995.0,2014,1600cc,"90,000 miles",Petrol,Automatic,Boost Blue Pearl,SUV,4X4,5.0,5.0,118 bhp,102 mph,13.5 seconds,130 g/km
+suzuki,Ignis,8990.0,2017,1242cc,"23,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,9598.0,2018,1L,"30,680 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,97 g/km
+suzuki,Alto,3395.0,2009,996cc,"70,479 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Alto,3495.0,2010,996cc,"60,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Ignis,17490.0,2023,1197cc,"3,386 miles",Petrol,Manual,Blue Neon,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Swift,9295.0,2015,1586cc,"28,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Ignis,11495.0,2017,1242cc,"19,921 miles",Petrol,Manual,White,Hatchback,4X4,5.0,4.0,88 bhp,103 mph,11.1 seconds,106 g/km
+suzuki,Swace,21990.0,2022,1800cc,"7,833 miles",Other,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Swace,19880.0,2021,1800cc,"34,744 miles",Other,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Vitara,13795.0,2020,1.4L,"47,665 miles",Petrol,Automatic,Other,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Swace,23361.0,2023,1.8L,"4,713 miles",Hybrid,Automatic,Brown,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Ignis,9495.0,2018,1242cc,"38,000 miles",Petrol,Manual,White/Black,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,11000.0,2021,1197cc,"16,803 miles",Petrol Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,111 g/km
+suzuki,Vitara,9995.0,2016,1373cc,"82,000 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Vitara,13700.0,2018,1586cc,"22,434 miles",Petrol,Manual,Multicolour,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,GSX-S1000 1 OWNER FROM NEW,7190.0,2021,999cc,"15,229 miles",Petrol,Manual,Black,bike,,,,150 bhp,,,
+suzuki,Swift,11000.0,2019,1242cc,"16,012 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,15299.0,2021,1.4L,"32,129 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Grand Vitara,7975.0,2000,2393cc,"48,150 miles",Petrol,Manual,SILVER,Estate,4X4,5.0,5.0,166 bhp,115 mph,12.1 seconds,204 g/km
+suzuki,Swift,2240.0,2008,1328cc,"87,831 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,91 bhp,109 mph,11.0 seconds,140 g/km
+suzuki,Swift,6995.0,2014,1586cc,"66,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Swift,6499.0,2013,1242cc,"46,262 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,SX4,2295.0,2006,1586cc,"105,986 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,106 bhp,112 mph,11.5 seconds,173 g/km
+suzuki,Vitara,9989.0,2015,1586cc,"27,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,SX4,7295.0,2014,1586cc,"41,917 miles",Petrol,Manual,WHITE,Hatchback,4X4,5.0,5.0,118 bhp,109 mph,11.5 seconds,149 g/km
+suzuki,Vitara,12995.0,2017,1373cc,"51,547 miles",Petrol,Manual,BLACK,Hatchback,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Ignis,8499.0,2017,1242cc,"47,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,7200.0,2017,1242cc,"46,249 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,SX4,9000.0,2016,1586cc,"58,000 miles",Petrol,Manual,GREEN,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.0 seconds,127 g/km
+suzuki,Ignis,11000.0,2017,1242cc,"71,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,104 g/km
+suzuki,Swift,17639.0,2021,1197cc,"26,375 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Swift,12549.0,2021,1197cc,"9,004 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,17995.0,2022,1.4L,"14,700 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,125 g/km
+suzuki,Vitara,14727.0,2021,1.4L,"12,201 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,18588.0,1197cc,"9,610 miles",Petrol Hybrid,Automatic,Red,Hatchback,52.3 mpg,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Swace,29508.0,1798cc,"2,871 miles",Petrol Hybrid,Automatic,White,Estate,62.8 mpg,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Vitara,18695.0,2021,1.4L,"16,304 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,14695.0,2019,1.4L,"18,784 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Ignis,14999.0,2022,1200cc,"10,076 miles",Petrol,Manual,Pearl Pure White,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Vitara,11699.0,2018,1600cc,"51,669 miles",Petrol,Automatic,Bright Red,Estate,4X2,5.0,5.0,118 bhp,112 mph,,127 g/km
+suzuki,Jimny,15200.0,2015,1328cc,"25,282 miles",Petrol,Manual,SILVER,Estate,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Swift,10445.0,2019,1242cc,"17,612 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Swift,8901.0,2017,1L,"30,206 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,Vitara,24495.0,2023,1.5L,"8,229 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,114 bhp,112 mph,,133 g/km
+suzuki,Swift,15600.0,2020,1197cc,"5,511 miles",Petrol,Automatic,Premium Silver Metallic,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Vitara,10995.0,2017,1586cc,"40,000 miles",Petrol,Manual,Galactic Grey,Estate,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,SX4,21990.0,2023,1400cc,Other,Manual,Titan Dark Grey,Hatchback,53.3 mpg,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Ignis,17990.0,2023,1200cc,Other,Manual,Pure Whte Pearl,Hatchback,56.5 mpg,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Vitara,18990.0,2023,1400cc,Other,Manual,Superior White,Estate,53.3 mpg,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Vitara,13990.0,2019,1373cc,"27,098 miles",Petrol,Manual,Two Tone Metallic -,Estate,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Kizashi,7990.0,2012,2393cc,"62,000 miles",Petrol,Automatic,White,Saloon,4X4,4.0,5.0,176 bhp,127 mph,8.3 seconds,191 g/km
+suzuki,Vitara,9295.0,2015,1598cc,"41,318 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,106 g/km
+suzuki,Swift,4999.0,2013,1586cc,"98,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Celerio,6495.0,2016,1000cc,"42,765 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Swift,7695.0,2012,1242cc,"55,000 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,92 bhp,99 mph,14.0 seconds,128 g/km
+suzuki,Vitara,11299.0,2019,998cc,"41,026 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,SX4,5495.0,2014,1586cc,"71,463 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.0 seconds,127 g/km
+suzuki,Vitara,14999.0,2020,1373cc,"21,050 miles",Other,Manual,TURQUOISE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,7698.0,2018,1.2L,"50,592 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,98 g/km
+suzuki,S-Cross,21949.0,2023,1.4L,989 miles,Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swift,14000.0,2022,1197cc,"7,732 miles",Petrol,Manual,Fervent Red Solid,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,18471.0,2022,1400cc,"7,901 miles",Petrol,Manual,Cosmic Black,Estate,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Vitara,15991.0,2021,1373cc,"19,271 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,16995.0,2021,1373cc,"20,653 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,11295.0,2017,1242cc,"23,220 miles",Other,Manual,Red,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Swift,13995.0,2019,1373cc,"18,457 miles",Petrol,Manual,Super Black Pearl Metallic,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,18995.0,2020,1373cc,"32,173 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,138 bhp,124 mph,,141 g/km
+suzuki,Swift,10885.0,2016,1586cc,"28,724 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,SX4,27995.0,2023,1400cc,100 miles,Petrol,Manual,Black,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Vitara,15990.0,2021,1400cc,"15,949 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,19990.0,2023,1200cc,100 miles,Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,SX4,10990.0,2018,1L,"63,910 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,110 bhp,106 mph,12.4 seconds,119 g/km
+suzuki,Baleno,8499.0,2019,1.2L,"17,800 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.3 seconds,107 g/km
+suzuki,Alto,4695.0,2014,996cc,"31,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Ignis,12790.0,2021,1197cc,"16,631 miles",Petrol Hybrid,Manual,Red,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Vitara,16290.0,2021,1373cc,"21,082 miles",Petrol Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Splash,7295.0,2014,1242cc,"33,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,92 bhp,109 mph,12.5 seconds,118 g/km
+suzuki,SX4,2995.0,2010,1586cc,"59,999 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,143 g/km
+suzuki,Ignis,17995.0,2022,1197cc,"3,940 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Swift,5495.0,2014,1242cc,"61,106 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Vitara,21990.0,2023,1373cc,"1,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Splash,3995.0,2014,1242cc,"81,931 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,92 bhp,109 mph,12.5 seconds,118 g/km
+suzuki,Swift,5295.0,2014,1242cc,"83,000 miles",Petrol,Manual,White,Hatchback,4X4,5.0,5.0,92 bhp,103 mph,13.4 seconds,126 g/km
+suzuki,Swift,10990.0,2020,1242cc,"21,000 miles",Other,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Alto,3895.0,2012,996cc,"33,872 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.5 seconds,103 g/km
+suzuki,Jimny,10190.0,2014,1328cc,"80,731 miles",Petrol,Manual,BLACK/GREY,Estate,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Alto,3290.0,2013,996cc,"72,913 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,24999.0,2023,1462cc,"7,890 miles",Other,Automatic,Black,SUV,4X2,5.0,5.0,101 bhp,112 mph,,119 g/km
+suzuki,SX4,14592.0,2021,1400cc,"17,442 miles",Petrol,Manual,Superior White,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,128 g/km
+suzuki,Vitara,16695.0,2020,1373cc,"9,805 miles",Other,Manual,Cream,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,4290.0,2012,1586cc,"81,118 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,17.2 seconds,141 g/km
+suzuki,Swift,11290.0,2015,1242cc,"8,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,92 bhp,99 mph,13.5 seconds,128 g/km
+suzuki,Ignis,9699.0,2019,1242cc,"20,485 miles",Petrol,,Red,SUV,4X2,5.0,5.0,88 bhp,105 mph,,107 g/km
+suzuki,Vitara,14599.0,2021,1373cc,"20,836 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Baleno,7199.0,2017,1242cc,"47,404 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.3 seconds,98 g/km
+suzuki,Ignis,8999.0,2019,1242cc,"37,847 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,88 bhp,105 mph,,107 g/km
+suzuki,Ignis,8599.0,2017,1242cc,"48,614 miles",Petrol,,White,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,9599.0,2019,1242cc,"37,070 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Ignis,10699.0,2020,1242cc,"31,494 miles",Petrol,,White,SUV,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Swift,13290.0,2019,1L,"19,286 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.0 seconds,121 g/km
+suzuki,Vitara,18590.0,2022,1.4L,"8,957 miles",Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,7990.0,2016,1.6L,"62,953 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Vitara,18490.0,2021,1.4L,"17,386 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Jimny,13995.0,2016,1.3L,"46,644 miles",Petrol,Manual,Green,SUV,4X4,3.0,4.0,84 bhp,87 mph,14.1 seconds,162 g/km
+suzuki,Swace,19995.0,2022,1.8L,"5,298 miles",Hybrid,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Swift,10999.0,2020,1.2L,"21,123 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,94 g/km
+suzuki,SX4,4190.0,2011,1586cc,"82,994 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,5.0,118 bhp,109 mph,11.5 seconds,149 g/km
+suzuki,Vitara,13750.0,2019,1373cc,"26,468 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Celerio,6991.0,2019,998cc,"28,998 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,,89 g/km
+suzuki,Vitara,21995.0,2023,1373cc,"15,325 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Splash,4950.0,2012,1242cc,"90,261 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,92 bhp,106 mph,14.5 seconds,131 g/km
+suzuki,Swift,13700.0,2019,1373cc,"19,390 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,SV650,4790.0,2019,645cc,"2,772 miles",Petrol,Manual,Black,bike,CHAIN,,,75 bhp,,,
+suzuki,GSX1300R Hayabusa,12190.0,2022,1340cc,"5,462 miles",Petrol,Manual,Black,bike,,,,188 bhp,,,
+suzuki,Swift,12347.0,2019,1373cc,"28,022 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,16399.0,2021,1.4L,"20,643 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,5895.0,2014,1242cc,"64,790 miles",Petrol,Manual,Hatchback,56.5 mpg,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Splash,4690.0,2013,996cc,"35,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,15.2 seconds,109 g/km
+suzuki,Vitara,10450.0,2016,1586cc,"73,000 miles",Petrol,Manual,Turquoise/Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,14395.0,2020,1197cc,"17,976 miles",Petrol,Automatic,Pearl - Super Black,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Ignis,9499.0,2017,1242cc,"25,462 miles",Petrol,,Blue,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,13565.0,2019,1L,"29,613 miles",Petrol,Automatic,Other,SUV,4X2,5.0,5.0,110 bhp,111 mph,12.5 seconds,129 g/km
+suzuki,Across,33490.0,2021,2487cc,"7,956 miles",Petrol/Electric,CVT,SILVER,Estate,4X4,5.0,5.0,180 bhp,111 mph,,22 g/km
+suzuki,SX4,12200.0,2018,998cc,"18,899 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.0 seconds,113 g/km
+suzuki,Vitara,14000.0,2021,1373cc,"33,429 miles",Petrol Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,13000.0,2018,1373cc,"71,013 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Swift,4995.0,2012,1.24L,"67,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Vitara,14350.0,2019,1.4L,"33,000 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,133 g/km
+suzuki,Jimny,31995.0,2023,1500cc,500 miles,Petrol,Manual,Black,Other,4X4,,,101 bhp,90 mph,,
+suzuki,SX4,30899.0,2023,1373cc,0 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,101 bhp,115 mph,,
+suzuki,SX4,28399.0,2023,1462cc,0 miles,Petrol,Automatic,Silky Silver,SUV,,,,,,,
+suzuki,unassigned,28000.0,2023,1373cc,75 miles,Petrol,Manual,WHITE,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Swace,23995.0,2023,1798cc,"4,900 miles",Petrol,Other,Silver,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Vitara,13995.0,2017,1373cc,"36,249 miles",Petrol,Manual,Red,Other,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Swift,13490.0,2022,1197cc,"7,108 miles",Other,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,13490.0,2022,1197cc,"8,270 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,19990.0,2023,1373cc,30 miles,Other,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,
+suzuki,Ignis,8649.0,2018,1242cc,"26,100 miles",Petrol,Manual,Red/Black,Hatchback,4X2,5.0,5.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,15495.0,2020,1.4L,"23,948 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,9895.0,2019,1242cc,"33,519 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,11799.0,2018,1586cc,"24,511 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,15295.0,2020,1.4L,"12,475 miles",Hybrid,Manual,Other,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,15295.0,2020,1.4L,"10,230 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,10490.0,2020,1.2L,"17,158 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,94 g/km
+suzuki,Swift,14495.0,2021,1.2L,"14,186 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Swift,10579.0,2020,1.2L,"16,077 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,10937.0,2020,1.2L,"5,981 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,9950.0,2016,1.6L,"48,143 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,13777.0,2023,1197cc,"2,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,S-Cross,23498.0,2023,1373cc,"4,250 miles",Petrol,Manual,Silver,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Alto,3599.0,2014,1L,"76,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,13990.0,2019,1373cc,"33,755 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,12990.0,2019,988cc,"24,790 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Ignis,9700.0,2020,1242cc,"37,816 miles",Petrol Hybrid,Manual,Blue,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Swift,9790.0,2020,1242cc,"41,382 miles",Petrol Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Jimny,4995.0,2005,1328cc,"29,569 miles",Petrol,Manual,Blue,Estate,4X4,3.0,5.0,82 bhp,87 mph,14.1 seconds,174 g/km
+suzuki,SX4,26649.0,2023,1373cc,0 miles,Petrol,Manual,SILKY SILVER METALLIC,SUV,,,,,,,
+suzuki,SX4,20995.0,2023,1373cc,"4,820 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Alto,3490.0,2012,996cc,"70,595 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Vitara,11495.0,2019,988cc,"35,440 miles",Petrol,Manual,Turquoise,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,unassigned,15899.0,2019,1373cc,"34,674 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,138 bhp,124 mph,,140 g/km
+suzuki,Vitara,16495.0,2020,1400cc,"35,056 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,14999.0,2019,988cc,"15,800 miles",Petrol,Manual,Turquoise,Hatchback,4X4,5.0,5.0,110 bhp,111 mph,12.0 seconds,129 g/km
+suzuki,Ignis,14995.0,2020,1197cc,"18,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Swift,15749.0,2023,1197cc,"5,200 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,14595.0,2020,1.2L,"8,212 miles",Hybrid,Manual,Red,SUV,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Celerio,7398.0,2018,1L,"22,048 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Vitara,12795.0,2020,1.4L,"24,895 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,16645.0,2021,1.4L,"13,006 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,10449.0,2017,1586cc,"38,686 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Ignis,10849.0,2018,1242cc,"34,831 miles",Petrol,,White,SUV,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Swift,11488.0,2021,1197cc,"16,056 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,11694.0,2020,1242cc,"23,020 miles",Petrol,Manual,Blue,Other,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Swift,11946.0,2020,1242cc,"7,882 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+suzuki,Vitara,15995.0,2017,1373cc,"39,607 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Vitara,11995.0,2019,988cc,"43,985 miles",Petrol,Manual,Solar Yellow Metallic,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Vitara,11850.0,2019,988cc,"21,629 miles",Petrol,Manual,Silky Silver,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Swift,11450.0,2020,1.2L,"15,321 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,12495.0,2018,1373cc,"58,000 miles",Petrol,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Swift,11995.0,2016,1242cc,"17,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,92 bhp,99 mph,13.5 seconds,128 g/km
+suzuki,Celerio,5995.0,2015,996cc,"28,802 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Vitara,15699.0,2020,1373cc,"49,467 miles",Petrol,Manual,Superior White,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,141 g/km
+suzuki,Swift,1999.0,2007,1500cc,"99,530 miles",Petrol,Manual,White,Other,4X2,3.0,5.0,101 bhp,115 mph,,159 g/km
+suzuki,Baleno,10295.0,2019,998cc,"24,350 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,124 mph,11.4 seconds,114 g/km
+suzuki,Vitara,18790.0,2022,1373cc,"16,750 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,18990.0,2022,1373cc,"13,696 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swace,20450.0,2022,1798cc,"9,768 miles",Petrol,Automatic,BLACK,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Swace,19240.0,2022,1798cc,"17,971 miles",Petrol,Automatic,SILVER,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,SX4,20495.0,2023,1373cc,"9,576 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,11795.0,2015,1586cc,"33,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Celerio,5999.0,2017,998cc,"57,178 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,14.0 seconds,99 g/km
+suzuki,Celerio,5495.0,2015,996cc,"43,600 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Vitara,16299.0,2021,1373cc,"6,185 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,14895.0,2020,1197cc,"13,250 miles",Petrol,Manual,Blue,Hatchback,4X4,5.0,4.0,82 bhp,103 mph,,123 g/km
+suzuki,Vitara,12995.0,2017,1586cc,"43,935 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,118 bhp,112 mph,,130 g/km
+suzuki,Ignis,14790.0,2022,1.2L,"9,801 miles",Hybrid,Manual,Red,SUV,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Celerio,8299.0,2019,1L,"3,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,,89 g/km
+suzuki,Vitara,12999.0,2020,1.4L,"36,379 miles",Hybrid,Manual,Other,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,15299.0,2018,1.6L,"30,712 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,118 bhp,112 mph,13.0 seconds,131 g/km
+suzuki,Vitara,13858.0,2021,1.4L,"25,571 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Grand Vitara,4295.0,2010,1586cc,"79,000 miles",Petrol,Manual,Blue,Estate,4X4,3.0,4.0,105 bhp,99 mph,14.4 seconds,195 g/km
+suzuki,Swift,11490.0,2020,1242cc,"16,021 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,94 g/km
+suzuki,Swift,4995.0,2011,1328cc,"23,512 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,5.0,90 bhp,109 mph,11.0 seconds,140 g/km
+suzuki,Vitara,7995.0,2015,1586cc,"76,929 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Jimny,23828.0,2023,1462cc,350 miles,Petrol,Manual,Blue,Van,4X4,,,101 bhp,90 mph,,
+suzuki,SX4,20000.0,2021,1373cc,"6,419 miles",Other,Manual,Energetic Red Metallic,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swace,27495.0,2023,1798cc,"3,996 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,96 bhp,112 mph,,
+suzuki,Swift,12995.0,2019,1242cc,"26,651 miles",Petrol,Manual,Red,Hatchback,4X4,5.0,5.0,88 bhp,106 mph,,101 g/km
+suzuki,Ignis,17495.0,2022,1200cc,"6,672 miles",Petrol,Automatic,Pearl Pure White,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Vitara,18999.0,2022,1400cc,"11,592 miles",Petrol,Manual,Galactic Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Celerio,7291.0,2019,998cc,"19,924 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,,89 g/km
+suzuki,SX4,20995.0,2022,1373cc,"9,447 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,SX4,26649.0,2023,1373cc,Petrol,Manual,Sphere Blue Pearl Metallic,SUV,65.7 mpg,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,
+suzuki,Vitara,15795.0,2021,1.4L,"22,267 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,11390.0,2017,1.6L,"49,983 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,13250.0,2019,1L,"26,794 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,110 bhp,111 mph,12.5 seconds,129 g/km
+suzuki,Swift,7795.0,2017,998cc,"50,568 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,Swift,5890.0,2013,1242cc,"50,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Swift,7395.0,2016,1242cc,"61,775 miles",Petrol,Manual,Blue,SUV,4X4,5.0,5.0,92 bhp,103 mph,13.4 seconds,126 g/km
+suzuki,Jimny,15749.0,2014,1328cc,"29,597 miles",Petrol,Manual,Grey,SUV,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Ignis,10746.0,2019,1242cc,"11,896 miles",Petrol,Manual,Red,Other,4X2,5.0,4.0,88 bhp,105 mph,,107 g/km
+suzuki,Vitara,14900.0,2016,1.39L,"29,000 miles",Petrol,Automatic,Grey,Hatchback,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Gsxs 1000 RQ M2,8695.0,2021,999cc,"1,199 miles",Petrol,Manual,Grey,bike,,,,150 bhp,,,
+suzuki,Swift,15486.0,2021,1.2L,"11,323 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Ignis,17995.0,2020,1200cc,"9,084 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Vitara,21995.0,2022,1400cc,"11,923 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,18995.0,2020,1400cc,"9,254 miles",Petrol,Manual,Red,Estate,4X4,5.0,5.0,127 bhp,118 mph,,141 g/km
+suzuki,Swift,10490.0,2020,1242cc,"32,954 miles",Other,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Ignis,10795.0,2021,1197cc,"14,340 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,110 g/km
+suzuki,Ignis,13495.0,2019,1242cc,"13,787 miles",Petrol,Manual,ORANGE,Hatchback,4X4,5.0,4.0,88 bhp,103 mph,,105 g/km
+suzuki,Swift,12995.0,2022,1197cc,"6,073 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,14495.0,2023,1197cc,"2,597 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,11100.0,2021,1197cc,"25,635 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,10895.0,2020,1242cc,"15,397 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,9945.0,2020,1242cc,"56,228 miles",Other,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Alto,3995.0,2014,996cc,"45,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Swift,8895.0,2015,1586cc,"52,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Celerio,7296.0,2017,996cc,"12,812 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Ignis,15795.0,2021,1197cc,"3,300 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Celerio,7495.0,2018,998cc,"17,400 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Swift,9725.0,2013,1242cc,"23,802 miles",Petrol,Automatic,Bright Red,Hatchback,4X2,5.0,5.0,92 bhp,99 mph,14.0 seconds,128 g/km
+suzuki,Ignis,13933.0,2021,1197cc,"26,284 miles",Petrol/MHEV,Manual,BLACK,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Swift,12591.0,2021,1.2L,"3,693 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,SX4,9902.0,2017,1.6L,"42,488 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,111 mph,,106 g/km
+suzuki,Vitara,21500.0,2023,1.5L,"4,782 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,114 bhp,112 mph,,121 g/km
+suzuki,Vitara,10999.0,2018,1.6L,"48,062 miles",Petrol,Manual,Hatchback,53.3 mpg,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Ignis,10564.0,2018,1242cc,"40,370 miles",Petrol,Manual,Red,Other,4X2,5.0,4.0,88 bhp,103 mph,11.4 seconds,98 g/km
+suzuki,Vitara,14499.0,2020,1.4L,"21,000 miles",Other,Manual,White,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Jimny,4500.0,2006,1.3L,"66,690 miles",Petrol,Manual,Red,Estate,4X4,3.0,4.0,82 bhp,87 mph,14.1 seconds,174 g/km
+suzuki,Swift,9790.0,2018,998cc,"21,473 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,Swift,6999.0,2013,1242cc,"22,706 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.8 seconds,116 g/km
+suzuki,Swift,16295.0,2023,1.2L,"4,181 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,SX4,11750.0,2019,1L,"22,703 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.0 seconds,113 g/km
+suzuki,Swift,9580.0,2020,1.2L,"22,699 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,14799.0,2020,1373cc,"26,379 miles",Petrol,,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swace,23250.0,2023,1.8L,"6,715 miles",Hybrid,Automatic,Brown,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,S-Cross,19701.0,2023,1373cc,"2,045 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,SX4,12575.0,2021,1.4L,"44,043 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Swift,11663.0,2018,1373cc,"33,227 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Ignis,10736.0,2017,1242cc,"23,215 miles",Petrol,Manual,Red,Other,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Swace,21000.0,2021,1798cc,"11,100 miles",Hybrid,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Vitara,17700.0,2021,1373cc,"6,352 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,13657.0,2020,1373cc,"18,158 miles",Hybrid,Manual,Black,Other,4X2,5.0,5.0,127 bhp,118 mph,,127 g/km
+suzuki,Swift,11993.0,2020,1242cc,"10,493 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Ignis,11697.0,2020,1242cc,"18,683 miles",Petrol,Manual,Red,Other,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Vitara,14995.0,2018,1586cc,"26,195 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,,130 g/km
+suzuki,Vitara,11490.0,2018,1586cc,"23,242 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,118 bhp,112 mph,,123 g/km
+suzuki,Swift,9750.0,2019,1.2L,"21,523 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,S-Cross,24728.0,2023,1.4L,"3,539 miles",Hybrid,Manual,Silver,SUV,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Ignis,12495.0,2021,1197cc,"5,056 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Swift,11690.0,2020,1242cc,"7,043 miles",Petrol Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,15850.0,2021,1373cc,"12,676 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,125 g/km
+suzuki,Vitara,13367.0,2021,1373cc,"22,451 miles",Hybrid,Manual,Grey,Other,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,12499.0,2021,1.4L,"44,507 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Swift,4500.0,2015,1242cc,0 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Ignis,11990.0,2020,1197cc,"10,325 miles",Petrol,Manual,BROWN,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Ignis,9000.0,2018,1242cc,"44,000 miles",Petrol,Manual,White/Black,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,9995.0,2019,1242cc,"13,213 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,13500.0,2020,1373cc,"33,514 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Swift,10690.0,2020,1242cc,"24,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swace,25995.0,2023,1800cc,75 miles,Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Swift,14365.0,2020,1400cc,"10,219 miles",Petrol,Manual,Champion Yellow,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Swace,23995.0,2023,1798cc,"10,000 miles",Other,Automatic,Black,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Vitara,18990.0,2023,1373cc,"1,470 miles",Petrol,Manual,Solid - White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Jimny,21490.0,2023,0L,10 miles,Petrol,Manual,Kinetic Yellow/Black Roo,Estate,4X4,,,101 bhp,90 mph,,
+suzuki,Swift,8795.0,2015,1586cc,"59,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Swift,22270.0,2023,1373cc,5 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,
+suzuki,Swift,12495.0,2021,1197cc,"27,141 miles",Other,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,3995.0,2011,1242cc,"73,407 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Swift,6795.0,2015,1242cc,"51,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Alto,3995.0,2012,996cc,"34,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,17995.0,2020,1373cc,"10,020 miles",Other,Manual,Grey,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,11450.0,2020,1200cc,"17,532 miles",Other,Manual,Fervent Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,15250.0,2020,1400cc,"29,133 miles",Petrol,Manual,Galactic Gray,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,8950.0,2019,998cc,"50,350 miles",Other,Manual,Black,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,98 g/km
+suzuki,Ignis,10995.0,2019,1200cc,"38,117 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,98 g/km
+suzuki,Vitara,9950.0,2015,1586cc,"78,651 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,118 bhp,112 mph,12.0 seconds,130 g/km
+suzuki,Splash,4575.0,2012,996cc,"49,989 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,64 bhp,99 mph,23.7 seconds,119 g/km
+suzuki,SX4,13750.0,2019,998cc,"29,869 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.0 seconds,120 g/km
+suzuki,SX4,13750.0,2019,998cc,"29,689 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.0 seconds,120 g/km
+suzuki,Vitara,17950.0,2000,1373cc,500 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,
+suzuki,Swace,28950.0,2000,1798cc,500 miles,Petrol,Automatic,Phantom Brown,Estate,4X2,5.0,5.0,96 bhp,112 mph,,
+suzuki,Celerio,3985.0,2017,1000cc,"25,000 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Swift,9000.0,2019,1242cc,"59,613 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,106 g/km
+suzuki,Vitara,24749.0,2023,1373cc,"2,356 miles",Other,Manual,Black,SUV,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Swift,12495.0,2019,1373cc,"32,754 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,16249.0,2019,1373cc,"12,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,SX4,13919.0,2019,1L,"17,740 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,110 bhp,105 mph,12.4 seconds,131 g/km
+suzuki,Vitara,10099.0,2017,1586cc,"55,917 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,10749.0,2019,1242cc,"17,833 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,12449.0,2016,1373cc,"48,995 miles",Petrol,,Red,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,127 g/km
+suzuki,Swift,13399.0,2019,1373cc,"23,924 miles",Petrol,,Yellow,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Ignis,9249.0,2017,1242cc,"33,351 miles",Petrol,,Red,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Swift,11708.0,2020,1.2L,"11,912 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,111 g/km
+suzuki,S-Cross,19994.0,2022,1.4L,"11,183 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,127 bhp,121 mph,,129 g/km
+suzuki,Ignis,10499.0,2017,1.2L,"26,688 miles",Hybrid,Manual,Black,SUV,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Vitara,15999.0,2019,1.4L,"24,488 miles",Petrol,Manual,Turquoise,Hatchback,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,139 g/km
+suzuki,Vitara,9800.0,2017,1586cc,"43,388 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Jimny,14999.0,2013,1328cc,"37,458 miles",Petrol,Automatic,White,SUV,4X4,3.0,4.0,84 bhp,84 mph,22.2 seconds,167 g/km
+suzuki,Alto,1590.0,2013,996cc,"77,816 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,7995.0,2015,1586cc,"67,000 miles",Petrol,Manual,TURQUOISE/BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Ignis,10349.0,2018,1242cc,"51,636 miles",Petrol,,Orange,SUV,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Vitara,13099.0,2017,1586cc,"59,279 miles",Petrol,,Grey,SUV,4X4,5.0,5.0,118 bhp,112 mph,13.0 seconds,131 g/km
+suzuki,Swift,12749.0,2019,1373cc,"30,276 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,17199.0,2021,1373cc,"22,012 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,11729.0,2016,1.6L,"40,916 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,12998.0,2022,1.2L,"6,452 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,10499.0,2021,1.2L,"26,908 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,17490.0,1373cc,"17,787 miles",Petrol Hybrid,Automatic,Grey,SUV,49.6 mpg,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Jimny,25000.0,2018,1.5L,"10,752 miles",Petrol,Manual,Blue,SUV,4X4,5.0,4.0,101 bhp,90 mph,,154 g/km
+suzuki,Vitara,13000.0,2020,1.4L,"22,932 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,10495.0,2019,1.2L,"15,356 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Swift,11000.0,2020,1242cc,"12,244 miles",Other,Manual,Premium Silver Metallic,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Swift,12500.0,2021,1197cc,"13,844 miles",Other,Manual,Fervent Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,SX4,19500.0,2023,1373cc,"4,275 miles",Petrol,Manual,BLACK,Other,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swift,11995.0,2020,1200cc,"17,206 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Vitara,19995.0,2022,1400cc,"15,375 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,13368.0,2022,1200cc,"7,380 miles",Petrol,Manual,Fervent Red Solid,SUV,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Ignis,15795.0,2020,1200cc,"2,129 miles",Petrol,Automatic,Rush Yellow/Black Roof,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Vitara,21299.0,2023,1400cc,"7,864 miles",Petrol,Manual,Galactic Grey,Estate,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Vitara,21295.0,2023,1400cc,"11,053 miles",Petrol,Manual,Superior White,Estate,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Swift,12264.0,2022,1197cc,"5,145 miles",Petrol,Manual,Fervent Red Solid,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,15491.0,2020,1197cc,"7,723 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,4.0,82 bhp,103 mph,,123 g/km
+suzuki,Swift,9995.0,2018,998cc,"30,881 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,Vitara,18999.0,2023,1373cc,Other,Manual,Black,SUV,53.3 mpg,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,Celerio,6495.0,2017,996cc,"13,022 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Vitara,18450.0,2000,1373cc,"1,460 miles",Petrol,Manual,Ice Greyish Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Vitara,19750.0,2000,1373cc,"4,294 miles",Petrol,Automatic,Ice Greyish Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,12495.0,2019,1242cc,"24,839 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,4.0,88 bhp,103 mph,,105 g/km
+suzuki,SX4,7999.0,2015,1.6L,"57,000 miles",Diesel,Manual,Blue,Hatchback,4X4,5.0,5.0,118 bhp,109 mph,13.0 seconds,114 g/km
+suzuki,Vitara,16999.0,2021,1.4L,"40,000 miles",Other,Automatic,White,Hatchback,4X4,5.0,5.0,127 bhp,118 mph,,142 g/km
+suzuki,Vitara,16995.0,2019,1373cc,"39,000 miles",Petrol,Automatic,Black,Hatchback,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,143 g/km
+suzuki,Swift,5890.0,2015,1242cc,"88,850 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Celerio,5890.0,2016,998cc,"48,490 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Swace,19990.0,2022,1798cc,"10,315 miles",Petrol / Electric Hybrid,Automatic,Bronze,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km
+suzuki,Vitara,11128.0,2016,1.6L,"51,238 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,14990.0,2018,1.4L,"30,379 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,139 g/km
+suzuki,Vitara,15381.0,2020,1.4L,"8,335 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,13495.0,2016,1.4L,"18,483 miles",Petrol,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,124 mph,10.2 seconds,127 g/km
+suzuki,Celerio,5950.0,2016,998cc,"18,597 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Vitara,10995.0,2015,1586cc,"78,000 miles",Petrol,Manual,Grey,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,12.0 seconds,130 g/km
+suzuki,Vitara,10849.0,2016,1586cc,"40,103 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Alto,4995.0,2014,996cc,"27,000 miles",Petrol,Manual,Superior White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,14999.0,2016,1373cc,"48,650 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Vitara,13950.0,2018,1586cc,"33,015 miles",Petrol,Automatic,Ivory Metallic / Black Roof,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,13.0 seconds,131 g/km
+suzuki,Jimny,15490.0,2017,1328cc,"21,143 miles",Petrol,Manual,Bluish Black/Quasar Grey,Estate,4X4,3.0,4.0,84 bhp,87 mph,14.1 seconds,162 g/km
+suzuki,Vitara,11800.0,2017,1586cc,"29,635 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,118 bhp,112 mph,,123 g/km
+suzuki,Vitara,15995.0,2019,1373cc,"13,933 miles",Petrol,Automatic,Yellow,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,SX4,12995.0,2019,988cc,"36,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,110 bhp,105 mph,12.4 seconds,131 g/km
+suzuki,Vitara,13450.0,2020,1373cc,"12,000 miles",Petrol,Automatic,Turquoise,SUV,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Swift,5750.0,2013,1242cc,"41,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,92 bhp,103 mph,12.8 seconds,116 g/km
+suzuki,Swift,14990.0,2020,1373cc,"19,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,127 g/km
+suzuki,SX4,6850.0,2016,1598cc,"97,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,118 bhp,109 mph,13.0 seconds,113 g/km
+suzuki,Vitara,9495.0,2017,1586cc,"74,184 miles",Petrol,Manual,Multicolour,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swift,6495.0,2014,1242cc,"61,856 miles",Petrol,Manual,Silver,Hatchback,4X4,5.0,5.0,92 bhp,103 mph,13.4 seconds,126 g/km
+suzuki,S-Cross,21999.0,2023,1.4L,"2,000 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Across SUV,29000.0,2021,2.5L,"27,508 miles",Petrol/Electric,Automatic,Dark Blue Metallic,Estate,4X4,5.0,5.0,180 bhp,111 mph,,22 g/km
+suzuki,Ignis,11995.0,2023,1.2L,"14,255 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,4.0,82 bhp,96 mph,,122 g/km
+suzuki,Ignis,15990.0,2021,1.2L,"3,284 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,4.0,82 bhp,103 mph,,112 g/km
+suzuki,Swift,9210.0,2020,1.2L,"66,116 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,121 g/km
+suzuki,Vitara,18995.0,2022,1400cc,"8,408 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Vitara,18495.0,2022,1400cc,"20,973 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Vitara,21995.0,2022,1400cc,"12,892 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,12398.0,2020,1200cc,"18,096 miles",Petrol,Manual,Superior White,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,98 g/km
+suzuki,Ignis,13780.0,2020,1200cc,"22,080 miles",Petrol,Automatic,Fervent Red Solid,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,126 g/km
+suzuki,Vitara,15962.0,2021,1400cc,"14,093 miles",Petrol,Manual,Bright Red/Black Roof,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,SX4,14299.0,2021,1400cc,"7,547 miles",Petrol,Manual,Pearl Energetic Red Metallic,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,122 g/km
+suzuki,Vitara,13495.0,2021,1373cc,"24,679 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,SX4,13991.0,2020,1373cc,"18,900 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,128 g/km
+suzuki,Ignis,13491.0,2020,1242cc,"11,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Swift,14491.0,2023,1197cc,"2,775 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,13991.0,2020,1373cc,"37,815 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,12991.0,2019,1242cc,"28,706 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.8 seconds,109 g/km
+suzuki,SX4,27499.0,2023,1462cc,"1,406 miles",Other,Automatic,Grey,Hatchback,4X4,5.0,5.0,114 bhp,108 mph,,132 g/km
+suzuki,Swift,13495.0,2022,1197cc,"6,096 miles",Other,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,12495.0,2020,1242cc,"14,592 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,94 g/km
+suzuki,Swift,11495.0,2021,1197cc,"28,753 miles",Other,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,14999.0,2021,1373cc,"20,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,11499.0,2018,1242cc,"36,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,11.4 seconds,97 g/km
+suzuki,Ignis,8495.0,2018,1242cc,"17,500 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,105 mph,,104 g/km
+suzuki,unassigned,22000.0,2023,1373cc,"2,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Swace,26999.0,2023,1798cc,100 miles,Petrol,Automatic,Brown,Estate,4X2,5.0,5.0,96 bhp,112 mph,,
+suzuki,Vitara,15701.0,2019,1.4L,"23,799 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,133 g/km
+suzuki,Swift,9250.0,2018,1242cc,"47,874 miles",Petrol,Manual,Red,Hatchback,4X4,5.0,5.0,88 bhp,106 mph,12.6 seconds,101 g/km
+suzuki,Swift,10795.0,2019,998cc,"27,800 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,,98 g/km
+suzuki,Jimny,13495.0,2014,1328cc,"38,876 miles",Petrol,Manual,Blue,Estate,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Alto,2995.0,2014,996cc,"90,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Intruder 800,3990.0,2005,805cc,"4,198 miles",Petrol,Manual,Black,bike,,,,,,,
+suzuki,Swift,8000.0,2018,998cc,"40,675 miles",Petrol,Manual,Burning Red Metallic,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,104 g/km
+suzuki,Swift,6945.0,2016,1242cc,"52,467 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Vitara,15990.0,2021,1373cc,"18,764 miles",Petrol,Manual,Ivory Savanna/Black,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Ignis,3495.0,2004,1490cc,"40,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,103 mph,11.0 seconds,160 g/km
+suzuki,Grand Vitara,3500.0,2005,2493cc,"114,000 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,155 bhp,108 mph,,262 g/km
+suzuki,SX4,23895.0,2023,1373cc,915 miles,Petrol,Manual,Pearl - Energetic Red,Hatchback,4X4,5.0,5.0,127 bhp,121 mph,,133 g/km
+suzuki,Ignis,9489.0,2020,1242cc,"16,202 miles",Other,Manual,WHITE,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,117 g/km
+suzuki,Swift,13399.0,2018,1373cc,"22,434 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Swift,13599.0,2020,1197cc,"11,351 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,111 g/km
+suzuki,Swift,8849.0,2019,1242cc,"59,118 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Ignis,10699.0,2018,1242cc,"18,537 miles",Petrol,,Orange,SUV,4X2,5.0,4.0,88 bhp,105 mph,,104 g/km
+suzuki,Vitara,11999.0,2018,1586cc,"25,388 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Swace,18995.0,2021,1.8L,"11,278 miles",Hybrid,Automatic,White,Estate,,,,,,,
+suzuki,Vitara,14229.0,2021,1373cc,"28,086 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Swift,15995.0,2023,1200cc,"5,915 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,15995.0,2023,1200cc,"6,943 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,14860.0,2020,1200cc,"10,365 miles",Petrol,Manual,Fervent Red Solid,Hatchback,4X4,5.0,4.0,82 bhp,103 mph,,123 g/km
+suzuki,Ignis,17499.0,2023,1197cc,"2,492 miles",Petrol,Manual,Pearl Pure White Met,Hatchback,4X4,5.0,4.0,82 bhp,103 mph,,121 g/km
+suzuki,Vitara,14499.0,2020,1400cc,"1,211 miles",Petrol,Manual,Silky Silver Metallic,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,17999.0,2023,1400cc,"1,245 miles",Petrol,Manual,Galactic Grey,Estate,4X2,5.0,5.0,127 bhp,118 mph,,119 g/km
+suzuki,Swift,15299.0,2020,1200cc,"4,577 miles",Petrol,Automatic,Pearl Pure White Metallic,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Swift,10974.0,2021,1200cc,"12,143 miles",Petrol,Manual,Burning Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Vitara,13999.0,2020,1400cc,"23,315 miles",Petrol,Manual,Cosmic Black,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Vitara,9899.0,2017,1600cc,"50,963 miles",Petrol,Manual,Superior White,Estate,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Vitara,9990.0,2017,1586cc,"55,985 miles",Petrol,Manual,RED/BLACK,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,Celerio,9995.0,2017,998cc,"7,549 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,16.5 seconds,99 g/km
+suzuki,Vitara,11995.0,2019,1373cc,"34,675 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,15995.0,2020,1373cc,"16,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Splash,5999.0,2014,1242cc,"31,929 miles",Petrol,Manual,Unknown,Hatchback,4X2,5.0,5.0,92 bhp,109 mph,12.5 seconds,118 g/km
+suzuki,SX4,12995.0,2020,998cc,"15,765 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,11.0 seconds,120 g/km
+suzuki,Vitara,11395.0,2019,998cc,"40,529 miles",Petrol,Automatic,Ivory/Black,Hatchback,4X2,5.0,5.0,110 bhp,111 mph,12.5 seconds,129 g/km
+suzuki,Swift,19995.0,2023,1197cc,4 miles,Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,115 g/km
+suzuki,Swift,12485.0,2020,1197cc,"19,975 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,111 g/km
+suzuki,Swift,11995.0,2019,998cc,"8,716 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.6 seconds,110 g/km
+suzuki,Celerio,5399.0,2016,998cc,Petrol,Manual,White,Hatchback,65.7 mpg,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Vitara,16499.0,2018,1373cc,"23,000 miles",Petrol,Automatic,Grey/Black,Hatchback,4X4,5.0,5.0,138 bhp,125 mph,10.2 seconds,128 g/km
+suzuki,Vitara,15795.0,2020,1373cc,"18,000 miles",Petrol,Automatic,YELLOW,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,,156 g/km
+suzuki,Ignis,16295.0,2022,1197cc,"7,383 miles",Petrol,Manual,Metallic - Rush Yellow,Hatchback,4X4,5.0,4.0,82 bhp,103 mph,,121 g/km
+suzuki,Swift,12695.0,2021,1197cc,"8,540 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Ignis,11995.0,2021,1197cc,"3,270 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,110 g/km
+suzuki,Swift,12498.0,2020,1242cc,"10,794 miles",Petrol Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,121 g/km
+suzuki,Bandit 600 1 PREVIOUS OWNER,2690.0,2002,600cc,"8,730 miles",Petrol,Manual,Red,bike,,,,,,,
+suzuki,Vitara,22750.0,2022,1.5L,"17,905 miles",Hybrid,Semiauto,Other,SUV,4X4,5.0,5.0,114 bhp,112 mph,,133 g/km
+suzuki,Swift,19499.0,2023,1.4L,"1,190 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,125 g/km
+suzuki,Alto,2995.0,2009,996cc,"31,900 miles",Petrol,Manual,Pink,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,14.0 seconds,103 g/km
+suzuki,Vitara,13295.0,2019,998cc,"17,088 miles",Petrol,Manual,RED,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.5 seconds,121 g/km
+suzuki,Swift,9150.0,2018,1L,"43,845 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,10.6 seconds,97 g/km
+suzuki,Vitara,21499.0,2023,1.4L,"4,460 miles",Hybrid,Manual,Black,SUV,4X4,5.0,5.0,127 bhp,118 mph,,132 g/km
+suzuki,Vitara,16499.0,2021,1.4L,"11,602 miles",Hybrid,Manual,Silver,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Swift,4595.0,2013,1242cc,"84,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,12.3 seconds,116 g/km
+suzuki,Vitara,12740.0,2019,1373cc,"38,586 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,Swift,9995.0,2019,1242cc,"22,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Ignis,9499.0,2019,1242cc,"33,713 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,4.0,88 bhp,105 mph,,107 g/km
+suzuki,Celerio,4400.0,2015,996cc,"49,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,97 mph,13.5 seconds,99 g/km
+suzuki,Alto,3975.0,2014,996cc,"41,774 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,96 mph,13.9 seconds,99 g/km
+suzuki,Vitara,13000.0,2015,1586cc,"52,092 miles",Petrol,Automatic,Orange/Black,Hatchback,4X4,5.0,5.0,118 bhp,112 mph,13.0 seconds,131 g/km
+suzuki,Swift,14250.0,2021,1197cc,"22,485 miles",Other,Automatic,White,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,,121 g/km
+suzuki,Swift,11495.0,2020,1242cc,"33,892 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.9 seconds,108 g/km
+suzuki,Vitara,17795.0,2019,1373cc,"3,243 miles",Petrol,Automatic,Metallic - Cool White Pearl,SUV,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,133 g/km
+suzuki,Ignis,15795.0,2020,1197cc,"3,451 miles",Petrol,Automatic,Solid - Bright Red,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Jimny,12995.0,2014,1328cc,"16,000 miles",Petrol,Manual,White,SUV,4X4,3.0,4.0,84 bhp,87 mph,14.6 seconds,162 g/km
+suzuki,Swift,7995.0,2015,1242cc,"31,000 miles",Petrol,Manual,Blue,Hatchback,4X4,5.0,5.0,92 bhp,103 mph,13.4 seconds,126 g/km
+suzuki,Swift,8995.0,2016,1586cc,"38,300 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Grand Vitara,4995.0,2012,2393cc,"33,000 miles",Petrol,Manual,Silver,SUV,4X4,3.0,4.0,163 bhp,112 mph,11.2 seconds,205 g/km
+suzuki,Ignis,9650.0,2019,1242cc,"54,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,11.4 seconds,98 g/km
+suzuki,Wagon R,2000.0,2006,1229cc,"86,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,79 bhp,100 mph,13.2 seconds,144 g/km
+suzuki,Grand Vitara,2495.0,2005,1995cc,"161,000 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,126 bhp,99 mph,13.3 seconds,230 g/km
+suzuki,Swift,5280.0,2013,1586cc,"86,329 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,Jimny,2795.0,2007,1328cc,"87,000 miles",Petrol,Manual,Red,SUV,4X4,3.0,4.0,82 bhp,87 mph,14.1 seconds,174 g/km
+suzuki,SX4,12995.0,2020,988cc,"15,765 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,110 bhp,111 mph,11.0 seconds,120 g/km
+suzuki,Jimny,9495.0,2007,1328cc,"45,000 miles",Petrol,Automatic,Grey,SUV,4X4,3.0,4.0,82 bhp,84 mph,17.2 seconds,184 g/km
+suzuki,Jimny,12995.0,2014,1328cc,"41,000 miles",Petrol,Manual,Grey,SUV,,,,,,,
+suzuki,Swift,15390.0,2023,1.2L,"5,015 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swace,24990.0,2023,1.8L,"5,631 miles",Hybrid,Automatic,White,Estate,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,S-Cross,17990.0,2022,1.4L,"7,964 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Ignis,11520.0,2020,1.2L,"36,821 miles",Hybrid,Manual,Yellow,SUV,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,SX4,6990.0,2014,1598cc,"51,000 miles",Diesel,Manual,Electric Blue Metallic,Hatchback,4X2,5.0,5.0,118 bhp,109 mph,13.0 seconds,110 g/km
+suzuki,Ignis,15000.0,2020,1197cc,"8,136 miles",Petrol,Automatic,GREEN,Other,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Swift,10614.0,2020,1242cc,"10,438 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,,113 g/km
+suzuki,Ignis,11495.0,2000,1197cc,"35,100 miles",Other,Manual,Red,Hatchback,4X2,5.0,4.0,82 bhp,103 mph,,114 g/km
+suzuki,Ignis,14774.0,2020,1200cc,"8,886 miles",Petrol,Automatic,Rush Yellow,Hatchback,4X2,5.0,4.0,82 bhp,96 mph,,124 g/km
+suzuki,Vitara,14499.0,2020,1400cc,"13,320 miles",Petrol,Manual,Superior White,Estate,4X2,5.0,5.0,127 bhp,118 mph,,129 g/km
+suzuki,Swift,14499.0,2019,1373cc,"18,440 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.1 seconds,125 g/km
+suzuki,Vitara,16998.0,2022,1373cc,"10,376 miles",Other,Manual,Yellow,SUV,4X2,5.0,5.0,127 bhp,118 mph,,121 g/km
+suzuki,Swift,4300.0,2012,1242cc,"59,501 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,SX4,15450.0,2000,1373cc,"29,780 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,138 bhp,124 mph,,139 g/km
+suzuki,Swift,6995.0,2016,1200cc,"44,886 miles",Petrol,Manual,Silky Silver,Hatchback,4X2,5.0,5.0,92 bhp,103 mph,11.9 seconds,116 g/km
+suzuki,Vitara,8995.0,2018,1586cc,"76,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,112 mph,11.5 seconds,123 g/km
+suzuki,SX4,20490.0,2023,1373cc,"2,241 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,127 bhp,121 mph,,120 g/km
+suzuki,Vitara,12490.0,2020,1373cc,"50,293 miles",Petrol,Manual,Solid - Superior Whi,Estate,4X2,5.0,5.0,138 bhp,124 mph,,131 g/km
+suzuki,Vitara,18490.0,2023,1373cc,"4,611 miles",Petrol,Manual,Green,Estate,4X2,5.0,5.0,127 bhp,118 mph,,120 g/km
+suzuki,Vitara,13299.0,2019,"26,204 miles",Petrol,Manual,Black,SUV,43.5 mpg,4X2,5.0,5.0,138 bhp,124 mph,9.5 seconds,131 g/km
+suzuki,SX4,15750.0,2021,1373cc,"15,802 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,127 bhp,118 mph,,128 g/km
+suzuki,Swift,6990.0,2013,1586cc,"63,238 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,121 mph,8.7 seconds,147 g/km
+suzuki,SX4,10490.0,1598cc,"33,224 miles",Diesel,Manual,White,SUV,64.2 mpg,4X4,5.0,5.0,118 bhp,108 mph,,114 g/km
+suzuki,Swift,12000.0,2021,1197cc,"21,124 miles",Other,Manual,Super Black Metallic,Other,4X2,5.0,5.0,82 bhp,109 mph,,106 g/km
+suzuki,Swift,11500.0,2019,1242cc,"31,265 miles",Other,Manual,Speedy Blue Metallic,Hatchback,4X4,5.0,5.0,88 bhp,106 mph,12.6 seconds,101 g/km
+suzuki,Swace,24500.0,2023,"4,469 miles",Other,Automatic,Super White 2,Other,62.8 mpg,4X2,5.0,5.0,96 bhp,112 mph,,102 g/km
+suzuki,Swift,16000.0,2021,1373cc,"3,365 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,127 bhp,130 mph,,125 g/km
+suzuki,Swace,19499.0,2022,1800cc,"1,634 miles",Petrol,Automatic,Black Mica,Estate,4X2,5.0,5.0,96 bhp,112 mph,,103 g/km

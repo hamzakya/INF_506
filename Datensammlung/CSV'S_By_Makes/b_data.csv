@@ -1,0 +1,3 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+b,F44co,27350.0,1500cc,"7,479 miles",Petrol,Manual,Alpine White,Saloon,45.6 mpg,4X2,4.0,5.0,134 bhp,134 mph,,133 g/km
+b,G42cp,38350.0,2000cc,"4,392 miles",Petrol,Automatic,Black Sapphire,Coupe,41.5 mpg,4X2,2.0,4.0,242 bhp,155 mph,,154 g/km

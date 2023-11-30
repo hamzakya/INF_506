@@ -1,0 +1,1376 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+renault,Captur,6799.0,2014,1461cc,"69,000 miles",Diesel,Manual,GREY/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,11000.0,2018,898cc,"27,532 miles",Petrol,Manual,BLUE/SILVER,Other,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Clio,6995.0,2013,1461cc,"75,625 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Kadjar,8795.0,2017,1461cc,"105,378 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Captur,15400.0,1461cc,"10,048 miles",Diesel,Manual,White,Hatchback,58.9 mpg,4X2,5.0,5.0,94 bhp,110 mph,,125 g/km
+renault,Kadjar,14970.0,2019,1.3L,"19,417 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,16490.0,2020,1.3L,"9,100 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Austral,34890.0,2023,1.2L,"2,507 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,106 g/km
+renault,Captur,13594.0,2020,1L,"14,302 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Trafic Passenger,15995.0,2018,1598cc,"63,716 miles",Diesel,Manual,Silver,MPV,4X2,5.0,9.0,123 bhp,105 mph,11.8 seconds,145 g/km
+renault,Clio,8495.0,2018,1149cc,"28,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,5250.0,2013,898cc,"80,998 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Kadjar,10780.0,2016,1461cc,"55,000 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Laguna,1444.0,2006,1998cc,"114,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,135 bhp,129 mph,9.8 seconds,187 g/km
+renault,Scenic,1700.0,2006,1598cc,"97,411 miles",Petrol,Manual,Gold,MPV,4X2,5.0,5.0,111 bhp,112 mph,11.8 seconds,182 g/km
+renault,Kadjar,11995.0,2017,1461cc,"23,000 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Kadjar,10500.0,2017,1598cc,"52,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Captur,11049.0,2018,898cc,"22,595 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Kadjar,14249.0,2017,1461cc,"19,995 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Captur,11699.0,2020,898cc,"24,594 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,10549.0,2019,898cc,"33,282 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Clio,15449.0,2022,999cc,"6,681 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,11849.0,2018,1461cc,"33,338 miles",Diesel,,Orange,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Kadjar,14299.0,2019,1333cc,"40,399 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Trafic,27598.0,2022,2L,"5,554 miles",Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Arkana,23995.0,2021,1.6L,"11,689 miles",Hybrid,Semiauto,Red,SUV,,,,,,,
+renault,Kadjar,15599.0,2020,1.3L,"12,252 miles",Petrol,Manual,White,SUV,,,,,,,
+renault,Captur,8999.0,2016,1.5L,"30,329 miles",Diesel,Manual,Other,SUV,,,,,,,
+renault,Koleos,19160.0,2019,2L,"19,246 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,174 bhp,128 mph,10.2 seconds,168 g/km
+renault,Captur,9965.0,2019,0.9L,"41,000 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,25293.0,2023,1.6L,"1,311 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Kadjar,21285.0,2022,1.3L,"9,053 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,124 mph,,141 g/km
+renault,Kadjar,14258.0,2020,1.3L,"12,963 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Trafic,18495.0,2017,1.6L,"62,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,9.0,123 bhp,105 mph,11.8 seconds,145 g/km
+renault,Captur,10695.0,2019,0.9L,"32,831 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,7995.0,2016,1.5L,"60,200 miles",Diesel,Manual,Hatchback,78.5 mpg,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Trafic 28 2.0 DCI 145 BHP ENERGY SPORT 6DR ( SAT NAV ),16989.0,2020,2L,"80,000 miles",Diesel,Manual,Grey,Van,4X2,,,143 bhp,108 mph,,
+renault,Master 2.3 LML45TW BUSINESS ENERGY DCI 170 BHP,10000.0,2017,2.29L,"135,364 miles",Diesel,Manual,White,Van,4X2,,,168 bhp,,,
+renault,Captur,9995.0,2019,898cc,"37,336 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Kadjar,12700.0,2020,1332cc,"56,644 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,150 g/km
+renault,Captur,7495.0,2015,898cc,"53,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Clio,2995.0,2009,1598cc,"71,042 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,127 bhp,122 mph,9.3 seconds,160 g/km
+renault,Captur,9879.0,2019,900cc,"31,900 miles",Petrol,Manual,Desert Orange With Diamond Black Roof,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kangoo,3995.0,2011,1461cc,"98,793 miles",Diesel,Manual,White,Van,4X2,,,67 bhp,91 mph,19.6 seconds,
+renault,Trafic,13500.0,2019,1997cc,"65,066 miles",Diesel,Manual,White,Van,4X2,,,120 bhp,103 mph,,
+renault,Master,5995.0,2012,2298cc,"153,000 miles",Diesel,Manual,White,Van,4X2,,,125 bhp,82 mph,0 seconds,
+renault,Master,52500.0,2017,2298cc,"19,623 miles",Diesel,Automatic,BLUE,Other,4X2,,,168 bhp,100 mph,,
+renault,Trafic,14495.0,2016,1598cc,"72,000 miles",Diesel,Manual,WHITE,Other,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Twingo,4965.0,2015,999cc,"75,611 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,14.5 seconds,105 g/km
+renault,Kadjar,13895.0,2019,1330cc,"46,039 miles",Petrol,Manual,Metallic - Titanium Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Megane,3495.0,2012,1461cc,"124,000 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,5.0,110 bhp,118 mph,12.3 seconds,106 g/km
+renault,Megane,5275.0,2012,1598cc,"41,000 miles",Petrol,Manual,Orange,Coupe,4X2,3.0,5.0,110 bhp,118 mph,10.5 seconds,159 g/km
+renault,Twingo,3750.0,2012,1149cc,"66,781 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,75 bhp,105 mph,12.0 seconds,119 g/km
+renault,Scenic,3495.0,2012,1461cc,"73,280 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.5 seconds,105 g/km
+renault,Kadjar,10995.0,2016,1461cc,"59,500 miles",Diesel,Automatic,GREY,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Megane,7495.0,2013,1598cc,"32,943 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,130 bhp,124 mph,10.1 seconds,104 g/km
+renault,Clio,8999.0,2017,1149cc,"21,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,4295.0,2013,1149cc,"99,833 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Scenic,5795.0,2014,1461cc,"58,384 miles",Diesel,Manual,BLACK,MPV,4X2,5.0,5.0,109 bhp,112 mph,12.5 seconds,105 g/km
+renault,Captur,8495.0,2018,898cc,"70,000 miles",Petrol,Manual,ORANGE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,13790.0,2016,1197cc,"7,342 miles",Petrol,Automatic,RED/BLACK,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,127 g/km
+renault,Kadjar,11495.0,2017,1197cc,"40,501 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,134 g/km
+renault,Clio,12490.0,2020,999cc,"35,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Captur,9490.0,2019,898cc,"44,000 miles",Petrol,Manual,SILVER/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Grand Scenic,14995.0,2017,1598cc,"55,448 miles",Diesel,Manual,GREY/BLACK,MPV,4X2,5.0,7.0,128 bhp,118 mph,,119 g/km
+renault,Captur,8500.0,2015,1461cc,"53,132 miles",Diesel,Manual,BLACK/CREAM,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,98 g/km
+renault,Kadjar,13999.0,2020,1332cc,"31,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Clio,6650.0,2016,1461cc,"61,755 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,12699.0,2018,1461cc,"5,762 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,11.8 seconds,105 g/km
+renault,Clio,15599.0,2020,999cc,"20,662 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,10799.0,2020,999cc,"31,833 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,122 g/km
+renault,Clio,9649.0,2017,1149cc,"22,504 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Megane,3490.0,2011,1461cc,"77,732 miles",Diesel,Manual,Beige,Coupe,4X2,3.0,5.0,110 bhp,118 mph,10.5 seconds,114 g/km
+renault,Scenic,12995.0,2018,1461cc,"39,962 miles",Diesel,Manual,Blue,MPV,,,,,,,
+renault,Captur,14450.0,2019,1333cc,"21,497 miles",Petrol,Automatic,CREAM/BLACK,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Clio,6299.0,2014,1149cc,"60,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,9299.0,2019,0.9L,"47,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Twingo,5995.0,2015,999cc,"29,300 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,16.0 seconds,95 g/km
+renault,Megane,10000.0,2020,1461cc,"75,260 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,119 g/km
+renault,Megane,7800.0,2015,1461cc,"29,243 miles",Diesel,Manual,White,Convertible,4X2,2.0,4.0,109 bhp,118 mph,12.4 seconds,115 g/km
+renault,Kadjar,13200.0,2019,1461cc,"33,454 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,117 mph,,115 g/km
+renault,Kadjar,13715.0,1332cc,"39,323 miles",Petrol,Manual,Black,SUV,42.16 mpg,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Captur,6989.0,2013,898.0cc,"69,502 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Kangoo MAXI BUSINESS 1.5 DCI 5 SEAT CREW VAN EURO 6 LWB,10975.0,2018,1.46L,"45,326 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Trafic ENSERGY BUSINESS 1.6 DCI 125 9 SEAT MINIBUS EURO 6 P SENSORS LWB,19975.0,2016,1.6L,"19,491 miles",Diesel,Manual,Blue,Other,4X2,5.0,9.0,123 bhp,105 mph,11.8 seconds,
+renault,Master,22495.0,2021,2299cc,"68,000 miles",Diesel,Manual,White,Van,4X2,,,147 bhp,96 mph,,
+renault,Clio,6495.0,2014,1461cc,"49,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,6389.0,2015,1461cc,"71,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,3495.0,2012,1461cc,"110,000 miles",Diesel,Manual,METALLIC BREEZE BLUE,Coupe,4X2,3.0,5.0,110 bhp,118 mph,12.1 seconds,90 g/km
+renault,Trafic,31200.0,2023,2L,6 miles,Diesel,Manual,Black,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,40798.0,2023,2L,"2,533 miles",Diesel,Automatic,Black,van,4X2,,,170 bhp,115 mph,,
+renault,Kadjar,11700.0,2019,1333cc,"52,816 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Trafic SL27 dCi 120 Business+ Van,12594.0,2018,1598cc,"79,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Clio,11136.0,2019,1.5L,"14,425 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,2.0,88 bhp,112 mph,11.8 seconds,106 g/km
+renault,Austral,34000.0,2023,1.2L,"2,500 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Kadjar,10182.0,2016,1.2L,"37,028 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Captur,11524.0,2016,1.2L,"33,925 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,127 g/km
+renault,Captur,9840.0,2016,1.5L,"18,261 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,10558.0,2017,1.5L,"55,374 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,103 g/km
+renault,Arkana,24995.0,2022,1.6L,"4,959 miles",Hybrid,Semiauto,Orange,SUV,4X2,4.0,5.0,145 bhp,107 mph,,108 g/km
+renault,Kadjar,13043.0,2019,1.3L,"32,615 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,15499.0,2020,1.3L,"10,239 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,18858.0,2022,1.3L,"7,602 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,122 mph,,132 g/km
+renault,Captur,16459.0,2022,1.6L,"16,122 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,138 bhp,122 mph,,131 g/km
+renault,Captur,11232.0,2018,0.9L,"21,294 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Clio,19280.0,2023,1.6L,"7,060 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,
+renault,Captur,21873.0,2022,1.6L,"4,919 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,108 g/km
+renault,Clio,10590.0,2018,0.9L,"10,431 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Arkana,24995.0,2023,1.6L,"7,929 miles",Hybrid,Semiauto,White,SUV,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Kadjar,13920.0,2020,1.3L,"54,579 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Captur,22990.0,2023,1.6L,11 miles,Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Master,17500.0,2021,2298cc,"53,000 miles",Diesel,Manual,White,Van,4X2,,,150 bhp,97 mph,,
+renault,Trafic,13490.0,2018,1598cc,"86,290 miles",Diesel,Manual,Black,Van,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Master,13950.0,2014,2298cc,"63,000 miles",Diesel,Automatic,Grey,Other,4X2,,,123 bhp,89 mph,24.0 seconds,
+renault,Trafic,14376.0,2017,1598cc,"50,620 miles",Diesel,Manual,WHITE,Other,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Master,25188.0,2022,2298cc,"8,000 miles",Diesel,Manual,WHITE,Other,4X2,,,130 bhp,87 mph,,
+renault,Clio,9990.0,2019,999cc,"34,432 miles",Petrol,Manual,Orange Valencia,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,14995.0,2022,999cc,"9,538 miles",Petrol,Manual,Metallic - Diamond Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,18995.0,2023,1598cc,"4,591 miles",Other,Automatic,Metallic - Titanium Grey,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,96 g/km
+renault,Captur,7995.0,2016,1461cc,"42,000 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,15985.0,2022,999cc,"5,500 miles",Petrol,Manual,Iron Blue,Hatchback,4X2,5.0,5.0,90 bhp,104 mph,,131 g/km
+renault,Clio,10995.0,2016,1618cc,"60,979 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,217 bhp,146 mph,6.6 seconds,135 g/km
+renault,Captur,7295.0,2016,1461cc,"77,925 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,9995.0,2018,1461cc,"89,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Captur,7495.0,2015,1461cc,"69,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,5995.0,2015,1500cc,"39,022 miles",Diesel,Manual,Black,Other,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Grand Scenic,12777.0,2017,1598cc,"21,810 miles",Diesel,Manual,BLUE/BLACK,MPV,4X2,5.0,7.0,128 bhp,118 mph,,119 g/km
+renault,Megane,9295.0,2016,1198cc,"38,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Captur,10990.0,2016,1461cc,"39,500 miles",Diesel,Automatic,BLUE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Clio,10250.0,2016,1461cc,"27,130 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.9 seconds,92 g/km
+renault,Megane,6995.0,2014,1461cc,"38,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Captur,10995.0,2019,1333cc,"48,461 miles",Petrol,Automatic,ORANGE/BLACK,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Clio,3790.0,2012,1149cc,"65,965 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,2995.0,2011,1461cc,"100,057 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,88 bhp,108 mph,13.0 seconds,106 g/km
+renault,Clio,7995.0,2018,898cc,"61,745 miles",Petrol,Manual,RED,Hatchback,,,,,,,
+renault,Clio,5500.0,2015,1149cc,"69,550 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,13750.0,2020,1461cc,"48,000 miles",Diesel,Manual,GREY/BLACK,Hatchback,4X2,5.0,5.0,114 bhp,116 mph,,130 g/km
+renault,Kadjar,16699.0,2020,1332cc,"13,840 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Captur,19870.0,2021,1.6L,"18,989 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,114 g/km
+renault,Clio,12499.0,2021,1L,"27,781 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,9649.0,2017,898cc,"30,293 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Kadjar,14049.0,2017,1461cc,"25,047 miles",Diesel,,Beige,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Trafic,31200.0,2023,2L,6 miles,Diesel,Manual,Black,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,31189.0,2022,2L,"6,810 miles",Diesel,Manual,Grey,van,4X2,,,150 bhp,109 mph,,
+renault,Arkana,19091.0,2021,1.3L,"9,512 miles",Petrol,Semiauto,Black,SUV,4X2,4.0,5.0,138 bhp,127 mph,,131 g/km
+renault,Clio,8499.0,2017,1.2L,"39,282 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,16499.0,2020,1.3L,"6,338 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,8499.0,2017,0.9L,"37,105 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Kadjar,13799.0,2020,1.3L,"9,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Kangoo Maxi 1.5 LL21 CORE DCI 90 BHP,4000.0,2014,1.5L,"161,126 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Kadjar,10100.0,2020,1332cc,"72,697 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Kadjar,12000.0,2020,1332cc,"40,033 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,12000.0,2017,1461cc,"17,812 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,99 g/km
+renault,Megane,7495.0,2014,1461cc,"36,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,109 bhp,118 mph,12.4 seconds,90 g/km
+renault,Kadjar,13450.0,2020,1333cc,"35,984 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Kangoo,5995.0,2010,1600cc,"29,000 miles",Petrol,Automatic,Blue,Other,4X2,5.0,5.0,105 bhp,102 mph,14.3 seconds,
+renault,Master,21600.0,2019,2298cc,"40,486 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,92 mph,,
+renault,Clio,13999.0,2023,999cc,"17,000 miles",Petrol,Manual,Sunkist Orange,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,37990.0,2023,1199cc,"6,798 miles",Other,Automatic,Grey/Black,Hatchback,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Clio,19390.0,2023,1598cc,"2,893 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Kadjar,14145.0,2020,1300cc,"16,785 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,
+renault,Kadjar,12895.0,2020,1330cc,"13,400 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Clio,6750.0,2018,1461cc,"92,564 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,4795.0,2014,899cc,"93,424 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,104 g/km
+renault,Trafic,22194.0,2020,2L,"33,102 miles",Diesel,Manual,Blue,van,4X2,,,120 bhp,103 mph,,
+renault,Kadjar,19199.0,2021,1333cc,"5,076 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,138 bhp,124 mph,,142 g/km
+renault,Captur,10899.0,2018,898cc,"33,492 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Clio,13499.0,2020,999cc,"29,065 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,120 g/km
+renault,Clio,11931.0,2020,1L,"18,769 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,16695.0,2020,1.6L,"14,158 miles",Hybrid,Automatic,Grey,Hatchback,,,,,,,
+renault,Clio,12674.0,2020,1L,"23,283 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,99 g/km
+renault,Clio,13946.0,2021,1L,"12,250 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Kadjar,13405.0,2019,1.3L,"42,371 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Clio,8298.0,2018,1.5L,"55,660 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,14549.0,2021,1.3L,"18,910 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,11239.0,2016,1.5L,"46,294 miles",Diesel,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Kadjar,14999.0,2020,1.3L,"9,735 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Clio,16621.0,2020,1.6L,"19,230 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,99 g/km
+renault,Captur,20000.0,2021,1.6L,"19,554 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,107 mph,10.1 seconds,30 g/km
+renault,Clio,9495.0,2018,0.9L,"29,895 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Trafic Ll29 Dci 115 Business Lwb Double Cab 6 Seat Crew Van Low Roof  (18459),7494.0,2015,1.598L,"133,000 miles",Diesel,Manual,White,Other,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Clio,9450.0,2019,0.9L,"29,833 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Grand Scenic,5495.0,2014,1.5L,"83,300 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,109 bhp,112 mph,13.5 seconds,105 g/km
+renault,Clio,13949.0,999cc,"6,433 miles",Petrol,Manual,Black,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Megane,6490.0,2015,1461cc,"55,875 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Clio,5290.0,2014,1461cc,"97,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Kadjar,13399.0,2020,1.3L,"31,311 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Megane,10086.0,2017,1.5L,"50,940 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,109 bhp,116 mph,,95 g/km
+renault,Megane,11199.0,2019,1.3L,"36,000 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,138 bhp,127 mph,9.8 seconds,124 g/km
+renault,Captur,12609.0,2016,1.5L,"15,313 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Clio,15490.0,999cc,"17,821 miles",Petrol,Manual,White,Hatchback,53.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,12495.0,2019,1333cc,"36,692 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Clio,10700.0,2020,999cc,"43,917 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,119 g/km
+renault,Twingo,2495.0,2008,1149cc,"67,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,60 bhp,96 mph,15.0 seconds,130 g/km
+renault,Captur,12795.0,2016,1461cc,"18,258 miles",Diesel,Automatic,GREY,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Megane,10549.0,2016,1198cc,"18,499 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Captur,12749.0,2020,999cc,"23,401 miles",Petrol,,White,SUV,4X2,5.0,5.0,99 bhp,107 mph,,118 g/km
+renault,Captur,14299.0,2020,1333cc,"32,164 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,9399.0,2019,898cc,"41,373 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,10350.0,2019,0.9L,"27,489 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Kadjar,11695.0,2017,1.6L,"38,114 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Kadjar,14349.0,2020,1.3L,"44,369 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Captur,10695.0,2018,0.9L,"24,071 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,20200.0,2021,1.3L,"4,127 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,138 bhp,121 mph,,135 g/km
+renault,Kadjar,14004.0,2018,1.5L,"11,042 miles",Diesel,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,99 g/km
+renault,Megane,6495.0,2015,1461cc,"87,721 miles",Diesel,Manual,Metallic Silver,Estate,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,93 g/km
+renault,Trafic 28 2.0 BLUEDCI 150 BHP SL SPORT PLUS EDITION ( SAT NAV ),24989.0,2022,2L,"15,000 miles",Diesel,Manual,Grey,Van,4X2,,,150 bhp,109 mph,,
+renault,Clio,6795.0,2015,1461cc,"81,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,16500.0,2021,1.6L,"24,788 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Megane,9500.0,2016,1.2L,"28,579 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Kadjar,12801.0,2020,1.3L,"51,742 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Kadjar,12253.0,2020,1.3L,"46,574 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,12116.0,2020,1.3L,"49,035 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,12306.0,2020,1.3L,"45,648 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,13003.0,2020,1.3L,"47,213 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Kadjar,12286.0,2020,1.3L,"45,988 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,12445.0,2020,1.3L,"43,200 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,12293.0,2020,1.3L,"45,878 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Captur,14468.0,2020,1L,"10,398 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Kadjar,14290.0,2020,1.3L,"16,514 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Megane,17750.0,2021,1.3L,"14,905 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,138 bhp,127 mph,,141 g/km
+renault,Captur,11500.0,2019,0.9L,"22,786 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Trafic,15594.0,2019,1598cc,"68,000 miles",Diesel,Manual,WHITE,Other,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Clio,5695.0,2013,1149cc,"64,516 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Kadjar,10490.0,2017,1598cc,"62,000 miles",Diesel,Manual,RED,Hatchback,,,,,,,
+renault,Laguna,1595.0,2004,1870cc,"108,926 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,121 bhp,124 mph,11.0 seconds,150 g/km
+renault,Clio,9990.0,2019,999cc,"28,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Modus,1795.0,2009,1149cc,"100,000 miles",Petrol,Manual,Beige,MPV,4X2,5.0,5.0,99 bhp,113 mph,11.4 seconds,140 g/km
+renault,Captur,10995.0,2020,898cc,"32,601 miles",Petrol,Manual,RED/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,147 g/km
+renault,Scenic,6750.0,2014,1461cc,"27,500 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,109 bhp,112 mph,12.5 seconds,105 g/km
+renault,Clio,2000.0,2005,1149cc,"105,266 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,75 bhp,106 mph,13.0 seconds,142 g/km
+renault,Koleos,2475.0,2009,2000cc,"112,000 miles",Diesel,Automatic,Grey,Other,4X4,5.0,5.0,150 bhp,107 mph,12.0 seconds,209 g/km
+renault,Captur,8500.0,2015,1461cc,"65,000 miles",Diesel,Manual,BLUE/CREAM,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,11849.0,2020,1333cc,"50,398 miles",Petrol,,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,11599.0,2020,999cc,"27,351 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Captur,13649.0,2020,999cc,"13,825 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Clio,14625.0,2021,1L,"8,011 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Kadjar,13850.0,2019,1.3L,"20,634 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Kadjar,14495.0,2019,1.3L,"36,462 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Captur,16730.0,2020,1.3L,"14,898 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,151 bhp,126 mph,,142 g/km
+renault,Kadjar,16147.0,2020,1.3L,"13,493 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,135 g/km
+renault,Arkana,20000.0,2021,1.6L,"19,903 miles",Hybrid,Semiauto,Grey,SUV,4X2,4.0,5.0,145 bhp,108 mph,,112 g/km
+renault,Arkana,20651.0,2022,1.6L,"6,274 miles",Hybrid,Semiauto,White,SUV,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Captur,10000.0,2019,0.9L,"21,301 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Clio,15242.0,2022,1L,"8,215 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Kadjar,15317.0,2020,1.5L,"18,303 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,136 g/km
+renault,Captur,17500.0,2021,1.3L,"21,230 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,122 mph,,132 g/km
+renault,Captur,13995.0,2020,1.3L,"6,632 miles",Petrol,Manual,Hatchback,42.8 mpg,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Kadjar,9495.0,2017,1197cc,"63,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,126 g/km
+renault,Master,32388.0,2023,2.3L,5 miles,Diesel,Manual,White,van,4X2,,,135 bhp,94 mph,,
+renault,Trafic,33000.0,2023,2L,100 miles,Diesel,Automatic,Grey,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,28798.0,2023,2L,10 miles,Diesel,Manual,White,van,4X2,,,130 bhp,103 mph,,
+renault,Clio,23995.0,2023,1.6L,10 miles,Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Kadjar,16390.0,2019,1.3L,"23,186 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Captur,10980.0,2020,1L,"35,920 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,118 g/km
+renault,Clio,11899.0,2021,1L,"45,834 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,118 g/km
+renault,Kadjar,15573.0,2020,1.5L,"32,317 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,136 g/km
+renault,Captur,10631.0,2017,1.2L,"27,621 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,117 bhp,113 mph,,125 g/km
+renault,Captur,10995.0,2019,0.9L,"34,717 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,22999.0,2023,1.6L,"3,000 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,106 g/km
+renault,Captur,20000.0,2022,1.6L,"16,704 miles",Petrol,Automatic,Other,SUV,4X2,5.0,5.0,138 bhp,121 mph,,135 g/km
+renault,Clio,14579.0,2022,1L,"7,784 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,14000.0,2021,1L,"18,290 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Captur,14599.0,2021,1L,"15,470 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Arkana,19500.0,2021,1.6L,"23,307 miles",Hybrid,Semiauto,Grey,SUV,4X2,4.0,5.0,145 bhp,108 mph,,110 g/km
+renault,Captur,16899.0,2021,1.3L,"7,617 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,138 bhp,121 mph,,134 g/km
+renault,Kadjar,13600.0,2020,1.3L,"44,735 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Clio,11480.0,0L,"23,469 miles",Petrol,Manual,Celadon Blue,Hatchback,49.6 mpg,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,13989.0,2021,1L,"5,669 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Kadjar,8100.0,2018,1461cc,"92,040 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Kadjar,14900.0,2020,1332cc,"19,656 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Trafic,35990.0,2020,1997cc,"19,681 miles",Diesel,Automatic,GREY,Other,4X2,5.0,9.0,168 bhp,111 mph,,
+renault,Master,19950.0,2016,2298cc,"59,200 miles",Diesel,Manual,Black,Other,4X2,,,123 bhp,82 mph,,
+renault,Captur,8000.0,2014,1461cc,"51,487 miles",Diesel,Manual,BEIGE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,4995.0,2015,1461cc,"107,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Megane,7750.0,2018,1461cc,"100,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Zoe,4995.0,2013,0L,"48,000 miles",Other,Automatic,Blue,Hatchback,4X2,5.0,5.0,88 bhp,84 mph,13.5 seconds,0 g/km
+renault,Twingo,5995.0,2015,898cc,"59,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Clio,14995.0,2019,1333cc,"20,552 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,118 g/km
+renault,Clio,7240.0,2014,899cc,"37,959 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Twingo,5790.0,2015,999cc,"38,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,14.5 seconds,105 g/km
+renault,Trafic,40798.0,2023,2L,"2,500 miles",Diesel,Automatic,Grey,van,4X2,,,170 bhp,115 mph,,
+renault,Clio,13199.0,2019,999cc,"19,532 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,9999.0,2019,898cc,"24,838 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Captur,9199.0,2017,1461cc,"48,679 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Clio,10000.0,2019,0.9L,"17,074 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Kadjar,13878.0,2019,1.3L,"35,729 miles",Petrol,Manual,Grey,SUV,,,,,,,
+renault,Captur,16160.0,2022,1L,"9,457 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Clio,12275.0,2020,1L,"14,797 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,22999.0,2023,1.6L,"1,753 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Captur,15290.0,2020,1.3L,"11,323 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,13000.0,2021,1L,"15,429 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,10618.0,2018,0.9L,"16,122 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Trafic LL30 BUSINESS+ ENERGY EURO 6 2.0DCI 145ps LWB *AIRCON*EL/PACK*AUTO LIGHTS*,20490.0,2021,2L,"17,500 miles",Diesel,Manual,White,Van,4X2,,,143 bhp,109 mph,,
+renault,Trafic,40798.0,2023,2L,"2,533 miles",Diesel,Automatic,Red,van,4X2,,,170 bhp,115 mph,,
+renault,Kadjar,10000.0,2019,1461cc,"91,060 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,114 g/km
+renault,Captur,30999.0,2023,1.6L,"1,000 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Trafic,12950.0,2020,1997cc,"88,930 miles",Diesel,Manual,White,Van,4X2,,,143 bhp,109 mph,,
+renault,Trafic,10999.0,2018,1598cc,"114,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,20999.0,2020,1997cc,"30,000 miles",Diesel,Manual,Grey,Van,,,,,,,
+renault,Kangoo,11994.0,2019,1461cc,"76,123 miles",Diesel,Manual,BLUE,Other,4X2,,,107 bhp,106 mph,12.3 seconds,
+renault,Captur,7291.0,2015,1461cc,"80,236 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,7995.0,2017,1500cc,"56,815 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,16950.0,2021,999cc,"11,200 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,90 bhp,104 mph,,135 g/km
+renault,Megane,14580.0,2020,1461cc,"70,104 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,114 bhp,121 mph,,130 g/km
+renault,Captur,6990.0,2015,898cc,"63,448 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Clio,8280.0,2015,899cc,"27,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Clio,7980.0,2016,1149cc,"28,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Clio,4995.0,2015,1149cc,"81,185 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Megane,4999.0,2014,1598cc,"94,205 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,129 bhp,124 mph,10.1 seconds,104 g/km
+renault,Captur,9900.0,2019,1461cc,"62,747 miles",Diesel,Manual,GREY/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Kadjar,18959.0,2020,1332cc,"25,666 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,153 g/km
+renault,Captur,7795.0,2017,1461cc,"96,978 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,13895.0,2020,999cc,"15,255 miles",Petrol,Manual,Metallic - Arctic White With Diamond Black Roof,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Koleos,14299.0,2017,1995cc,"54,607 miles",Diesel,,Grey,SUV,4X4,5.0,5.0,177 bhp,125 mph,9.5 seconds,156 g/km
+renault,Clio,12049.0,2020,999cc,"22,609 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Twingo,7349.0,2017,898cc,"40,140 miles",Petrol,,Orange,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Captur,10236.0,2019,1.5L,"36,900 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Captur,10600.0,2019,0.9L,"24,450 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,12000.0,2020,1L,"28,282 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Captur,14063.0,2020,1.5L,"26,432 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,94 bhp,110 mph,,125 g/km
+renault,Captur,10199.0,2017,1.5L,"40,327 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Kadjar,14093.0,2019,1.3L,"20,525 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Arkana,24300.0,2022,1.6L,"5,984 miles",Hybrid,Semiauto,Red,SUV,4X2,4.0,5.0,145 bhp,107 mph,,108 g/km
+renault,Kadjar,11895.0,2017,1.5L,"31,251 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Clio,11308.0,2020,1L,"20,778 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,16555.0,2021,1.6L,"16,507 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,99 g/km
+renault,Arkana,23930.0,2022,1.6L,"14,363 miles",Hybrid,Semiauto,White,SUV,4X2,4.0,5.0,145 bhp,107 mph,,111 g/km
+renault,Scenic,16135.0,2019,1.3L,"16,028 miles",Petrol,Automatic,Other,MPV,4X2,5.0,5.0,138 bhp,122 mph,9.6 seconds,131 g/km
+renault,Clio,12714.0,2020,1L,"5,838 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,18498.0,0L,"4,999 miles",Petrol,Manual,Valencia Orange,Hatchback,53.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Clio,11795.0,2019,999.0cc,"11,902 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,122 g/km
+renault,Captur,15999.0,2020,1333cc,"11,601 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,16150.0,2021,1461cc,"15,100 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,136 g/km
+renault,Trafic,11500.0,2018,1598cc,"92,415 miles",Diesel,Manual,GREY,Other,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Trafic,14750.0,2015,1598cc,"86,719 miles",Diesel,Manual,SILVER,Other,4X2,5.0,5.0,113 bhp,104 mph,12.4 seconds,
+renault,Zoe,7980.0,2015,0L,"29,500 miles",Other,Automatic,White,Hatchback,4X2,5.0,5.0,91 bhp,84 mph,13.5 seconds,0 g/km
+renault,Clio,3750.0,2012,1149cc,"55,600 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Captur,10995.0,2017,898cc,"8,119 miles",Petrol,Manual,ORANGE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Clio,4450.0,2013,1149cc,"92,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,15499.0,2019,1333cc,"21,212 miles",Petrol,Automatic,BLUE/BLACK,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Kadjar,6795.0,2017,1461cc,"112,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Captur,8995.0,2015,1461cc,"29,000 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kangoo,12300.0,2019,1.5L,"36,741 miles",Diesel,Manual,White,van,,,,,,,
+renault,Clio,10899.0,2019,898cc,"15,639 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Captur,14900.0,2020,1.5L,"32,468 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,114 bhp,116 mph,,127 g/km
+renault,Clio,12150.0,2020,1L,"34,988 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Captur,9499.0,2019,1.5L,"34,716 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,
+renault,Megane,11800.0,2018,1.3L,"22,980 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,125 g/km
+renault,Clio,15743.0,2021,1.6L,"15,925 miles",Hybrid,Semiauto,Silver,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,99 g/km
+renault,Captur,11290.0,2019,0.9L,"25,728 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,18500.0,2021,1.3L,"5,050 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,122 mph,,
+renault,Captur,14314.0,2020,1L,"20,122 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,120 g/km
+renault,Megane,10400.0,2019,1.5L,"26,433 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,118 mph,11.1 seconds,101 g/km
+renault,Clio,7995.0,2018,1461cc,"82,330 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,2.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Clio,6499.0,2014,1149cc,"60,820 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Megane,13480.0,2019,1332cc,"27,304 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,132 g/km
+renault,Trafic 1.6 SL27 BUSINESS PLUS DCI 120 BHP,14250.0,2019,1.6L,"51,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Captur,10500.0,2019,1461cc,"48,540 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,112 g/km
+renault,Clio,4200.0,2014,898cc,"116,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,104 g/km
+renault,Clio,9712.0,2018,0.9L,"26,358 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Captur,11600.0,2019,0.9L,"13,703 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Clio,14120.0,0L,"7,328 miles",Petrol,Manual,Diamond Black,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,13094.0,2021,1L,"10,689 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,118 g/km
+renault,Trafic,8999.0,2017,1598cc,"83,459 miles",Diesel,Manual,White,Van,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Trafic,12499.0,2018,1598cc,"74,444 miles",Diesel,Manual,Silver,Van,,,,,,,
+renault,Trafic,9995.0,2016,1598cc,"107,000 miles",Diesel,Manual,Black,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,24000.0,2020,1997cc,"37,804 miles",Diesel,Automatic,Blue,Van,4X2,,,168 bhp,111 mph,,
+renault,Master,12695.0,2015,2299cc,"82,707 miles",Diesel,Manual,White,Van,,,,,,,
+renault,Trafic,10995.0,2019,1598cc,"87,467 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,10995.0,2019,1598cc,"87,467 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,24995.0,2023,0L,10 miles,Diesel,Manual,White,Van,,,,,,,
+renault,Trafic,17995.0,2020,1997cc,"75,000 miles",Diesel,Manual,Silver,Van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,21995.0,2022,1997cc,"13,021 miles",Diesel,Manual,White,Van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,34794.0,2022,1997cc,"8,143 miles",Diesel,Manual,GREY,Other,4X2,,,150 bhp,109 mph,,
+renault,Trafic,34794.0,2022,1997cc,"13,607 miles",Diesel,Manual,GREY,Other,4X2,,,150 bhp,109 mph,,
+renault,Trafic,28794.0,2021,1997cc,"20,870 miles",Diesel,Manual,SILVER,Other,4X2,,,143 bhp,109 mph,,
+renault,Captur,11685.0,2015,1197cc,"19,382 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.9 seconds,125 g/km
+renault,Clio,6795.0,2016,1149cc,"52,924 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Megane,12750.0,2019,1461cc,"65,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,118 mph,11.1 seconds,101 g/km
+renault,Scenic,11750.0,2017,1198cc,"24,000 miles",Petrol,Manual,Grey/Black,MPV,4X2,5.0,5.0,114 bhp,115 mph,,129 g/km
+renault,Clio,5895.0,2014,1461cc,"69,570 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,15490.0,2020,1333cc,"29,858 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Captur,12795.0,2019,898cc,"27,819 miles",Petrol,Manual,Flame Red/Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kadjar,7890.0,2016,1461cc,"80,366 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Clio,12799.0,2020,999cc,"10,429 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,6950.0,2014,1149cc,"42,485 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Megane,9995.0,2016,1197cc,"33,631 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Captur,9495.0,2018,1461cc,"61,106 miles",Diesel,Manual,Grey/Black,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Clio,8695.0,2017,1461cc,"35,000 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,8950.0,2016,898cc,"43,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Clio,12500.0,2020,1461cc,"36,500 miles",Diesel,Manual,Orange,Hatchback,4X2,5.0,5.0,84 bhp,122 mph,14.7 seconds,94 g/km
+renault,Megane,2500.0,2010,1461cc,"142,000 miles",Diesel,Manual,Orange,Hatchback,4X2,3.0,5.0,106 bhp,118 mph,10.5 seconds,120 g/km
+renault,Clio,5450.0,2014,1461cc,"120,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,9995.0,2017,1500cc,"40,684 miles",Diesel,Manual,Cream And Black,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,7450.0,2015,898cc,"59,376 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Kangoo,4295.0,2005,1461cc,"21,451 miles",Diesel,Manual,RED,MPV,4X2,5.0,5.0,80 bhp,96 mph,12.5 seconds,139 g/km
+renault,Kadjar,11985.0,2017,1461cc,"29,366 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,99 g/km
+renault,Captur,10999.0,2018,898cc,"34,873 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,13999.0,2020,999cc,"24,514 miles",Petrol,Manual,ORANGE/BLACK,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Captur,11495.0,2019,1461cc,"31,859 miles",Diesel,Manual,Grey/Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Captur,9745.0,2018,898cc,"27,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Clio,10995.0,2021,999cc,"38,234 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,122 g/km
+renault,Grand Scenic,3995.0,2014,1598cc,"125,500 miles",Diesel,Manual,GREY,MPV,4X2,5.0,7.0,129 bhp,121 mph,11.1 seconds,114 g/km
+renault,Kadjar,9395.0,2016,1461cc,"76,007 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Captur,10995.0,2018,900cc,"49,856 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Clio,13290.0,2020,999cc,"29,563 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Kadjar,12495.0,2018,1461cc,"44,169 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Clio,6595.0,2015,1461cc,"84,315 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,15975.0,2022,1L,"11,395 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,20788.0,2021,1.6L,"11,821 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,107 mph,10.1 seconds,33 g/km
+renault,Clio,8295.0,2016,1.5L,"46,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Kadjar,13995.0,2019,1.3L,"24,593 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,127 g/km
+renault,Clio,8795.0,2018,0.9L,"36,822 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Kadjar,10607.0,2016,1.2L,"43,370 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Clio,10995.0,2019,0.9L,"22,832 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Clio,9500.0,2018,0.9L,"33,109 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Kadjar,14299.0,2019,1332cc,"28,559 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,127 g/km
+renault,Trafic,12900.0,2019,1598cc,"61,376 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Master,22490.0,2021,2298cc,"9,237 miles",Diesel,Manual,White,Van,4X2,,,150 bhp,97 mph,,
+renault,Trafic,11450.0,2019,1598cc,"86,550 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,13995.0,2019,1598cc,"87,000 miles",Diesel,Manual,Silver,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,11995.0,2018,1598cc,"103,000 miles",Diesel,Manual,Red,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Master,19500.0,2020,2298cc,"59,231 miles",Diesel,Manual,White,Van,4X2,,,135 bhp,94 mph,,
+renault,Master,19850.0,2019,2298cc,"57,012 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,,
+renault,Master,16000.0,2018,2299cc,"74,332 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,,
+renault,Kangoo,17495.0,2023,1461cc,"8,669 miles",Diesel,Manual,Solid - Mineral White,Van,4X2,,,94 bhp,102 mph,,
+renault,Kangoo,17995.0,2023,1461cc,"10,021 miles",Diesel,Manual,Solid - Mineral White,Van,4X2,,,94 bhp,102 mph,,
+renault,Kangoo,18995.0,2023,1461cc,"5,093 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,102 mph,,
+renault,Clio,11495.0,2020,1461cc,"45,292 miles",Diesel,Manual,Diamond Black,Hatchback,4X2,5.0,5.0,84 bhp,122 mph,14.7 seconds,110 g/km
+renault,Captur,13995.0,2021,1333cc,"38,790 miles",Petrol,Manual,Flame Red,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,6795.0,2014,1461cc,"71,000 miles",Diesel,Manual,Cream/Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,6995.0,2015,1461cc,"53,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,12790.0,2020,999cc,"29,174 miles",Petrol,Manual,White/Black,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,118 g/km
+renault,Clio,13777.0,2020,999cc,"13,669 miles",Petrol,Manual,Celadon Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Clio,12785.0,2021,999cc,"34,199 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,10485.0,2020,999cc,"19,159 miles",Petrol,Manual,Iron Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Captur,8860.0,2016,898cc,"46,345 miles",Petrol,Manual,Flame Red,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,121 g/km
+renault,Clio,4995.0,2013,899cc,"75,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Megane,2495.0,2010,1461cc,"89,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,106 bhp,118 mph,10.5 seconds,120 g/km
+renault,Clio,4995.0,2015,1461cc,"84,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Kadjar,11495.0,2018,1461cc,"62,662 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Captur,6995.0,2015,1461cc,"77,239 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,7995.0,2014,1.5L,"89,901 miles",Diesel,Semi Automatic,Hatchback,72.4 mpg,,,,,,,
+renault,Captur,12495.0,2020,898cc,"13,000 miles",Petrol,Manual,Blue/Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Clio,7870.0,2018,1461cc,"87,513 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,14250.0,2020,1333cc,"24,247 miles",Petrol,Manual,Red/Black,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Captur,19485.0,2022,999cc,"2,509 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Clio,8995.0,2017,1149cc,"23,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,6495.0,2014,1149cc,"46,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,16990.0,2021,1333cc,"19,223 miles",Petrol,Automatic,Atacama Orange,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,7950.0,2016,1461cc,"41,684 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Kadjar,10490.0,2018,1198cc,"56,746 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,132 g/km
+renault,Captur,12495.0,2021,1333cc,"40,933 miles",Petrol,Manual,Blue/Black,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,12495.0,2019,999cc,"26,351 miles",Petrol,Manual,Metallic - Diamond Black,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,13495.0,2020,999cc,"15,084 miles",Petrol,Manual,Renault Id - Flame Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Captur,14395.0,2021,999cc,"9,492 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Kadjar,13995.0,2019,1461cc,"35,865 miles",Diesel,Manual,Green,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,114 g/km
+renault,Clio,3450.0,2012,1149cc,"57,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,5750.0,2015,1149cc,"32,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,5450.0,2015,1149cc,"51,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Trafic SL28 ENERGY dCi 145 Sport Nav Van,12490.0,2020,1997cc,"123,000 miles",Diesel,Manual,Silver,VAN,4X2,,,143 bhp,108 mph,,
+renault,Captur,11990.0,2016,1461cc,"25,000 miles",Diesel,Automatic,Red,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,103 g/km
+renault,Megane,5750.0,2013,1598cc,"47,489 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,110 bhp,118 mph,10.5 seconds,159 g/km
+renault,Captur,13736.0,2020,1.5L,"21,274 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,110 mph,,125 g/km
+renault,Clio,13995.0,0L,"27,141 miles",Petrol,Automatic,Valencia Orange,Hatchback,45.6 mpg,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,118 g/km
+renault,Trafic LL30 BUSINESS ENERGY 1.6 DCI 120 EURO 6 BLUETOOTH LWB,15475.0,2020,2L,"58,941 miles",Diesel,Manual,White,Van,4X2,,,120 bhp,103 mph,,
+renault,Captur,11058.0,2018,1.5L,"77,904 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Kangoo,7788.0,2016,1461cc,"92,000 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Kangoo,4450.0,2017,1461cc,"89,895 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Trafic,13950.0,2020,1997cc,"72,924 miles",Diesel,Manual,White,Van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,12600.0,2019,1598cc,"114,000 miles",Diesel,Manual,WHITE,Other,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Captur,7490.0,2016,898cc,"64,497 miles",Petrol,Manual,CREAM/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Captur,8394.0,2018,1461cc,"110,640 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Clio,3199.0,2009,1149cc,"45,894 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,5.0,74 bhp,104 mph,13.4 seconds,139 g/km
+renault,Megane,7995.0,2015,1598cc,"60,906 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,129 bhp,124 mph,10.1 seconds,104 g/km
+renault,Clio,8395.0,2016,898cc,"32,180 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,104 g/km
+renault,Twingo,5795.0,2018,0L,"66,000 miles",Petrol,Manual,GREY,Hatchback,,,,,,,
+renault,Clio,11109.0,2020,1L,"13,269 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Kadjar,13499.0,2019,1.3L,"52,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,135 g/km
+renault,Clio,3499.0,2011,1461cc,"129,665 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,88 bhp,108 mph,13.0 seconds,106 g/km
+renault,Clio,9600.0,2019,898cc,"40,030 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,114 g/km
+renault,Megane,8695.0,2020,1461cc,"89,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,103 g/km
+renault,Arkana,23195.0,1598cc,"19,492 miles",Petrol,Automatic,White,SUV,56.5 mpg,4X2,4.0,5.0,145 bhp,107 mph,,109 g/km
+renault,Arkana,24595.0,1598cc,"14,180 miles",Petrol,Automatic,Orange,SUV,56.5 mpg,4X2,4.0,5.0,145 bhp,107 mph,,109 g/km
+renault,Kadjar,12540.0,0L,"13,124 miles",Petrol,Manual,BEIGE,SUV,48.7 mpg,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Clio,15436.0,0L,"9,687 miles",Petrol,Manual,Titanium Grey,Hatchback,53.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,14866.0,0L,"23,445 miles",Petrol,Manual,Diamond Black,Hatchback,53.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,9750.0,2019,1461cc,"78,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.8 seconds,106 g/km
+renault,Trafic,28198.0,2022,2L,"23,088 miles",Diesel,Manual,Grey,van,4X2,,,150 bhp,109 mph,,
+renault,Captur,8880.0,2016,0.9L,"31,376 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Captur,14292.0,2021,1L,"22,504 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,134 g/km
+renault,Captur,20499.0,2023,1L,494 miles,Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Captur,12450.0,2019,0.9L,"22,333 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Megane,12490.0,2020,1461cc,"38,864 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,119 g/km
+renault,Clio,12150.0,2021,999cc,"39,199 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,118 g/km
+renault,Trafic,13750.0,2019,1598cc,"118,000 miles",Diesel,Manual,Grey,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,11995.0,2017,1598cc,"60,000 miles",Diesel,Manual,White,Van,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Kangoo,13080.0,2019,1461cc,"21,688 miles",Diesel,Manual,WHITE,Other,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Master,4495.0,2013,2298cc,"199,951 miles",Diesel,Manual,White,Van,4X2,,,125 bhp,82 mph,0 seconds,
+renault,Megane,8600.0,2017,1598cc,"61,500 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,123 mph,10.0 seconds,103 g/km
+renault,Grand Scenic,15695.0,2019,1749cc,"26,975 miles",Diesel,Manual,Metallic - Sky Blue,Estate,4X2,5.0,7.0,118 bhp,120 mph,12.1 seconds,126 g/km
+renault,Captur,12195.0,2021,1333cc,"44,291 miles",Petrol,Manual,Iron Blue,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,11995.0,2021,1333cc,"46,770 miles",Petrol,Manual,Desert Orange,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12195.0,2021,1333cc,"44,450 miles",Petrol,Manual,Flame Red,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,6795.0,2013,1461cc,"20,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,7950.0,2015,1461cc,"57,407 miles",Diesel,Manual,Cream,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,99 g/km
+renault,Modus,3995.0,2008,1598cc,"60,000 miles",Petrol,Automatic,Beige,MPV,4X2,5.0,5.0,110 bhp,114 mph,12.5 seconds,179 g/km
+renault,Modus,5495.0,2011,1149cc,"13,700 miles",Petrol,Manual,Black,MPV,4X2,5.0,5.0,101 bhp,113 mph,11.4 seconds,139 g/km
+renault,Captur,6995.0,2014,1461cc,"51,550 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,4500.0,2013,1149cc,"62,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Megane,4295.0,2014,1461cc,"100,850 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Clio,7988.0,2016,898cc,"47,244 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,105 g/km
+renault,Kadjar,13750.0,2020,1330cc,"14,138 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Kadjar,12995.0,2019,1330cc,"20,141 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Clio,11640.0,2020,999cc,"85,526 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,121 g/km
+renault,Clio,13188.0,2020,999cc,"57,524 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Clio,6495.0,2015,1149cc,"64,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Kadjar,9399.0,2017,1461cc,"65,780 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Captur,12490.0,2016,1197cc,"36,786 miles",Petrol,Automatic,BROWN/BLACK,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,125 g/km
+renault,Zoe,12950.0,2020,1L,"12,000 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,87 mph,9.5 seconds,0 g/km
+renault,Captur,5999.0,2014,1461cc,"75,317 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,9495.0,2015,1197cc,"65,590 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,125 g/km
+renault,Clio,8495.0,2017,1461cc,"55,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,8990.0,2018,898cc,"38,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Koleos,18499.0,2019,1995cc,"28,400 miles",Diesel,Automatic,SILVER,Hatchback,4X4,5.0,5.0,174 bhp,128 mph,10.2 seconds,168 g/km
+renault,Kadjar,12499.0,2019,1330cc,"30,700 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,138 bhp,121 mph,,136 g/km
+renault,Megane,14499.0,2020,1330cc,"23,500 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,138 bhp,127 mph,9.8 seconds,150 g/km
+renault,Clio,10499.0,2019,898cc,"28,151 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Kadjar,13499.0,2019,1461cc,"44,616 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,114 g/km
+renault,Captur,13199.0,2019,1333cc,"27,573 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Clio,8099.0,2016,1149cc,"32,809 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Clio,11549.0,2019,898cc,"15,939 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,6895.0,2016,1.5L,"95,000 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,109 bhp,109 mph,11.0 seconds,101 g/km
+renault,Kadjar,13998.0,2019,1.3L,"29,365 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Arkana,21799.0,2022,1.6L,"23,200 miles",Hybrid,Semiauto,Orange,SUV,4X2,4.0,5.0,145 bhp,107 mph,,109 g/km
+renault,Kadjar,16495.0,2019,1.3L,"25,855 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Clio,16150.0,2020,1.3L,"13,700 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,131 g/km
+renault,Captur,11695.0,2019,0.9L,"27,123 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,17000.0,2020,1.3L,"15,442 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Kadjar,9990.0,2016,1598cc,"75,725 miles",Diesel,Manual,Arctic White,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Master 2.3 LL35 BUSINESS DCI 130 BHP L3 LWB 3.5 16FT AMS BEAVERTAIL CAR TRANSPORTER RECOVERY,15750.0,2019,2.29L,"146,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,,
+renault,Kadjar,12000.0,2019,1332cc,"55,905 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,7895.0,2016,1461cc,"73,400 miles",Diesel,Manual,Multicolour,SUV,4X2,5.0,5.0,109 bhp,109 mph,11.0 seconds,98 g/km
+renault,Clio,8495.0,2017,1149cc,"45,724 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,11884.0,2020,1L,"15,292 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Kadjar,15250.0,2019,1.3L,"22,332 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,24793.0,2023,1.6L,"2,834 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Kadjar,9690.0,2016,1.6L,"51,333 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Captur,16095.0,2021,1L,"11,418 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,141 g/km
+renault,Captur,11000.0,2020,898cc,"34,355 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Trafic SWB L1H1 Sl28 Sport Energy Alloys Air Con Sensors Cruise EURO 6 National Delivery Available,20994.0,2020,1997cc,"23,756 miles",Diesel,Manual,Black,van,4X2,,,143 bhp,108 mph,,
+renault,Trafic LWB L2H1 Ll30 Business Plus Air Con Dci Side Door EURO 6 National Delivery Available,22994.0,2022,1997cc,"6,070 miles",Diesel,Manual,White,van,4X2,,,130 bhp,109 mph,,
+renault,Captur,15399.0,2021,1L,"8,633 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Trafic,23895.0,2023,1997cc,12 miles,Diesel,Manual,Solid - Glacier White,Van,4X2,,,130 bhp,103 mph,,
+renault,Kangoo,2950.0,2012,1461cc,"121,000 miles",Diesel,Manual,White,Van,4X2,,,90 bhp,98 mph,15.0 seconds,
+renault,Kangoo,5495.0,2014,1500cc,"97,773 miles",Diesel,Manual,White,Other,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Kangoo,8985.0,2019,1461cc,"71,325 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Kangoo,5500.0,2016,1461cc,"111,600 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Trafic,12995.0,2017,1598cc,"49,000 miles",Diesel,Manual,WHITE,Other,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Clio,2875.0,2010,1149cc,"77,600 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,74 bhp,104 mph,13.4 seconds,139 g/km
+renault,Scenic,2995.0,2012,1598cc,"133,490 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,130 bhp,121 mph,10.3 seconds,114 g/km
+renault,Clio,5699.0,2014,1149cc,"66,945 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,12500.0,2021,1333cc,"42,399 miles",Petrol,Manual,Blue/Black,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12995.0,2018,1461cc,"29,363 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Captur,7495.0,2016,1461cc,"54,045 miles",Diesel,Manual,Grey/Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,14950.0,2020,1749cc,"39,300 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,150 bhp,123 mph,,142 g/km
+renault,Kadjar,15495.0,2020,1300cc,"25,814 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Captur,10295.0,2016,1461cc,"13,188 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,109 bhp,109 mph,11.0 seconds,98 g/km
+renault,Twingo,5450.0,2016,898cc,"62,590 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Captur,9999.0,2016,1461cc,"59,752 miles",Diesel,Automatic,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Captur,5295.0,2013,1461cc,"94,862 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,11490.0,2018,898cc,"12,000 miles",Petrol,Manual,RED/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Clio,10890.0,2018,1461cc,"47,450 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Kadjar,8595.0,2015,1598cc,"77,954 miles",Diesel,Manual,RED,Hatchback,4X4,5.0,5.0,129 bhp,118 mph,10.5 seconds,129 g/km
+renault,Captur,11495.0,2019,1461cc,"41,063 miles",Diesel,Manual,WHITE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Captur,7599.0,2014,1461cc,"43,099 miles",Diesel,Manual,BLUE/CREAM,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,6249.0,2016,898cc,"88,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,105 g/km
+renault,Clio,6795.0,2014,1149cc,"35,392 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,9990.0,2015,1461cc,"60,000 miles",Diesel,Automatic,RED/CREAM,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,103 g/km
+renault,Captur,11494.0,2015,1197cc,"34,431 miles",Petrol,Automatic,RED/BLACK,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,127 g/km
+renault,Twingo,7145.0,2015,898cc,"40,127 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Captur,6795.0,2014,1461cc,"62,000 miles",Diesel,Manual,CREAM/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,12000.0,2016,1461cc,"62,100 miles",Diesel,Automatic,RED,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Clio,12839.0,2019,898cc,"40,993 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,10699.0,2019,898cc,"37,470 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Trafic,28438.0,2023,2L,10 miles,Diesel,Manual,White,van,4X2,,,130 bhp,103 mph,,
+renault,Clio,10499.0,2021,1L,"29,700 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,10899.0,2020,1L,"36,000 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+renault,Captur,9499.0,2018,1.2L,"49,562 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,117 bhp,113 mph,,125 g/km
+renault,Clio,8982.0,2019,0.9L,"39,868 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Trafic SL28 ENERGY dCi 170 Sport Nav Van,17495.0,2020,1997cc,"56,000 miles",Diesel,Manual,Blue,Van,4X2,,,168 bhp,111 mph,,
+renault,Clio,7795.0,2015,1461cc,"55,950 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.9 seconds,95 g/km
+renault,Clio,2999.0,2012,1149cc,"87,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,15280.0,999cc,"5,926 miles",Petrol,Manual,White,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,19290.0,1598cc,"17,666 miles",Petrol,Automatic,Black,SUV,2.5 mpg,4X2,5.0,5.0,141 bhp,112 mph,,110 g/km
+renault,Kadjar,13422.0,2019,1.3L,"34,473 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Captur,14495.0,2020,1L,"14,495 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Scenic,11600.0,2018,1.5L,"33,190 miles",Diesel,Manual,Other,MPV,4X2,5.0,5.0,109 bhp,112 mph,,94 g/km
+renault,Trafic,12500.0,2019,1598cc,"51,900 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Master,14388.0,2017,2298cc,"57,000 miles",Diesel,Manual,WHITE,Other,4X2,,,143 bhp,95 mph,,
+renault,Trafic,14394.0,2019,1598cc,"69,736 miles",Diesel,Manual,SILVER,Other,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Trafic,29400.0,2023,1997cc,"10,235 miles",Diesel,Manual,WHITE,Other,4X2,,,130 bhp,109 mph,,
+renault,Clio,13990.0,2020,999cc,"13,302 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,17995.0,2023,999cc,10 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,9650.0,2017,1461cc,"33,117 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,12550.0,2020,999cc,"15,194 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Clio,6995.0,2016,1461cc,"75,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,6490.0,2015,1461cc,"67,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,10599.0,2016,1198cc,"30,688 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,123 g/km
+renault,Clio,6500.0,2017,1197cc,"86,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,117 bhp,124 mph,9.0 seconds,118 g/km
+renault,Megane,5495.0,2015,1461cc,"104,100 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,110 g/km
+renault,Grand Scenic,4795.0,2014,1461cc,"94,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,109 bhp,112 mph,13.5 seconds,105 g/km
+renault,Clio,12995.0,2019,1461cc,"18,000 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,11.8 seconds,107 g/km
+renault,Captur,12350.0,2017,1197cc,"8,539 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,125 g/km
+renault,Kadjar,8990.0,2016,1461cc,"63,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Grand Scenic,15849.0,2018,1461cc,"27,404 miles",Diesel,,Black,MPV,4X2,5.0,7.0,109 bhp,114 mph,,104 g/km
+renault,Kangoo,4995.0,2016,1461cc,"110,256 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Kangoo,5795.0,2015,1461cc,"81,000 miles",Diesel,Manual,WHITE,Other,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Trafic,14995.0,2016,1598cc,"52,000 miles",Diesel,Manual,GREY,Other,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Trafic,2490.0,2005,1870cc,"136,728 miles",Diesel,Manual,BEIGE,Other,4X2,,,101 bhp,,,
+renault,Kadjar,16495.0,2020,1461cc,"25,846 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,,115 g/km
+renault,Captur,8390.0,2015,1461cc,"44,953 miles",Diesel,Manual,SILVER,Other,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Scenic,5390.0,2012,1461cc,"42,014 miles",Diesel,Manual,SILVER,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.3 seconds,128 g/km
+renault,Trafic,23138.0,2021,2L,"30,533 miles",Diesel,Manual,White,van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,23331.0,2021,2L,"12,380 miles",Diesel,Manual,White,van,4X2,,,120 bhp,103 mph,,
+renault,Megane,12849.0,2019,1461cc,"26,507 miles",Diesel,,Blue,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,107 g/km
+renault,Kadjar,11399.0,2016,1461cc,"54,425 miles",Diesel,,Red,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Clio,11849.0,2019,999cc,"23,481 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Captur,11599.0,2018,898cc,"31,962 miles",Petrol,,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,121 g/km
+renault,Scenic,12649.0,2016,1600cc,"31,684 miles",Diesel,,Blue,MPV,4X2,5.0,5.0,128 bhp,118 mph,,116 g/km
+renault,Clio,11299.0,2019,898cc,"17,128 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,18699.0,2020,1598cc,"20,610 miles",Hybrid,,Grey,SUV,4X2,5.0,5.0,160 bhp,107 mph,10.1 seconds,35 g/km
+renault,Captur,11199.0,2019,898cc,"25,799 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Clio,9049.0,2019,898cc,"38,553 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Clio,9649.0,2019,898cc,"39,247 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Clio,16049.0,2022,999cc,"16,057 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,11549.0,2019,898cc,"13,561 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,12489.0,2020,1L,"42,850 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Clio,10989.0,2020,1L,"43,630 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Captur,12489.0,2020,1.3L,"49,482 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,145 g/km
+renault,Kadjar,12989.0,2020,1.3L,"42,309 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Captur,10489.0,2019,0.9L,"39,414 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kadjar,13989.0,2020,1.3L,"22,937 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,13989.0,2020,1.3L,"32,244 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,122 g/km
+renault,Captur,10366.0,2018,0.9L,"27,341 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Clio,14500.0,2022,1L,"26,573 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,11490.0,2018,0.9L,"9,510 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,9495.0,2017,1.5L,"50,000 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,17995.0,2023,1L,10 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,16995.0,2023,1L,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,16995.0,2023,1L,500 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,12900.0,2021,1L,"33,200 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,14500.0,2020,1L,"13,606 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Megane,15320.0,2019,1.3L,"8,063 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.2 seconds,130 g/km
+renault,Kadjar,16680.0,2020,1.5L,"23,174 miles",Diesel,Semiauto,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,,135 g/km
+renault,Kadjar,14010.0,2019,1.3L,"15,247 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Clio,17198.0,2022,1.6L,"9,097 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,140 bhp,112 mph,,100 g/km
+renault,Clio,11269.0,2018,1.5L,"23,546 miles",Diesel,Semiauto,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,11.8 seconds,105 g/km
+renault,Kadjar,15860.0,2020,1.3L,"16,691 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Arkana,25528.0,2023,1.6L,"4,677 miles",Hybrid,Semiauto,Grey,SUV,4X2,4.0,5.0,145 bhp,107 mph,,108 g/km
+renault,Captur,20952.0,2022,1.6L,"10,630 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Captur,17212.0,2020,1.3L,"7,242 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Captur,14900.0,2020,1L,"8,199 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Clio,14875.0,2020,1.3L,"17,807 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,118 g/km
+renault,Kadjar,12644.0,2019,1.5L,"43,636 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,113 g/km
+renault,Clio,10735.0,2020,1L,"12,506 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Captur,9568.0,2017,0.9L,"24,203 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Koleos,23490.0,2020,2L,"7,628 miles",Diesel,Automatic,Beige,SUV,4X4,5.0,5.0,188 bhp,123 mph,10.1 seconds,150 g/km
+renault,Clio,12299.0,2020,1L,"15,858 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Twingo,4990.0,2015,999cc,"40,123 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,16.0 seconds,95 g/km
+renault,Captur,6995.0,2015,898cc,"58,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Megane,10999.0,2020,1.5L,"61,943 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,119 g/km
+renault,Trafic 2.7T 1.6 SL27 ENERGY DCI 125 BHP SPORT NAV ( NO VAT ! ),16989.0,2017,1.6L,"59,000 miles",Diesel,Manual,Blue,Van,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Megane,7500.0,2017,1461cc,"100,090 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,109 bhp,116 mph,,95 g/km
+renault,Captur,7250.0,2014,1461cc,"52,297 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,11499.0,2019,1.3L,"28,895 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Clio,11600.0,2019,1L,"25,745 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Scenic,12380.0,2017,1.2L,"33,201 miles",Petrol,Manual,Other,MPV,4X2,5.0,5.0,129 bhp,118 mph,,129 g/km
+renault,Kadjar,13750.0,2019,1.3L,"25,346 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,127 g/km
+renault,Captur,10240.0,2018,1.5L,"34,974 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,109 bhp,109 mph,,101 g/km
+renault,Clio,18188.0,2022,1.6L,"10,085 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Kadjar,16925.0,2020,1.3L,"19,583 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Captur,10479.0,2017,0.9L,"19,745 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Arkana,22290.0,2022,1.6L,"13,492 miles",Hybrid,Semiauto,Blue,SUV,4X2,4.0,5.0,145 bhp,108 mph,,109 g/km
+renault,Clio,16758.0,2022,1L,"3,509 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,10185.0,2020,0.9L,"22,889 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,11690.0,2020,1L,"17,065 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Kadjar,10989.0,2019,1.3L,"64,126 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Clio,17940.0,2023,1L,19 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Twingo,2995.0,2010,1149cc,"91,500 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,58 bhp,96 mph,15.0 seconds,130 g/km
+renault,Kadjar,8888.0,2016,1461cc,"60,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Clio,7495.0,2016,1149cc,"48,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Captur,9450.0,2017,1461cc,"52,000 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,4995.0,2014,1461cc,"84,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Twingo,7299.0,2016,898cc,"46,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Captur,10495.0,2019,898cc,"34,568 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,3375.0,2011,1149cc,"59,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,9049.0,2018,898cc,"51,546 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Clio,9999.0,2019,898cc,"22,584 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Kadjar,13670.0,2019,1.3L,"21,823 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Kadjar,14299.0,2020,1.3L,"19,477 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Arkana,19499.0,2022,1.3L,"13,942 miles",Petrol,Semiauto,Grey,SUV,4X2,4.0,5.0,138 bhp,127 mph,,130 g/km
+renault,Kadjar,11399.0,2019,1.3L,"28,062 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,121 mph,,134 g/km
+renault,Kadjar,13687.0,2019,1.3L,"25,446 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Clio,17995.0,2023,1L,50 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,13347.0,2021,1L,"13,192 miles",Petrol,Manual,White,Hatchback,,,,,,,
+renault,Captur,15600.0,2021,1000cc,"6,301 miles",Petrol,Manual,Hatchback,47.9 mpg,4X2,5.0,5.0,90 bhp,104 mph,,
+renault,Megane,9995.0,2016,1.6L,"54,437 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,123 mph,10.0 seconds,105 g/km
+renault,Kadjar,13499.0,2019,1.3L,"31,994 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Clio,11895.0,2020,1L,"7,618 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Austral,40069.0,2023,1.2L,"3,838 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Kadjar,14999.0,2020,1.5L,"32,169 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,135 g/km
+renault,Captur,18798.0,2022,1.3L,"6,833 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,138 bhp,121 mph,,133 g/km
+renault,Captur,15994.0,2020,1.3L,"26,994 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Clio,7999.0,2019,898cc,"87,194 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Clio,5990.0,2013,1149cc,"32,386 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,18495.0,2022,999cc,"7,335 miles",Petrol,Manual,Arctic White / Diamond Black,Hatchback,4X2,5.0,5.0,90 bhp,104 mph,,135 g/km
+renault,Megane,3000.0,2010,1598cc,"55,000 miles",Petrol,Manual,Grey,Coupe,4X2,3.0,5.0,110 bhp,121 mph,10.5 seconds,162 g/km
+renault,Clio,13571.0,2021,1L,"14,168 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Clio,10920.0,2019,0.9L,"19,910 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Arkana,20870.0,2022,1.3L,"6,226 miles",Petrol,Semiauto,Black,SUV,4X2,4.0,5.0,138 bhp,127 mph,,132 g/km
+renault,Captur,16290.0,2021,1.3L,"19,986 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,138 bhp,121 mph,,134 g/km
+renault,Kangoo Maxi Ll21 Dci 95 Business Plus Energy,11994.0,2019,1.461L,"31,291 miles",Diesel,Manual,White,Other,4X2,,,95 bhp,102 mph,12.3 seconds,
+renault,Trafic,17950.0,2018,1598cc,"58,000 miles",Diesel,Manual,Black,Van,4X2,,,123 bhp,108 mph,,
+renault,Trafic,12975.0,2017,1598cc,"41,060 miles",Diesel,Manual,Silver,Van,4X2,,,123 bhp,108 mph,11.9 seconds,
+renault,Trafic,7999.0,2003,1870cc,"205,000 miles",Diesel,Manual,Silver,Other,4X2,,,101 bhp,,,
+renault,Megane,5490.0,2014,1461cc,"56,077 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Clio,11650.0,2021,999cc,"44,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,8500.0,2000,900cc,"28,840 miles",Petrol,Manual,SUV,56.5 mpg,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Clio,12195.0,2020,999cc,"19,592 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,119 g/km
+renault,Twingo,6900.0,2015,898cc,"15,171 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Clio,2495.0,2006,1149cc,"85,894 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,13.4 seconds,139 g/km
+renault,Megane,11449.0,2019,1332cc,"48,120 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,128 g/km
+renault,Clio,10149.0,2019,898cc,"38,654 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,13799.0,2019,1333cc,"18,490 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Trafic,23998.0,2020,2L,"39,000 miles",Diesel,Automatic,Black,van,4X2,,,143 bhp,109 mph,,
+renault,Clio,12295.0,2020,1L,"17,425 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Captur,10398.0,2018,0.9L,"23,639 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,21495.0,2021,1.3L,689 miles,Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,138 bhp,121 mph,,136 g/km
+renault,Clio,18494.0,2022,1.6L,"4,489 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Arkana,20599.0,2022,1.6L,"11,000 miles",Hybrid,Semiauto,Grey,SUV,4X2,4.0,5.0,145 bhp,107 mph,,106 g/km
+renault,Clio,12660.0,2019,1.3L,"51,035 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,118 g/km
+renault,Captur,7000.0,2015,1.5L,"79,563 miles",Diesel,Manual,Hatchback,78.5 mpg,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,14499.0,0L,"21,564 miles",Petrol,Manual,Highland Grey,SUV,42.16 mpg,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Clio,11862.0,0L,"33,566 miles",Petrol,Manual,Flame Red,Hatchback,49.6 mpg,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Captur,6999.0,2014,1461cc,"63,260 miles",Diesel,Manual,Hatchback,76.4 mpg,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,9995.0,2015,1461cc,"73,340 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Captur,6995.0,2014,898cc,"44,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Captur,11995.0,2018,1461cc,"23,583 miles",Diesel,Manual,Black/Silver,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Captur,10300.0,2019,0.9L,"29,575 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,15295.0,2021,1L,"12,142 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Clio,15995.0,2021,1L,"14,591 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Captur,11800.0,2020,0.9L,"25,766 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,
+renault,Clio,14377.0,2021,1L,"11,683 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Clio,14359.0,2021,1L,"11,938 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Kadjar,13495.0,2019,1.3L,"22,917 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,
+renault,Kadjar,16918.0,2020,1.3L,"13,163 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,154 g/km
+renault,Captur,12290.0,2020,1333.0cc,"44,163 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,9649.0,2018,1461cc,"48,923 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Megane,11849.0,2017,1598cc,"39,141 miles",Diesel,,Blue,Estate,4X2,5.0,5.0,129 bhp,123 mph,,105 g/km
+renault,Captur,11899.0,2020,898cc,"19,587 miles",Petrol,,White,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,13850.0,2021,1.3L,"38,636 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,145 g/km
+renault,Clio,14299.0,2020,1.3L,"33,526 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,131 g/km
+renault,Arkana,20999.0,2021,1333cc,"6,052 miles",Petrol,Automatic,Red,Estate,4X2,4.0,5.0,138 bhp,127 mph,,133 g/km
+renault,Kangoo ML19dCi 75 Business+ Van,4750.0,2016,1461cc,"115,000 miles",Diesel,Manual,Grey,CAR DERIVED VAN,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Clio,4695.0,2012,1149cc,"25,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Captur,14490.0,2019,1333cc,"8,000 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Captur,9793.0,2017,1461cc,"26,255 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Laguna,2995.0,2010,1995cc,"86,000 miles",Diesel,Manual,Grey,Coupe,4X2,3.0,4.0,150 bhp,130 mph,9.5 seconds,157 g/km
+renault,Megane,7500.0,2017,1598cc,"101,313 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,123 mph,10.0 seconds,103 g/km
+renault,Clio,7995.0,2018,898cc,"46,081 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Clio,16199.0,999cc,"13,672 miles",Petrol,Manual,Orange,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Arkana,24499.0,0L,"12,999 miles",Petrol,Automatic,GREY,SUV,56.5 mpg,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Trafic,11995.0,2020,1997cc,"84,508 miles",Diesel,Manual,White,Van,4X2,,,120 bhp,103 mph,,
+renault,Captur,13920.0,2020,1.3L,"12,443 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,16933.0,2020,1.3L,"13,586 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,150 g/km
+renault,Clio,16995.0,2022,1L,"8,551 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,10000.0,2018,0.9L,"26,061 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,16000.0,2020,1.3L,"34,614 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,15000.0,2020,1L,"11,108 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,118 g/km
+renault,Captur,10195.0,2018,898cc,"33,958 miles",Petrol,Manual,Desert Orange/Black Roof,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,13995.0,2020,1461cc,"23,000 miles",Diesel,Manual,Orange/Black,SUV,4X2,5.0,5.0,94 bhp,110 mph,,125 g/km
+renault,Clio,15250.0,2023,999cc,"12,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Scenic,13950.0,2018,1461cc,"10,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,108 bhp,114 mph,,100 g/km
+renault,Twingo,6995.0,2015,999cc,"29,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,14.5 seconds,95 g/km
+renault,Koleos,15499.0,2018,1995cc,"75,914 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,177 bhp,125 mph,9.5 seconds,156 g/km
+renault,Clio,10999.0,2020,999cc,"30,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,111 g/km
+renault,Captur,7695.0,2014,1461cc,"49,947 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Modus,1750.0,2006,1461cc,"78,796 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,86 bhp,106 mph,13.0 seconds,119 g/km
+renault,Captur,7985.0,2015,898cc,"57,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Clio,8295.0,2018,900cc,"53,208 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Twingo,4999.0,2017,999cc,"69,488 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,16.0 seconds,95 g/km
+renault,Clio,1890.0,2007,1149cc,"82,188 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,58 bhp,98 mph,15.0 seconds,143 g/km
+renault,Megane,2095.0,2003,1600cc,"113,500 miles",Petrol,Automatic,Beige,MPV,4X2,5.0,5.0,106 bhp,112 mph,13.8 seconds,190 g/km
+renault,Megane,2195.0,2003,1598cc,"82,000 miles",Petrol,Automatic,Beige,MPV,4X2,5.0,5.0,106 bhp,112 mph,13.8 seconds,190 g/km
+renault,Megane,1795.0,2003,1998cc,"70,000 miles",Petrol,Automatic,Green,MPV,4X2,5.0,5.0,141 bhp,122 mph,10.6 seconds,200 g/km
+renault,Clio,6750.0,2017,1500cc,"49,746 miles",Diesel,Manual,Silver,Hatchback,,,,,,,
+renault,Clio,5950.0,2017,1500cc,"78,948 miles",Diesel,Manual,Grey,Hatchback,,,,,,,
+renault,Clio,4595.0,2013,1461cc,"81,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,93 g/km
+renault,Kadjar,11849.0,2018,1332cc,"32,006 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,157 bhp,128 mph,,134 g/km
+renault,Kadjar,12249.0,2018,1332cc,"30,193 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,138 bhp,121 mph,,135 g/km
+renault,Trafic,16495.0,2020,1997cc,"24,000 miles",Diesel,Manual,Red,Van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,15995.0,2020,1997cc,"28,000 miles",Diesel,Manual,Red,Van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,13995.0,2018,1598cc,"34,310 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Kadjar,9950.0,2017,1461cc,"73,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Kadjar,14445.0,2019,1500cc,"15,929 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,114 g/km
+renault,Kadjar,15450.0,2019,1461cc,"18,155 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,117 g/km
+renault,Kadjar,11495.0,2018,1332cc,"47,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,157 bhp,128 mph,,134 g/km
+renault,Clio,6660.0,2015,1149cc,"41,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Scenic,2750.0,2013,1461cc,"87,330 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.5 seconds,120 g/km
+renault,Clio,9495.0,2020,1500cc,"74,720 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,84 bhp,122 mph,14.7 seconds,111 g/km
+renault,Trafic,29518.0,2023,2L,10 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,103 mph,,
+renault,Trafic,22788.0,2021,2L,"22,911 miles",Diesel,Manual,White,van,4X2,,,120 bhp,103 mph,,
+renault,Trafic,22788.0,2021,2L,"20,004 miles",Diesel,Manual,White,van,4X2,,,120 bhp,103 mph,,
+renault,Kadjar,11999.0,2018,1.2L,"33,593 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,132 g/km
+renault,Captur,14699.0,2021,1L,"16,500 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Clio,9999.0,2018,0.9L,"21,000 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+renault,Kangoo Maxi Ll21 Dci 95 Business Energy,9994.0,2019,1.461L,"51,029 miles",Diesel,Manual,Grey,Other,4X2,,,95 bhp,102 mph,12.3 seconds,
+renault,Kadjar,11564.0,2017,1.2L,"36,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Austral,36000.0,2023,1.2L,297 miles,Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Captur,15700.0,2020,1L,"8,433 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Austral,36000.0,2023,1.2L,"2,815 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Austral,36000.0,2023,1.2L,9 miles,Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Captur,18500.0,2020,1.3L,"7,916 miles",Petrol,Semiauto,Other,SUV,,,,,,,
+renault,Captur,16000.0,2020,1L,"12,218 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Austral,36000.0,2023,1.2L,"2,695 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Captur,15995.0,2019,1.3L,"13,463 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Captur,16379.0,2020,1.5L,"12,879 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,114 bhp,116 mph,,127 g/km
+renault,Austral,36000.0,2023,1.2L,"3,658 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,200 bhp,108 mph,,110 g/km
+renault,Modus,4695.0,2011,1598cc,"80,000 miles",Petrol,Automatic,Bronze,Hatchback,4X2,5.0,5.0,110 bhp,114 mph,12.5 seconds,179 g/km
+renault,Clio,12995.0,2020,999cc,"16,802 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Twingo,9495.0,2017,898cc,"12,717 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,108 g/km
+renault,Captur,15211.0,0L,"10,516 miles",Petrol,Automatic,Flame Red With Diamond Black Roof,SUV,43.4 mpg,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Clio,12289.0,2021,1L,"13,930 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,118 g/km
+renault,Captur,13298.0,2020,1L,"25,471 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,118 g/km
+renault,Clio,15250.0,2021,1L,"5,228 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Grand Scenic,14950.0,2019,1.7L,"25,840 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,118 bhp,120 mph,12.1 seconds,127 g/km
+renault,Captur,12995.0,2018,1.5L,"19,600 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,112 g/km
+renault,Captur,8599.0,2016,1.5L,"51,340 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,98 g/km
+renault,Clio,11650.0,2021,999cc,"44,931 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,118 g/km
+renault,Captur,15740.0,2019,1333cc,"6,284 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Grand Scenic,2695.0,2011,1461cc,"158,832 miles",Diesel,Automatic,Gold,MPV,4X2,5.0,7.0,110 bhp,112 mph,14.3 seconds,124 g/km
+renault,Kadjar,14495.0,2020,1330cc,"27,430 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Kadjar,10995.0,2018,1598cc,"53,880 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Captur,12999.0,2017,1197cc,"34,000 miles",Petrol,Automatic,Red,Other,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,127 g/km
+renault,Clio,9695.0,2016,1461cc,"24,757 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,6595.0,2014,1500cc,"60,000 miles",Diesel,Manual,Black And Cream,Other,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,15499.0,2022,1.6L,"15,711 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Captur,11999.0,2021,1.3L,"50,822 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,13899.0,2020,1.3L,"45,550 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,131 g/km
+renault,Captur,11899.0,2019,1.3L,"31,071 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Captur,12699.0,2020,1L,"24,014 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,10799.0,2018,1.2L,"42,761 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,117 bhp,113 mph,,127 g/km
+renault,Clio,15000.0,2023,1L,"8,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,11599.0,2020,1L,"37,898 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,12499.0,2021,1.3L,"45,985 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12999.0,2021,1.3L,"48,660 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Trafic,21588.0,2019,2L,"26,530 miles",Diesel,Manual,White,van,4X2,,,120 bhp,103 mph,,
+renault,Master,29000.0,2022,2.3L,"33,303 miles",Diesel,Manual,Black,van,4X2,,,145 bhp,93 mph,,
+renault,Captur,10795.0,2019,0.9L,"21,847 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Kadjar,13990.0,2019,1.3L,"25,279 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Kadjar,12180.0,2019,1.3L,"32,126 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Captur,11690.0,2018,1461cc,"33,720 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,109 mph,,98 g/km
+renault,Master,19945.0,2021,2298cc,"10,252 miles",Diesel,Manual,White,Van,4X2,,,150 bhp,97 mph,,
+renault,Clio,5795.0,2014,1149cc,"64,344 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Megane,4995.0,2012,1598cc,"67,032 miles",Petrol,Manual,SPORTS BLUE,Coupe,4X2,3.0,5.0,110 bhp,118 mph,10.5 seconds,159 g/km
+renault,Clio,9995.0,2019,1461cc,"43,500 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Captur,17995.0,2021,1461cc,"16,000 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,116 mph,,126 g/km
+renault,Captur,7795.0,2016,1461cc,"68,271 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,15000.0,2021,1333cc,"18,500 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,11650.0,2019,898cc,"16,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Megane,16499.0,2021,1333cc,"8,300 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,,136 g/km
+renault,Captur,9995.0,2018,1461cc,"49,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Clio,9995.0,2019,898cc,"47,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,10495.0,2019,0.9L,"40,202 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Koleos,15290.0,2017,2L,"65,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,177 bhp,125 mph,9.5 seconds,156 g/km
+renault,Clio,15995.0,999cc,"2,050 miles",Petrol,Manual,White,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,2695.0,2011,1149cc,"86,238 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Captur,14990.0,2020,1.3L,"16,774 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,11611.0,2021,1L,"40,041 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,10814.0,2019,1L,"33,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,13200.0,2020,1L,"12,473 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Clio,13321.0,2021,1L,"16,769 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,19448.0,2022,1.3L,"8,500 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,121 mph,,133 g/km
+renault,Clio,12456.0,2020,1L,"14,167 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,118 g/km
+renault,Captur,26400.0,2023,1.6L,184 miles,Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,107 mph,,30 g/km
+renault,Captur,13240.0,2019,1.3L,"11,756 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Captur,8999.0,2018,0.9L,"33,502 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Grand Scenic,18490.0,2020,1.3L,"28,882 miles",Petrol,Manual,Brown,MPV,4X2,5.0,7.0,138 bhp,119 mph,10.3 seconds,157 g/km
+renault,Captur,17000.0,2020,1.3L,"18,673 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Trafic 28 2.0 BLUEDCI 150 BHP SL SWB BUSINESS PLUS EDC AUTOMATIC,27989.0,2023,2L,"1,000 miles",Diesel,Automatic,White,Van,4X2,,,150 bhp,110 mph,,
+renault,Clio,2000.0,2009,1598cc,"115,000 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,127 bhp,122 mph,9.3 seconds,160 g/km
+renault,Captur,7490.0,2013,1461cc,"60,000 miles",Diesel,Manual,Orange,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,8990.0,2019,1461cc,"102,331 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,119 mph,,109 g/km
+renault,Trafic SL29dCi 115 Business Van,6995.0,2015,1598cc,"115,000 miles",Diesel,Manual,White,PANEL VAN,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Clio,9000.0,2018,898cc,"37,910 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Megane,9400.0,2020,1461cc,"64,801 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,119 g/km
+renault,Kadjar,14194.0,1332cc,"20,541 miles",Petrol,Manual,Blue,SUV,42.16 mpg,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,133 g/km
+renault,Arkana,25949.0,1598cc,188 miles,Petrol,Automatic,White,SUV,56.5 mpg,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Captur,11480.0,2021,1.3L,"48,234 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,10980.0,2021,1.3L,"53,325 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,13500.0,2020,1L,"19,392 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,132 g/km
+renault,Kadjar,13563.0,2019,1.3L,"31,887 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,134 g/km
+renault,Captur,13398.0,2020,1.3L,"39,291 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Captur,15995.0,2021,1L,"7,775 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Kadjar,14294.0,2020,1.3L,"37,538 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Clio,14000.0,2021,1L,"20,434 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,14205.0,2021,1L,"9,510 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,13038.0,2020,1L,"10,717 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Clio,13995.0,2021,1L,"6,392 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Clio,14959.0,2021,1L,"9,031 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,11770.0,2021,1L,"23,382 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,18117.0,2021,1.3L,"10,560 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,122 mph,,132 g/km
+renault,Clio,15995.0,2021,1L,"14,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Kadjar,14817.0,2020,1.3L,"10,560 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Captur,11699.0,2019,898cc,"13,068 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kadjar,14299.0,2019,1333cc,"40,101 miles",Petrol,,Red,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,12199.0,2018,898cc,"18,617 miles",Petrol,,Red,SUV,4X2,5.0,5.0,88 bhp,106 mph,,121 g/km
+renault,Megane,11599.0,2020,1332cc,"50,940 miles",Petrol,,Grey,Estate,4X2,5.0,5.0,138 bhp,127 mph,9.8 seconds,124 g/km
+renault,Captur,6498.0,2015,898cc,"58,498 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Trafic,32398.0,2023,2L,10 miles,Diesel,Manual,Grey,van,4X2,,,150 bhp,110 mph,,
+renault,Clio,12295.0,2020,1L,"35,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,119 g/km
+renault,Captur,12495.0,2021,1.3L,"42,056 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12895.0,2021,1.3L,"44,748 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12495.0,2021,1.3L,"41,899 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,12999.0,2021,1.3L,"22,560 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,14675.0,2021,1L,"17,889 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,14699.0,2020,1.3L,"13,227 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,15899.0,2020,1.3L,"10,594 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,153 g/km
+renault,Kadjar,15299.0,2020,1.3L,"25,217 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Clio,9058.0,2017,0.9L,"52,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Captur,13200.0,2020,1L,"23,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,5999.0,2015,1.5L,"84,500 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,12495.0,2018,1461cc,"27,100 miles",Diesel,Manual,Black/Silver,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Kadjar,10750.0,2018,1332cc,"48,610 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,121 mph,,134 g/km
+renault,Captur,9500.0,2019,898cc,"40,933 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,15590.0,999cc,"12,412 miles",Petrol,Automatic,Grey,Hatchback,2.5 mpg,4X2,5.0,5.0,90 bhp,109 mph,,130 g/km
+renault,Clio,14190.0,999cc,"5,159 miles",Petrol,Manual,Black,Hatchback,54.3 mpg,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Captur,6979.0,2016,1500cc,"72,900 miles",Diesel,Manual,Mercury With Diamond Black Roof,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,13750.0,2020,999cc,"17,321 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Clio,9000.0,2019,0.9L,"33,693 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Clio,16289.0,2021,1.6L,"21,657 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Captur,10300.0,2019,0.9L,"30,483 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,7800.0,2015,0.9L,"51,406 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,114 g/km
+renault,Captur,12495.0,2021,1.3L,"42,787 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Scenic,13995.0,2017,1.6L,"30,000 miles",Diesel,Manual,Other,MPV,4X2,5.0,5.0,128 bhp,118 mph,,116 g/km
+renault,Kangoo 1.5 ML19 ENERGY DCI 75 BHP - NO VAT - CLEAN EXAMPLE - REMOTE LOCKING - REVERSE CAMERA - BLUETOOTH!,5991.0,2015,1.5L,"96,837 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,93 mph,16.3 seconds,
+renault,Kangoo 1.5 DCI ML19 90 BHP BUSINESS EDITION 5DR ( NO VAT ),7689.0,2016,1.5L,"87,000 miles",Diesel,Manual,Grey,Van,4X2,,,88 bhp,93 mph,16.3 seconds,
+renault,Kangoo Maxi 1.5 LL21DCI ENERGY 95 LWB BUSINESS PLUS 6DR ( AIR CON ),16489.0,2021,1.5L,"13,000 miles",Diesel,Manual,White,Van,4X2,,,95 bhp,102 mph,,
+renault,Captur,16995.0,2020,1333cc,"15,000 miles",Petrol,Automatic,GREY/BLACK,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,124 g/km
+renault,Arkana,24199.0,1598cc,"2,899 miles",Petrol,Automatic,Black,SUV,56.5 mpg,4X2,4.0,5.0,145 bhp,107 mph,,112 g/km
+renault,Kadjar,14495.0,2019,1332cc,"33,220 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Clio,7795.0,2016,900cc,"47,550 miles",Petrol,Manual,METALLIC DIAMOND BLACK,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,105 g/km
+renault,Clio,14217.0,2021,1L,"19,648 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Scenic,11585.0,2018,1.5L,"46,563 miles",Diesel,Manual,Other,MPV,4X2,5.0,5.0,108 bhp,114 mph,,100 g/km
+renault,Megane,1750.0,2010,1461cc,"166,000 miles",Diesel,Manual,Black,Coupe,4X2,3.0,5.0,106 bhp,118 mph,10.5 seconds,120 g/km
+renault,Megane,10999.0,2010,1998cc,"51,579 miles",Petrol,Manual,YELLOW,Coupe,4X2,3.0,5.0,248 bhp,155 mph,6.1 seconds,195 g/km
+renault,Grand Scenic,13500.0,2018,1598cc,"31,561 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,128 bhp,118 mph,,119 g/km
+renault,Trafic,8990.0,2017,1598cc,"128,000 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,95 mph,15.4 seconds,
+renault,Kangoo,6990.0,2016,1461cc,"40,000 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,93 mph,16.3 seconds,
+renault,Kangoo,9900.0,2018,1461cc,"80,821 miles",Diesel,Manual,WHITE,Other,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Trafic,10990.0,2019,1598cc,"98,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,13290.0,2019,1598cc,"69,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,12190.0,2019,1598cc,"85,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,13390.0,2019,1598cc,"67,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Master,16950.0,2016,2298cc,"49,400 miles",Diesel,Manual,Grey,Van,4X2,,,134 bhp,93 mph,13.2 seconds,
+renault,Trafic,10995.0,2019,1598cc,"106,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Kangoo,6275.0,2013,1461cc,"90,451 miles",Diesel,Manual,Black,Van,4X2,,,88 bhp,99 mph,13.3 seconds,
+renault,Kadjar,9985.0,2018,1332cc,"44,156 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,157 bhp,128 mph,,134 g/km
+renault,Grand Scenic,14995.0,2019,1330cc,"18,585 miles",Petrol,Manual,Sky Blue,Estate,4X2,5.0,7.0,138 bhp,119 mph,10.3 seconds,139 g/km
+renault,Clio,4940.0,2013,1461cc,"120,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Clio,10475.0,2020,999cc,"29,034 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,111 g/km
+renault,Captur,15995.0,2020,1333cc,"21,766 miles",Petrol,Automatic,Iron Blue / Highland Grey Roof,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Captur,10499.0,2018,898cc,"30,761 miles",Petrol,Manual,BLACK/CREAM,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Kadjar,8995.0,2016,1197cc,"70,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Scenic,12290.0,2017,1598cc,"44,000 miles",Diesel,Manual,Yellow,MPV,4X2,5.0,5.0,128 bhp,118 mph,,116 g/km
+renault,Clio,8490.0,2015,898cc,"32,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,105 g/km
+renault,Clio,9490.0,2018,1461cc,"46,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Captur,7190.0,2014,898cc,"50,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Modus,2795.0,2012,1461cc,"100,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,88 bhp,108 mph,11.2 seconds,107 g/km
+renault,Clio,11990.0,2019,999cc,"29,578 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Clio,7500.0,2016,1149cc,"42,650 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Kadjar,10995.0,2018,1598cc,"53,885 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,9.9 seconds,117 g/km
+renault,Kadjar,14290.0,2020,1332cc,"26,363 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kangoo,3995.0,2009,1598cc,"50,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,90 bhp,98 mph,15.8 seconds,192 g/km
+renault,Kadjar,14990.0,2020,1332cc,"36,145 miles",Petrol,Manual,Metallic - Nightwatch Blue,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,10795.0,2019,898cc,"30,001 miles",Petrol,Manual,Silver/Black,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,9995.0,2018,898cc,"35,424 miles",Petrol,Manual,Silver/Black,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,10495.0,2016,1461cc,"76,000 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,103 g/km
+renault,Clio,6990.0,2016,1149cc,"42,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Modus,2895.0,2010,1461cc,"47,000 miles",Diesel,Manual,Purple,Hatchback,4X2,5.0,5.0,86 bhp,106 mph,13.4 seconds,114 g/km
+renault,Clio,5995.0,2013,1149cc,"53,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,6490.0,2015,1461cc,"69,875 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,1995.0,2007,1149cc,"65,194 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,101 bhp,114 mph,10.7 seconds,139 g/km
+renault,Captur,6850.0,2014,898cc,"69,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Captur,8383.0,2019,1461cc,"88,489 miles",Diesel,Manual,BLUE/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Clio,10695.0,2018,898cc,"28,800 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Captur,11499.0,2019,898cc,"17,900 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Megane,6495.0,2014,1461cc,"71,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,109 bhp,118 mph,12.4 seconds,90 g/km
+renault,Captur,13495.0,2020,999cc,"17,591 miles",Petrol,Manual,Flame Red / Diamond Black,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,8998.0,2015,1461cc,"47,022 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,3995.0,2013,1461cc,"111,500 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,110 bhp,118 mph,12.1 seconds,110 g/km
+renault,Kadjar,11995.0,2018,1461cc,"59,826 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Captur,11995.0,2019,1461cc,"51,483 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Clio,3995.0,2009,1598cc,"95,705 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,127 bhp,122 mph,9.3 seconds,160 g/km
+renault,Captur,10895.0,2018,898cc,"26,492 miles",Petrol,Manual,Metallic - Arctic White With Diamond Black Roof,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kadjar,8495.0,2015,1461cc,"81,900 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Trafic,31794.0,2022,2L,"1,476 miles",Diesel,Manual,Grey,van,4X2,,,150 bhp,109 mph,,
+renault,Captur,17195.0,2023,1L,"2,312 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,90 bhp,104 mph,,131 g/km
+renault,Arkana,21495.0,2022,1.6L,"8,301 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,107 mph,,106 g/km
+renault,Captur,9814.0,2018,0.9L,"42,265 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,16995.0,2020,1.3L,"17,000 miles",Petrol,Manual,Other,SUV,,,,,,,
+renault,Arkana,27295.0,2023,1.6L,605 miles,Hybrid,Semiauto,Grey,SUV,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Captur,24495.0,2022,1.6L,"8,780 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,107 mph,,31 g/km
+renault,Captur,17795.0,2022,1.3L,"10,221 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,138 bhp,121 mph,,133 g/km
+renault,Clio,11495.0,2019,0.9L,"10,265 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Captur,10095.0,2018,0.9L,"34,841 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,14995.0,2021,1L,"11,771 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Captur,11795.0,2019,0.9L,"19,840 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,12595.0,2020,1L,"23,760 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,10295.0,2019,0.9L,"31,111 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Clio,12595.0,2020,1L,"24,033 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,117 g/km
+renault,Clio,17395.0,2020,1.3L,"5,802 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,131 g/km
+renault,Clio,13095.0,2021,1L,"10,372 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,99 mph,,119 g/km
+renault,Clio,9895.0,2017,1.2L,"15,358 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,13795.0,2020,1L,"19,345 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Captur,15995.0,2022,1L,"9,067 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Captur,18895.0,2020,1.6L,"17,175 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,107 mph,10.1 seconds,35 g/km
+renault,Clio,9200.0,2017,0.9L,"18,902 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Clio,6095.0,2000,1500cc,"87,520 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,2495.0,2009,1598cc,"117,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,127 bhp,122 mph,9.3 seconds,160 g/km
+renault,Clio,9995.0,2018,1197cc,"19,909 miles",Petrol,Manual,Solid - Glacier White,Hatchback,4X2,5.0,5.0,117 bhp,124 mph,9.0 seconds,118 g/km
+renault,Captur,13995.0,2020,999cc,"12,277 miles",Petrol,Manual,Id Metallic - Iron Blue,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Captur,17995.0,2022,1333cc,"14,310 miles",Petrol,Automatic,Id Metallic - Desert Orange,Hatchback,4X2,5.0,5.0,138 bhp,121 mph,,133 g/km
+renault,Clio,4395.0,2015,1500cc,"128,718 miles",Diesel,Manual,Black,Other,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Captur,8495.0,2014,1461cc,"33,400 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,12149.0,2020,1461cc,"38,995 miles",Diesel,,White,Hatchback,4X2,5.0,5.0,84 bhp,122 mph,14.7 seconds,110 g/km
+renault,Clio,10199.0,2018,1461cc,"23,960 miles",Diesel,,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Megane,12449.0,2017,1461cc,"26,866 miles",Diesel,,Blue,Estate,4X2,5.0,5.0,109 bhp,116 mph,,95 g/km
+renault,Clio,9849.0,2019,898cc,"34,911 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,114 g/km
+renault,Captur,9799.0,2017,1461cc,"38,164 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Clio,9799.0,2017,1461cc,"29,417 miles",Diesel,,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Kadjar,10495.0,2016,1.6L,"47,182 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,129 bhp,118 mph,10.5 seconds,126 g/km
+renault,Clio,15795.0,2022,1L,"5,400 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,9998.0,2017,1.2L,"52,344 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,117 bhp,113 mph,,127 g/km
+renault,Kadjar,13329.0,2018,1.3L,"17,640 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,121 mph,,135 g/km
+renault,Arkana,20464.0,2021,1.6L,"13,159 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,108 mph,,112 g/km
+renault,Captur,7699.0,2017,0.9L,"64,506 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Captur,15190.0,2020,1.3L,"46,037 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Trafic SWB L1H1 Sl27 Business Dci Side Door NO VAT NO VAT - Save 20%,6800.0,2015,1598cc,"110,367 miles",Diesel,Manual,Black,van,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Kadjar,13685.0,0L,"54,486 miles",Petrol,Automatic,Diamond Black,SUV,41.54 mpg,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Clio,15401.0,2022,1L,"6,921 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Kadjar,11666.0,2018,1.3L,"41,951 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,121 mph,,134 g/km
+renault,Captur,12290.0,2020,1.3L,"52,436 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,145 g/km
+renault,Clio,9390.0,2018,0.9L,"21,999 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Captur,9144.0,2016,898cc,"40,839 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.2 seconds,121 g/km
+renault,Clio,3195.0,2011,1149cc,"67,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,3295.0,2010,1461cc,"96,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,108 mph,12.7 seconds,115 g/km
+renault,Captur,9050.0,2016,1500cc,"72,200 miles",Diesel,Automatic,Blue And Black,Other,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Megane,2300.0,2009,1598cc,"80,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,110 bhp,118 mph,10.5 seconds,162 g/km
+renault,Clio,11099.0,2018,898cc,"8,465 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Clio,7799.0,2016,1149cc,"54,296 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,9000.0,2018,0.9L,"43,479 miles",Petrol,Manual,Glacier White Gloss,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Trafic LL29dCi 115 Business 1.6 Diesel Van From £7,7195.0,2014,1598cc,"111,000 miles",Diesel,Manual,White,PANEL VAN,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Trafic,31200.0,2023,2L,19 miles,Diesel,Manual,White,van,4X2,,,130 bhp,109 mph,,
+renault,Captur,8698.0,2018,1.5L,"68,485 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Arkana,23991.0,2023,1.6L,"9,239 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Arkana,25771.0,2023,1.6L,843 miles,Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,107 mph,,106 g/km
+renault,Captur,11395.0,2019,0.9L,"35,330 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,14999.0,2020,1.3L,"12,138 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Captur,5900.0,2014,1461cc,"77,183 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,16999.0,2020,1.3L,"7,597 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Clio,13995.0,2021,1L,"3,406 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Clio,10295.0,2019,0.9L,"30,311 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Kadjar,10995.0,2017,1.2L,"17,600 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Clio,3690.0,2012,1149cc,"89,126 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Scenic,5999.0,2015,1461cc,"79,108 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,109 bhp,112 mph,12.5 seconds,105 g/km
+renault,Clio,7999.0,2018,1.5L,"74,096 miles",Diesel,Manual,White,Hatchback,4X2,5.0,2.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Kadjar,14499.0,2020,1.3L,"9,651 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,14999.0,2020,1.5L,"8,457 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,,134 g/km
+renault,Clio,10999.0,2019,1L,"12,958 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Master 2.3 35 129 BHP L2 H2 MWB PANEL/MOBILE WORK SHOP,8950.0,2017,2.29L,"137,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,,
+renault,Captur,8495.0,2015,1461cc,"33,000 miles",Diesel,Manual,Red/Black,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,99 g/km
+renault,Clio,11000.0,2020,1L,"21,591 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Twingo,6600.0,2015,0.9L,"22,853 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Kadjar,16500.0,2020,1.3L,"15,434 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Kadjar,13000.0,2018,1.2L,"7,315 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,132 g/km
+renault,Arkana,21000.0,2022,1.6L,"15,161 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,108 mph,,109 g/km
+renault,Megane,17000.0,2018,1.6L,"14,100 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,202 bhp,143 mph,7.1 seconds,134 g/km
+renault,Kadjar,10947.0,2017,1.5L,"36,474 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Megane,11795.0,2017,1.2L,"8,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Clio,7625.0,2018,0.9L,"59,940 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,75 bhp,110 mph,12.3 seconds,113 g/km
+renault,Clio,11897.0,2019,1L,"15,742 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Kadjar,12938.0,2019,1.3L,"18,650 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Captur,9971.0,2019,0.9L,"26,309 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,9929.0,2018,0.9L,"35,601 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Kadjar,12024.0,2017,1.6L,"43,479 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,129 bhp,118 mph,10.5 seconds,129 g/km
+renault,Captur,9745.0,2017,1.5L,"36,761 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Arkana,19077.0,2021,1.6L,"22,218 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,108 mph,,112 g/km
+renault,Captur,11443.0,2018,1.5L,"31,661 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,110 g/km
+renault,Captur,13995.0,2019,1333cc,"4,628 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Captur,9893.0,2018,0.9L,"35,318 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Kadjar,12980.0,2019,1.3L,"30,046 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Kadjar,14100.0,2020,1461cc,"41,518 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,,135 g/km
+renault,Kadjar,12999.0,2016,1461cc,"23,100 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Captur,10850.0,2020,999cc,"51,375 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,15499.0,2020,1.3L,"10,220 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,151 bhp,126 mph,,142 g/km
+renault,Captur,13995.0,2021,1.3L,"30,700 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,13995.0,2020,1.3L,"34,652 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Kadjar,15298.0,2019,1.5L,"34,273 miles",Diesel,Semiauto,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,,115 g/km
+renault,Master,10990.0,2015,2298cc,"55,717 miles",Diesel,Manual,Grey,Other,4X2,,,123 bhp,89 mph,15.0 seconds,
+renault,Megane,5889.0,2015,1461cc,"68,000 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Grand Scenic,3300.0,2012,1461cc,"106,902 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.5 seconds,105 g/km
+renault,Megane,12995.0,2018,1330cc,"47,588 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,125 g/km
+renault,Megane,6995.0,2017,1461cc,"102,397 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,109 bhp,116 mph,,95 g/km
+renault,Captur,13980.0,2020,1.3L,"18,595 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,13650.0,2020,1330cc,"41,566 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,209 mph,9.0 seconds,131 g/km
+renault,Clio,12100.0,2021,999cc,"42,120 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km
+renault,Kadjar,12249.0,2017,1197cc,"20,082 miles",Petrol,,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.1 seconds,130 g/km
+renault,Trafic,22250.0,2022,2000cc,"5,929 miles",Diesel,Manual,Glacier White,Van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,15995.0,2017,1598cc,"81,060 miles",Diesel,Manual,Grey,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,15995.0,2019,1997cc,"27,000 miles",Diesel,Manual,White,Van,4X2,,,120 bhp,103 mph,,
+renault,Twingo,5650.0,2000,999cc,"45,700 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,70 bhp,94 mph,16.0 seconds,95 g/km
+renault,Captur,20995.0,2022,1598cc,"5,300 miles",Petrol,Automatic,Black/Grey,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,107 g/km
+renault,Captur,6995.0,2016,1461cc,"65,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Megane,10695.0,2018,1461cc,"40,449 miles",Diesel,Manual,Metallic - Titanium Grey,Hatchback,4X2,5.0,5.0,114 bhp,118 mph,11.1 seconds,101 g/km
+renault,Kangoo,3450.0,2007,1149cc,"26,206 miles",Petrol,Manual,Green,MPV,4X2,5.0,5.0,75 bhp,96 mph,14.2 seconds,163 g/km
+renault,Megane,8495.0,2018,1461cc,"115,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Clio,7495.0,2017,1461cc,"86,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.0 seconds,85 g/km
+renault,Clio,1695.0,2003,1149cc,"49,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,75 bhp,106 mph,13.0 seconds,139 g/km
+renault,Clio,3795.0,2007,1598cc,"75,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,110 bhp,116 mph,12.2 seconds,179 g/km
+renault,Captur,6290.0,2014,1461cc,"75,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Modus,5995.0,2011,1598cc,"62,000 miles",Petrol,Automatic,Beige,Hatchback,4X2,5.0,5.0,110 bhp,114 mph,12.5 seconds,179 g/km
+renault,Grand Scenic,5495.0,2014,1461cc,"97,557 miles",Diesel,Automatic,Blue,MPV,4X2,5.0,7.0,109 bhp,112 mph,14.3 seconds,124 g/km
+renault,Captur,5495.0,2014,898cc,"88,418 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Clio,7290.0,2017,898cc,"66,733 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Captur,5699.0,2014,898cc,"103,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Kadjar,9999.0,2016,1461cc,"44,501 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,99 g/km
+renault,Captur,6999.0,2014,898cc,"66,464 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Scenic,5499.0,2012,1461cc,"44,564 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.5 seconds,120 g/km
+renault,Captur,12699.0,2018,1461cc,"29,870 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Megane,12900.0,2018,1197cc,"16,669 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,130 bhp,122 mph,10.6 seconds,119 g/km
+renault,Kadjar,9490.0,2018,1461cc,"107,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Clio,9100.0,2015,1461cc,"51,255 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.9 seconds,92 g/km
+renault,Captur,6600.0,2015,1461cc,"114,817 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.5 seconds,103 g/km
+renault,Clio,5795.0,2013,1149cc,"63,671 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Captur,10495.0,2017,1461cc,"55,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Captur,8495.0,2014,1461cc,"65,000 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.5 seconds,103 g/km
+renault,Captur,8795.0,2015,1461cc,"56,000 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.5 seconds,103 g/km
+renault,Clio,10995.0,2016,1197cc,"21,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,117 bhp,124 mph,9.2 seconds,120 g/km
+renault,Clio,7995.0,2016,898cc,"50,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Clio,8195.0,2016,898cc,"41,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,112 mph,12.2 seconds,105 g/km
+renault,Megane,8995.0,2017,1461cc,"53,913 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Megane,5295.0,2014,1598cc,"85,624 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,124 mph,9.8 seconds,104 g/km
+renault,Captur,9995.0,2016,1461cc,"49,795 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Clio,10795.0,2016,1618cc,"50,444 miles",Petrol,Automatic,Yellow,Hatchback,4X2,5.0,5.0,197 bhp,143 mph,6.7 seconds,133 g/km
+renault,Clio,5495.0,2015,898cc,"91,689 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Koleos,17494.0,2020,1749cc,"38,000 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,118 mph,11.8 seconds,143 g/km
+renault,Kadjar,11294.0,2016,1461cc,"44,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Clio,10994.0,2021,999cc,"24,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,121 g/km
+renault,Clio,4994.0,2010,1598cc,"60,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,110 bhp,116 mph,12.4 seconds,179 g/km
+renault,Megane,5794.0,2011,1997cc,"36,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,141 bhp,121 mph,11.7 seconds,184 g/km
+renault,Scenic,5945.0,2014,1461cc,"73,200 miles",Diesel,Automatic,Black,MPV,4X2,5.0,5.0,109 bhp,112 mph,13.4 seconds,124 g/km
+renault,Grand Scenic,6995.0,2014,1598cc,"40,000 miles",Diesel,Manual,Beige,MPV,4X2,5.0,7.0,129 bhp,121 mph,11.1 seconds,114 g/km
+renault,Megane,2285.0,2010,1598cc,"82,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,110 bhp,121 mph,10.9 seconds,162 g/km
+renault,Clio,4995.0,2015,1149cc,"81,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,4650.0,2012,1149cc,"33,925 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Clio,6900.0,2018,1461cc,"96,400 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,2.0,88 bhp,112 mph,11.8 seconds,104 g/km
+renault,Captur,11495.0,2016,1461cc,"28,756 miles",Diesel,Automatic,RED/BLACK,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,103 g/km
+renault,Clio,4989.0,2013,1149.0cc,"88,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Trafic,31200.0,2023,2L,19 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,31200.0,2023,2L,20 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,34560.0,2023,2L,20 miles,Diesel,Automatic,White,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,34560.0,2023,2L,35 miles,Diesel,Automatic,Grey,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,34560.0,2023,2L,17 miles,Diesel,Automatic,Black,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,22794.0,2021,2L,"72,759 miles",Diesel,Automatic,Grey,van,4X2,,,168 bhp,111 mph,,
+renault,Captur,16799.0,2022,1L,"5,506 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,90 bhp,104 mph,,135 g/km
+renault,Megane,21295.0,2020,1.8L,"25,141 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,276 bhp,158 mph,5.8 seconds,178 g/km
+renault,Clio,12995.0,2020,1L,"7,625 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,71 bhp,122 mph,,122 g/km
+renault,Twingo,6698.0,2016,0.9L,"57,864 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Kadjar,10998.0,2016,1.5L,"47,300 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Megane,11177.0,2020,1.5L,"55,064 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,119 g/km
+renault,Kadjar,13547.0,2017,1.6L,"23,541 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,129 bhp,118 mph,10.5 seconds,129 g/km
+renault,Captur,12873.0,2019,1.3L,"13,679 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Captur,11298.0,2019,0.9L,"21,085 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,9995.0,2019,0.9L,"23,934 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Captur,13291.0,2018,1.5L,"9,487 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Clio,18291.0,2022,1.6L,"12,458 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Captur,20295.0,2021,1.6L,"12,410 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,141 bhp,112 mph,,112 g/km
+renault,Arkana,26995.0,2023,1.6L,10 miles,Hybrid,Semiauto,White,SUV,4X2,4.0,5.0,145 bhp,107 mph,,107 g/km
+renault,Kadjar,9999.0,2017,1.5L,"66,624 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,99 g/km
+renault,Captur,11790.0,2018,0.9L,"9,108 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,14795.0,2020,1.3L,"6,117 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,13999.0,2020,1.3L,"40,418 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Captur,12499.0,2020,1.3L,"43,823 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,145 g/km
+renault,Captur,12899.0,2020,1.3L,"37,796 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Clio,10900.0,2019,0.9L,"15,850 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Kadjar,13590.0,2019,1332cc,"8,099 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,136 g/km
+renault,Kadjar,16290.0,2020,1332cc,"15,683 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Kadjar,16990.0,2020,1333cc,"17,550 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,154 g/km
+renault,Kadjar,10990.0,2016,1461cc,"36,230 miles",Diesel,Manual,Red,Hatchback,,,,,,,
+renault,Kadjar,14390.0,2019,1333cc,"27,317 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,135 g/km
+renault,Captur,12995.0,2018,1197cc,"18,000 miles",Petrol,Automatic,Red/Black,Hatchback,4X2,5.0,5.0,117 bhp,119 mph,,125 g/km
+renault,Koleos,17940.0,2019,2L,"34,766 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,174 bhp,128 mph,10.2 seconds,168 g/km
+renault,Captur,11350.0,2016,1.5L,"24,087 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,99 g/km
+renault,Kadjar,13033.0,2021,1.3L,"29,378 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,124 mph,,145 g/km
+renault,Captur,13566.0,2020,1.3L,"35,486 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,9071.0,2019,0.9L,"46,189 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Kadjar,13999.0,2019,1.3L,"18,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,136 g/km
+renault,Clio,4990.0,2014,1.1L,"84,850 miles",Petrol,Manual,Hatchback,30.1 mpg,4X4,5.0,5.0,375 bhp,155 mph,,
+renault,Scenic,8495.0,2012,1.6L,"31,000 miles",Petrol,Manual,Satin Silver Metallic,MPV,4X2,5.0,5.0,110 bhp,115 mph,11.7 seconds,174 g/km
+renault,Captur,10990.0,2018,898cc,"9,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,,114 g/km
+renault,Clio,13490.0,2019,1461cc,"6,500 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,11.8 seconds,107 g/km
+renault,Captur,5995.0,2014,1461cc,"89,200 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,8200.0,2018,1461cc,"130,270 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,113 mph,11.9 seconds,103 g/km
+renault,Megane,2990.0,2009,1461cc,"62,000 miles",Diesel,Manual,GREY,Convertible,4X2,2.0,4.0,106 bhp,119 mph,12.2 seconds,133 g/km
+renault,Clio,500.0,2011,1461cc,"120,000 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,88 bhp,108 mph,12.7 seconds,106 g/km
+renault,Master LWB L3H3 High Roof Lh35 Business Dci 135hp Side Door EURO 6 National Delivery Available,23994.0,2022,2298cc,"6,332 miles",Diesel,Manual,White,van,4X2,,,135 bhp,94 mph,,
+renault,Master LWB L3H3 High Roof Lh35 Business Dci Side Door EURO 6 National Delivery Available,24594.0,2022,2298cc,"5,924 miles",Diesel,Manual,White,van,4X2,,,135 bhp,94 mph,,
+renault,Trafic,17988.0,2021,2L,"50,057 miles",Diesel,Manual,White,van,4X2,,,143 bhp,109 mph,,
+renault,Clio,26990.0,1598cc,759 miles,Petrol,Automatic,Orange,Hatchback,65.7 mpg,4X2,5.0,5.0,141 bhp,112 mph,,97 g/km
+renault,Clio,12495.0,0L,"10,550 miles",Petrol,Manual,Valencia Orange,Hatchback,49.6 mpg,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,118 g/km
+renault,Captur,13980.0,2020,1.3L,"16,394 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,143 g/km
+renault,Kadjar,9580.0,2017,1.6L,"78,418 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,163 bhp,127 mph,,139 g/km
+renault,Megane,7000.0,2017,1598cc,"111,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,129 bhp,123 mph,10.0 seconds,105 g/km
+renault,Clio,4395.0,2015,1461cc,"118,917 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,5750.0,2015,1461cc,"72,000 miles",Diesel,Manual,Cream,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,12950.0,2020,1332cc,"25,307 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,9.9 seconds,149 g/km
+renault,Kadjar,8995.0,2016,1461cc,"76,000 miles",Diesel,Manual,Red,SUV,,,,,,,
+renault,Captur,13450.0,2019,1461cc,"32,000 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,112 g/km
+renault,Captur,13450.0,2020,898cc,"7,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,148 g/km
+renault,Grand Scenic,2595.0,2010,1461cc,"107,561 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,109 bhp,112 mph,12.5 seconds,128 g/km
+renault,Kadjar,15495.0,2019,1461cc,"24,624 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,114 bhp,117 mph,,115 g/km
+renault,Kadjar,13995.0,2020,1461cc,"50,767 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,117 mph,,133 g/km
+renault,Clio,2795.0,2008,1461cc,"102,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,15.2 seconds,120 g/km
+renault,Megane,2795.0,2011,1461cc,"100,406 miles",Diesel,Manual,Grey,Coupe,4X2,3.0,5.0,110 bhp,118 mph,10.5 seconds,114 g/km
+renault,Koleos,15295.0,2018,1995cc,"58,736 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,177 bhp,126 mph,10.7 seconds,148 g/km
+renault,Captur,13998.0,2001,1500cc,"25,000 miles",Diesel,Manual,Red,Other,,,,,,,
+renault,Megane,8489.0,2015,1461cc,"11,397 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Scenic,2950.0,2011,1500cc,"85,000 miles",Diesel,Other,Black,Other,4X2,5.0,7.0,110 bhp,112 mph,14.3 seconds,130 g/km
+renault,Captur,14149.0,2018,1461cc,"13,489 miles",Diesel,,Silver,SUV,4X2,5.0,5.0,88 bhp,107 mph,,103 g/km
+renault,Trafic,35520.0,2023,2L,28 miles,Diesel,Automatic,Black,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,31200.0,2023,2L,6 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,34560.0,2023,2L,18 miles,Diesel,Automatic,White,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,34560.0,2023,2L,19 miles,Diesel,Automatic,Grey,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,31200.0,2023,2L,5 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Trafic,35520.0,2023,2L,29 miles,Diesel,Automatic,Grey,van,4X2,,,150 bhp,110 mph,,
+renault,Trafic,31200.0,2023,2L,6 miles,Diesel,Manual,Grey,van,4X2,,,130 bhp,109 mph,,
+renault,Master,28800.0,2022,2.3L,350 miles,Diesel,Manual,White,van,4X2,,,150 bhp,97 mph,,
+renault,Trafic,23154.0,2021,2L,"9,053 miles",Diesel,Manual,Grey,van,4X2,,,120 bhp,103 mph,,
+renault,Austral,35000.0,2023,1.2L,"1,470 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,200 bhp,108 mph,,105 g/km
+renault,Koleos,16671.0,2019,2L,"45,500 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,174 bhp,128 mph,9.9 seconds,163 g/km
+renault,Captur,10598.0,2021,1.3L,"42,653 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Kadjar,14998.0,2020,1.5L,"37,143 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,136 g/km
+renault,Clio,9499.0,2018,0.9L,"28,788 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Clio,18299.0,2022,1.6L,"9,286 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Captur,9131.0,2018,0.9L,"51,600 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Megane,17995.0,2021,1.3L,"14,702 miles",Petrol,Semiauto,Brown,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,,134 g/km
+renault,Kadjar,14995.0,2020,1.3L,"18,719 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Kadjar,15495.0,2020,1.3L,"9,787 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Captur,13995.0,2020,1L,"10,398 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,13499.0,2020,1L,"14,200 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Kadjar,16899.0,2020,1.3L,"3,337 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,152 g/km
+renault,Clio,8499.0,2019,0.9L,"44,859 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Captur,8599.0,2018,1.5L,"53,843 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,,95 g/km
+renault,Captur,11450.0,2019,1.3L,"20,500 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,129 bhp,124 mph,10.2 seconds,128 g/km
+renault,Kadjar,14000.0,2020,1.3L,"19,280 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Clio,10500.0,2019,0.9L,"16,468 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Captur,9995.0,2017,1461cc,"29,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,109 mph,11.0 seconds,98 g/km
+renault,Megane,7122.0,2014,1461cc,"41,325 miles",Diesel,Manual,Black,Coupe,4X2,3.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Clio,6575.0,2013,898cc,"30,000 miles",Petrol,Manual,Diamond Black,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,104 g/km
+renault,Megane,5191.0,2012,1461cc,"58,993 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,110 bhp,118 mph,11.7 seconds,110 g/km
+renault,Clio,5995.0,2015,898cc,"81,870 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,104 g/km
+renault,Clio,8495.0,2017,1149cc,"32,507 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.5 seconds,127 g/km
+renault,Koleos,16480.0,2017,2L,"37,368 miles",Diesel,Automatic,Grey,Hatchback,4X4,5.0,5.0,177 bhp,125 mph,9.5 seconds,156 g/km
+renault,Clio,9799.0,2019,0.9L,"15,106 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,117 g/km
+renault,Kadjar,15999.0,2019,1.3L,"12,317 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,135 g/km
+renault,Trafic 2.0 LL30 SPORT ENERGY PANEL VAN LWB 120 BHP EURO 6,13495.0,2020,2L,"85,298 miles",Diesel,Manual,Grey,Van,4X2,,,120 bhp,103 mph,,
+renault,Trafic 2.0 LL30 SPORT ENERGY PANEL VAN LWB 120 BHP EURO 6,13495.0,2020,2L,"85,298 miles",Diesel,Manual,Grey,Van,4X2,,,120 bhp,103 mph,,
+renault,Megane,8800.0,2020,1461cc,"90,800 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.4 seconds,103 g/km
+renault,Kadjar,11900.0,2019,1461cc,"46,147 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,117 g/km
+renault,Kadjar,12200.0,2019,1461cc,"56,250 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,117 mph,11.7 seconds,115 g/km
+renault,Master 2.3 dCi ENERGY 35 Business FWD LWB High Roof Euro 6 (s/s) 4dr,12500.0,2021,2298cc,"139,000 miles",Diesel,Manual,White,Panel Van,4X2,,,150 bhp,97 mph,,
+renault,Megane,9427.0,2017,1.5L,"63,164 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Clio,10750.0,2020,1L,"23,498 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,11.8 seconds,99 g/km
+renault,Captur,13500.0,2020,1L,"23,160 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Captur,12989.0,2019,1.3L,"20,706 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Megane,10753.0,2017,1.5L,"35,520 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Clio,13788.0,2021,1L,"22,499 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,
+renault,Kadjar,17500.0,2021,1.3L,"14,728 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,138 bhp,124 mph,,144 g/km
+renault,Kadjar,14995.0,2019,1.3L,"21,109 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,127 g/km
+renault,Clio,9379.0,2019,900cc,"30,000 miles",Petrol,Manual,Diamond Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,113 g/km
+renault,Trafic Sl27 Dci 115 Swb Low Roof  (18674),3994.0,2007,1.995L,"118,202 miles",Diesel,Manual,Silver,Other,4X2,,,115 bhp,,,
+renault,Trafic,11995.0,2017,1598cc,"66,000 miles",Diesel,Manual,Silver,Van,4X2,,,118 bhp,103 mph,12.6 seconds,
+renault,Trafic,5995.0,2016,1598cc,"201,000 miles",Diesel,Manual,White,Van,4X2,,,118 bhp,107 mph,12.0 seconds,
+renault,Trafic,27200.0,2022,1997cc,112 miles,Diesel,Manual,White,Van,,,,,,,
+renault,Trafic,26800.0,2022,1997cc,112 miles,Diesel,Manual,White,Van,,,,,,,
+renault,Trafic,7990.0,2016,1598cc,"84,000 miles",Diesel,Manual,Black,Van,4X2,,,118 bhp,107 mph,12.0 seconds,
+renault,Master,12450.0,2017,2298cc,"46,050 miles",Diesel,Manual,White,Van,4X2,,,143 bhp,95 mph,,
+renault,Master,11950.0,2017,2298cc,"49,260 miles",Diesel,Manual,White,Van,4X2,,,143 bhp,95 mph,,
+renault,Captur,12995.0,2020,999cc,"26,338 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,107 mph,,137 g/km
+renault,Clio,4450.0,2013,1149cc,"51,821 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Captur,12375.0,2020,999cc,"5,131 miles",Petrol,Manual,Blue/Black,SUV,4X2,5.0,5.0,99 bhp,107 mph,,136 g/km
+renault,Clio,7995.0,2011,1998cc,"63,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,201 bhp,141 mph,6.9 seconds,190 g/km
+renault,Captur,11995.0,2020,1461cc,"47,811 miles",Diesel,Manual,Blue/Black,Hatchback,4X2,5.0,5.0,94 bhp,110 mph,,126 g/km
+renault,Captur,17995.0,2023,999cc,"1,848 miles",Petrol,Manual,White/Black,Hatchback,4X2,5.0,5.0,90 bhp,104 mph,,133 g/km
+renault,Twingo,5495.0,2015,898cc,"49,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,88 bhp,103 mph,10.8 seconds,99 g/km
+renault,Kadjar,12750.0,2020,1330cc,"31,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,151 g/km
+renault,Clio,4995.0,2013,1149cc,"78,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,6995.0,2016,1149cc,"45,050 miles",Petrol,Manual,Glacier White,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Captur,10990.0,2018,898cc,"15,929 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,123 g/km
+renault,Captur,5495.0,2013,898cc,"63,000 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.0 seconds,114 g/km
+renault,Clio,7490.0,2016,1149cc,"30,174 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,15.7 seconds,127 g/km
+renault,Clio,4800.0,2014,1149cc,"88,135 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Modus,4495.0,2011,1598cc,"60,100 miles",Petrol,Automatic,Red,MPV,4X2,5.0,5.0,110 bhp,114 mph,12.5 seconds,179 g/km
+renault,Megane,9400.0,2018,1197cc,"72,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,130 bhp,122 mph,,123 g/km
+renault,Clio,7990.0,2017,1461cc,"28,836 miles",Diesel,Manual,Other,Hatchback,,,,,,,
+renault,Clio,6990.0,2017,1461cc,"58,671 miles",Diesel,Manual,Other,Hatchback,,,,,,,
+renault,Clio,7440.0,2017,1461cc,"46,414 miles",Diesel,Manual,Other,Hatchback,,,,,,,
+renault,Clio,6990.0,2017,1461cc,"46,590 miles",Diesel,Manual,Other,Hatchback,,,,,,,
+renault,Kadjar,10995.0,2018,1461cc,"53,053 miles",Diesel,Automatic,Red,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,103 g/km
+renault,Captur,15990.0,2020,1333cc,"6,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+renault,Clio,1450.0,2006,1149cc,"87,815 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,58 bhp,98 mph,15.0 seconds,143 g/km
+renault,Megane,7550.0,2015,1461cc,"34,531 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Clio,8494.0,2019,898cc,"60,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.1 seconds,114 g/km
+renault,Clio,2995.0,2006,1598cc,"64,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,111 bhp,116 mph,12.2 seconds,179 g/km
+renault,Kadjar,10495.0,2016,1461cc,"51,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.7 seconds,99 g/km
+renault,Clio,4295.0,2012,1149cc,"48,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,75 bhp,104 mph,13.4 seconds,135 g/km
+renault,Megane,4195.0,2015,1461cc,"101,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,12.1 seconds,90 g/km
+renault,Scenic,4299.0,2015,1500cc,"129,000 miles",Diesel,Automatic,Beige,Other,4X2,5.0,5.0,109 bhp,112 mph,13.4 seconds,124 g/km
+renault,Megane,14490.0,2020,1330cc,"18,699 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,138 bhp,127 mph,9.8 seconds,124 g/km
+renault,Captur,7190.0,2015,1461cc,"59,000 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Captur,6600.0,2015,1.5L,"76,101 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,95 g/km
+renault,Kadjar,14495.0,2020,1.3L,"27,872 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Captur,20995.0,2021,1.6L,"14,954 miles",Hybrid,Automatic,Other,SUV,4X2,5.0,5.0,160 bhp,173 mph,,35 g/km
+renault,Captur,11986.0,2018,1.2L,"11,300 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,117 bhp,113 mph,9.9 seconds,125 g/km
+renault,Captur,11990.0,2017,1.2L,"29,242 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,117 bhp,119 mph,10.6 seconds,125 g/km
+renault,Kadjar,11490.0,2017,1.2L,"42,154 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,132 g/km
+renault,Arkana,19990.0,2021,1.6L,"23,560 miles",Hybrid,Semiauto,Black,SUV,4X2,4.0,5.0,145 bhp,108 mph,,112 g/km
+renault,Clio,13699.0,2021,1L,"15,563 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,119 g/km
+renault,Megane,1699.0,2006,1598cc,"71,081 miles",Petrol,Manual,Metallic Grey,Hatchback,4X2,5.0,5.0,111 bhp,119 mph,10.9 seconds,163 g/km
+renault,Megane,2995.0,2011,1598cc,"74,000 miles",Petrol,Manual,Beige,Estate,4X2,5.0,5.0,110 bhp,118 mph,10.5 seconds,163 g/km
+renault,Clio,6495.0,2015,1461cc,"55,199 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Scenic,2995.0,2011,1461cc,"80,000 miles",Diesel,Manual,Polar White,MPV,4X2,5.0,5.0,110 bhp,112 mph,12.3 seconds,128 g/km
+renault,Clio,6995.0,2014,1.1L,"71,119 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,5200.0,2015,1.5L,"97,990 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,11.9 seconds,90 g/km
+renault,Captur,10234.0,2018,1.5L,"50,011 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,88 bhp,107 mph,13.8 seconds,113 g/km
+renault,Captur,11849.0,2019,0.9L,"13,627 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Wind,4195.0,2011,1598cc,"49,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,134 bhp,125 mph,9.2 seconds,159 g/km
+renault,Captur,10969.0,2019,0.9L,"26,024 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,122 g/km
+renault,Captur,14031.0,2019,1.3L,"13,000 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,147 bhp,130 mph,9.5 seconds,125 g/km
+renault,Clio,18699.0,2022,1.6L,"8,717 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,100 g/km
+renault,Clio,15100.0,2022,1L,"10,616 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,112 mph,,120 g/km
+renault,Captur,20995.0,2023,1.3L,"8,000 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,122 mph,,132 g/km
+renault,Trafic,5745.0,2011,1996cc,"145,000 miles",Diesel,Manual,Silver,Van,4X2,,,115 bhp,96 mph,0 seconds,
+renault,Megane,5989.0,2015,1598cc,"42,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,10.5 seconds,159 g/km
+renault,Trafic,10990.0,2016,1598cc,"78,750 miles",Diesel,Manual,White,Van,4X2,,,113 bhp,104 mph,12.4 seconds,
+renault,Master,27980.0,2007,3000cc,"52,000 miles",Diesel,Manual,White,Van,,,,,,,
+renault,Kadjar,12995.0,2020,1330cc,"15,418 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,10.4 seconds,152 g/km
+renault,Laguna,2395.0,2010,1995cc,"83,465 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,150 bhp,130 mph,9.5 seconds,139 g/km
+renault,Kadjar,8950.0,2016,1598cc,"93,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,129 bhp,118 mph,10.5 seconds,129 g/km
+renault,Clio,14295.0,2020,999cc,"9,608 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,133 g/km
+renault,Kadjar,15450.0,2020,1332cc,"23,000 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,138 bhp,126 mph,9.6 seconds,153 g/km
+renault,Clio,4950.0,2013,899cc,"85,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.2 seconds,105 g/km
+renault,Megane,9295.0,2016,"67,205 miles",Diesel,Manual,Silver,Hatchback,76.4 mpg,4X2,5.0,5.0,109 bhp,116 mph,11.3 seconds,95 g/km
+renault,Captur,14995.0,2020,1333cc,"18,442 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+renault,Captur,11995.0,2019,898cc,"22,456 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,106 mph,13.1 seconds,125 g/km
+renault,Clio,7723.0,2015,898cc,"31,717 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,12.2 seconds,104 g/km
+renault,Clio,8995.0,2016,1461cc,"55,971 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.9 seconds,92 g/km
+renault,Megane,6994.0,2017,1461cc,"102,400 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,109 bhp,116 mph,,95 g/km
+renault,Clio,5295.0,2014,1149cc,"71,803 miles",Petrol,Manual,Glacier White,Hatchback,4X2,5.0,5.0,75 bhp,104 mph,14.5 seconds,127 g/km
+renault,Clio,1950.0,2008,1461cc,"110,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,106 bhp,118 mph,11.1 seconds,123 g/km
+renault,Trafic,47998.0,2023,2L,"3,500 miles",Diesel,Automatic,Black,van,4X2,,,170 bhp,115 mph,,
+renault,Clio,10999.0,2020,1L,"44,583 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,122 mph,,120 g/km

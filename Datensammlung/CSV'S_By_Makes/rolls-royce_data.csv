@@ -1,0 +1,17 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+rolls-royce,SPIRIT,12995.0,1987,6.79L,"100,000 miles",Petrol,Automatic,White,Saloon,4X2,4.0,,,,,0 g/km
+rolls-royce,Corniche,39990.0,1969,6.2L,"21,600 miles",Petrol,Automatic,Red,Other,,,,,,,
+rolls-royce,Dawn,229750.0,2020,6.6L,"14,125 miles",Petrol,Automatic,Belladonna Purple,Convertible,4X2,2.0,4.0,563 bhp,155 mph,5.0 seconds,374 g/km
+rolls-royce,Wraith,124999.0,2016,6592cc,"26,045 miles",Petrol,Automatic,RED/BLACK,Coupe,,,,,,,
+rolls-royce,Cullinan,274950.0,2020,6.7L,"20,600 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,591 bhp,155 mph,,372 g/km
+rolls-royce,Dawn,179750.0,2016,6.6L,"9,845 miles",Petrol,Automatic,WHITE,Convertible,4X2,2.0,4.0,563 bhp,155 mph,5.0 seconds,330 g/km
+rolls-royce,Dawn,157948.0,2017,6592cc,"31,000 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,4.0,563 bhp,155 mph,5.0 seconds,330 g/km
+rolls-royce,Spirit,9995.0,1989,6750cc,"72,969 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,,,,,0 g/km
+rolls-royce,Phantom,100000.0,2006,6749cc,"22,000 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,456 bhp,150 mph,5.7 seconds,385 g/km
+rolls-royce,Ghost,329950.0,2024,6.7L,236 miles,Petrol,Automatic,Diamond Black,Saloon,,,,,,,
+rolls-royce,Ghost,294950.0,2022,6.7L,"8,150 miles",Petrol,Automatic,WHITE,Saloon,,,,,,,
+rolls-royce,Dawn,129995.0,2016,6592cc,"114,000 miles",Petrol,Automatic,White,Convertible,,,,,,,
+rolls-royce,Spirit,62079.0,1986,6750cc,"66,000 miles",Petrol,Automatic,Other,Saloon,4X2,5.0,5.0,153 bhp,134 mph,9.3 seconds,164 g/km
+rolls-royce,Ghost,124991.0,2015,6592cc,"9,384 miles",Petrol,Automatic,Saloon,20.2 mpg,4X2,4.0,5.0,563 bhp,155 mph,4.9 seconds,327 g/km
+rolls-royce,Spirit,14995.0,1992,6750cc,"53,000 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,,343 bhp,,,0 g/km
+rolls-royce,Cullinan,247495.0,2019,6749cc,"17,050 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,563 bhp,155 mph,5.2 seconds,341 g/km

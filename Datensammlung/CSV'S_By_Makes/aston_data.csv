@@ -1,0 +1,47 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+aston,Martin DB11,86495.0,2018,4L,"14,261 miles",Petrol,Automatic,Lunar White,Convertible,,,,,,,
+aston,Martin Vanquish,79750.0,2015,5935cc,"58,356 miles",Petrol,Automatic,BLACK,Convertible,4X2,2.0,4.0,567 bhp,197 mph,4.0 seconds,298 g/km
+aston,Martin DBS,74995.0,2011,5.935L,"39,979 miles",Petrol,Automatic,Black,Coupe,4X2,2.0,2.0,513 bhp,183 mph,4.5 seconds,367 g/km
+aston,Martin DBS,132950.0,2019,5.2L,"41,423 miles",Petrol,Semiauto,Grey,Coupe,4X2,2.0,4.0,714 bhp,211 mph,3.4 seconds,285 g/km
+aston,Martin Vantage,124995.0,2023,3982cc,982 miles,Petrol,Automatic,Grey,Coupe,4X2,3.0,2.0,503 bhp,195 mph,,264 g/km
+aston,Martin Rapide,34900.0,2011,5935cc,"53,000 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,4.0,473 bhp,183 mph,4.8 seconds,355 g/km
+aston,Martin Vantage,82495.0,2019,4L,"15,977 miles",Petrol,Automatic,Xenon Grey,Coupe,,,,,,,
+aston,Martin DB9,30000.0,2005,0L,"47,950 miles",Petrol,Automatic,GREY,Coupe,,,,,,,
+aston,Martin DBS,246000.0,2019,5.2L,"2,018 miles",Petrol,Automatic,Q SPECIAL ASTON MARTIN RACING,Coupe,4X2,2.0,4.0,714 bhp,211 mph,3.4 seconds,285 g/km
+aston,Martin DB11,86450.0,2018,4L,"15,414 miles",Petrol,Automatic,INTENSE BLUE,Convertible,4X2,2.0,4.0,503 bhp,187 mph,4.1 seconds,230 g/km
+aston,Martin DBS,73450.0,2010,5.9L,"18,849 miles",Petrol,Automatic,Storm Black,Coupe,4X2,2.0,2.0,513 bhp,183 mph,4.5 seconds,367 g/km
+aston,Martin DBS,207950.0,2022,5.2L,574 miles,Petrol,Semiauto,Black,Coupe,4X2,2.0,4.0,714 bhp,211 mph,3.4 seconds,
+aston,Martin DBX,116950.0,2021,4L,"18,500 miles",Petrol,Semiauto,Silver,SUV,4X4,5.0,5.0,543 bhp,181 mph,,323 g/km
+aston,Martin DB11,142950.0,2023,4L,150 miles,Petrol,Semiauto,Blue,Coupe,4X2,2.0,4.0,527 bhp,193 mph,,244 g/km
+aston,Martin Vantage,44490.0,2015,4735cc,"35,850 miles",Petrol,Automatic,SILVER,Coupe,4X2,3.0,2.0,419 bhp,180 mph,5.0 seconds,296 g/km
+aston,Martin Vantage,110950.0,2021,4L,"4,872 miles",Petrol,Automatic,MAGNETIC SILVER,Roadster,4X2,2.0,2.0,503 bhp,195 mph,,263 g/km
+aston,Martin DB9,35980.0,2008,5935cc,"15,711 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,4.0,453 bhp,186 mph,4.9 seconds,394 g/km
+aston,Martin DBS,77995.0,2009,5935cc,"8,100 miles",Petrol,Automatic,Silver,Coupe,,,,,,,
+aston,Martin Rapide,134950.0,2019,6L,"3,736 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,4.0,595 bhp,205 mph,,305 g/km
+aston,Martin Vantage,49995.0,2014,4735cc,"19,000 miles",Petrol,Manual,Silver,Coupe,4X2,3.0,2.0,433 bhp,190 mph,5.0 seconds,299 g/km
+aston,Martin DB9,21950.0,2005,5935cc,"77,000 miles",Petrol,Automatic,SILVER,Coupe,4X2,2.0,4.0,453 bhp,186 mph,4.9 seconds,394 g/km
+aston,Martin Vanquish,109900.0,2017,5935cc,"9,200 miles",Petrol,Automatic,BLACK,Convertible,4X4,5.0,5.0,403 bhp,124 mph,,0 g/km
+aston,Martin Vantage,73995.0,2018,3982cc,"44,000 miles",Petrol,Automatic,Blue,Coupe,,,,,,,
+aston,Martin DB11,107999.0,2021,4L,"20,015 miles",Petrol,Semiauto,Grey,Coupe,4X2,2.0,4.0,527 bhp,193 mph,,244 g/km
+aston,Martin DBX,192999.0,2023,4L,"4,695 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,697 bhp,193 mph,,323 g/km
+aston,Martin DBS,147995.0,2020,5.2L,"26,719 miles",Petrol,Automatic,Hammerhead Silver,Convertible,4X2,2.0,4.0,714 bhp,211 mph,3.6 seconds,295 g/km
+aston,Martin DBS,224999.0,2023,5.2L,"7,373 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,4.0,714 bhp,211 mph,3.6 seconds,306 g/km
+aston,Martin Vantage,124999.0,2022,4L,"7,222 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,2.0,503 bhp,195 mph,,263 g/km
+aston,Martin Vantage,114999.0,2022,4L,"9,612 miles",Petrol,Semiauto,Silver,Hatchback,4X2,3.0,2.0,503 bhp,195 mph,,264 g/km
+aston,Martin Vantage,84999.0,2019,4L,"15,067 miles",Petrol,Semiauto,Black,Hatchback,4X2,3.0,2.0,503 bhp,195 mph,3.6 seconds,236 g/km
+aston,Martin Vantage,88995.0,2021,4L,"12,611 miles",Petrol,Manual,SILVER,Coupe,4X2,3.0,2.0,503 bhp,195 mph,,276 g/km
+aston,Martin DB11,84950.0,2018,5.2L,"20,540 miles",Petrol,Semiauto,Black,Coupe,4X2,2.0,4.0,600 bhp,200 mph,,265 g/km
+aston,Martin Rapide,74900.0,2018,5.9L,"11,872 miles",Petrol,Automatic,BLUE,Saloon,4X2,5.0,4.0,552 bhp,203 mph,4.4 seconds,300 g/km
+aston,Martin Vantage,104995.0,2022,4L,"9,409 miles",Petrol,Automatic,Xenon Grey,Coupe,4X2,3.0,2.0,503 bhp,195 mph,,264 g/km
+aston,Martin DB11,74500.0,2017,5.2L,"23,150 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,4.0,600 bhp,200 mph,,265 g/km
+aston,Martin Vantage,83950.0,2019,4L,"17,252 miles",Petrol,Automatic,Magnetic Silver,Coupe,,,,,,,
+aston,Martin DBX,204950.0,2024,4L,769 miles,Petrol,Automatic,China Grey,Estate,,,,,,,
+aston,Martin DBX,104995.0,2020,4L,"25,108 miles",Petrol,Automatic,Magnetic Silver,Estate,4X4,5.0,5.0,543 bhp,181 mph,,323 g/km
+aston,Martin Rapide,37000.0,2011,5.9L,"28,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,4.0,473 bhp,183 mph,4.8 seconds,355 g/km
+aston,Martin DB11,73950.0,2017,5.2L,"23,169 miles",Petrol,Automatic,Magnetic Silver,Coupe,4X2,2.0,4.0,600 bhp,200 mph,,265 g/km
+aston,Martin DB7,21999.0,2000,5935cc,"79,143 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,4.0,422 bhp,165 mph,5.0 seconds,0 g/km
+aston,Martin Vantage,,2012,4735cc,"12,000 miles",Petrol,Automatic,Black,Coupe,4X2,3.0,2.0,422 bhp,180 mph,5.0 seconds,299 g/km
+aston,Martin Vantage,88980.0,2019,3982cc,"9,789 miles",Petrol,Manual,ONYX BLACK MET,Coupe,,,,,,,
+aston,Martin Vantage,99995.0,2022,3982cc,"5,560 miles",Petrol,Automatic,Silver,Coupe,,,,,,,
+aston,Martin DBS,140000.0,2020,5204cc,"12,800 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,4.0,714 bhp,211 mph,3.4 seconds,285 g/km
+aston,Martin DB11,96000.0,2020,3982cc,"41,545 miles",Petrol,Automatic,BLUE,Coupe,4X2,2.0,4.0,503 bhp,187 mph,4.0 seconds,244 g/km

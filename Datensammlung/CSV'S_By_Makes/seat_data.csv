@@ -1,0 +1,1290 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+seat,Ibiza,6299.0,2014,1197cc,"67,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,8790.0,2016,1197cc,"37,875 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Alhambra,10890.0,2013,1968cc,"82,189 miles",Diesel,Automatic,WHITE,MPV,4X2,5.0,7.0,174 bhp,127 mph,9.6 seconds,154 g/km
+seat,Ibiza,9964.0,2019,999cc,"41,573 miles",Petrol,Manual,GOLD,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Mii,5395.0,2013,999cc,"27,703 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,74 bhp,106 mph,13.2 seconds,108 g/km
+seat,Ateca,13750.0,2019,1598cc,"52,005 miles",Diesel,Automatic,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Tarraco,17950.0,2020,1498cc,"38,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,137 g/km
+seat,Ibiza,9995.0,2018,999cc,"36,630 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.7 seconds,112 g/km
+seat,Arona,13799.0,2020,1L,"27,167 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,137 g/km
+seat,Leon,26995.0,2023,2L,"1,001 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,188 bhp,145 mph,,152 g/km
+seat,Ateca,32995.0,2023,2L,"1,001 miles",Petrol,Semiauto,Green,SUV,4X4,5.0,5.0,188 bhp,133 mph,,184 g/km
+seat,Ateca,25850.0,2023,1.5L,"4,512 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Arona,16490.0,2021,1L,"7,829 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Arona,15895.0,2021,1L,"14,517 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Tarraco,30995.0,2023,2L,"9,088 miles",Diesel,Automatic,Green,SUV,4X2,5.0,7.0,147 bhp,122 mph,,147 g/km
+seat,Arona,21995.0,2023,1L,31 miles,Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,138 g/km
+seat,Ateca,25295.0,2023,1.5L,"5,478 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Tarraco,24520.0,2019,2L,"18,302 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Leon,21795.0,2020,2L,"30,350 miles",Petrol,Semiauto,Black,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,161 g/km
+seat,Ibiza,7295.0,2015,1.4L,"33,212 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,24999.0,2023,1.5L,"7,110 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Tarraco,24750.0,2020,1968cc,"23,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Leon,9750.0,2019,1598cc,"75,995 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Leon,12150.0,2019,1598cc,"33,350 miles",Diesel,Manual,Purple,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Ibiza,9995.0,2015,1197cc,"14,669 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,4595.0,2014,1390cc,"85,453 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,4995.0,2013,1390cc,"56,800 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,2700.0,2007,1896cc,"93,454 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,114 mph,11.3 seconds,135 g/km
+seat,Ibiza,9290.0,2018,999cc,"58,488 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.7 seconds,112 g/km
+seat,Leon,10990.0,2017,1395cc,"60,774 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,114 g/km
+seat,Ateca,16749.0,2020,1498cc,"46,688 miles",Petrol,,Black,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,152 g/km
+seat,Ateca,20049.0,2019,1498cc,"19,643 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Ateca,16949.0,2020,999cc,"14,197 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Ateca,16049.0,2020,999cc,"21,980 miles",Petrol,,Black,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Arona,14049.0,2019,999cc,"19,658 miles",Petrol,,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Arona,12949.0,2018,999cc,"32,397 miles",Petrol,,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Arona,12999.0,2020,999cc,"27,356 miles",Petrol,,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ibiza,15995.0,2022,1L,"4,208 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+seat,Ibiza,8499.0,2017,1.2L,"50,728 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+seat,Leon,20699.0,2021,1.5L,"22,342 miles",Hybrid,Semiauto,White,Hatchback,,,,,,,
+seat,Ibiza,12999.0,2020,1L,"57,487 miles",Petrol,Manual,Orange,Hatchback,,,,,,,
+seat,Leon,17190.0,2021,1.5L,"21,377 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,131 g/km
+seat,Leon,13290.0,2020,1L,"21,465 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Alhambra,20341.0,2017,2L,"19,586 miles",Diesel,Semiauto,Red,MPV,4X2,5.0,7.0,181 bhp,135 mph,8.9 seconds,141 g/km
+seat,Leon,12995.0,2018,2L,"38,000 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,,112 g/km
+seat,Leon,15500.0,2020,1498cc,"15,383 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,126 g/km
+seat,Ateca,18200.0,2020,1498cc,"12,278 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,152 g/km
+seat,Mii,6980.0,2018,999cc,"38,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,102 g/km
+seat,Arona,16490.0,2020,999cc,"19,657 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Leon,13990.0,2020,999cc,"27,120 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,130 mph,,125 g/km
+seat,Arona,15290.0,2021,999cc,"27,710 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Arona,15990.0,2021,999cc,"8,254 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,24990.0,2020,1984cc,"30,000 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,190 g/km
+seat,Leon,11000.0,2020,1968cc,"70,920 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.8 seconds,111 g/km
+seat,Ibiza,10970.0,2020,999cc,"27,230 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,,121 g/km
+seat,Ateca,21290.0,2021,1.5L,"27,419 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Ateca,15490.0,2019,1.6L,"27,866 miles",Diesel,Semiauto,Orange,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Ateca,25790.0,2023,1.5L,"10,070 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Ateca,26350.0,2022,2L,"8,581 miles",Diesel,Semiauto,White,SUV,4X4,5.0,5.0,148 bhp,122 mph,,157 g/km
+seat,Arona,18350.0,2023,1L,"7,140 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ateca,23970.0,2023,1498cc,"11,509 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Ibiza,13490.0,2020,999cc,"25,356 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Leon,8995.0,2017,1197cc,"77,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Ateca,11279.0,2018,1000cc,"66,000 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,120 g/km
+seat,Ibiza,5995.0,2012,1198cc,"41,035 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.9 seconds,125 g/km
+seat,Leon,13995.0,2018,1968cc,"44,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,181 bhp,142 mph,,118 g/km
+seat,Leon,7495.0,2016,1598cc,"100,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,102 g/km
+seat,Leon,18795.0,2019,1984cc,"7,470 miles",Petrol,Automatic,Metallic - Desire Red,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Ibiza,16995.0,2022,999cc,"7,823 miles",Petrol,Manual,Metallic - Nevada White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ateca,12695.0,2017,1395cc,"34,422 miles",Petrol,Manual,GREY,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,122 g/km
+seat,Arona,16995.0,2020,999cc,"9,712 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,138 g/km
+seat,Alhambra,8595.0,2013,1968cc,"99,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,138 bhp,120 mph,10.9 seconds,146 g/km
+seat,Leon,17995.0,2019,1984cc,"13,572 miles",Petrol,Automatic,PURPLE,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Leon,5990.0,2015,1598cc,"93,900 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.9 seconds,102 g/km
+seat,Ibiza,4995.0,2011,1390cc,"65,755 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,8475.0,2015,1395cc,"66,087 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,8.2 seconds,109 g/km
+seat,Leon,8850.0,2016,1598cc,"81,256 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,102 g/km
+seat,Leon,7595.0,2015,1598cc,"99,351 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,10.0 seconds,87 g/km
+seat,Leon,11950.0,2018,999cc,"43,825 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,,102 g/km
+seat,Ibiza,8995.0,2016,1197cc,"34,259 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,88 bhp,114 mph,11.1 seconds,116 g/km
+seat,Ibiza,5400.0,2016,1197cc,"109,333 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,109 bhp,122 mph,9.1 seconds,119 g/km
+seat,Toledo,5495.0,2013,1598cc,"69,584 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.4 seconds,106 g/km
+seat,Leon,13987.0,2018,1798cc,"41,405 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,180 bhp,139 mph,,134 g/km
+seat,Ibiza,7748.0,2015,1197cc,"47,494 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,11495.0,2018,999cc,"42,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,113 g/km
+seat,Arona,17994.0,2021,999cc,"17,902 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ateca,13495.0,2017,1395cc,"97,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Leon,12590.0,2020,1968cc,"68,000 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,131 mph,8.4 seconds,115 g/km
+seat,Ateca,19190.0,2023,999cc,300 miles,Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,,146 g/km
+seat,Ateca,18090.0,2020,1498cc,"8,958 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ateca,16790.0,2020,1498cc,"60,931 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Leon,10995.0,2016,1395cc,"50,617 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,7.9 seconds,113 g/km
+seat,Leon,9995.0,2018,999cc,"73,160 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,123 mph,,102 g/km
+seat,Ibiza,17999.0,2020,999cc,"29,319 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,126 g/km
+seat,Arona,15599.0,2021,999cc,"28,556 miles",Petrol,,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,11799.0,2018,1197cc,"29,911 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Ibiza,12199.0,2022,999cc,"57,718 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,118 g/km
+seat,Tarraco,20049.0,2019,1498cc,"32,473 miles",Petrol,,Black,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,137 g/km
+seat,Ibiza,5995.0,2014,1390cc,"36,483 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,14000.0,2020,1498cc,"67,691 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,151 g/km
+seat,Ibiza,15990.0,2021,999cc,"8,319 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,13700.0,2018,999cc,"46,300 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,122 g/km
+seat,Arona,15490.0,2021,999cc,"34,915 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Arona,12990.0,2018,999cc,"34,946 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,,113 g/km
+seat,Leon,10400.0,2019,1968cc,"85,910 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,115 g/km
+seat,Arona,15692.0,2020,999cc,"14,282 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,118 mph,,134 g/km
+seat,Ateca,18743.0,2020,1498cc,"26,564 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,,154 g/km
+seat,Leon,10800.0,2018,1395cc,"69,350 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Tarraco,32970.0,2023,1498cc,"2,120 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,148 bhp,124 mph,,163 g/km
+seat,Ateca,11200.0,2019,1598cc,"82,918 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,15000.0,2019,999cc,"10,991 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Leon,14000.0,2021,1498cc,"46,485 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,135 mph,,132 g/km
+seat,Leon,14290.0,2021,999cc,"20,481 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ateca,18750.0,2019,1498cc,"28,791 miles",Petrol,Automatic,Samoa Orange Metallic,Hatchback,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,129 g/km
+seat,Leon,4990.0,2015,1598cc,"130,000 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,102 g/km
+seat,Leon,11390.0,2019,1598cc,"48,384 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,114 bhp,122 mph,10.6 seconds,107 g/km
+seat,Leon,16594.0,2019,1984cc,"27,784 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Ibiza,8000.0,2016,999cc,"26,006 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Ibiza,5250.0,2013,1390cc,"56,600 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,17800.0,2019,1498cc,"12,125 miles",Petrol,Automatic,Red,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,116 g/km
+seat,Leon,24990.0,2022,1.5L,"9,074 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,131 g/km
+seat,Arona,21995.0,2023,1L,"2,800 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Leon,13600.0,2019,1.5L,"58,310 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,113 g/km
+seat,Arona,16695.0,2022,1L,"16,195 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Leon,17995.0,2020,1.5L,"27,000 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,147 bhp,135 mph,,134 g/km
+seat,Ibiza,14500.0,2021,1L,"17,402 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,19000.0,2020,1.5L,"46,082 miles",Petrol,Semiauto,Green,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Ibiza,11999.0,2019,1L,"44,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Ateca,18450.0,2020,1.5L,"18,430 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,14995.0,2017,2L,"66,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,296 bhp,155 mph,,158 g/km
+seat,Ibiza,14499.0,2019,1L,"25,682 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Leon,10572.0,2016,1.4L,"53,776 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,7.9 seconds,117 g/km
+seat,Tarraco,19251.0,2019,2L,"27,003 miles",Diesel,Manual,Black,SUV,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Leon,15490.0,2020,1.5L,"19,390 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,126 g/km
+seat,Leon,17990.0,2021,1.5L,"15,339 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,131 g/km
+seat,Arona,20490.0,2022,1L,"6,661 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Ateca,29490.0,2023,1.5L,"7,998 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Ibiza,19680.0,2023,1L,"2,998 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Ibiza,20000.0,2023,1L,"1,024 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Leon,12690.0,2018,1.4L,"33,800 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Leon,22499.0,2022,1.5L,"10,982 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,131 g/km
+seat,Leon,12295.0,2019,1L,"33,099 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,112 g/km
+seat,Arona,11000.0,2018,1L,"46,342 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,,111 g/km
+seat,Ibiza,15950.0,2021,1L,"43,650 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,,138 g/km
+seat,Alhambra,25450.0,2020,2L,"20,660 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,147 bhp,200 mph,10.3 seconds,135 g/km
+seat,Leon,15950.0,2020,1L,"19,866 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ibiza,9950.0,2017,1L,"36,095 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,106 g/km
+seat,Ibiza,9950.0,2018,1L,"47,384 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,106 g/km
+seat,Leon,17295.0,2021,1.5L,"8,580 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Tarraco,24000.0,2020,2L,"32,940 miles",Diesel,Semiauto,Green,SUV,4X4,5.0,7.0,147 bhp,126 mph,,176 g/km
+seat,Ibiza,14490.0,2020,1L,"36,125 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,131 g/km
+seat,Tarraco,30599.0,2022,2L,"16,677 miles",Diesel,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,122 mph,,147 g/km
+seat,Ibiza,11000.0,2019,1L,"32,984 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Arona,13488.0,2019,1L,"10,959 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Arona,13200.0,2000,999cc,"24,258 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ateca,16495.0,2020,1598cc,"25,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,146 g/km
+seat,Arona,11495.0,2019,1598cc,"60,000 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,94 bhp,108 mph,,109 g/km
+seat,Tarraco,21495.0,2019,1968cc,"43,900 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,188 bhp,130 mph,8.0 seconds,147 g/km
+seat,Leon,2750.0,2010,1896cc,"145,910 miles",Diesel,Manual,Yellow,Hatchback,4X2,5.0,5.0,103 bhp,115 mph,11.3 seconds,135 g/km
+seat,Leon,12850.0,2019,1598cc,"32,520 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Leon,16995.0,2021,999cc,"22,404 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ateca,22495.0,2021,1498cc,"19,242 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,148 bhp,124 mph,,148 g/km
+seat,Leon,12999.0,2020,1498cc,"50,000 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,114 g/km
+seat,Leon,9290.0,2018,1197cc,"62,000 miles",Petrol,Manual,Metallic Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,114 g/km
+seat,Leon,5995.0,2013,1598cc,"114,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Ibiza,10990.0,2018,999cc,"59,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Alhambra,11990.0,2017,1968cc,"96,076 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,147 bhp,126 mph,10.2 seconds,132 g/km
+seat,Ibiza,13695.0,2019,1000cc,"27,535 miles",Petrol,Manual,Red,Other,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Ibiza,3195.0,2010,1400cc,"59,610 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,79 bhp,110 mph,12.9 seconds,98 g/km
+seat,Leon,13680.0,2019,1498cc,"55,480 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Ibiza,12840.0,2020,999cc,"54,816 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Ateca,12490.0,2018,999cc,"34,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,119 g/km
+seat,Ibiza,5995.0,2014,1390cc,"62,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,14489.0,2016,1984cc,"51,607 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,5.8 seconds,156 g/km
+seat,Alhambra,13888.0,2016,1968cc,"99,973 miles",Diesel,Automatic,GREY,MPV,4X2,5.0,7.0,147 bhp,124 mph,10.4 seconds,136 g/km
+seat,Leon,10995.0,2016,1798cc,"59,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,3.0,5.0,180 bhp,139 mph,7.2 seconds,134 g/km
+seat,Leon,10999.0,2017,1598cc,"49,680 miles",Diesel,Automatic,BLUE,Estate,4X2,5.0,5.0,114 bhp,122 mph,,112 g/km
+seat,Leon,6400.0,2014,1968cc,"110,234 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,14933.0,2018,1395cc,"45,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Arona,12960.0,2018,999cc,"64,745 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,11495.0,2017,1395cc,"56,630 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,115 g/km
+seat,Ibiza,9190.0,2016,1395cc,"53,333 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,7.3 seconds,112 g/km
+seat,Mii,4490.0,2012,999cc,"63,915 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+seat,Arona,18999.0,2023,999cc,"3,776 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,139 g/km
+seat,Leon,14998.0,2019,1.5L,"14,504 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,116 g/km
+seat,Ibiza,8099.0,2017,1L,"38,053 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Arona,16300.0,2021,1L,"13,163 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Arona,12649.0,2020,999cc,"32,068 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Leon,13799.0,2019,1498cc,"30,919 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Leon,16899.0,2020,1498cc,"27,945 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,132 g/km
+seat,Leon,14999.0,2019,1.5L,"18,269 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,120 g/km
+seat,Ibiza,15695.0,2021,1L,"26,490 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Arona,13990.0,2022,1L,"31,322 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ibiza,16489.0,2019,1L,"11,661 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Leon,14440.0,2019,2L,"55,950 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,147 bhp,131 mph,8.4 seconds,118 g/km
+seat,Ibiza,15990.0,2019,999cc,"21,172 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,111 g/km
+seat,Tarraco,39990.0,2023,1968cc,122 miles,Diesel,Automatic,Black,SUV,,,,,,,
+seat,Ateca,12900.0,2017,1598cc,"60,690 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,119 g/km
+seat,Arona,13500.0,2019,999cc,"22,386 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,11995.0,2017,1395cc,"61,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,115 g/km
+seat,Ateca,12437.0,2018,999cc,"38,099 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,119 g/km
+seat,Ibiza,12990.0,2019,999cc,"32,623 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Arona,12490.0,2020,999cc,"35,377 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Leon,12995.0,2018,1197cc,"53,437 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Leon,12725.0,2020,1498cc,"30,468 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Arona,20945.0,2023,999cc,Petrol,Manual,Metallic - Saphire Blue With Grey Roof,Hatchback,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,10995.0,2019,1000cc,"42,159 miles",Petrol,Manual,Nevada White,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Ibiza,9950.0,2018,999cc,"28,332 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.7 seconds,112 g/km
+seat,Ateca,13995.0,2020,1968cc,"71,556 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,124 mph,8.8 seconds,124 g/km
+seat,Arona,16995.0,2022,999cc,"16,891 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,122 g/km
+seat,Ibiza,5950.0,2014,1390cc,"34,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,13950.0,2019,1598cc,"43,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,7990.0,2013,1197cc,"27,320 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,103 bhp,118 mph,10.0 seconds,124 g/km
+seat,Ateca,16999.0,2019,1598cc,"27,437 miles",Diesel,,Orange,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Ateca,15999.0,2020,999cc,"21,830 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Arona,12399.0,2018,999cc,"44,487 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ateca,13649.0,2018,1598cc,"44,832 miles",Diesel,,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Arona,11349.0,2019,999cc,"46,976 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,115 g/km
+seat,Ateca,12499.0,2017,1598cc,"52,202 miles",Diesel,,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,114 g/km
+seat,Ibiza,15690.0,2020,1L,"21,712 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,,129 g/km
+seat,Arona,20990.0,2023,1L,"9,261 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Tarraco,25247.0,2019,2L,"23,220 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,130 mph,8.0 seconds,147 g/km
+seat,Arona,13758.0,2022,1L,"17,116 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ibiza,13869.0,2020,1L,"31,250 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Leon,11698.0,2018,1.4L,"43,976 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ateca,22400.0,2022,1.5L,"20,429 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,153 g/km
+seat,Ateca,19900.0,2019,1.5L,"25,704 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,129 g/km
+seat,Arona,13995.0,2019,1L,"13,398 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,111 g/km
+seat,Arona,14495.0,2019,1L,"26,060 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Arona,21290.0,2023,1L,932 miles,Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Arona,11990.0,2020,1L,"42,380 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ibiza,15790.0,2020,1L,"12,432 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,112 g/km
+seat,Ibiza,13490.0,2021,1L,"35,274 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+seat,Ibiza,11995.0,2020,1L,"26,154 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,123 g/km
+seat,Tarraco,26590.0,2021,1.5L,"24,371 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,171 g/km
+seat,Arona,13890.0,2019,1L,"31,378 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ibiza,16190.0,2020,1L,"10,210 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Arona,16890.0,2021,1L,"11,564 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Arona,17800.0,0L,"16,190 miles",Petrol,Automatic,Emocion Red Magnetic Grey,SUV,46.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,139 g/km
+seat,Ibiza,16995.0,2022,1L,"7,743 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Ibiza,16690.0,2020,1L,"31,178 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,141 g/km
+seat,Leon,19995.0,2017,1984cc,"41,510 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,296 bhp,155 mph,,164 g/km
+seat,Ateca,26499.0,2022,1498cc,"6,957 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Leon,18900.0,2019,1498cc,"14,677 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,117 g/km
+seat,Ateca,18900.0,2020,1498cc,"26,370 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,152 g/km
+seat,Ibiza,8495.0,2017,1197cc,"41,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Ateca,18849.0,2020,1498cc,"29,733 miles",Petrol,,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,156 g/km
+seat,Alhambra,21690.0,2019,2L,"45,373 miles",Diesel,Semiauto,Silver,MPV,4X2,5.0,7.0,147 bhp,123 mph,10.3 seconds,140 g/km
+seat,Ibiza,13650.0,2019,1L,"14,907 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Ibiza,16990.0,2021,999cc,"17,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Ibiza,15995.0,2021,999cc,"4,400 miles",Petrol,Manual,Sapphire Blue Metallic,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,18464.0,2021,1.5L,"33,501 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Arona,12600.0,0L,"22,000 miles",Petrol,Manual,Desire Red Midnight Black,SUV,51.4 mpg,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,12479.0,2020,1000cc,"9,400 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ibiza,2500.0,2011,1.2L,"111,441 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,14690.0,2020,1L,"4,653 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Leon,17495.0,2019,1.5L,"16,607 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,117 g/km
+seat,Ibiza,18400.0,2023,1L,"6,789 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,18400.0,2023,1L,"2,200 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,22900.0,2023,1L,"4,284 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,112 mph,,146 g/km
+seat,Arona,13200.0,2020,999cc,"45,379 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,134 g/km
+seat,Leon,13188.0,2020,1498cc,"75,423 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,126 g/km
+seat,Ibiza,5995.0,2015,1197cc,"92,555 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Alhambra,6477.0,2015,1968cc,"130,000 miles",Diesel,Manual,SILVER,MPV,4X2,5.0,7.0,138 bhp,120 mph,10.9 seconds,146 g/km
+seat,Leon,7990.0,2016,1197cc,"62,420 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,116 g/km
+seat,Ibiza,8295.0,2015,1197cc,"31,000 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ateca,16999.0,2019,1598cc,"7,988 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Leon,16999.0,2016,1984cc,"57,968 miles",Petrol,Automatic,BLUE,Hatchback,4X2,3.0,5.0,276 bhp,155 mph,5.7 seconds,149 g/km
+seat,Ibiza,8400.0,2015,1197cc,"44,412 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ateca,16950.0,2019,1498cc,"53,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,129 g/km
+seat,Leon,12899.0,2019,1498cc,"33,304 miles",Petrol,,Silver,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,113 g/km
+seat,Ibiza,11680.0,2018,1L,"25,839 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Ateca,20790.0,2019,2L,"7,284 miles",Diesel,Semiauto,Red,SUV,4X2,5.0,5.0,147 bhp,124 mph,8.8 seconds,123 g/km
+seat,Ateca,28990.0,2023,2L,"4,785 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,148 bhp,126 mph,,132 g/km
+seat,Ibiza,16850.0,2023,1L,26 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,119 g/km
+seat,Arona,21400.0,2023,1L,"1,350 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ateca,29400.0,2023,1.5L,"3,100 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Arona,15693.0,2022,1L,"19,866 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Leon,11995.0,2016,1798cc,"44,500 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,180 bhp,139 mph,7.4 seconds,134 g/km
+seat,Leon,13995.0,2020,999cc,"29,650 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Leon,10000.0,2019,999cc,"66,550 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,122 mph,10.1 seconds,110 g/km
+seat,Ateca,17470.0,2019,1968cc,"48,967 miles",Diesel,Automatic,White,SUV,,,,,,,
+seat,Ateca,12900.0,2020,999cc,"48,720 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Ateca,31995.0,2023,2L,"6,904 miles",Diesel,Semiauto,Green,SUV,4X2,5.0,5.0,148 bhp,126 mph,,138 g/km
+seat,Ibiza,21000.0,2023,1L,"6,954 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,
+seat,Arona,14250.0,2019,1L,"29,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,21999.0,2020,2L,"17,972 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,171 g/km
+seat,Leon,13499.0,2020,1L,"26,228 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Ateca,16780.0,2019,1.5L,"36,039 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Arona,19780.0,2023,1L,"2,276 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Ateca,18400.0,2020,1.5L,"18,130 miles",Petrol,Semiauto,Grey,SUV,,,,,,,
+seat,Ateca,25500.0,2023,1.5L,"7,300 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Ateca,21850.0,2022,1.5L,"18,985 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Tarraco,38000.0,2023,1.5L,381 miles,Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,165 g/km
+seat,Arona,12000.0,2019,1L,"24,973 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Ibiza,21899.0,2023,1L,10 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,18940.0,2023,1L,"3,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,15995.0,2021,1L,"13,428 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ibiza,15500.0,2021,1L,"12,887 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,
+seat,Ateca,17999.0,2019,1.5L,"20,286 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,14950.0,0L,"16,545 miles",Petrol,Manual,Asphalt Blue (Metallic),Hatchback,51.4 mpg,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Tarraco,32468.0,2023,1.5L,"5,065 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,148 bhp,124 mph,,162 g/km
+seat,Arona,16632.0,2022,1L,"6,567 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,18637.0,2022,1L,"5,178 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Ibiza,9400.0,2018,1L,"74,340 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Ibiza,1900.0,2009,1.39L,"118,996 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,149 g/km
+seat,Ateca,15890.0,2019,1498cc,"37,449 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Mii,4495.0,2012,999cc,"58,237 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,74 bhp,106 mph,13.2 seconds,108 g/km
+seat,Leon,7985.0,2014,1968cc,"93,770 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,147 bhp,131 mph,8.4 seconds,117 g/km
+seat,Alhambra,9695.0,2011,1968cc,"62,774 miles",Diesel,Automatic,GREY,MPV,4X2,5.0,7.0,138 bhp,119 mph,10.9 seconds,149 g/km
+seat,Ibiza,6495.0,2014,1390cc,"58,954 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,8495.0,2015,999cc,"26,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Ibiza,6499.0,2016,999cc,"73,361 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Leon,8895.0,2014,1968cc,"82,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,181 bhp,142 mph,7.5 seconds,109 g/km
+seat,Leon,11995.0,2017,1968cc,"58,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,181 bhp,142 mph,,118 g/km
+seat,Leon,18795.0,2000,1984cc,"53,923 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,296 bhp,155 mph,,164 g/km
+seat,Altea XL,3550.0,2011,1598cc,"99,000 miles",Diesel,Automatic,Beige,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.6 seconds,129 g/km
+seat,Ibiza,8495.0,2016,1197cc,"56,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Ibiza,10995.0,2020,999cc,"82,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Mii,12695.0,2020,1L,"4,000 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,4.0,82 bhp,81 mph,,0 g/km
+seat,Tarraco,17300.0,2000,1498cc,"41,896 miles",Petrol,Manual,White,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,164 g/km
+seat,Leon,23400.0,2020,1984cc,"37,700 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Arona,15495.0,2019,999cc,"11,810 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Leon,3975.0,2011,1600cc,"104,000 miles",Diesel,Automatic,Grey,Other,4X2,5.0,5.0,103 bhp,115 mph,11.7 seconds,123 g/km
+seat,Ibiza,15349.0,2020,999cc,"14,010 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Leon,13649.0,2020,1498cc,"32,469 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,130 g/km
+seat,Leon,14549.0,2020,1498cc,"41,094 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,115 g/km
+seat,Leon,14099.0,2018,1968cc,"29,709 miles",Diesel,,Purple,Estate,4X2,5.0,5.0,147 bhp,134 mph,,112 g/km
+seat,Leon,17200.0,2020,1.5L,"31,647 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,
+seat,Leon,3995.0,2009,1968cc,"81,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,168 bhp,135 mph,8.2 seconds,159 g/km
+seat,Leon,25990.0,2023,1498cc,"1,952 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,
+seat,Ateca,16790.0,2019,1498cc,"33,699 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,10500.0,2019,1498cc,"104,630 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,112 g/km
+seat,Ateca,21497.0,2021,1.5L,"16,741 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,124 mph,,148 g/km
+seat,Ibiza,18290.0,2023,1L,6 miles,Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,79 bhp,106 mph,,125 g/km
+seat,Tarraco,34990.0,2023,1.5L,100 miles,Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,163 g/km
+seat,Arona,20440.0,2023,1L,"3,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Leon,17150.0,2019,2L,"8,308 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Arona,12584.0,2020,1L,"19,628 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Ibiza,16795.0,0L,"10,350 miles",Petrol,Manual,Asphalt Blue,Hatchback,52.3 mpg,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,14750.0,2019,1.6L,"27,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Leon,12995.0,2018,1.5L,"20,858 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,113 g/km
+seat,Leon,6195.0,2014,1.97L,"115,972 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,181 bhp,142 mph,7.5 seconds,109 g/km
+seat,Leon,10499.0,2015,1395cc,"53,807 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.0 seconds,113 g/km
+seat,Ateca,19950.0,2020,1498cc,"27,825 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,150 g/km
+seat,Ateca,19990.0,2020,1498cc,"8,020 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Arona,13680.0,2020,999cc,"59,465 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ibiza,8800.0,2014,1390cc,"39,515 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Altea,480.0,2008,1896cc,"112,000 miles",Diesel,Manual,BLACK,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.3 seconds,146 g/km
+seat,Ibiza,6250.0,2015,1390cc,"56,648 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,5995.0,2014,1390cc,"50,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,7695.0,2019,999cc,"24,846 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Leon,5695.0,2014,1968cc,"115,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,181 bhp,142 mph,7.5 seconds,109 g/km
+seat,Leon,9499.0,2018,1598cc,"71,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,,106 g/km
+seat,Leon,7499.0,2013,1798cc,"91,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,180 bhp,140 mph,7.5 seconds,137 g/km
+seat,Leon,9200.0,2000,1498cc,"94,088 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,137 g/km
+seat,Ibiza,12750.0,2020,999cc,"13,770 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,124 g/km
+seat,Arona,11990.0,2018,999cc,"10,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,,111 g/km
+seat,Mii,9199.0,2019,999cc,"17,755 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,97 g/km
+seat,Ateca,16998.0,2020,1.5L,"15,355 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,151 g/km
+seat,Ateca,17698.0,2020,1.5L,"15,188 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,150 g/km
+seat,Arona,12398.0,2018,1L,"31,558 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,,113 g/km
+seat,Tarraco,33990.0,2023,2L,"4,624 miles",Diesel,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,122 mph,,147 g/km
+seat,Ibiza,18495.0,2023,1L,"2,026 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,12695.0,2018,1L,"16,667 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Arona,13659.0,2020,1.6L,"18,277 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,126 g/km
+seat,Leon,20092.0,2022,1.5L,"10,133 miles",Hybrid,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,130 g/km
+seat,Arona,12490.0,2020,1L,"44,263 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,137 g/km
+seat,Leon,20390.0,2018,3L,"38,520 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,335 bhp,155 mph,4.6 seconds,
+seat,Ibiza,15295.0,2020,1L,"11,047 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Ibiza,12980.0,2019,1L,"17,221 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Tarraco,20590.0,2020,1.5L,"32,026 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,148 bhp,123 mph,,166 g/km
+seat,Leon,16499.0,2020,1.5L,"42,497 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,142 g/km
+seat,Arona,16499.0,2021,1L,"17,286 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ateca,18280.0,2019,1.5L,"17,828 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Ateca,15590.0,2018,1.5L,"26,783 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Tarraco,25500.0,2022,2L,"15,511 miles",Diesel,Automatic,Red,SUV,4X2,5.0,7.0,147 bhp,122 mph,,150 g/km
+seat,Arona,13000.0,2018,1L,"28,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ibiza,12262.0,2018,1L,"21,038 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Leon,15750.0,2020,1.5L,"30,203 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,114 g/km
+seat,Arona,14000.0,2020,999cc,"41,652 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,135 g/km
+seat,Leon,13464.0,2016,1395cc,"33,874 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.0 seconds,118 g/km
+seat,Ibiza,4395.0,2013,1390cc,"90,600 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,16499.0,2021,999cc,"22,000 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Alhambra,16895.0,2017,1968cc,"78,000 miles",Diesel,Automatic,RED,MPV,,,,,,,
+seat,Leon,20495.0,2020,1984cc,"17,258 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Leon,4444.0,2014,1598cc,"145,500 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.7 seconds,102 g/km
+seat,Leon,6990.0,2014,1968cc,"94,917 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Ibiza,3695.0,2012,1390cc,"87,267 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Mii,8499.0,2018,999cc,"20,602 miles",Petrol,,White,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,96 g/km
+seat,Arona,12949.0,2019,999cc,"31,143 miles",Petrol,,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ateca,16149.0,2017,1395cc,"39,249 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,125 g/km
+seat,Ateca,25490.0,2022,1.5L,"11,453 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,157 g/km
+seat,Ateca,26490.0,2022,1.5L,"6,033 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,148 bhp,124 mph,,156 g/km
+seat,Tarraco,26990.0,2021,1.5L,"13,428 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,169 g/km
+seat,Ateca,22690.0,2022,1.5L,"18,479 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Ibiza,12895.0,2019,1L,"26,558 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Leon,18600.0,2021,1.5L,"4,934 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,132 g/km
+seat,Arona,15700.0,2021,1L,"9,053 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,120 g/km
+seat,Ibiza,16599.0,2022,1L,"5,992 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Leon,18529.0,2020,1498cc,"16,656 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,135 g/km
+seat,Ibiza,13999.0,2020,1L,"40,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Leon,15000.0,2015,1984cc,"41,365 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,276 bhp,155 mph,6.1 seconds,158 g/km
+seat,Ateca,19750.0,2022,1.5L,"29,576 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ibiza,12550.0,0L,"16,030 miles",Petrol,Manual,Midnight Black,Hatchback,47.9 mpg,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,107 g/km
+seat,Arona,14695.0,0L,"12,595 miles",Petrol,Automatic,White Magnetic Grey,SUV,47.9 mpg,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Ibiza,12351.0,0L,"18,693 miles",Petrol,Manual,Magnetic Grey,Hatchback,47.9 mpg,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Ateca,22351.0,0L,"14,129 miles",Petrol,Automatic,GREEN,SUV,41.5 mpg,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Ibiza,17451.0,0L,"12,545 miles",Petrol,Automatic,Midnight Black,Hatchback,47.1 mpg,4X2,5.0,5.0,109 bhp,121 mph,,135 g/km
+seat,Arona,16990.0,2023,999cc,"8,566 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,15990.0,2022,999cc,"8,535 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ibiza,17490.0,2022,1L,"3,646 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Arona,13250.0,2020,1L,"24,355 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,118 mph,,131 g/km
+seat,Leon,14990.0,2020,999cc,"11,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,130 mph,,125 g/km
+seat,Leon,8700.0,2016,1395cc,"91,003 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,124 g/km
+seat,Leon,14950.0,2019,1984cc,"45,449 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Leon,9995.0,2015,1798cc,"69,770 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,180 bhp,140 mph,7.5 seconds,138 g/km
+seat,Leon,13950.0,2019,1968cc,"46,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,115 g/km
+seat,Leon,12395.0,2019,1598cc,"60,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Leon,12195.0,2019,1498cc,"39,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Tarraco,20850.0,2020,1498cc,"14,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,164 g/km
+seat,Leon,13450.0,2020,1598cc,"55,665 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Ibiza,9490.0,2016,1197cc,"37,270 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Leon,10795.0,2016,1395cc,"58,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,9.1 seconds,124 g/km
+seat,Ibiza,4995.0,2016,1000cc,"80,137 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Arona,13950.0,2021,999cc,"18,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,14950.0,2019,1598cc,"39,000 miles",Diesel,Automatic,Red,SUV,4X2,5.0,5.0,94 bhp,108 mph,,109 g/km
+seat,Ateca,23995.0,2022,1968cc,"17,648 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,136 g/km
+seat,Alhambra,19950.0,2018,1968cc,"48,000 miles",Diesel,Automatic,Red,MPV,4X2,5.0,7.0,147 bhp,123 mph,,137 g/km
+seat,Ibiza,5450.0,2014,1390cc,"71,814 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,10990.0,2017,999cc,"40,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,3.0,5.0,109 bhp,122 mph,9.3 seconds,102 g/km
+seat,Ateca,11980.0,2018,1598cc,"63,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,119 g/km
+seat,Ateca,15995.0,2020,1498cc,"31,724 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,121 g/km
+seat,Leon,14995.0,2021,999cc,"15,702 miles",Petrol,Manual,Emocion Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ateca,16995.0,2020,999cc,"29,123 miles",Petrol,Manual,Velvet Red,Hatchback,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Ibiza,4950.0,2015,1199cc,"119,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,13.9 seconds,92 g/km
+seat,Tarraco,25950.0,2019,1968cc,"47,398 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,188 bhp,130 mph,8.0 seconds,147 g/km
+seat,Leon,14945.0,2020,1498cc,"34,060 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,137 g/km
+seat,Ateca,13495.0,2019,1500cc,"92,720 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,147 bhp,125 mph,,126 g/km
+seat,Leon,9495.0,2013,1968cc,"47,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,168 bhp,134 mph,8.2 seconds,134 g/km
+seat,Arona,13450.0,2020,999cc,"36,873 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,110 g/km
+seat,Leon,9995.0,2016,1598cc,"78,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,103 g/km
+seat,Leon,8950.0,2016,1598cc,"79,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,6750.0,2014,1197cc,"126,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,114 g/km
+seat,Leon,18906.0,2020,1498cc,"26,971 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,125 g/km
+seat,Ibiza,6285.0,2016,1197cc,"94,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Leon,4995.0,2013,1968cc,"133,915 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Tarraco,18500.0,2000,1968cc,"50,523 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Tarraco,23000.0,2000,1968cc,"18,419 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Alhambra,16995.0,2018,2000cc,"63,368 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,7.0,147 bhp,124 mph,,135 g/km
+seat,Tarraco,19995.0,2019,1968cc,"55,500 miles",Diesel,Manual,Grey,Estate,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Leon,18495.0,2021,1498cc,"21,755 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,128 g/km
+seat,Arona,15595.0,2021,999cc,"13,291 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,7995.0,2016,1197cc,"52,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Leon,12950.0,2018,1968cc,"51,247 miles",Diesel,Manual,Orange,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,112 g/km
+seat,Leon,7995.0,2014,1968cc,"111,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,106 g/km
+seat,Arona,12495.0,2021,999cc,"37,805 miles",Petrol,Manual,Blue,Hatchback,,,,,,,
+seat,Ateca,29995.0,2023,1968cc,"6,373 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.8 seconds,135 g/km
+seat,Leon,3995.0,2012,1598cc,"130,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,11.7 seconds,99 g/km
+seat,Ibiza,4950.0,2011,1390cc,"53,560 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,12090.0,2020,1.5L,"33,137 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Arona,21390.0,2023,1L,"4,806 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Ibiza,14250.0,2020,1L,"21,009 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,131 g/km
+seat,Tarraco,17995.0,2020,1498cc,"38,592 miles",Petrol,Manual,Reflex Silver,Estate,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Ibiza,4995.0,2012,1598cc,"99,000 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,5.0,103 bhp,117 mph,10.5 seconds,112 g/km
+seat,Leon,10485.0,2019,999cc,"64,234 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,112 g/km
+seat,Leon,12985.0,2020,999cc,"25,160 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Ibiza,11495.0,2019,999cc,"31,853 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Arona,13495.0,2020,1598cc,"42,753 miles",Diesel,Manual,Orange,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,129 g/km
+seat,Leon,6195.0,2013,1598cc,"125,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Ibiza,10790.0,2019,999cc,"33,121 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Toledo,3995.0,2014,1598cc,"115,042 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.4 seconds,106 g/km
+seat,Toledo,4995.0,2013,1598cc,"79,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.4 seconds,114 g/km
+seat,Ateca,14250.0,2019,1598cc,"54,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Exeo,5850.0,2013,1968cc,"99,762 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,168 bhp,139 mph,8.6 seconds,142 g/km
+seat,Ateca,13950.0,2019,1598cc,"51,570 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,5150.0,2013,1199cc,"82,154 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,13.9 seconds,92 g/km
+seat,Leon,14495.0,2021,999cc,"26,182 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Arona,13400.0,2020,1598cc,"47,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,,106 g/km
+seat,Ibiza,5650.0,2013,1200cc,"87,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,13.9 seconds,92 g/km
+seat,Leon,7450.0,2015,1968cc,"126,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,6995.0,2015,1968cc,"140,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,181 bhp,142 mph,7.5 seconds,109 g/km
+seat,Ateca,12995.0,2017,1598cc,"63,000 miles",Diesel,Manual,Brown,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,114 g/km
+seat,Leon,9495.0,2017,1968cc,"118,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,181 bhp,142 mph,,118 g/km
+seat,Ateca,24695.0,2022,1498cc,"9,514 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,148 bhp,126 mph,,149 g/km
+seat,Arona,17695.0,2022,999cc,"11,133 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Arona,17995.0,2022,999cc,"7,567 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Arona,17495.0,2021,999cc,"5,502 miles",Petrol,Manual,Metallic - Nevada White With Grey Roof,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Leon,8350.0,2015,1598cc,"95,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Ibiza,6295.0,2014,1390cc,"62,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,6895.0,2016,999cc,"57,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Arona,15995.0,2021,1000cc,"4,926 miles",Petrol,Automatic,Red With Black Contrast Roof,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Arona,13495.0,2019,1598cc,"27,660 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,108 g/km
+seat,Ateca,12695.0,2016,1598cc,"92,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,114 g/km
+seat,Ibiza,4950.0,2015,1197cc,"72,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Alhambra,6950.0,2014,1968cc,"132,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,138 bhp,120 mph,10.9 seconds,146 g/km
+seat,Ibiza,4395.0,2012,1390cc,"100,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,16895.0,2021,999cc,"31,707 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Arona,13995.0,2019,1598cc,"34,408 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,108 g/km
+seat,Leon,13995.0,2019,999cc,"29,673 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,112 g/km
+seat,Ateca,16595.0,2020,999cc,"38,532 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,123 g/km
+seat,Ateca,17950.0,2019,1598cc,"42,203 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Arona,13995.0,2019,999cc,"39,487 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ateca,24750.0,2022,1968cc,"8,200 miles",Diesel,Manual,Green,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,131 g/km
+seat,Leon,6995.0,2015,1968cc,"118,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,6995.0,2015,1598cc,"119,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,7450.0,2016,1968cc,"119,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,181 bhp,142 mph,7.4 seconds,118 g/km
+seat,Ateca,16449.0,2020,1968cc,"32,305 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,8.8 seconds,148 g/km
+seat,Leon,7800.0,2013,1968cc,"77,663 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,6999.0,2014,1598cc,"79,116 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Ibiza,16283.0,2019,999cc,"20,119 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Arona,18985.0,2023,999cc,"4,123 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Arona,15395.0,2021,999cc,"15,967 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,3275.0,2011,1400cc,"129,000 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,123 bhp,122 mph,9.8 seconds,145 g/km
+seat,Ibiza,14500.0,2020,1L,"25,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Ibiza,8550.0,2016,1197cc,"42,803 miles",Petrol,Manual,Black Metallic,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Ateca,14490.0,2017,1968cc,"75,998 miles",Diesel,Automatic,White,Hatchback,4X4,5.0,5.0,188 bhp,132 mph,8.0 seconds,135 g/km
+seat,Ibiza,10495.0,2018,999cc,"38,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Arona,17970.0,2023,999cc,"6,543 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Arona,16470.0,2020,999cc,"16,511 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,118 mph,,137 g/km
+seat,Leon,17800.0,2021,999cc,"37,923 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,128 g/km
+seat,Ateca,17300.0,2019,1498cc,"34,378 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,129 g/km
+seat,Arona,15695.0,0L,"20,818 miles",Petrol,Automatic,Urban Silver,SUV,56.5 mpg,4X2,5.0,5.0,114 bhp,113 mph,,138 g/km
+seat,Ibiza,15450.0,0L,"6,588 miles",Petrol,Manual,Emocion Red,Hatchback,51.4 mpg,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Leon,20700.0,0L,"23,178 miles",Petrol,Automatic,GREY,Hatchback,38.7 mpg,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Ibiza,15000.0,0L,"26,325 miles",Petrol,Manual,White,Hatchback,49.6 mpg,4X2,5.0,5.0,114 bhp,120 mph,,129 g/km
+seat,Ateca,17925.0,0L,"20,506 miles",Petrol,Automatic,Bila White,SUV,40.9 mpg,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Ateca,15945.0,0L,"35,021 miles",Petrol,Manual,Rodium Grey (Metallic),SUV,43.5 mpg,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Arona,12800.0,0L,"18,000 miles",Petrol,Manual,Nevada White Midnight Black,SUV,50.4 mpg,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,131 g/km
+seat,Leon,19495.0,2019,2L,"2,255 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Arona,13790.0,2020,1L,"25,155 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,118 mph,,131 g/km
+seat,Arona,12126.0,2019,1L,"21,506 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Tarraco,21750.0,2020,2L,"51,513 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,177 g/km
+seat,Arona,12828.0,2019,1L,"10,863 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Arona,20495.0,2023,1L,"2,300 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ateca,17390.0,2020,1.5L,"46,500 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Leon,14790.0,2019,2L,"51,096 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Arona,20495.0,2023,1L,"2,347 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Arona,12499.0,2020,1L,"27,255 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Ateca,19250.0,2020,1.5L,"34,351 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,154 g/km
+seat,Alhambra,21495.0,2017,2L,"10,990 miles",Diesel,Semiauto,White,MPV,4X2,5.0,7.0,147 bhp,123 mph,,137 g/km
+seat,Ibiza,10400.0,2018,999cc,"31,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,106 g/km
+seat,Leon,7995.0,2014,1968cc,"50,189 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Ibiza,15695.0,2022,0.999L,"14,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,14250.0,2020,1498cc,"41,800 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,8.2 seconds,113 g/km
+seat,Ibiza,6995.0,2012,1390cc,"59,188 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,8650.0,2016,1598cc,"77,357 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,103 g/km
+seat,Leon,18995.0,2021,999cc,"22,655 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,128 g/km
+seat,Arona,11995.0,2019,1000cc,"44,418 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Arona,11450.0,2019,1600cc,"60,526 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,115 mph,,114 g/km
+seat,Leon,14982.0,2021,1498cc,"13,468 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,126 g/km
+seat,Leon,7950.0,2014,1598cc,"65,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,7450.0,2015,1598cc,"102,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,99 g/km
+seat,Arona,18490.0,2021,999cc,"26,057 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,138 g/km
+seat,Ibiza,8450.0,2017,1422cc,"61,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,13.0 seconds,93 g/km
+seat,Leon,21195.0,2021,1498cc,"10,159 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,132 g/km
+seat,Ibiza,2500.0,2010,1968cc,"131,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,141 bhp,130 mph,8.3 seconds,123 g/km
+seat,Ibiza,1995.0,2009,1390cc,"99,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,149 g/km
+seat,Leon,18500.0,2020,1498cc,"1,124 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,112 g/km
+seat,Ibiza,4899.0,2014,1390cc,"98,619 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Arona,13750.0,2022,999cc,"12,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Leon,8790.0,2014,1968cc,"72,797 miles",Diesel,Manual,GREY,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Ibiza,5690.0,2013,1390cc,"64,349 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,8490.0,2017,1197cc,"49,388 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Arona,17320.0,2019,999cc,"20,000 miles",Petrol,Automatic,WHITE,Other,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Arona,15580.0,2020,999cc,"27,493 miles",Petrol,Manual,BLUE,Other,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ibiza,11990.0,2020,999cc,"24,464 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Leon,13899.0,2018,1968cc,"40,125 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,112 g/km
+seat,Ibiza,5695.0,2014,1390cc,"66,911 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,16250.0,2019,1498cc,"16,250 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,114 g/km
+seat,Tarraco,17430.0,2020,1498cc,"49,708 miles",Petrol,Manual,GREY,Estate,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,164 g/km
+seat,Ateca,12999.0,2017,1598cc,"73,600 miles",Diesel,Manual,ORANGE,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,119 g/km
+seat,Arona,12749.0,2018,1598cc,"25,716 miles",Diesel,,Silver,SUV,4X2,5.0,5.0,114 bhp,115 mph,,106 g/km
+seat,Arona,12199.0,2019,999cc,"25,960 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,115 g/km
+seat,Ateca,15899.0,2016,1968cc,"52,006 miles",Diesel,,Silver,SUV,4X4,5.0,5.0,188 bhp,132 mph,8.0 seconds,135 g/km
+seat,Leon,14599.0,2020,1498cc,"26,366 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,133 g/km
+seat,Leon,13799.0,2019,1498cc,"28,062 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Leon,11499.0,2019,1.5L,"71,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,112 g/km
+seat,Ibiza,15495.0,2020,1L,"15,000 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,112 g/km
+seat,Leon,14495.0,2018,1.4L,"15,619 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,114 g/km
+seat,Ibiza,7795.0,2015,1400cc,"43,000 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+seat,Tarraco,26549.0,2021,1498cc,"30,321 miles",Petrol,Manual,White,Estate,4X2,5.0,7.0,148 bhp,124 mph,,161 g/km
+seat,Arona,13999.0,2020,1L,"11,919 miles",Petrol,Automatic,White,MPV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,111 g/km
+seat,Arona,10995.0,2019,1.6L,"57,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,115 mph,,114 g/km
+seat,Ibiza,18490.0,2023,999cc,40 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,19990.0,2023,999cc,155 miles,Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ateca,16200.0,2018,1395cc,"33,930 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Arona,16270.0,2021,999cc,"18,429 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ateca,23985.0,0L,"6,710 miles",Petrol,Manual,Nevada White (Metallic),SUV,42.2 mpg,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Arona,12250.0,0L,"28,839 miles",Petrol,Manual,Emocion Red Midnight Black,SUV,50.4 mpg,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ibiza,15000.0,0L,"24,100 miles",Petrol,Manual,Magnetic Grey,Hatchback,49.6 mpg,4X2,5.0,5.0,114 bhp,120 mph,,129 g/km
+seat,Arona,21491.0,0L,124 miles,Petrol,Automatic,White,SUV,47.9 mpg,4X2,5.0,5.0,109 bhp,118 mph,,135 g/km
+seat,Leon,12490.0,2019,1498cc,"45,083 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+seat,Leon,12495.0,2017,1.4L,"31,693 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ibiza,16130.0,2022,1L,"4,245 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,12950.0,2020,1L,"26,321 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ibiza,12990.0,2020,1L,"19,628 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Ibiza,16390.0,2021,1L,"8,043 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Tarraco,30500.0,2021,2L,"16,076 miles",Diesel,Automatic,Green,SUV,4X4,5.0,7.0,197 bhp,130 mph,,174 g/km
+seat,Leon,20000.0,2022,1.5L,"4,180 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ibiza,15250.0,2020,1L,"38,178 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,,138 g/km
+seat,Arona,12995.0,2020,1L,"27,167 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Leon,9499.0,2017,1197cc,"64,388 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,119 mph,10.3 seconds,114 g/km
+seat,Leon,8689.0,2019,1598cc,"82,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Arona,19495.0,2022,1L,65 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Ibiza,11432.0,2018,999cc,"22,996 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Leon,7150.0,2015,1968cc,"106,051 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,106 g/km
+seat,Leon,7945.0,2014,1598cc,"49,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Ibiza,2995.0,2009,1390cc,"99,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,84 bhp,109 mph,12.2 seconds,149 g/km
+seat,Ibiza,6695.0,2014,1197cc,"58,354 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ateca,13295.0,2018,1400cc,"70,600 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Ateca,14975.0,2019,1598cc,"39,026 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,7999.0,2014,1390cc,"32,095 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,10949.0,2017,1395cc,"54,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ibiza,7750.0,2017,1197cc,"76,500 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Ibiza,6599.0,2015,1390cc,"44,762 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,5499.0,2013,1390cc,"78,366 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Alhambra,4399.0,2011,1968cc,"157,508 miles",Diesel,Automatic,SILVER,MPV,4X2,5.0,7.0,138 bhp,119 mph,10.9 seconds,149 g/km
+seat,Leon,15890.0,2020,1498cc,"34,161 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,141 g/km
+seat,Leon,11000.0,2016,1197cc,"52,270 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,9.9 seconds,116 g/km
+seat,Ibiza,17990.0,2023,999cc,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,6490.0,2016,999cc,"64,026 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Ibiza,14999.0,2020,1L,"33,895 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Tarraco,18980.0,2019,1.5L,"35,998 miles",Petrol,Manual,Silver,Estate,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Ibiza,14995.0,2021,999cc,"20,090 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Ibiza,15453.0,2021,999cc,"23,903 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Leon,9800.0,2020,1498cc,"100,672 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,112 g/km
+seat,Ibiza,14740.0,2021,999cc,"12,869 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+seat,Ibiza,15490.0,2021,999cc,"23,939 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,14190.0,2020,999cc,"10,307 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,110 g/km
+seat,Arona,16495.0,2021,1L,"28,751 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Ibiza,18495.0,2023,1L,"2,691 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,20495.0,2023,1L,"4,821 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,22000.0,2020,2L,"30,333 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Arona,16995.0,2020,1L,"15,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,118 mph,,131 g/km
+seat,Arona,11250.0,2019,1L,"42,118 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Ibiza,4795.0,2011,1390cc,"72,833 miles",Petrol,Manual,Red,Coupe,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,17495.0,2020,999cc,"8,257 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Altea,2895.0,2010,1968cc,"106,235 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,138 bhp,125 mph,9.9 seconds,149 g/km
+seat,Leon,18795.0,2020,1984cc,"55,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Ibiza,6350.0,2015,999cc,"68,343 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Ibiza,5795.0,2013,1390cc,"61,412 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,12495.0,2019,1498cc,"27,898 miles",Petrol,Manual,WHITE,Hatchback,,,,,,,
+seat,Arona,15995.0,2021,999cc,"11,200 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Toledo,8495.0,2018,999cc,"59,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,108 g/km
+seat,Leon,14990.0,2003,1781cc,"29,707 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,206 bhp,147 mph,7.2 seconds,211 g/km
+seat,Arona,12549.0,2020,999cc,"27,858 miles",Petrol,,White,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Leon,20649.0,2019,1984cc,"23,982 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Arona,15049.0,2019,999cc,"28,795 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Arona,13199.0,2019,999cc,"33,784 miles",Petrol,,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ibiza,11299.0,2019,999cc,"27,434 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Arona,11399.0,2018,999cc,"37,241 miles",Petrol,,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,,111 g/km
+seat,Mii,9199.0,2019,999cc,"16,900 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,97 g/km
+seat,Ateca,13449.0,2018,999cc,"50,236 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,122 g/km
+seat,Ateca,12299.0,2018,999cc,"59,695 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,120 g/km
+seat,Ateca,14199.0,2018,999cc,"26,644 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,120 g/km
+seat,Leon,13784.0,2021,1.5L,"38,856 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ibiza,17000.0,2020,1L,"33,065 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,141 g/km
+seat,Leon,12761.0,2019,1L,"29,265 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,110 g/km
+seat,Ibiza,15000.0,2020,1L,"17,466 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Leon,13000.0,2020,1L,"24,617 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Leon,15399.0,2018,1.4L,"5,652 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,114 g/km
+seat,Leon,11000.0,2020,1L,"66,098 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Arona,21990.0,2023,1L,"3,860 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ateca,31990.0,2023,1.5L,"3,060 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Arona,21990.0,2023,1L,"1,367 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ibiza,20990.0,2023,1L,"1,034 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,17250.0,2020,1L,"9,013 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,,153 g/km
+seat,Arona,18900.0,2022,1L,"6,776 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Leon,15990.0,2021,1L,"24,827 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,125 g/km
+seat,Ateca,16800.0,2019,1.5L,"24,091 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Arona,18495.0,2022,1L,"6,577 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ateca,24740.0,2023,2L,"3,044 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,148 bhp,126 mph,,134 g/km
+seat,Ateca,20490.0,2021,1.5L,"20,348 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ateca,24790.0,2022,1.5L,"13,324 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,156 g/km
+seat,Leon,19850.0,2021,1.5L,"13,980 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,132 g/km
+seat,Arona,13990.0,2020,1L,"32,619 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,10285.0,2018,1.2L,"54,994 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Ibiza,13000.0,2020,1L,"28,006 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Ibiza,17990.0,2022,1L,"7,079 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ibiza,12495.0,2021,999cc,"54,950 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+seat,Alhambra,10500.0,2015,"93,000 miles",Diesel,Manual,Black,MPV,56.5 mpg,4X2,5.0,7.0,147 bhp,126 mph,10.2 seconds,130 g/km
+seat,Leon,11970.0,2019,1.5L,"79,610 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,115 g/km
+seat,Ibiza,15999.0,2023,1L,"6,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,119 g/km
+seat,Ateca,15000.0,2019,1498cc,"72,946 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Ateca,19790.0,2020,1498cc,"28,483 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,17990.0,2021,1498cc,"28,483 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,148 bhp,135 mph,,132 g/km
+seat,Leon,17500.0,2020,1984cc,"52,329 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Ateca,14200.0,2019,1598cc,"45,352 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Tarraco,22399.0,2020,1.5L,"27,272 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,148 bhp,123 mph,,172 g/km
+seat,Ibiza,16199.0,2021,1L,"7,460 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+seat,Ateca,15599.0,2019,1.5L,"30,092 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,20590.0,2019,2L,"12,752 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Leon,12790.0,2020,1.5L,"23,304 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Arona,13595.0,2020,1L,"15,440 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ateca,18895.0,2021,1.5L,"21,885 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ateca,18795.0,2020,1.5L,"17,787 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Arona,14590.0,2018,1.5L,"15,015 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,127 mph,,115 g/km
+seat,Ibiza,15700.0,0L,"20,000 miles",Petrol,Manual,Desire Red,Hatchback,52.3 mpg,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,9795.0,2014,1197cc,"28,710 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.7 seconds,124 g/km
+seat,Leon,9680.0,2020,1.6L,"71,578 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,121 mph,10.6 seconds,129 g/km
+seat,Ibiza,7995.0,2014,1395cc,"62,925 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.2 seconds,109 g/km
+seat,Ateca,19495.0,2020,1.5L,"20,582 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,18495.0,2020,1.5L,"22,581 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,142 g/km
+seat,Ibiza,6950.0,2014,1390cc,"34,850 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Arona,14295.0,2020,999cc,"32,478 miles",Petrol,Manual,Metallic - Eclipse Orange,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Arona,8999.0,2018,1598cc,"56,500 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,115 mph,,114 g/km
+seat,Ibiza,6490.0,2013,1197cc,"69,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Exeo,2695.0,2009,1968cc,"101,000 miles",Diesel,Manual,Red,Saloon,4X2,4.0,5.0,141 bhp,133 mph,9.2 seconds,139 g/km
+seat,Ateca,13299.0,2018,1598cc,"64,335 miles",Diesel,,Black,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,119 g/km
+seat,Arona,13699.0,2019,1598cc,"14,644 miles",Diesel,,Black,SUV,4X2,5.0,5.0,114 bhp,115 mph,,114 g/km
+seat,Ibiza,13399.0,2019,999cc,"39,973 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Arona,14399.0,2019,999cc,"28,919 miles",Petrol,,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ibiza,18925.0,2023,1L,36 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ibiza,18925.0,2023,1L,36 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Arona,12695.0,2020,1L,"33,329 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Ibiza,15739.0,2021,1L,"19,734 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,16782.0,2022,1L,"6,499 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ateca,22928.0,2022,1.5L,"6,433 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Ibiza,16623.0,2022,1L,"7,955 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Ateca,28698.0,2022,2L,"6,967 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,138 g/km
+seat,Arona,11501.0,2018,1L,"31,189 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,,111 g/km
+seat,Ibiza,14695.0,2020,1L,"19,969 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Ibiza,14450.0,2021,1L,"23,815 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,14199.0,2021,1L,"12,560 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+seat,Tarraco,25499.0,2021,1.5L,"27,871 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,170 g/km
+seat,Ibiza,12990.0,2019,1L,"29,030 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Ateca,26246.0,2023,1.5L,"7,512 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Leon,12999.0,2019,1.5L,"35,651 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,113 g/km
+seat,Ibiza,12499.0,2018,1L,"32,688 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Ibiza,16999.0,2023,1L,"9,074 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Tarraco,25890.0,2021,1.5L,"21,501 miles",Petrol,Automatic,Green,SUV,4X2,5.0,7.0,148 bhp,124 mph,,171 g/km
+seat,Arona,15749.0,2020,1L,"10,925 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,111 g/km
+seat,Arona,13290.0,2018,1.5L,"26,830 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,127 mph,,115 g/km
+seat,Ibiza,12800.0,2020,1L,"36,103 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Arona,13990.0,2019,999cc,"13,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Leon,21574.0,2021,1395cc,"27,028 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,27 g/km
+seat,Ibiza,6999.0,2016,1197cc,"78,710 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Leon,5450.0,2011,1598cc,"92,407 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,11.7 seconds,99 g/km
+seat,Leon,15495.0,2020,1498cc,"34,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,125 g/km
+seat,Mii,4495.0,2014,999cc,"73,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+seat,Leon,6490.0,2014,1197cc,"89,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.0 seconds,114 g/km
+seat,Ibiza,4495.0,2012,1390cc,"79,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,19995.0,2021,1498cc,"33,025 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Leon,10250.0,2017,1968cc,"77,169 miles",Diesel,Automatic,Silver,Hatchback,4X2,5.0,5.0,181 bhp,140 mph,,120 g/km
+seat,Arona,17149.0,2021,999cc,"15,774 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,137 g/km
+seat,Ateca,16999.0,2019,2L,"22,464 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,124 mph,8.8 seconds,124 g/km
+seat,Ibiza,13400.0,2020,1L,"20,323 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Tarraco,17449.0,2019,1.5L,"52,682 miles",Petrol,Manual,Green,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Ateca,20000.0,2020,2L,"20,893 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,124 mph,8.8 seconds,153 g/km
+seat,Ibiza,13000.0,2020,1L,"19,631 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,107 g/km
+seat,Ibiza,12599.0,2018,1L,"17,949 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Arona,21600.0,2023,999cc,"3,520 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Ateca,20250.0,2021,1498cc,"24,498 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ateca,14999.0,2019,1.6L,"32,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Leon,17000.0,2021,1498cc,"6,244 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ateca,11700.0,2019,1598cc,"60,391 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,14650.0,0L,"19,958 miles",Petrol,Manual,Desire Red,Hatchback,51.4 mpg,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+seat,Ibiza,6699.0,2014,1390cc,"58,111 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,15499.0,2021,999cc,"25,656 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Leon,13900.0,2020,1498cc,"41,261 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,125 g/km
+seat,Ibiza,18250.0,2022,999cc,"10,493 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,133 g/km
+seat,Arona,18495.0,2022,1L,"5,420 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Ateca,13295.0,2017,1L,"30,790 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,119 g/km
+seat,Leon,10900.0,2018,1.2L,"46,303 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Ibiza,13290.0,2021,1L,"8,680 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,117 g/km
+seat,Ibiza,15490.0,2021,1L,"20,204 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Leon,18290.0,2021,2L,"25,740 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,113 bhp,124 mph,,116 g/km
+seat,Ibiza,15749.0,2021,1L,"6,382 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Leon,13899.0,2018,1798cc,"35,714 miles",Petrol,,Orange,Estate,4X2,5.0,5.0,178 bhp,140 mph,,138 g/km
+seat,Mii,7999.0,2019,999cc,"38,277 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,96 g/km
+seat,Mii,8249.0,2019,999cc,"38,691 miles",Petrol,,White,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,97 g/km
+seat,Leon,13849.0,2019,1498cc,"26,716 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,113 g/km
+seat,Tarraco,28500.0,2021,1.5L,"28,163 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,148 bhp,124 mph,,171 g/km
+seat,Ibiza,17000.0,2020,1L,"20,602 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,141 g/km
+seat,Ibiza,15560.0,2019,1L,"24,399 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Leon,13999.0,2020,1L,"18,289 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ateca,19000.0,2021,1.5L,"26,332 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Arona,10000.0,2018,1L,"82,145 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,,113 g/km
+seat,Ateca,14500.0,2020,1.5L,"62,350 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,20780.0,2021,1.5L,"11,359 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,129 bhp,132 mph,,129 g/km
+seat,Arona,14999.0,2022,1L,"7,484 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ateca,23490.0,2022,1498cc,"7,568 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Ibiza,8700.0,2017,999cc,"102,330 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Altea,1275.0,2008,1968cc,"159,876 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,138 bhp,125 mph,9.9 seconds,157 g/km
+seat,Ibiza,3495.0,2009,1.39L,"72,185 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,109 mph,12.2 seconds,142 g/km
+seat,Alhambra,18536.0,2017,2L,"39,576 miles",Diesel,Semiauto,Red,MPV,4X2,5.0,7.0,181 bhp,135 mph,8.9 seconds,141 g/km
+seat,Arona,14790.0,2022,1L,"11,097 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ateca,20847.0,2019,1.5L,"15,826 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Arona,15700.0,2019,1L,"10,864 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ibiza,3999.0,2012,1199cc,"89,700 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,13.9 seconds,92 g/km
+seat,Leon,17750.0,2000,999cc,"29,898 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,130 g/km
+seat,Leon,6745.0,2014,1598cc,"91,200 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,22995.0,2022,1500cc,"10,511 miles",Other,Automatic,Magnetic Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,131 g/km
+seat,Leon,12450.0,2020,1598cc,"59,367 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,109 g/km
+seat,Ateca,17450.0,2020,1498cc,"17,066 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,151 g/km
+seat,Leon,6500.0,2014,1598cc,"102,264 miles",Diesel,Manual,Grey,Hatchback,,,,,,,
+seat,Ibiza,5995.0,2013,1390cc,"39,320 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+seat,Tarraco,21450.0,2019,1968cc,"70,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Altea,3990.0,2011,1598cc,"73,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.2 seconds,119 g/km
+seat,Ibiza,15228.0,2022,999cc,"7,700 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,79 bhp,106 mph,,120 g/km
+seat,Tarraco,26150.0,2019,1984cc,"16,208 miles",Petrol,Automatic,White,Other,4X4,5.0,7.0,188 bhp,131 mph,8.0 seconds,166 g/km
+seat,Leon,14199.0,2019,1498cc,"39,074 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Ibiza,14575.0,2021,999cc,"15,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,13995.0,2021,1598cc,"18,125 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,125 g/km
+seat,Ibiza,6250.0,2014,1390cc,"56,587 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,16900.0,2021,999cc,"11,400 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,16500.0,2020,999cc,"13,400 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,135 g/km
+seat,Leon,9800.0,2019,1598cc,"95,000 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,10.2 seconds,107 g/km
+seat,Leon,6745.0,2016,1598cc,"128,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,103 g/km
+seat,Arona,12995.0,2018,999cc,"35,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,112 g/km
+seat,Arona,13995.0,2018,999cc,"14,933 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,112 g/km
+seat,Mii,5290.0,2014,999cc,"68,790 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+seat,Ateca,16149.0,2017,1395cc,"25,553 miles",Petrol,,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Arona,20990.0,2023,1L,"3,434 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Arona,14335.0,2018,1L,"25,663 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,112 g/km
+seat,Arona,18250.0,2023,1L,"9,835 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Leon,23495.0,2020,2L,"14,250 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Leon,15995.0,2020,1.5L,"28,905 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,126 g/km
+seat,Arona,12499.0,2020,1L,"17,174 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Ibiza,7280.0,2015,1197cc,"48,203 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,13990.0,2020,999cc,"17,350 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Arona,14880.0,2020,999cc,"32,201 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,135 g/km
+seat,Ateca,14300.0,2017,1395cc,"60,054 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,125 g/km
+seat,Ibiza,15250.0,0L,"15,352 miles",Petrol,Automatic,Asphalt Blue,Hatchback,48.7 mpg,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,140 g/km
+seat,Leon,14250.0,0L,"21,890 miles",Petrol,Manual,Nevada White (Metallic),Hatchback,51.4 mpg,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ibiza,14950.0,0L,"7,800 miles",Petrol,Manual,Desire Red,Hatchback,53.3 mpg,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,126 g/km
+seat,Ateca,17849.0,0L,"29,283 miles",Diesel,Automatic,Black Magic (Metallic),SUV,43.5 mpg,4X4,5.0,5.0,147 bhp,122 mph,8.8 seconds,145 g/km
+seat,Leon,15650.0,2019,1.98L,"42,100 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Leon,15995.0,2018,1984cc,"27,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Leon,3795.0,2012,1968cc,"146,010 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,125 g/km
+seat,Mii,6495.0,2016,999cc,"47,406 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,4.0,74 bhp,106 mph,13.2 seconds,106 g/km
+seat,Leon,15495.0,2019,1.5L,"40,480 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,114 g/km
+seat,Leon,24995.0,2020,2L,"17,187 miles",Petrol,Semiauto,Black,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,189 g/km
+seat,Leon,16999.0,2021,1.5L,"21,755 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ateca,18495.0,2019,1.5L,"54,495 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,147 bhp,117 mph,,149 g/km
+seat,Ibiza,11995.0,2020,1L,"41,966 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Arona,16250.0,2022,1L,"11,012 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,15999.0,2021,1.5L,"15,894 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ibiza,5495.0,2014,1390cc,"88,300 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,24845.0,2023,1498cc,"1,211 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Leon,17495.0,2022,999cc,"16,627 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,127 g/km
+seat,Leon,16750.0,2020,1498cc,"48,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,133 g/km
+seat,Ateca,10975.0,2018,1968cc,"108,355 miles",Diesel,Manual,Orange,Hatchback,4X4,5.0,5.0,147 bhp,122 mph,,134 g/km
+seat,Ateca,25900.0,2023,1498cc,"3,000 miles",Petrol,Automatic,Green,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,151 g/km
+seat,Leon,18900.0,2020,1498cc,"8,100 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,129 bhp,132 mph,,127 g/km
+seat,Mii,6495.0,2016,999cc,"22,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,102 g/km
+seat,Tarraco,19975.0,2019,1968cc,"98,786 miles",Diesel,Automatic,Black,Estate,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,146 g/km
+seat,Ibiza,15599.0,2020,1L,"9,870 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Ateca,24700.0,2023,1.5L,"3,726 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Ateca,24600.0,2023,1.5L,"4,915 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Ateca,28000.0,2023,2L,"12,115 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,138 g/km
+seat,Ibiza,15500.0,2021,1L,"15,965 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,125 g/km
+seat,Ibiza,15500.0,2021,1L,"19,178 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ibiza,14090.0,2021,1L,"18,084 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,13400.0,2020,1L,"20,932 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Ateca,34990.0,2023,1968cc,833 miles,Diesel,Automatic,Unknown,SUV,4X2,5.0,5.0,148 bhp,126 mph,,
+seat,Arona,21990.0,2023,999cc,652 miles,Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Ateca,21990.0,2021,1498cc,"16,801 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Leon,13490.0,2020,1498cc,"16,320 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Arona,15340.0,2020,999cc,"27,298 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Tarraco,21495.0,0L,"17,655 miles",Petrol,Manual,Oryx White (Metallic),SUV,38.7 mpg,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Arona,15451.0,0L,"24,402 miles",Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,120 g/km
+seat,Ibiza,18150.0,2022,1L,"9,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Ibiza,5495.0,2012,1197cc,"86,000 miles",Petrol,Manual,ELECTRIC GREEN METALLIC,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ateca,19990.0,2020,1498cc,"16,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,160 g/km
+seat,Mii,10295.0,2019,999cc,"34,600 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,96 g/km
+seat,Leon,14999.0,2019,1968cc,"22,753 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,115 g/km
+seat,Leon,7695.0,2015,1197cc,"69,363 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,109 bhp,119 mph,10.0 seconds,114 g/km
+seat,Leon,3495.0,2011,1598cc,"116,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,11.7 seconds,99 g/km
+seat,Leon,6295.0,2015,1598cc,"106,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.9 seconds,102 g/km
+seat,Arona,20695.0,2022,1.5L,"12,435 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,148 bhp,130 mph,,142 g/km
+seat,Arona,18395.0,2023,1L,"8,307 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Arona,14992.0,2020,999cc,"7,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Ibiza,15690.0,2021,1L,"10,935 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,,129 g/km
+seat,Ibiza,11995.0,2019,1L,"50,670 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Ateca,21795.0,2020,1.5L,"23,698 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Ateca,21795.0,2021,1.5L,"15,778 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,124 mph,,148 g/km
+seat,Leon,14895.0,2020,1.5L,"24,421 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,126 g/km
+seat,Ateca,15495.0,2018,1L,"16,610 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,120 g/km
+seat,Alhambra,20495.0,2017,2L,"31,388 miles",Diesel,Semiauto,Blue,MPV,4X2,5.0,7.0,147 bhp,123 mph,,137 g/km
+seat,Arona,17495.0,2020,1L,"7,999 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,113 g/km
+seat,Arona,14940.0,2022,1L,"10,470 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Tarraco,33990.0,2023,1.5L,"1,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,148 bhp,124 mph,,163 g/km
+seat,Ibiza,14230.0,2021,1L,"11,408 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+seat,Ibiza,15190.0,2019,1L,"8,045 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Ibiza,12990.0,2020,1L,"25,355 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,14750.0,2020,1L,"18,526 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,137 g/km
+seat,Leon,15499.0,2019,2L,"27,239 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Ateca,12500.0,2017,2L,"84,963 miles",Diesel,Manual,Green,Hatchback,4X4,5.0,5.0,147 bhp,122 mph,9.0 seconds,129 g/km
+seat,Ibiza,6800.0,2016,1.2L,"73,035 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,109 bhp,122 mph,9.1 seconds,119 g/km
+seat,Ibiza,3195.0,2009,1390cc,"119,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,149 g/km
+seat,Ibiza,14980.0,2021,999cc,"15,228 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Tarraco,34995.0,0L,"4,999 miles",Petrol,Automatic,Dark Camouflage (Metallic),SUV,39.2 mpg,4X2,5.0,7.0,148 bhp,124 mph,,
+seat,Arona,21985.0,0L,"4,999 miles",Petrol,Manual,Nevada White,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Ateca,28795.0,0L,"4,999 miles",Petrol,Manual,Black Magic (Metallic),SUV,42.8 mpg,4X2,5.0,5.0,148 bhp,126 mph,,
+seat,Arona,13925.0,0L,"20,702 miles",Petrol,Manual,ECLIPSE ORANGE,SUV,49.6 mpg,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Arona,14595.0,2019,999cc,"23,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Tarraco,38490.0,2023,2L,10 miles,Diesel,Automatic,Red,SUV,4X4,5.0,7.0,197 bhp,130 mph,,174 g/km
+seat,Ateca,30990.0,2023,1.5L,10 miles,Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Ibiza,12900.0,2021,1L,"10,600 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,117 g/km
+seat,Arona,20579.0,2023,1L,"4,987 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,138 g/km
+seat,Ibiza,13214.0,2021,1L,"7,725 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,124 g/km
+seat,Ibiza,15249.0,2019,999cc,"32,997 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,111 g/km
+seat,Ateca,16649.0,2017,1395cc,"17,954 miles",Petrol,,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Ateca,14599.0,2019,1598cc,"33,523 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Leon,11849.0,2017,1395cc,"42,904 miles",Petrol,,Red,Coupe,4X2,3.0,5.0,147 bhp,134 mph,,115 g/km
+seat,Tarraco,19799.0,2019,1968cc,"53,039 miles",Diesel,,Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Ateca,22490.0,2021,1.5L,"32,436 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,156 g/km
+seat,Ateca,14690.0,2018,1L,"15,536 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,120 g/km
+seat,Ibiza,20490.0,2023,1L,856 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,11990.0,2019,1L,"43,775 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,79 bhp,105 mph,14.7 seconds,112 g/km
+seat,Ibiza,15950.0,2020,1L,"19,999 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,129 g/km
+seat,Ibiza,16000.0,2021,1L,"14,501 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,14100.0,2020,1L,"30,006 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Ateca,26690.0,2023,2L,10 miles,Diesel,Semiauto,Blue,SUV,4X2,5.0,5.0,148 bhp,126 mph,,130 g/km
+seat,Ibiza,17800.0,2023,1L,"4,995 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,125 g/km
+seat,Ibiza,16900.0,2021,1L,"8,389 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Ateca,20499.0,2021,1.5L,"7,180 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Leon,14799.0,2021,1L,"39,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,125 g/km
+seat,Leon,15290.0,2019,1984cc,"28,524 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Asphalt Blue,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Tarraco,33195.0,0L,25 miles,Petrol,Automatic,Dolphin Grey (Metallic),SUV,39.2 mpg,4X2,5.0,7.0,148 bhp,124 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Urban Silver Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Urban Silver Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Sapphire Blue,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Sapphire Blue,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Ibiza,17995.0,0L,25 miles,Petrol,Manual,Emocion Red,Hatchback,50.4 mpg,4X2,5.0,5.0,79 bhp,106 mph,,
+seat,Arona,21950.0,0L,"4,999 miles",Petrol,Manual,Emocion Red Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Tarraco,34995.0,0L,25 miles,Petrol,Automatic,Dolphin Grey (Metallic),SUV,39.8 mpg,4X2,5.0,7.0,148 bhp,124 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Sapphire Blue,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Sapphire Blue,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Asphalt Blue,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Tarraco,33950.0,0L,"4,999 miles",Petrol,Automatic,Dark Camouflage (Metallic),SUV,40.4 mpg,4X2,5.0,7.0,148 bhp,124 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Sapphire Blue,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Midnight Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Emocion Red Magnetic Grey,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Nevada White,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,19995.0,0L,25 miles,Petrol,Manual,Urban Silver,SUV,53.3 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,20495.0,0L,25 miles,Petrol,Manual,White,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,118 mph,,
+seat,Arona,18495.0,0L,25 miles,Petrol,Manual,White Magnetic Grey,SUV,52.3 mpg,4X2,5.0,5.0,94 bhp,113 mph,,
+seat,Ibiza,17995.0,0L,25 miles,Petrol,Manual,Magnetic Grey,Hatchback,50.4 mpg,4X2,5.0,5.0,79 bhp,106 mph,,
+seat,Leon,5495.0,2014,1598cc,"112,910 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,17495.0,2022,1L,"6,058 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,125 g/km
+seat,Leon,12145.0,2020,1.5L,"56,875 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,110 g/km
+seat,Arona,12190.0,2020,1L,"63,892 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Arona,15495.0,2021,1L,"23,198 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Ateca,20999.0,2020,1.5L,"16,074 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,158 g/km
+seat,Leon,14370.0,2020,1.5L,"24,119 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,112 g/km
+seat,Ibiza,12590.0,2021,1L,"27,412 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,117 g/km
+seat,Ateca,17700.0,2020,1.5L,"15,310 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,151 g/km
+seat,Arona,14300.0,2019,1L,"18,245 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ibiza,12995.0,2020,1L,"24,164 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Arona,12983.0,2020,1L,"16,544 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Arona,16690.0,2022,1L,"8,929 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,14490.0,2021,1L,"36,465 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Ateca,21000.0,2020,1.5L,"19,418 miles",Petrol,Semiauto,Green,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Leon,19500.0,2019,2L,"34,043 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Altea,3495.0,2010,1.6L,"115,500 miles",Diesel,Semi Automatic,Grey,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.4 seconds,129 g/km
+seat,Leon,9495.0,2017,1395cc,"72,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ibiza,17995.0,2021,1L,"11,899 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,135 g/km
+seat,Ibiza,17995.0,2022,1L,"12,246 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,133 g/km
+seat,Ibiza,14995.0,2019,1L,"13,930 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,112 g/km
+seat,Ateca,17995.0,2018,1.4L,"25,229 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,125 g/km
+seat,Leon,4990.0,2009,1984cc,"61,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,208 bhp,145 mph,7.2 seconds,170 g/km
+seat,Ibiza,5395.0,2012,1197cc,"71,696 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Toledo,2195.0,2016,1598cc,"188,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,10.0 seconds,101 g/km
+seat,Leon,9399.0,2017,1197cc,"56,394 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Leon,3495.0,2012,1968cc,"115,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.5 seconds,125 g/km
+seat,Mii,5495.0,2014,999cc,"56,992 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+seat,Leon,13490.0,2019,1395cc,"35,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Alhambra,19890.0,2019,1968cc,"44,146 miles",Diesel,Automatic,Metallic Blue/Silver,MPV,4X2,5.0,7.0,147 bhp,123 mph,10.3 seconds,140 g/km
+seat,Leon,18493.0,2018,1984cc,"31,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,296 bhp,155 mph,,158 g/km
+seat,Ibiza,3999.0,2013,1598cc,"127,000 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,103 bhp,117 mph,10.5 seconds,112 g/km
+seat,Ateca,20995.0,2021,1968cc,"38,640 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,148 bhp,126 mph,,136 g/km
+seat,Leon,18495.0,2022,999cc,"7,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,125 g/km
+seat,Mii,5995.0,2016,999cc,"83,463 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,74 bhp,106 mph,13.2 seconds,106 g/km
+seat,Arona,16389.0,2019,999cc,"13,150 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,6495.0,2014,1968cc,"83,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,9590.0,2019,1598cc,"60,376 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,121 mph,10.6 seconds,109 g/km
+seat,Leon,14750.0,2021,1498cc,"61,000 miles",Petrol,Manual,Metallic,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,128 g/km
+seat,Toledo,5250.0,2014,1197cc,"89,150 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,121 mph,10.3 seconds,118 g/km
+seat,Leon,8940.0,2015,1395cc,"73,932 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.0 seconds,113 g/km
+seat,Ibiza,6495.0,2014,1390cc,"54,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,5995.0,2014,1390cc,"61,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,6295.0,2013,1390cc,"46,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,12499.0,2020,1968cc,"72,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,132 g/km
+seat,Leon,10499.0,2019,1598cc,"71,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Arona,13450.0,2020,1598cc,"41,550 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,106 g/km
+seat,Ateca,12950.0,2019,1598cc,"71,000 miles",Diesel,Manual,Samoa Orange Metallic,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Arona,14650.0,2019,1000cc,"8,143 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,9950.0,2016,1598cc,"53,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,103 g/km
+seat,Tarraco,20299.0,2019,1498cc,"39,456 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Arona,19199.0,2021,999cc,"13,552 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ateca,19995.0,2021,1498cc,"17,435 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Ibiza,10000.0,2017,999cc,"43,000 miles",Petrol,Manual,Gold,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,106 g/km
+seat,Arona,12990.0,2021,999cc,"41,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ateca,16450.0,2017,1395cc,"43,159 miles",Petrol,Manual,Dark Gun Metal - Metallic,Hatchback,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Ateca,21595.0,2020,1.5L,"26,477 miles",Petrol,Semiauto,Green,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Arona,13999.0,2021,1L,"16,266 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,4995.0,2012,1199cc,"62,348 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,13.9 seconds,92 g/km
+seat,Exeo,6250.0,2012,1968cc,"78,298 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,141 bhp,130 mph,9.6 seconds,132 g/km
+seat,Leon,10995.0,2019,1598cc,"78,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Altea XL,4290.0,2012,1598cc,"30,000 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.6 seconds,129 g/km
+seat,Arona,12498.0,2020,999cc,"15,144 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,131 g/km
+seat,Ibiza,14749.0,2020,999cc,"19,191 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Arona,13299.0,2018,999cc,"24,955 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ateca,14999.0,2019,1498cc,"51,260 miles",Petrol,,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Ateca,16799.0,2019,1598cc,"29,312 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,128 g/km
+seat,Leon,10749.0,2018,1598cc,"50,427 miles",Diesel,,Black,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Ibiza,13399.0,2021,999cc,"30,472 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+seat,Leon,16699.0,2019,1984cc,"33,278 miles",Petrol,,Black,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Leon,11699.0,2018,1197cc,"29,042 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Arona,18362.0,2023,1L,"5,934 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,125 g/km
+seat,Arona,16950.0,2021,1L,"19,654 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,118 mph,,135 g/km
+seat,Tarraco,27999.0,2021,1.5L,"13,849 miles",Petrol,Automatic,Green,SUV,4X2,5.0,7.0,148 bhp,124 mph,,170 g/km
+seat,Tarraco,27499.0,2021,2L,"33,553 miles",Diesel,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,122 mph,,147 g/km
+seat,Arona,14700.0,2020,999cc,"18,308 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,134 g/km
+seat,Tarraco,35970.0,2023,1968cc,5 miles,Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,197 bhp,130 mph,,172 g/km
+seat,Leon,15500.0,2021,1498cc,"27,392 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Leon,11899.0,2019,999cc,"48,818 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,110 g/km
+seat,Ibiza,7195.0,2015,1197cc,"52,850 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,4244.0,2012,1390cc,"86,350 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Arosa,2495.0,2004,1000cc,"37,000 miles",Petrol,Manual,Grey,Other,4X2,3.0,5.0,50 bhp,94 mph,17.7 seconds,139 g/km
+seat,Leon,11000.0,2016,1395cc,"42,245 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,7.9 seconds,117 g/km
+seat,Leon,14895.0,2019,1.5L,"14,178 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,113 g/km
+seat,Arona,10999.0,2019,1L,"44,929 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,115 g/km
+seat,Arona,13995.0,2019,1L,"31,000 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Arona,11695.0,2020,1L,"22,255 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Ibiza,10991.0,2016,1.4L,"23,443 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,7.3 seconds,112 g/km
+seat,Leon,9995.0,2016,1395cc,"55,100 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,147 bhp,134 mph,7.9 seconds,113 g/km
+seat,Arona,11995.0,2019,1598cc,"80,757 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,94 bhp,108 mph,,109 g/km
+seat,Ibiza,7795.0,2015,1197cc,"56,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Leon,14799.0,2022,1.5L,"13,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,127 g/km
+seat,Ibiza,7990.0,2016,1.2L,"73,367 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,109 bhp,122 mph,9.1 seconds,119 g/km
+seat,Arona,17000.0,2020,1L,"5,197 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,,138 g/km
+seat,Tarraco,19000.0,2019,2L,"55,673 miles",Diesel,Manual,Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Ibiza,23173.0,2023,1L,"5,000 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,135 g/km
+seat,Leon,20000.0,2020,1984cc,"20,782 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,170 g/km
+seat,Ibiza,11990.0,2019,999cc,"21,312 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Ibiza,15890.0,2021,999cc,"14,324 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Arona,14600.0,2021,999cc,"13,271 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Alhambra,25825.0,2019,2L,"10,188 miles",Diesel,Semiauto,Silver,MPV,4X2,5.0,7.0,147 bhp,123 mph,10.3 seconds,140 g/km
+seat,Arona,15990.0,2019,1L,"8,134 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,111 g/km
+seat,Arona,14490.0,2019,1L,"21,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Ateca,33990.0,2023,2L,10 miles,Diesel,Semiauto,Black,SUV,4X4,5.0,5.0,148 bhp,122 mph,,155 g/km
+seat,Ibiza,13035.0,2020,1L,"26,167 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Ateca,21995.0,2019,1.5L,"5,633 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Arona,14250.0,2020,1L,"19,125 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,114 bhp,118 mph,,134 g/km
+seat,Leon,11300.0,2020,1L,"29,440 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Arona,13998.0,2020,1.6L,"39,479 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,94 bhp,108 mph,,138 g/km
+seat,Tarraco,18919.0,2020,1.5L,"20,679 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,134 g/km
+seat,Tarraco,19669.0,2019,2L,"26,717 miles",Diesel,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Alhambra,20919.0,2018,2L,"20,505 miles",Diesel,Semiauto,Blue,MPV,4X2,5.0,7.0,147 bhp,123 mph,10.3 seconds,140 g/km
+seat,Tarraco,17419.0,2020,1.5L,"41,533 miles",Petrol,Manual,Grey,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,173 g/km
+seat,Tarraco,22150.0,2020,1.5L,"33,010 miles",Petrol,Manual,Green,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,167 g/km
+seat,Ateca,17998.0,2019,1.5L,"48,915 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Tarraco,23500.0,2020,1.5L,"7,412 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,148 bhp,123 mph,,139 g/km
+seat,Ibiza,15995.0,2021,1L,"17,682 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+seat,Leon,21495.0,2020,2L,"45,212 miles",Petrol,Semiauto,Black,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,189 g/km
+seat,Leon,14995.0,2019,1498cc,"22,500 miles",Petrol,Manual,Mystery Blue,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,120 g/km
+seat,Leon,8950.0,2016,1968cc,"96,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,181 bhp,140 mph,7.5 seconds,120 g/km
+seat,Alhambra,15995.0,2019,1968cc,"89,620 miles",Diesel,Manual,BLACK,MPV,4X2,5.0,7.0,147 bhp,124 mph,10.3 seconds,135 g/km
+seat,Leon,8050.0,2014,1968cc,"70,104 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,181 bhp,142 mph,7.5 seconds,109 g/km
+seat,Tarraco,24995.0,2021,1.5L,"38,740 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,148 bhp,123 mph,,170 g/km
+seat,Ibiza,4595.0,2011,1390cc,"105,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,15999.0,2020,999cc,"21,669 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,154 g/km
+seat,Leon,14849.0,2019,1498cc,"60,531 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,8.3 seconds,117 g/km
+seat,Ateca,14699.0,2018,1968cc,"56,861 miles",Diesel,,White,SUV,4X4,5.0,5.0,147 bhp,122 mph,,129 g/km
+seat,Mii,6499.0,2016,999cc,"46,518 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+seat,Leon,13199.0,2020,1498cc,"48,868 miles",Petrol,,Blue,Estate,4X2,5.0,5.0,129 bhp,129 mph,9.5 seconds,127 g/km
+seat,Leon,9250.0,2019,1598cc,"83,365 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,121 mph,10.6 seconds,111 g/km
+seat,Leon,5195.0,2012,1598cc,"101,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,11.7 seconds,99 g/km
+seat,Leon,11750.0,2018,1395cc,"50,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Arona,14995.0,2020,999cc,"27,697 miles",Petrol,Automatic,Silver/ Black,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,137 g/km
+seat,Leon,3950.0,2012,1600cc,"104,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,11.7 seconds,99 g/km
+seat,Leon,6450.0,2014,1600cc,"102,606 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Arona,12675.0,2020,999cc,"38,889 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,118 mph,,131 g/km
+seat,Leon,15990.0,2020,1498cc,"16,672 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,126 g/km
+seat,Ibiza,3995.0,2005,1390cc,"63,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,74 bhp,105 mph,15.6 seconds,180 g/km
+seat,Mii,3750.0,2017,999cc,"117,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,102 g/km
+seat,Ateca,15995.0,2020,1498cc,"18,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,149 g/km
+seat,Leon,13299.0,2020,1498cc,"36,200 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,132 mph,,127 g/km
+seat,Leon,8648.0,2015,1197cc,"48,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,114 g/km
+seat,Arona,11790.0,2018,1598cc,"44,368 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,115 mph,,106 g/km
+seat,Leon,7490.0,2015,1968cc,"105,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,181 bhp,140 mph,7.5 seconds,119 g/km
+seat,Leon,6490.0,2015,1395cc,"126,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.2 seconds,109 g/km
+seat,Leon,17990.0,2017,1984cc,"33,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,158 g/km
+seat,Leon,5190.0,2014,1197cc,"102,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.0 seconds,114 g/km
+seat,Ibiza,1895.0,2011,1390cc,"158,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,5795.0,2014,1395cc,"82,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,138 bhp,130 mph,8.2 seconds,109 g/km
+seat,Ibiza,3695.0,2013,1390cc,"104,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,14494.0,2018,1395cc,"53,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,123 g/km
+seat,Ibiza,5995.0,2010,1390cc,"106,000 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,5.0,177 bhp,139 mph,7.2 seconds,148 g/km
+seat,Ibiza,5980.0,2015,1390cc,"51,830 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,5995.0,2015,1400cc,"64,905 miles",Petrol,Manual,Red,Other,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ibiza,3895.0,2013,1390cc,"91,759 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,15558.0,2020,1498cc,"30,581 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,130 g/km
+seat,Ibiza,13950.0,2020,999cc,"12,344 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,125 g/km
+seat,Leon,11490.0,2019,1.5L,"68,585 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Ibiza,13295.0,2021,1L,"13,133 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,117 g/km
+seat,Ibiza,14950.0,2019,1L,"21,325 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,104 g/km
+seat,Arona,12429.0,2018,1L,"30,060 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,113 mph,,114 g/km
+seat,Ateca,22490.0,2022,1.5L,"6,932 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Leon,11977.0,2020,1L,"47,735 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Leon,11499.0,2019,1L,"30,299 miles",Petrol,Manual,White,Hatchback,,,,,,,
+seat,Arona,11999.0,2020,1L,"35,732 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Leon,17800.0,2019,2L,"57,110 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Leon,10995.0,2018,1.2L,"30,422 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,116 g/km
+seat,Arona,14695.0,2020,1L,"18,901 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,137 g/km
+seat,Leon,12199.0,2018,1.4L,"42,785 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,114 g/km
+seat,Leon,14699.0,2019,1.5L,"9,603 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Leon,18995.0,2019,2000cc,"35,999 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Ibiza,1495.0,2007,1198cc,"105,913 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,68 bhp,106 mph,14.2 seconds,139 g/km
+seat,Ateca,17201.0,2020,1.5L,"44,843 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,148 g/km
+seat,Leon,10900.0,2017,1.4L,"56,062 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Tarraco,21800.0,2020,1.5L,"26,892 miles",Petrol,Manual,Grey,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,169 g/km
+seat,Leon,14990.0,2021,1L,"8,104 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Leon,15990.0,2018,2L,"21,816 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Ateca,16499.0,2020,1.5L,"23,000 miles",Petrol,Semi Automatic,White,Hatchback,4X2,5.0,5.0,147 bhp,123 mph,8.6 seconds,124 g/km
+seat,Ibiza,6995.0,2013,1.39L,"40,900 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Ateca,20490.0,2020,1498cc,"28,149 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,148 bhp,124 mph,,154 g/km
+seat,Leon,16500.0,2019,1984cc,"28,644 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Leon,17300.0,2018,1984cc,"37,527 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,285 bhp,155 mph,6.0 seconds,149 g/km
+seat,Leon,12500.0,2019,1968cc,"49,272 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,115 g/km
+seat,Arona,14650.0,0L,"6,025 miles",Petrol,Manual,Desire Red Midnight Black,SUV,52.3 mpg,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,14795.0,0L,"13,432 miles",Petrol,Manual,Emocion Red,SUV,49.6 mpg,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Tarraco,21700.0,0L,"6,900 miles",Petrol,Manual,Deep Black (Metallic),SUV,38.7 mpg,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Arona,17925.0,0L,"8,380 miles",Petrol,Automatic,Emocion Red Midnight Black,SUV,47.9 mpg,4X2,5.0,5.0,109 bhp,118 mph,,135 g/km
+seat,Leon,17494.0,0L,"20,352 miles",Petrol,Automatic,Nevada White (Metallic),Hatchback,42.8 mpg,4X2,5.0,5.0,188 bhp,142 mph,7.2 seconds,141 g/km
+seat,Tarraco,21948.0,0L,"44,762 miles",Diesel,Automatic,Oryx White (Metallic),SUV,41.5 mpg,4X4,5.0,7.0,147 bhp,123 mph,9.8 seconds,181 g/km
+seat,Leon,10298.0,2019,1.6L,"73,659 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,111 g/km
+seat,Leon,15998.0,2019,2L,"27,703 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,188 bhp,144 mph,7.3 seconds,141 g/km
+seat,Ibiza,5950.0,2014,1.2L,"56,300 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.9 seconds,125 g/km
+seat,Ibiza,13599.0,2019,1L,"33,095 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Ibiza,6995.0,2014,1197cc,"48,745 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Leon,12863.0,2018,1498cc,"23,376 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,113 g/km
+seat,Leon,7750.0,2014,1395cc,"82,100 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,138 bhp,131 mph,8.4 seconds,121 g/km
+seat,Alhambra,15700.0,2000,1968cc,"70,207 miles",Diesel,Automatic,Brown,MPV,4X2,5.0,7.0,181 bhp,135 mph,8.9 seconds,141 g/km
+seat,Ibiza,3495.0,2011,1598cc,"89,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,116 mph,10.5 seconds,112 g/km
+seat,Arona,10300.0,2019,1598cc,"58,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,108 g/km
+seat,Exeo,4000.0,2012,1968cc,"129,000 miles",Diesel,Manual,White,Saloon,4X2,4.0,5.0,141 bhp,134 mph,9.2 seconds,129 g/km
+seat,Arona,11950.0,2019,1598cc,"17,415 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,115 mph,,114 g/km
+seat,Leon,9395.0,2016,1598cc,"64,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,103 g/km
+seat,Tarraco,25490.0,2022,1498cc,"24,199 miles",Petrol,Automatic,Red,SUV,4X2,5.0,7.0,148 bhp,124 mph,,166 g/km
+seat,Exeo,4650.0,2010,1968cc,"95,000 miles",Diesel,Manual,Grey,Saloon,4X2,4.0,5.0,141 bhp,133 mph,9.2 seconds,143 g/km
+seat,Ibiza,5490.0,2013,1199cc,"85,120 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,74 bhp,104 mph,13.9 seconds,102 g/km
+seat,Leon,10950.0,2019,1598cc,"51,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,114 bhp,121 mph,10.6 seconds,111 g/km
+seat,Alhambra,21450.0,2020,1968cc,"48,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,147 bhp,124 mph,,167 g/km
+seat,Arona,12994.0,2019,1598cc,"38,636 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,108 g/km
+seat,Tarraco,19995.0,2019,2000cc,"37,204 miles",Diesel,Manual,Black,Other,4X2,5.0,7.0,147 bhp,126 mph,9.8 seconds,129 g/km
+seat,Arona,15540.0,2019,999cc,"13,259 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,115 g/km
+seat,Leon,12495.0,2019,1498cc,"33,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Ibiza,13990.0,2021,999cc,"11,500 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+seat,Mii,8799.0,2018,999cc,"36,631 miles",Petrol,,Black,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,97 g/km
+seat,Leon,15999.0,2020,1498cc,"28,759 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,148 bhp,134 mph,,132 g/km
+seat,Leon,17599.0,2020,1395cc,"34,687 miles",Hybrid,,White,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,27 g/km
+seat,Leon,11499.0,2017,1968cc,"41,301 miles",Diesel,,Grey,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.6 seconds,112 g/km
+seat,Leon,13499.0,2020,999cc,"14,952 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,120 g/km
+seat,Ibiza,18495.0,2023,1L,50 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,15990.0,2020,1L,"21,625 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,131 g/km
+seat,Ibiza,15990.0,2021,1L,"22,128 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,,124 g/km
+seat,Arona,14598.0,2020,1L,"20,228 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,137 g/km
+seat,Mii,8400.0,2019,1L,"24,981 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,96 g/km
+seat,Arona,13813.0,2021,1L,"7,578 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Arona,11558.0,2018,1.6L,"47,450 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,115 mph,,106 g/km
+seat,Ibiza,14250.0,2020,1L,"25,936 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Ibiza,13549.0,2019,1L,"37,227 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,111 g/km
+seat,Ibiza,15290.0,2021,1L,"27,277 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,133 g/km
+seat,Leon,13495.0,2017,2L,"49,685 miles",Diesel,Semiauto,Grey,Estate,4X2,5.0,5.0,181 bhp,140 mph,,125 g/km
+seat,Ibiza,15900.0,2021,1L,"18,578 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,134 g/km
+seat,Arona,13750.0,2020,1L,"31,907 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,111 g/km
+seat,Ateca,11999.0,2017,1.6L,"53,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.0 seconds,114 g/km
+seat,Arona,14499.0,2018,1L,"12,900 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,114 bhp,113 mph,,113 g/km
+seat,Arona,15582.0,2019,999cc,"28,443 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,10.0 seconds,114 g/km
+seat,Ibiza,17982.0,2020,999cc,"30,567 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,111 g/km
+seat,Ibiza,12970.0,2019,1L,"83,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,112 g/km
+seat,Ibiza,12999.0,2022,1L,"9,421 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,79 bhp,106 mph,,120 g/km
+seat,Ibiza,14999.0,2020,1L,"11,000 miles",Petrol,Semi Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,,139 g/km
+seat,Arona,12999.0,2021,1L,"21,216 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Leon,4995.0,2012,1598cc,"74,500 miles",Diesel,Manual,Emocion Red,Hatchback,4X2,5.0,5.0,103 bhp,115 mph,11.3 seconds,109 g/km
+seat,Arona,16490.0,2021,999cc,"15,032 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Ibiza,13490.0,2020,999cc,"24,051 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Arona,17340.0,2021,999cc,"9,426 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,124 g/km
+seat,Leon,17990.0,2017,1984cc,"19,284 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,296 bhp,155 mph,,158 g/km
+seat,Tarraco,16500.0,2019,1498cc,"43,123 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Leon,20750.0,2019,1984cc,"36,500 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,161 g/km
+seat,Ibiza,13490.0,2019,999cc,"30,590 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,108 g/km
+seat,Leon,11400.0,2019,1498cc,"33,719 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,113 g/km
+seat,Tarraco,15600.0,2019,1498cc,"50,716 miles",Petrol,Manual,Grey,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Ibiza,14329.0,2019,1L,"19,787 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Arona,17499.0,2021,1L,"2,000 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,118 mph,,138 g/km
+seat,Arona,13934.0,2020,1L,"9,979 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,131 g/km
+seat,Ateca,27490.0,2023,1.5L,"6,010 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,148 bhp,126 mph,,153 g/km
+seat,Leon,19295.0,2018,2000cc,"40,096 miles",Petrol,Automatic,Mystery Blue Metallic,Estate,4X4,5.0,5.0,296 bhp,155 mph,5.2 seconds,161 g/km
+seat,Ateca,9995.0,2019,1L,"28,539 miles",Petrol,Manual,Grey,4X4,4X2,5.0,5.0,114 bhp,112 mph,10.7 seconds,122 g/km
+seat,Leon,8995.0,2014,1395cc,"37,399 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,138 bhp,131 mph,8.1 seconds,121 g/km
+seat,Ibiza,16470.0,2022,999cc,"20,546 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ateca,16490.0,2020,1498cc,"47,358 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Ateca,15990.0,2019,1498cc,"28,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,125 mph,8.5 seconds,126 g/km
+seat,Leon,17950.0,2021,1.4L,"24,638 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,25 g/km
+seat,Ateca,16300.0,2019,1.6L,"18,728 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Tarraco,21650.0,2022,1.5L,"13,682 miles",Petrol,Manual,Black,SUV,4X2,5.0,7.0,148 bhp,124 mph,,156 g/km
+seat,Arona,17550.0,2021,1.5L,"19,226 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,148 bhp,130 mph,,143 g/km
+seat,Arona,10950.0,2020,1L,"28,200 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,113 mph,,124 g/km
+seat,Leon,9850.0,2020,1.5L,"59,401 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Leon,12350.0,2021,1L,"33,705 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,127 g/km
+seat,Ibiza,17700.0,2022,1L,"11,433 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,
+seat,Leon,12200.0,2018,1.4L,"38,108 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ibiza,17450.0,2022,1L,"9,759 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,126 g/km
+seat,Arona,13000.0,2020,999cc,"32,293 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,131 g/km
+seat,Leon,8795.0,2015,1968cc,"89,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,181 bhp,142 mph,7.5 seconds,112 g/km
+seat,Leon,6550.0,2015,1598cc,"117,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,99 g/km
+seat,Leon,7999.0,2014,1968cc,"81,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Ibiza,15750.0,2020,999cc,"25,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,111 g/km
+seat,Leon,1100.0,2002,1781cc,"121,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,177 bhp,142 mph,7.7 seconds,202 g/km
+seat,Ibiza,6290.0,2015,1197cc,"65,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Leon,9495.0,2016,1968cc,"70,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,147 bhp,129 mph,8.7 seconds,125 g/km
+seat,Arona,12495.0,2019,1598cc,"37,931 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.9 seconds,108 g/km
+seat,Ibiza,5495.0,2013,1390cc,"72,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Leon,9980.0,2015,1968cc,"73,000 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,181 bhp,140 mph,7.4 seconds,122 g/km
+seat,Leon,8391.0,2016,1968cc,"90,107 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,112 g/km
+seat,Ibiza,7000.0,2016,999cc,"60,808 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,74 bhp,107 mph,14.3 seconds,118 g/km
+seat,Leon,6995.0,2019,999cc,"149,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,112 g/km
+seat,Leon,17995.0,2016,2000cc,"41,315 miles",Petrol,Automatic,Grey,Other,4X2,5.0,5.0,285 bhp,155 mph,5.9 seconds,154 g/km
+seat,Arona,12720.0,2019,999cc,"81,618 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,113 mph,9.8 seconds,114 g/km
+seat,Leon,10977.0,2020,1L,"64,074 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ibiza,3895.0,2012,1390cc,"91,200 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.8 seconds,139 g/km
+seat,Arona,16995.0,2021,999cc,"15,494 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,,134 g/km
+seat,Ateca,12995.0,2018,1598cc,"49,598 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,114 mph,11.5 seconds,120 g/km
+seat,Ibiza,4895.0,2015,1197cc,"106,718 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Arona,9295.0,2020,999cc,"83,378 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,131 g/km
+seat,Ibiza,7995.0,2014,1197cc,"55,285 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Leon,19182.0,2020,1395cc,"39,911 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,27 g/km
+seat,Ibiza,7995.0,2015,1.39L,"92,000 miles",Petrol,Semi Automatic,White,Hatchback,4X2,3.0,5.0,177 bhp,142 mph,6.9 seconds,139 g/km
+seat,Ibiza,15997.0,2021,1L,"21,198 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,123 g/km
+seat,Ibiza,11639.0,2019,1L,"43,002 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,105 g/km
+seat,Ateca,31990.0,2023,1498cc,122 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,126 mph,,152 g/km
+seat,Ibiza,23990.0,2023,999cc,53 miles,Petrol,Automatic,Unknown,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,
+seat,Ibiza,23990.0,2023,999cc,53 miles,Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,,
+seat,Tarraco,15700.0,2019,1498cc,"46,585 miles",Petrol,Manual,Grey,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,152 g/km
+seat,Ateca,16150.0,0L,"21,306 miles",Petrol,Manual,Energy Blue,SUV,41.5 mpg,4X2,5.0,5.0,114 bhp,114 mph,,153 g/km
+seat,Ibiza,16950.0,0L,"3,000 miles",Petrol,Manual,Nevada White,Hatchback,52.3 mpg,4X2,5.0,5.0,109 bhp,121 mph,,124 g/km
+seat,Mii,8495.0,2018,1L,"25,290 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,97 g/km
+seat,Arona,14350.0,2020,1L,"13,785 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,131 g/km
+seat,Ateca,17600.0,2023,1L,"8,198 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,109 bhp,112 mph,,146 g/km
+seat,Arona,11250.0,2020,1L,"16,718 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,129 g/km
+seat,Leon,11700.0,2020,1L,"16,942 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,9.8 seconds,125 g/km
+seat,Leon,12500.0,2021,1L,"20,572 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Leon,12750.0,2021,1L,"20,277 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ateca,15650.0,2021,1L,"13,468 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,112 mph,,146 g/km
+seat,Arona,9650.0,2019,1L,"37,404 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,107 mph,11.4 seconds,113 g/km
+seat,Arona,14650.0,2021,1L,"8,738 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,118 mph,,121 g/km
+seat,Ibiza,11050.0,2020,1L,"34,468 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,10.9 seconds,125 g/km
+seat,Leon,12650.0,2021,1L,"20,551 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,126 g/km
+seat,Ibiza,5995.0,2015,1198cc,"53,200 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,68 bhp,101 mph,13.9 seconds,125 g/km
+seat,Leon,8995.0,2014,1.968L,"69,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,106 g/km
+seat,Leon,10350.0,2017,1598cc,"58,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,122 mph,,106 g/km
+seat,Tarraco,16599.0,2020,1.5L,"47,354 miles",Petrol,Manual,Black,SUV,4X2,5.0,7.0,147 bhp,125 mph,9.7 seconds,167 g/km
+seat,Leon,12695.0,2020,1498cc,"28,605 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,126 mph,9.4 seconds,112 g/km
+seat,Leon,4995.0,2013,1968cc,"140,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.4 seconds,106 g/km
+seat,Leon,6995.0,2015,1598cc,"108,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,10.5 seconds,99 g/km
+seat,Ibiza,7295.0,2014,1197cc,"44,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,6750.0,2015,1197cc,"66,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,103 bhp,118 mph,9.8 seconds,119 g/km
+seat,Ibiza,6995.0,2016,1197cc,"59,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,10.7 seconds,116 g/km
+seat,Ibiza,14494.0,2020,999cc,"45,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.5 seconds,139 g/km
+seat,Leon,20388.0,2021,1395cc,"16,700 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,27 g/km
+seat,Leon,18588.0,2020,1395cc,"30,500 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,201 bhp,137 mph,,27 g/km
+seat,Ibiza,13999.0,2020,1L,"14,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,121 mph,9.3 seconds,107 g/km
+seat,Ateca,28995.0,2023,2L,"3,714 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,148 bhp,126 mph,,138 g/km
+seat,Leon,12595.0,2018,1.4L,"16,087 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,123 bhp,126 mph,,120 g/km
+seat,Ibiza,7295.0,2017,999cc,"71,498 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,106 g/km
+seat,Mii,4995.0,2016,999cc,"83,754 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km

@@ -1,0 +1,427 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+dacia,Sandero,2250.0,2013,1149cc,"95,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,74 bhp,97 mph,14.5 seconds,135 g/km
+dacia,Sandero Stepway,9500.0,2021,999cc,"96,966 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Duster,14556.0,2022,1L,"19,881 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,104 mph,,145 g/km
+dacia,Sandero Stepway,9604.0,2020,0.9L,"19,697 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,148 g/km
+dacia,Duster,18699.0,1333cc,"18,346 miles",Petrol,Automatic,White,SUV,44.8 mpg,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Duster,9279.0,2019,1500cc,"84,400 miles",Diesel,Manual,Glacier White,SUV,4X2,5.0,5.0,114 bhp,111 mph,10.5 seconds,111 g/km
+dacia,Sandero Stepway,10899.0,2020,898cc,"24,029 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Logan MCV,4495.0,2016,1149cc,"87,000 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,72 bhp,100 mph,10.4 seconds,130 g/km
+dacia,Sandero Stepway,10049.0,2019,898cc,"19,383 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,127 g/km
+dacia,Sandero Stepway,16087.0,2023,1L,"2,177 miles",Hybrid,Manual,Blue,Hatchback,,,,,,,
+dacia,Duster,10596.0,2018,1.2L,"33,575 miles",Petrol,Manual,Black,SUV,,,,,,,
+dacia,Duster,11207.0,2020,1L,"39,163 miles",Hybrid,Manual,Orange,SUV,,,,,,,
+dacia,Duster,16015.0,2022,1.3L,"21,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Sandero,9199.0,2020,0.9L,"15,006 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,134 g/km
+dacia,Duster,12099.0,2019,1.3L,"39,346 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Duster,9899.0,2019,1L,"28,837 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Sandero Stepway,15495.0,2021,1L,"6,196 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,139 g/km
+dacia,Sandero Stepway,8817.0,2017,0.9L,"22,199 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,7995.0,2019,898cc,"25,506 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,127 g/km
+dacia,Sandero,9480.0,2000,999cc,"6,791 miles",Other,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,116 g/km
+dacia,Sandero Stepway,13495.0,2021,999cc,"16,871 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,9999.0,2019,999cc,"37,990 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,120 g/km
+dacia,Sandero,10290.0,999cc,"6,029 miles",Bi Fuel,Manual,White,Hatchback,46.3 mpg,4X2,5.0,5.0,99 bhp,113 mph,,116 g/km
+dacia,Sandero,7199.0,898cc,"31,341 miles",Petrol,Manual,White,Hatchback,57.6 mpg,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Duster,13200.0,2020,1.3L,"30,764 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Duster,14700.0,2021,1.3L,"14,076 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Sandero Stepway,14450.0,2022,1L,"14,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,9984.0,2020,0.9L,"10,038 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,141 g/km
+dacia,Sandero Stepway,11273.0,2021,0.9L,"17,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Duster,13932.0,2020,1L,"12,643 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,107 mph,,129 g/km
+dacia,Sandero,7975.0,2019,0.9L,"19,059 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Logan MCV,10395.0,2020,0.9L,"10,947 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,135 g/km
+dacia,Sandero,7313.0,2016,0.9L,"12,036 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,11.1 seconds,109 g/km
+dacia,Sandero Stepway,15201.0,2021,1L,"11,157 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,
+dacia,Sandero Stepway,12777.0,2021,1L,"20,721 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero,5495.0,2020,0.9L,"72,375 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Sandero Stepway,10200.0,2019,0.9L,"11,065 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero Stepway,11019.0,2021,0.9L,"11,031 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Duster,14305.0,2021,1L,"12,049 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Duster,12517.0,2019,1.6L,"17,220 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,12599.0,2017,1.5L,"18,152 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,107 bhp,105 mph,,116 g/km
+dacia,Duster,12095.0,2020,1L,"34,428 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Sandero,5995.0,2017,0.9L,"52,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,,109 g/km
+dacia,Duster,17995.0,2023,1L,"6,000 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,90 bhp,103 mph,,145 g/km
+dacia,Duster,13595.0,2019,1.3L,"18,000 miles",Petrol,Manual,Brown,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Duster,12916.0,2021,1L,"18,480 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,91 bhp,107 mph,,141 g/km
+dacia,Duster,10999.0,2019,1L,"58,858 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Sandero Stepway,6880.0,2000,898cc,"44,389 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,6745.0,2016,898cc,"45,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,115 g/km
+dacia,Sandero,2495.0,2014,1149cc,"91,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,97 mph,14.5 seconds,135 g/km
+dacia,Duster,9485.0,2019,1598cc,"49,872 miles",Petrol,Manual,Grey,Estate,,,,,,,
+dacia,Logan MCV,6989.0,2019,998cc,"61,258 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,72 bhp,98 mph,15.5 seconds,124 g/km
+dacia,Sandero,10398.0,2021,1L,"6,413 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,98 mph,,121 g/km
+dacia,Duster,10349.0,2017,1197cc,"27,014 miles",Petrol,,Black,SUV,4X2,5.0,5.0,123 bhp,109 mph,10.4 seconds,138 g/km
+dacia,Sandero,7899.0,2019,1L,"18,897 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,116 g/km
+dacia,Duster,17499.0,2022,1.3L,"6,263 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,11990.0,2020,999cc,"38,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Sandero Stepway,8290.0,2017,898cc,"17,561 miles",Petrol,Manual,Solid - Glacier Whit,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,12749.0,2019,1333cc,"42,455 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Sandero Stepway,14500.0,2023,1L,"3,011 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,12167.0,2020,1L,"29,245 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Duster,9978.0,2019,1L,"38,427 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Duster,8879.0,2017,1.2L,"54,772 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,123 bhp,109 mph,10.4 seconds,138 g/km
+dacia,Sandero,10169.0,2021,1L,"22,102 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Duster,11929.0,2020,1L,"29,702 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,7450.0,2013,1.6L,"30,800 miles",Petrol,Manual,Silver,4X4,4X4,5.0,5.0,103 bhp,99 mph,12.8 seconds,185 g/km
+dacia,Duster,16899.0,1333cc,"13,558 miles",Petrol,Manual,Orange,SUV,45.6 mpg,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,12475.0,2020,1.3L,"42,353 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Duster,16799.0,2021,1.3L,"8,724 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+dacia,Sandero Stepway,9500.0,2021,0.9L,"22,210 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,141 g/km
+dacia,Duster,21498.0,0L,"4,999 miles",Petrol,Manual,DUSTY KHAKI,SUV,45.6 mpg,4X2,5.0,5.0,129 bhp,120 mph,,
+dacia,Duster,12746.0,2020,1L,"6,477 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,149 g/km
+dacia,Duster,19000.0,2023,1.3L,"7,000 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Sandero,8395.0,2020,998cc,"11,871 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,130 g/km
+dacia,Duster,14388.0,2021,1.3L,"14,168 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,14843.0,2021,1L,"10,637 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km
+dacia,Sandero Stepway,10449.0,2020,0.9L,"14,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,149 g/km
+dacia,Sandero Stepway,12599.0,2021,1L,"28,361 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,130 g/km
+dacia,Duster,18000.0,2023,1L,"5,500 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,91 bhp,103 mph,,140 g/km
+dacia,Duster,14750.0,2021,1.3L,"23,559 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+dacia,Jogger,26995.0,2023,1.6L,10 miles,Hybrid,Automatic,Green,MPV,4X2,5.0,7.0,140 bhp,111 mph,,109 g/km
+dacia,Sandero Stepway,8650.0,2020,0.9L,"34,303 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,141 g/km
+dacia,Sandero Stepway,13622.0,2021,1L,"8,765 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,128 g/km
+dacia,Duster,11995.0,2020,1L,"23,122 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,14000.0,2019,1.3L,"30,925 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Duster,12000.0,2020,1L,"34,771 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Duster,13590.0,2020,1.3L,"18,462 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,161 g/km
+dacia,Sandero,9295.0,2020,0.9L,"23,020 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,134 g/km
+dacia,Duster,15498.0,0L,"10,165 miles",Petrol,Manual,METALLIC - DESERT ORANGE,SUV,45.6 mpg,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Sandero Stepway,7995.0,2019,898cc,"35,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,127 g/km
+dacia,Sandero,12499.0,2022,999cc,"5,560 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Sandero Stepway,9995.0,2019,898cc,"23,937 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,125 g/km
+dacia,Duster,10420.0,2019,1598cc,"49,996 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,14475.0,2021,1L,"25,643 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Duster,11998.0,2021,1L,"16,216 miles",Hybrid,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Sandero Stepway,42950.0,2023,1L,250 miles,Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,139 g/km
+dacia,Sandero,11400.0,2021,1L,"5,364 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Duster,15040.0,2022,1L,"4,920 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Sandero Stepway,8995.0,2020,0.9L,"45,102 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero,5980.0,2018,1L,"48,265 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,,117 g/km
+dacia,Sandero,5250.0,2015,898cc,"65,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,115 g/km
+dacia,Sandero Stepway,16799.0,2023,1L,"1,295 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,126 g/km
+dacia,Sandero Stepway,14590.0,999cc,"12,030 miles",Petrol,Manual,Orange,Hatchback,50.4 mpg,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,7695.0,2017,1461cc,"42,996 miles",Diesel,Manual,Slate Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Duster,11199.0,2020,999cc,"19,097 miles",Petrol,,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,16350.0,2022,1L,"8,421 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Duster,13428.0,2020,1.3L,"23,681 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,137 g/km
+dacia,Duster,13694.0,2019,1.3L,"21,526 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Duster,11998.0,2018,1.6L,"28,485 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Sandero,14498.0,2022,1L,"4,172 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,90 bhp,105 mph,,131 g/km
+dacia,Duster,6990.0,2013,1461cc,"69,052 miles",Diesel,Manual,Silver,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,137 g/km
+dacia,Duster,10499.0,2019,1.3L,"74,708 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Sandero Stepway,10197.0,2020,0.9L,"20,253 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Duster,10450.0,2019,1.6L,"15,861 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,13821.0,2021,1L,"14,780 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km
+dacia,Sandero Stepway,11792.0,2021,1L,"26,469 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Duster,12793.0,2020,1L,"19,757 miles",Petrol,Manual,Beige,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Sandero Stepway,13899.0,999cc,"18,598 miles",Petrol,Manual,Black,Hatchback,50.4 mpg,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero,8990.0,2019,898cc,"19,841 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,125 g/km
+dacia,Sandero,3995.0,2013,1149cc,"83,283 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,74 bhp,97 mph,14.5 seconds,135 g/km
+dacia,Duster,13490.0,2020,1461cc,"10,931 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,111 mph,10.5 seconds,111 g/km
+dacia,Sandero,8290.0,2020,998cc,"7,195 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,130 g/km
+dacia,Duster,13149.0,2019,1333cc,"34,123 miles",Petrol,,White,SUV,4X2,5.0,5.0,147 bhp,109 mph,10.4 seconds,138 g/km
+dacia,Duster,12549.0,2020,999cc,"18,656 miles",OTHER,,Orange,SUV,4X2,5.0,5.0,99 bhp,107 mph,,110 g/km
+dacia,Duster,13100.0,2020,1.3L,"27,963 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,149 g/km
+dacia,Duster,8300.0,2019,1L,"31,242 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Sandero Stepway,10800.0,2020,0.9L,"9,882 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Duster,14499.0,2020,1.3L,"9,048 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Sandero Stepway,9995.0,2020,0.9L,"36,221 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Duster,14700.0,2019,1.3L,"19,267 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,109 mph,10.4 seconds,139 g/km
+dacia,Sandero,12888.0,2022,1L,"5,132 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Sandero Stepway,14383.0,0L,"3,308 miles",Petrol,Manual,METALLIC - FUSION RED,Hatchback,50.4 mpg,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,10685.0,2020,1L,"15,175 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,120 g/km
+dacia,Duster,6790.0,2016,1198cc,"80,300 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,123 bhp,109 mph,10.4 seconds,138 g/km
+dacia,Sandero,10450.0,2021,1000cc,"17,001 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,98 mph,,121 g/km
+dacia,Duster,6580.0,2019,1461cc,"66,522 miles",Diesel,Manual,GREY,Other,,,,,,,
+dacia,Sandero,13900.0,2022,999cc,"1,525 miles",Other,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero Stepway,15495.0,2023,1000cc,"1,754 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,131 g/km
+dacia,Duster,11495.0,2019,1461cc,"42,152 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,111 mph,10.5 seconds,115 g/km
+dacia,Sandero Stepway,9795.0,2020,998cc,"5,669 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,72 bhp,97 mph,16.7 seconds,118 g/km
+dacia,Duster,7995.0,2015,1461cc,"54,000 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,135 g/km
+dacia,Duster,13024.0,2020,1L,"12,705 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,11675.0,2021,1.3L,"52,686 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Sandero Stepway,11905.0,2021,1L,"15,798 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,8495.0,2019,0.9L,"21,030 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,125 g/km
+dacia,Sandero Stepway,7485.0,2017,898cc,"29,442 miles",Petrol,Manual,Cosmos Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,8385.0,2019,898cc,"28,614 miles",Petrol,Manual,Cinder Red,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,127 g/km
+dacia,Sandero Stepway,7800.0,2017,898cc,"26,182 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,4995.0,2014,1461cc,"79,800 miles",Diesel,Manual,White,SUV,,,,,,,
+dacia,Sandero Stepway,10495.0,2020,898cc,"26,348 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Logan MCV,3995.0,2013,898cc,"78,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,88 bhp,109 mph,11.1 seconds,116 g/km
+dacia,Sandero Stepway,7495.0,2015,0.9L,"36,300 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,115 g/km
+dacia,Sandero Stepway,6295.0,2014,1461cc,"36,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,105 g/km
+dacia,Jogger,15795.0,2022,999cc,"9,697 miles",Petrol,Manual,Metallic - Terracotta Bronze,MPV,4X2,5.0,7.0,109 bhp,114 mph,,131 g/km
+dacia,Duster,14795.0,2023,999cc,"6,028 miles",Petrol,Manual,Solid - Glacier White,Hatchback,4X2,5.0,5.0,90 bhp,103 mph,,139 g/km
+dacia,Sandero Stepway,13295.0,2023,999cc,"8,977 miles",Petrol,Manual,Metallic - Slate Grey,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,14495.0,2023,999cc,"5,834 miles",Petrol,Manual,Metallic - Desert Orange,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,128 g/km
+dacia,Sandero,6950.0,2020,998cc,"31,288 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,114 g/km
+dacia,Duster,13150.0,2020,999cc,"21,656 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Sandero,4995.0,2016,1200cc,"54,000 miles",Petrol,Manual,Glacier White,Hatchback,4X2,5.0,5.0,72 bhp,100 mph,10.4 seconds,130 g/km
+dacia,Sandero Stepway,7395.0,2017,898cc,"54,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,13695.0,2022,999cc,"6,671 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Duster,10400.0,2019,1598cc,"42,769 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,12154.0,2018,1.5L,"38,125 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,111 mph,10.5 seconds,115 g/km
+dacia,Sandero Stepway,6290.0,2017,1.5L,"67,861 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Sandero Stepway,7800.0,2018,0.9L,"24,596 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,125 g/km
+dacia,Duster,12362.0,2019,1.3L,"46,284 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,138 g/km
+dacia,Duster,14449.0,2021,1L,"21,000 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Sandero Stepway,7695.0,2020,898cc,"10,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,121 g/km
+dacia,Duster,7485.0,2016,1461cc,"80,810 miles",Diesel,Manual,Black,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.4 seconds,123 g/km
+dacia,Sandero Stepway,3995.0,2014,898cc,"95,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,5995.0,2015,1598cc,"63,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,103 bhp,103 mph,11.5 seconds,165 g/km
+dacia,Sandero,5995.0,2016,1149cc,"22,222 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,72 bhp,100 mph,10.4 seconds,130 g/km
+dacia,Sandero Stepway,10299.0,2019,898cc,"19,275 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero Stepway,8448.0,2019,0.9L,"37,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,127 g/km
+dacia,Duster,15495.0,2022,1L,"17,458 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,104 mph,,145 g/km
+dacia,Duster,13995.0,2019,1.3L,"29,114 miles",Petrol,Manual,Beige,SUV,4X2,5.0,5.0,147 bhp,109 mph,10.4 seconds,139 g/km
+dacia,Sandero Stepway,14295.0,2021,1L,"23,594 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,141 g/km
+dacia,Sandero Stepway,7500.0,2016,1.5L,"33,852 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,98 g/km
+dacia,Sandero,8295.0,2019,0.9L,"12,409 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Sandero Stepway,14490.0,2021,999cc,"8,345 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,9995.0,2019,898cc,"7,703 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Duster,12995.0,2020,1L,"23,440 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,107 mph,,129 g/km
+dacia,Duster,6999.0,2018,1461cc,"116,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,107 bhp,105 mph,,115 g/km
+dacia,Duster,7295.0,2017,1500cc,"60,850 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero Stepway,7495.0,2018,898cc,"74,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,8990.0,2019,999cc,"55,000 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Duster,8995.0,2017,1461cc,"52,057 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,107 bhp,105 mph,,115 g/km
+dacia,Sandero Stepway,14495.0,2021,999cc,"9,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,19999.0,0L,567 miles,Petrol,Manual,Slate Grey,SUV,45.6 mpg,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,13229.0,2021,1L,"18,296 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,91 bhp,107 mph,,141 g/km
+dacia,Sandero,6480.0,2019,898cc,"46,729 miles",Petrol,Manual,GLACIER WHITE,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Duster,12595.0,2020,1330cc,"35,462 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Sandero,7995.0,2019,898cc,"17,409 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Logan MCV,9495.0,2018,898cc,"42,350 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,88 bhp,106 mph,,115 g/km
+dacia,Duster,8990.0,2015,1461cc,"25,479 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero Stepway,5790.0,2013,898cc,"34,000 miles",Petrol,Manual,RED,Other,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,5950.0,2016,1461cc,"99,898 miles",Diesel,Manual,WHITE,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.4 seconds,123 g/km
+dacia,Duster,13499.0,2020,999cc,"13,969 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,13049.0,2019,1333cc,"21,313 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,138 g/km
+dacia,Duster,12499.0,2020,999cc,"23,903 miles",Petrol,,Beige,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Duster,14288.0,2021,1.3L,"17,395 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,13485.0,2021,1L,"19,190 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Sandero,14404.0,2023,1L,"5,315 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,119 g/km
+dacia,Duster,14200.0,2019,1.3L,"12,900 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Duster,13544.0,2019,1.3L,"24,498 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,109 mph,10.4 seconds,139 g/km
+dacia,Duster,15134.0,2022,1L,"6,928 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Duster,18713.0,2023,1L,"1,043 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,91 bhp,103 mph,,140 g/km
+dacia,Duster,11600.0,2017,1.5L,"16,111 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero Stepway,13774.0,2021,1L,"25,877 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,140 g/km
+dacia,Duster,12287.0,2018,1.6L,"31,075 miles",Petrol,Manual,Beige,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,11258.0,2017,1.5L,"32,428 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,107 bhp,105 mph,,115 g/km
+dacia,Jogger,18495.0,2023,1L,"5,290 miles",Petrol,Manual,Brown,MPV,4X2,5.0,7.0,109 bhp,114 mph,,130 g/km
+dacia,Sandero Stepway,13500.0,2021,1L,"18,600 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero,7990.0,2019,898cc,"38,697 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,121 g/km
+dacia,Duster,14592.0,2021,1.3L,"16,973 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Sandero,16299.0,2023,1L,"1,000 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,123 g/km
+dacia,Sandero,4895.0,2016,1149cc,"61,215 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,100 mph,10.4 seconds,130 g/km
+dacia,Duster,15049.0,2020,1333cc,"9,873 miles",Petrol,,White,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,137 g/km
+dacia,Sandero Stepway,9847.0,2020,0.9L,"29,932 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Sandero,12990.0,2022,1L,"8,449 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero,12990.0,2022,1L,"7,432 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero,8674.0,2019,0.9L,"18,315 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,127 g/km
+dacia,Sandero,12580.0,2022,1L,"6,323 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero,14000.0,2022,1L,"6,988 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,90 bhp,105 mph,,131 g/km
+dacia,Duster,22500.0,2023,1.3L,"1,536 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,124 mph,,141 g/km
+dacia,Duster,21495.0,2023,1.3L,"1,401 miles",Petrol,Semiauto,Orange,SUV,4X2,5.0,5.0,147 bhp,124 mph,,141 g/km
+dacia,Sandero,10550.0,2021,1L,"26,113 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Sandero Stepway,14251.0,2022,1L,"5,289 miles",Hybrid,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Sandero Stepway,10900.0,2020,0.9L,"15,690 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Duster,13094.0,2020,1.3L,"17,619 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Duster,13108.0,2021,1L,"12,342 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km
+dacia,Sandero,8000.0,2020,1L,"10,469 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,130 g/km
+dacia,Duster,10000.0,2017,1.5L,"47,703 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,107 bhp,105 mph,,115 g/km
+dacia,Duster,4699.0,2013,1461cc,"60,010 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,106 bhp,106 mph,11.8 seconds,130 g/km
+dacia,Logan MCV,7995.0,2017,998cc,"22,750 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,72 bhp,98 mph,15.5 seconds,120 g/km
+dacia,Duster,10490.0,2019,1L,"46,572 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,120 g/km
+dacia,Duster,12843.0,2020,1.3L,"25,981 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,149 g/km
+dacia,Duster,5875.0,2014,1500cc,"75,382 miles",Diesel,Manual,Blue,Other,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,135 g/km
+dacia,Sandero,4995.0,2017,998cc,"89,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,,117 g/km
+dacia,Sandero,18499.0,2023,999cc,"3,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,7.0,109 bhp,114 mph,,130 g/km
+dacia,Duster,11698.0,2019,1.6L,"40,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,9600.0,2017,1197cc,"33,068 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,123 bhp,109 mph,,138 g/km
+dacia,Duster,11199.0,0L,"21,423 miles",Petrol,Manual,Glacier White,SUV,44.1 mpg,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Duster,20995.0,2022,1332cc,"2,000 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Sandero Stepway,9999.0,2020,0.9L,"15,677 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Sandero Stepway,11899.0,2020,898cc,"10,794 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Sandero Stepway,8249.0,2017,898cc,"33,864 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,13649.0,2021,999cc,"14,206 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Sandero Stepway,8050.0,2017,0.9L,"34,923 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,10127.0,2019,0.9L,"13,543 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero Stepway,8742.0,2019,0.9L,"24,050 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,127 g/km
+dacia,Sandero Stepway,6495.0,2014,1461cc,"42,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,105 g/km
+dacia,Sandero Stepway,5290.0,2015,898cc,"52,304 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Sandero,3450.0,2013,1149cc,"69,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,97 mph,14.5 seconds,135 g/km
+dacia,Duster,19489.0,2022,1.3L,"14,765 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Logan MCV,8495.0,2017,1L,"53,000 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,72 bhp,98 mph,,120 g/km
+dacia,Duster,14074.0,2021,1.3L,"20,946 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,14295.0,2019,1.3L,"24,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Sandero,12900.0,2022,1L,"9,097 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Duster,10200.0,2019,1330cc,"50,727 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,138 g/km
+dacia,Duster,12792.0,0L,"21,682 miles",Petrol,Manual,METALLIC - COSMOS BLUE,SUV,41.5 mpg,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Logan MCV,4995.0,2015,898cc,"88,455 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,88 bhp,109 mph,11.1 seconds,109 g/km
+dacia,Duster,12800.0,2020,1L,"14,704 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,107 mph,,
+dacia,Duster,12450.0,2019,1598cc,"30,215 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Sandero Stepway,9000.0,2017,898cc,"22,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,4495.0,2013,898cc,"71,103 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,18995.0,2023,1L,"1,000 miles",Hybrid,Manual,Orange,SUV,4X2,5.0,5.0,90 bhp,103 mph,,145 g/km
+dacia,Sandero Stepway,14899.0,2023,1L,"10,000 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,131 g/km
+dacia,Sandero,13399.0,2023,1L,"8,000 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,123 g/km
+dacia,Sandero Stepway,14899.0,2023,1L,"9,000 miles",Hybrid,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,131 g/km
+dacia,Sandero,13399.0,2023,1L,"8,000 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,123 g/km
+dacia,Sandero,13399.0,2023,1L,"8,000 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,123 g/km
+dacia,Sandero,13399.0,2023,1L,"8,000 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,123 g/km
+dacia,Sandero Stepway,16199.0,2023,1L,"5,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,126 g/km
+dacia,Sandero Stepway,13899.0,2023,1L,"5,000 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,131 g/km
+dacia,Sandero,10750.0,2021,1L,"17,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,98 mph,,120 g/km
+dacia,Sandero,12900.0,2022,1L,"9,724 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero Stepway,3595.0,2013,898cc,"98,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,7195.0,2017,1461cc,"84,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero,4900.0,2015,1461cc,"58,545 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,12.2 seconds,99 g/km
+dacia,Duster,13400.0,2020,999cc,"7,900 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,149 g/km
+dacia,Duster,11995.0,2019,1.6L,"29,926 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Sandero Stepway,8995.0,2019,898cc,"21,653 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,127 g/km
+dacia,Jogger,19500.0,2023,1L,"8,803 miles",Petrol,Manual,White,MPV,4X2,5.0,7.0,109 bhp,114 mph,,130 g/km
+dacia,Duster,14290.0,2020,1.3L,"14,676 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,150 g/km
+dacia,Duster,19000.0,2022,1.3L,"18,797 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Duster,11498.0,2021,1L,"26,778 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,107 mph,,145 g/km
+dacia,Duster,14500.0,2020,1.3L,"12,813 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,150 g/km
+dacia,Sandero Stepway,9867.0,2020,0.9L,"24,548 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,141 g/km
+dacia,Sandero Stepway,11188.0,2020,0.9L,"17,153 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Sandero,7999.0,2019,0.9L,"25,427 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,121 g/km
+dacia,Duster,14831.0,2020,1.3L,"14,665 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,162 g/km
+dacia,Sandero Stepway,10199.0,2019,0.9L,"9,915 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,125 g/km
+dacia,Sandero,12200.0,2022,1L,"11,056 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Sandero Stepway,15090.0,999cc,"4,311 miles",Petrol,Manual,Orange,Hatchback,50.4 mpg,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,12800.0,2020,1L,"11,167 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Duster,12250.0,2018,1.6L,"11,778 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,14985.0,2021,1L,"14,162 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,91 bhp,107 mph,,141 g/km
+dacia,Sandero Stepway,10142.0,2020,0.9L,"34,687 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Sandero,13550.0,2023,1L,"4,848 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Duster,12049.0,2018,1598cc,"33,977 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Sandero Stepway,11475.0,2020,0.9L,"19,430 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Duster,14264.0,2020,1333cc,"26,409 miles",Petrol,Manual,Red,Other,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Duster,12275.0,2021,1L,"21,866 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Sandero Stepway,13680.0,2022,1L,"17,499 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,9800.0,2020,1L,"17,327 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,108 mph,,123 g/km
+dacia,Duster,12920.0,2021,1L,"19,330 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,,145 g/km
+dacia,Duster,10795.0,2019,1600cc,"44,000 miles",Petrol,Manual,Slate Grey,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Sandero,5999.0,2016,1461cc,"52,573 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,11.8 seconds,90 g/km
+dacia,Sandero Stepway,7695.0,2017,1461cc,"66,419 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Duster,5999.0,2016,1461cc,"139,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,107 bhp,104 mph,12.4 seconds,123 g/km
+dacia,Duster,21485.0,2023,1332cc,10 miles,Petrol,Automatic,Arizona,Estate,4X2,5.0,5.0,147 bhp,124 mph,,141 g/km
+dacia,Sandero Stepway,7995.0,2017,898cc,"42,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,11150.0,2019,1330cc,"27,270 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,129 bhp,109 mph,11.1 seconds,139 g/km
+dacia,Sandero Stepway,5395.0,1970,1461cc,"66,695 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,105 g/km
+dacia,Sandero,4995.0,2016,1149cc,"58,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,100 mph,10.4 seconds,130 g/km
+dacia,Sandero,5950.0,2019,898cc,"55,693 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,123 g/km
+dacia,Logan MCV,4950.0,2015,1461cc,"73,420 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,88 bhp,107 mph,12.1 seconds,99 g/km
+dacia,Logan MCV,5495.0,2018,898cc,"101,000 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,88 bhp,109 mph,,109 g/km
+dacia,Sandero Stepway,4495.0,2013,898cc,"52,647 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Sandero Stepway,15862.0,2022,1L,"6,828 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,140 g/km
+dacia,Sandero Stepway,13099.0,2022,1L,"10,286 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero,9810.0,2021,1L,"15,682 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,98 mph,,120 g/km
+dacia,Duster,13695.0,2020,1.3L,"27,465 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,120 mph,,153 g/km
+dacia,Sandero Stepway,13995.0,2022,1L,"11,738 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Duster,14495.0,2020,1.3L,"13,771 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,120 mph,,152 g/km
+dacia,Sandero Stepway,13395.0,2021,1L,"20,327 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,130 g/km
+dacia,Duster,9995.0,2016,1.5L,"21,686 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero,10495.0,2022,1L,"17,178 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,114 mph,,123 g/km
+dacia,Duster,15995.0,2022,1L,"16,578 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,99 bhp,104 mph,,145 g/km
+dacia,Duster,19495.0,2021,1.3L,"12,961 miles",Petrol,Semiauto,Orange,SUV,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Duster,12949.0,2020,1333cc,"41,989 miles",Petrol,,Black,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,163 g/km
+dacia,Duster,11189.0,2018,1.6L,"33,877 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,12292.0,2020,1L,"23,105 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,
+dacia,Sandero,7850.0,2020,1L,"26,026 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,130 g/km
+dacia,Sandero Stepway,9750.0,2020,0.9L,"34,980 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero Stepway,9628.0,2019,0.9L,"26,184 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Duster,18678.0,2023,1L,27 miles,Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,90 bhp,103 mph,,145 g/km
+dacia,Sandero,7995.0,2020,1L,"11,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,116 g/km
+dacia,Sandero Stepway,15495.0,2022,1L,"2,906 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,90 bhp,101 mph,,139 g/km
+dacia,Duster,15495.0,2021,1.5L,"4,816 miles",Diesel,Manual,Orange,SUV,4X2,5.0,5.0,114 bhp,113 mph,,127 g/km
+dacia,Duster,16495.0,2021,1.3L,"9,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,120 mph,,142 g/km
+dacia,Sandero Stepway,8690.0,2018,898cc,"28,709 miles",Petrol,Manual,Pearl White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,125 g/km
+dacia,Sandero,5995.0,2019,998cc,"34,865 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,117 g/km
+dacia,Duster,16770.0,2022,1.3L,"15,867 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,12995.0,2020,1L,"32,797 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,141 g/km
+dacia,Duster,13995.0,2019,1L,"30,124 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Sandero,10950.0,2021,1L,"32,251 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Sandero Stepway,12425.0,2021,1L,"13,816 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Duster,12548.0,2019,1L,"15,705 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,126 g/km
+dacia,Duster,14998.0,2021,1L,"14,044 miles",Hybrid,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,104 mph,,145 g/km
+dacia,Duster,14871.0,2021,1L,"3,861 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,90 bhp,103 mph,,141 g/km
+dacia,Duster,18254.0,2022,1.3L,"7,977 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Logan MCV,6495.0,2017,898cc,"61,418 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,88 bhp,109 mph,,109 g/km
+dacia,Duster,13750.0,2022,999cc,"16,570 miles",Petrol,Manual,Orange,Estate,4X2,5.0,5.0,90 bhp,103 mph,,141 g/km
+dacia,Logan MCV,10995.0,2020,1.5L,"8,602 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,95 bhp,106 mph,12.6 seconds,103 g/km
+dacia,Duster,10995.0,2018,1.6L,"38,915 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,12500.0,2019,1.3L,"42,952 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Duster,14495.0,2021,1L,"16,500 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,91 bhp,107 mph,,141 g/km
+dacia,Sandero Stepway,4895.0,2014,1461cc,"78,180 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,105 g/km
+dacia,Duster,13799.0,2021,1.3L,"30,136 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,145 g/km
+dacia,Sandero Stepway,12299.0,2021,999cc,"15,825 miles",Petrol,,Orange,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero,4495.0,2016,1461cc,"78,451 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,11.8 seconds,90 g/km
+dacia,Duster,6495.0,2013,1461cc,"47,778 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,137 g/km
+dacia,Sandero Stepway,6415.0,2016,1461cc,"58,213 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,98 g/km
+dacia,Sandero,5990.0,2020,998cc,"47,939 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,116 g/km
+dacia,Duster,4999.0,2014,1461cc,"74,287 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,106 bhp,106 mph,11.8 seconds,127 g/km
+dacia,Sandero Stepway,10699.0,2019,898cc,"9,104 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,127 g/km
+dacia,Duster,5990.0,2014,1598cc,"51,800 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,103 bhp,103 mph,11.5 seconds,165 g/km
+dacia,Logan MCV,6995.0,2017,1461cc,"48,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,88 bhp,107 mph,,90 g/km
+dacia,Duster,9995.0,2018,1598cc,"29,951 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,107 mph,11.9 seconds,149 g/km
+dacia,Duster,9450.0,2016,1461cc,"15,228 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,107 bhp,105 mph,11.8 seconds,115 g/km
+dacia,Sandero,8873.0,2020,1L,"3,616 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,116 g/km
+dacia,Duster,17495.0,2022,1.3L,"1,660 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Sandero,8999.0,2020,1L,"18,877 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,116 g/km
+dacia,Sandero,7499.0,2020,1L,"33,511 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,116 g/km
+dacia,Duster,14799.0,2021,1L,"7,314 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,90 bhp,103 mph,,141 g/km
+dacia,Logan MCV,10191.0,2020,0.9L,"26,001 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,90 bhp,109 mph,11.1 seconds,121 g/km
+dacia,Sandero Stepway,14795.0,2022,1L,"12,495 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,13490.0,2019,1333cc,"35,022 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,147 bhp,109 mph,10.4 seconds,139 g/km
+dacia,Duster,12995.0,2021,999cc,"10,000 miles",Other,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km
+dacia,Sandero Stepway,5195.0,2015,898cc,"68,075 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,11673.0,2021,1L,"23,022 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km
+dacia,Sandero Stepway,11876.0,2021,1L,"26,201 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,7990.0,2018,1.5L,"39,700 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Duster,18495.0,2022,1L,"26,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,90 bhp,103 mph,,140 g/km
+dacia,Duster,9440.0,2018,1.2L,"57,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,123 bhp,109 mph,10.4 seconds,138 g/km
+dacia,Sandero,5500.0,2017,1L,"55,501 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,,117 g/km
+dacia,Duster,9490.0,2017,1461cc,"70,958 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,105 mph,,116 g/km
+dacia,Sandero Stepway,13990.0,999cc,"16,774 miles",Petrol,Manual,Orange,Hatchback,50.4 mpg,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Sandero Stepway,4995.0,2014,1461cc,"82,453 miles",Diesel,Manual,Black Leather,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.8 seconds,105 g/km
+dacia,Sandero,5375.0,2017,998cc,"21,910 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,,117 g/km
+dacia,Duster,4950.0,2013,1461cc,"83,098 miles",Diesel,Manual,White,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,135 g/km
+dacia,Sandero,6933.0,2018,898cc,"21,165 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,90 bhp,175 mph,11.1 seconds,120 g/km
+dacia,Sandero Stepway,7695.0,2018,898cc,"25,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,5995.0,2013,1461cc,"84,382 miles",Diesel,Manual,GREY,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.5 seconds,135 g/km
+dacia,Sandero,9799.0,2021,1L,"7,990 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,98 mph,,120 g/km
+dacia,Duster,13999.0,2019,1.3L,"13,250 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,118 mph,11.1 seconds,139 g/km
+dacia,Duster,14499.0,2021,1.3L,"10,500 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,120 mph,,141 g/km
+dacia,Duster,15291.0,2021,1L,"9,574 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,91 bhp,107 mph,,142 g/km
+dacia,Sandero Stepway,13500.0,2022,1L,"14,569 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,107 mph,,127 g/km
+dacia,Duster,9799.0,2018,1198cc,"39,008 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,123 bhp,109 mph,,138 g/km
+dacia,Duster,12195.0,2018,1461cc,"13,509 miles",Diesel,Manual,Silver,Hatchback,4X4,5.0,5.0,107 bhp,104 mph,12.4 seconds,123 g/km
+dacia,Sandero Stepway,11590.0,898cc,"12,138 miles",Petrol,Manual,Black,Hatchback,55.4 mpg,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,148 g/km
+dacia,Sandero Stepway,10000.0,2020,0.9L,"10,405 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,141 g/km
+dacia,Duster,18000.0,2022,1.3L,"18,000 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,124 mph,,142 g/km
+dacia,Sandero Stepway,10495.0,2019,0.9L,"19,206 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,11.1 seconds,127 g/km
+dacia,Sandero Stepway,8788.0,2018,0.9L,"30,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Duster,5950.0,2014,1.6L,"43,600 miles",Petrol,Manual,White,4X4,4X2,5.0,5.0,103 bhp,103 mph,11.5 seconds,165 g/km
+dacia,Sandero Stepway,11000.0,2020,898cc,"27,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,141 g/km
+dacia,Sandero Stepway,8595.0,2018,898cc,"8,066 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero Stepway,7500.0,2015,898cc,"21,112 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,115 g/km
+dacia,Sandero Stepway,4995.0,2013,898cc,"64,995 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Sandero Stepway,5495.0,2017,1461cc,"87,160 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Sandero Stepway,5495.0,2017,898cc,"103,341 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,115 g/km
+dacia,Sandero,7290.0,2020,998cc,"27,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,72 bhp,98 mph,15.1 seconds,130 g/km
+dacia,Sandero Stepway,8790.0,2017,1.5L,"22,065 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,,98 g/km
+dacia,Duster,11999.0,2021,1L,"36,866 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,99 bhp,104 mph,12.5 seconds,140 g/km
+dacia,Sandero,13000.0,2022,1L,"8,149 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,90 bhp,111 mph,,120 g/km
+dacia,Sandero Stepway,9999.0,2020,0.9L,"23,017 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,149 g/km
+dacia,Sandero Stepway,12880.0,999cc,"10,588 miles",Petrol,Manual,White,Hatchback,48.7 mpg,4X2,5.0,5.0,90 bhp,109 mph,,131 g/km
+dacia,Sandero Stepway,9671.0,2020,0.9L,"20,200 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,16.7 seconds,141 g/km
+dacia,Duster,9495.0,2017,1461cc,"52,898 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,107 bhp,104 mph,12.4 seconds,123 g/km
+dacia,Sandero Stepway,5595.0,2013,898cc,"46,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,11.1 seconds,124 g/km
+dacia,Duster,12995.0,2021,999cc,"18,408 miles",Other,Manual,Orange,SUV,4X2,5.0,5.0,99 bhp,106 mph,,146 g/km

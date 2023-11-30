@@ -1,0 +1,5 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+ineos,Grenadier,69980.0,2023,3L,"1,410 miles",Petrol,Automatic,Grey,SUV,4X4,6.0,5.0,281 bhp,99 mph,,
+ineos,Grenadier,64999.0,2023,3L,"1,459 miles",Petrol,Automatic,Blue,SUV,4X4,6.0,5.0,281 bhp,99 mph,,336 g/km
+ineos,Grenadier,61695.0,2023,3L,864 miles,Diesel,Automatic,Blue,SUV,4X4,,,245 bhp,99 mph,,336 g/km
+ineos,Grenadier,69991.0,2023,3L,"2,706 miles",Petrol,Automatic,Grey,SUV,4X4,6.0,5.0,281 bhp,99 mph,,336 g/km

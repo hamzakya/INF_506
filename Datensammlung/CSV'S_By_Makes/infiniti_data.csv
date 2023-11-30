@@ -1,0 +1,16 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+infiniti,Q50,8200.0,2015,2143cc,"63,294 miles",Diesel,Manual,BLACK,Saloon,4X2,4.0,5.0,168 bhp,140 mph,8.5 seconds,114 g/km
+infiniti,Q30,12749.0,2019,1595cc,"40,204 miles",Petrol,,Purple,Hatchback,4X2,5.0,5.0,121 bhp,124 mph,9.4 seconds,158 g/km
+infiniti,QX30,15499.0,2018,2.2L,"37,608 miles",Diesel,Semiauto,Grey,SUV,4X4,5.0,5.0,168 bhp,134 mph,8.3 seconds,143 g/km
+infiniti,Q30,11395.0,2017,2143cc,"30,000 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,168 bhp,137 mph,8.3 seconds,115 g/km
+infiniti,Q30,11349.0,2017,1461cc,"33,862 miles",Diesel,,Black,Hatchback,4X2,5.0,5.0,107 bhp,118 mph,12.0 seconds,108 g/km
+infiniti,Q50,8495.0,2015,2143cc,"64,915 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,168 bhp,140 mph,8.5 seconds,124 g/km
+infiniti,FX,10995.0,2012,2993cc,"73,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,235 bhp,132 mph,8.0 seconds,238 g/km
+infiniti,QX30,14995.0,2018,2143cc,"38,642 miles",Diesel,Automatic,Silver,MPV,4X4,5.0,5.0,168 bhp,134 mph,8.5 seconds,128 g/km
+infiniti,Q30,10349.0,2017,1461cc,"52,632 miles",Diesel,,Black,Hatchback,4X2,5.0,5.0,107 bhp,118 mph,12.0 seconds,108 g/km
+infiniti,QX70,12750.0,2014,2993cc,"62,822 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,235 bhp,132 mph,8.3 seconds,225 g/km
+infiniti,G,7000.0,2011,3696cc,"93,000 miles",Petrol,Automatic,BLUE,Convertible,4X2,2.0,4.0,315 bhp,155 mph,6.4 seconds,264 g/km
+infiniti,G,13990.0,2013,3696cc,"36,200 miles",Petrol,Manual,Silver,Convertible,,,,,,,
+infiniti,QX70,16240.0,2015,2993cc,"70,016 miles",Diesel,Automatic,Pearl Black,Estate,4X4,5.0,5.0,235 bhp,132 mph,8.3 seconds,225 g/km
+infiniti,Q50,14495.0,2015,3498cc,"89,500 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,359 bhp,155 mph,5.1 seconds,114 g/km
+infiniti,Q30,16950.0,2018,1991cc,"22,980 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,208 bhp,146 mph,7.2 seconds,162 g/km

@@ -1,0 +1,1518 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+hyundai,i10,6180.0,2015,998cc,"41,370 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i40,8500.0,2016,1685cc,"78,791 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,139 bhp,126 mph,10.3 seconds,123 g/km
+hyundai,IX35,6997.0,2014,1685cc,"74,400 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,147 g/km
+hyundai,IONIQ,16788.0,2020,1L,"30,000 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,134 bhp,103 mph,9.7 seconds,0 g/km
+hyundai,Kona,12750.0,2020,998cc,"36,925 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,i20,7999.0,2016,998cc,"50,281 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,99 bhp,116 mph,10.7 seconds,104 g/km
+hyundai,i20,12299.0,2020,1.2L,"11,511 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,134 g/km
+hyundai,Bayon,16750.0,2021,1L,"5,492 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,Tucson,12750.0,2018,1.6L,"43,498 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i40,9420.0,2016,1.7L,"55,137 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,139 bhp,124 mph,10.5 seconds,114 g/km
+hyundai,i20,15222.0,2022,1L,"14,525 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,Tucson,15400.0,2020,1.6L,"21,491 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,16250.0,2021,1.6L,"22,392 miles",Petrol,Manual,Blue,SUV,,,,,,,
+hyundai,i30,33999.0,2023,2L,5 miles,Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,i20,12183.0,2019,1248cc,"8,708 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,118 g/km
+hyundai,Kona,15899.0,2019,998cc,"18,573 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,Tucson,14055.0,2017,1685cc,"46,780 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,,119 g/km
+hyundai,i20,2995.0,2010,1248cc,"61,900 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,12.9 seconds,124 g/km
+hyundai,Tucson,13600.0,2020,1591cc,"40,680 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i20,6595.0,2016,1248cc,"68,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,112 g/km
+hyundai,IONIQ,15329.0,2021,1.6L,"45,160 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,8991.0,2015,1.7L,"61,271 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,12014.0,2021,1L,"15,248 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i20,17995.0,2022,1L,"6,732 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,Tucson,25920.0,2021,1.6L,"30,727 miles",Hybrid,Semiauto,Red,SUV,4X4,5.0,5.0,177 bhp,125 mph,,162 g/km
+hyundai,i10,9500.0,2015,1248cc,"16,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,i30,7995.0,2019,1598cc,"80,782 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,113 bhp,118 mph,11.0 seconds,101 g/km
+hyundai,Kona,11998.0,2018,998cc,"62,618 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,Kona,13299.0,2021,998cc,"42,610 miles",Other,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Kona,13599.0,2021,998cc,"38,357 miles",Other,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Getz,2250.0,2003,1341cc,"37,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,5.0,81 bhp,102 mph,11.5 seconds,150 g/km
+hyundai,i30,10000.0,2014,1591cc,"27,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,11.9 seconds,159 g/km
+hyundai,Kona,19995.0,2023,"3,954 miles",Petrol,Manual,Atlas White,Other,47.1 mpg,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Kona,13995.0,2021,998cc,"40,177 miles",Petrol,Manual,Phantom Black,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,IONIQ,11990.0,2019,1580cc,"73,963 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,IX20,4900.0,2014,1396cc,"71,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,IX35,5250.0,2011,1685cc,"88,448 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,135 g/km
+hyundai,i20,6000.0,2012,1400cc,"65,964 miles",Petrol,Automatic,Blue,Other,4X2,5.0,5.0,99 bhp,106 mph,12.9 seconds,140 g/km
+hyundai,Kona,23940.0,2023,1L,"1,968 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,96 mph,,0 g/km
+hyundai,i20,9100.0,2016,1368cc,"29,033 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,11.6 seconds,122 g/km
+hyundai,IONIQ,19188.0,2021,1580cc,"41,821 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,IONIQ,19188.0,2021,1580cc,"40,957 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,IONIQ,19740.0,2021,1580cc,"42,127 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,IONIQ,17988.0,2021,1580cc,"43,259 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,10950.0,2017,1685cc,"51,142 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,8750.0,2015,1248cc,"12,958 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Santa Fe,8995.0,2014,2199cc,"89,000 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,Tucson,11549.0,2017,1591cc,"48,958 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IONIQ,15349.0,2019,1580cc,"22,576 miles",Hybrid,,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i20,12449.0,2019,998cc,"25,971 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,115 g/km
+hyundai,Tucson,13599.0,2018,1591cc,"42,244 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i20,7949.0,2016,1248cc,"53,824 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,112 g/km
+hyundai,i20,10049.0,2019,1248cc,"35,768 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,74 bhp,99 mph,13.6 seconds,130 g/km
+hyundai,Tucson,13749.0,2016,1685cc,"39,418 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Kona,13549.0,2019,998cc,"34,431 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Kona,11999.0,2019,998cc,"44,337 miles",Petrol,,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,Tucson,12899.0,2017,1685cc,"25,144 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,18999.0,2018,1995cc,"32,571 miles",Diesel,Automatic,Grey,Estate,,,,,,,
+hyundai,i10,12954.0,2021,1.2L,"6,574 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+hyundai,Santa Fe,17499.0,2017,2199cc,"72,337 miles",Diesel,Automatic,White,Estate,,,,,,,
+hyundai,Tucson,29999.0,2023,1598cc,909 miles,Petrol,Automatic,Atlas White,Estate,,,,,,,
+hyundai,i20,20999.0,2023,998cc,"1,842 miles",Petrol,Automatic,Atlas White,Hatchback,,,,,,,
+hyundai,Tucson,14371.0,2020,1.6L,"27,461 miles",Petrol,Manual,Black,SUV,,,,,,,
+hyundai,i10,14999.0,2022,1.2L,"5,899 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+hyundai,i10,7195.0,2017,1L,"52,918 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,26495.0,2023,1.6L,6 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,201 bhp,142 mph,,158 g/km
+hyundai,Tucson,13750.0,2020,1.6L,"47,424 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,13890.0,2020,1.6L,"45,235 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,19260.0,2020,1.6L,"11,086 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,173 g/km
+hyundai,Tucson,11059.0,2019,1.6L,"85,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,13220.0,2019,1.6L,"44,776 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Kona,13626.0,2019,1L,"18,595 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,i20,11000.0,2020,1.2L,"26,852 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,119 g/km
+hyundai,Kona,14000.0,2018,1L,"17,183 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i20,9799.0,2018,1.2L,"33,101 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,126 g/km
+hyundai,Tucson,12495.0,2016,2L,"68,798 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i20,13990.0,2020,1248cc,"4,466 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,IONIQ,13495.0,2019,1.6L,"66,800 miles",Other,Semi Automatic,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,12250.0,2017,1685cc,"90,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Kona,16637.0,2021,1L,"7,957 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,i10,13667.0,2020,1.2L,"10,314 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,124 g/km
+hyundai,Bayon,16292.0,2023,1L,"2,062 miles",Hybrid,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,i10,10995.0,2019,1.2L,"27,438 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,i10,14995.0,2023,1.2L,"3,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,123 g/km
+hyundai,i10,14995.0,2023,1.2L,"3,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,123 g/km
+hyundai,i10,15995.0,2023,1.2L,"3,000 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,129 g/km
+hyundai,i20,18363.0,2023,1L,"2,401 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i30,10680.0,2017,1L,"34,196 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,Santa Fe,17460.0,2018,2.2L,"63,715 miles",Diesel,Semiauto,Red,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,Santa Fe,18770.0,2017,2.2L,"66,667 miles",Diesel,Semiauto,White,SUV,4X4,5.0,7.0,197 bhp,126 mph,,174 g/km
+hyundai,i30,20399.0,2023,1.5L,"7,234 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,149 g/km
+hyundai,Tucson,17340.0,2020,1.6L,"12,248 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,Tucson,28695.0,2023,1.6L,"1,284 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,i800,9995.0,2012,2.5L,"108,000 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,8.0,168 bhp,112 mph,14.4 seconds,231 g/km
+hyundai,IONIQ,12495.0,2018,1.58L,"93,044 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,92 g/km
+hyundai,Tucson,26950.0,2023,1.6L,"4,453 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,Tucson,27999.0,2021,1.6L,"7,609 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Tucson,13999.0,2019,1.6L,"42,907 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Bayon,12999.0,2021,1L,"29,114 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,113 mph,,120 g/km
+hyundai,IONIQ,15250.0,2021,1.6L,"49,730 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,24400.0,2021,1.6L,"33,660 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,IONIQ,14850.0,2019,1580cc,"51,411 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,85 g/km
+hyundai,Kona,12250.0,2019,998cc,"58,750 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i40,7995.0,2012,1591cc,"55,091 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,133 bhp,121 mph,11.6 seconds,155 g/km
+hyundai,Tucson,11995.0,2018,1591cc,"50,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,19950.0,2022,1598cc,"23,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,i10,4250.0,2011,1248cc,"44,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Getz,2250.0,2007,1086cc,"81,350 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,65 bhp,93 mph,15.6 seconds,130 g/km
+hyundai,i30,8995.0,2017,1353cc,"89,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.2 seconds,125 g/km
+hyundai,i10,4975.0,2015,998cc,"75,708 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Matrix,2750.0,2008,1599cc,"61,000 miles",Petrol,Automatic,RED,MPV,4X2,5.0,5.0,102 bhp,103 mph,14.2 seconds,198 g/km
+hyundai,Tucson,15995.0,2020,1591cc,"17,407 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,14995.0,2020,1591cc,"18,676 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,15495.0,2020,1591cc,"19,584 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i40,8990.0,2018,1685cc,"81,256 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,139 bhp,124 mph,,114 g/km
+hyundai,i30,16890.0,2021,1482cc,"28,566 miles",Other,Manual,GREY,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,IX35,6890.0,2015,1995cc,"130,002 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,183 g/km
+hyundai,Tucson,10790.0,2016,1685cc,"90,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i40,6499.0,2012,1685cc,"62,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,134 g/km
+hyundai,IX35,6350.0,2013,1685cc,"82,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i40,4999.0,2014,1685cc,"94,011 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,119 g/km
+hyundai,i30,16295.0,2020,1482cc,"38,295 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,Santa Fe,11590.0,2015,2199cc,"80,430 miles",Diesel,Manual,RED,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,IX35,6295.0,2014,1685cc,"80,500 miles",Diesel,Manual,WHITE,Estate,,,,,,,
+hyundai,Tucson,15588.0,2020,1591cc,"49,965 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,6490.0,2017,998cc,"51,981 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Tucson,15000.0,2016,1995cc,"56,538 miles",Diesel,Automatic,GREY,Other,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,156 g/km
+hyundai,i20,6990.0,2015,1368cc,"6,700 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,11.6 seconds,127 g/km
+hyundai,i10,3599.0,2010,1248cc,"48,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,Tucson,16690.0,2017,1591cc,"19,000 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Tucson,24090.0,2022,1598cc,"8,083 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,Tucson,14995.0,2019,1598cc,"41,127 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,IONIQ,15699.0,2021,1580cc,"32,742 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Kona,13999.0,2019,998cc,"29,490 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,17549.0,2019,1591cc,"29,264 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,175 bhp,125 mph,9.2 seconds,168 g/km
+hyundai,Tucson,10399.0,2017,1591cc,"60,917 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,12500.0,2018,1.6L,"25,597 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Kona,21104.0,2021,1580cc,"25,114 miles",Petrol/Electric Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,115 g/km
+hyundai,Kona,21995.0,2021,1580cc,"10,772 miles",Petrol/Electric Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,113 g/km
+hyundai,Tucson,19495.0,2018,1598cc,"28,123 miles",Diesel,Manual,White Sand,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,129 g/km
+hyundai,Tucson,12240.0,2017,1685cc,"60,799 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,i20,11250.0,2018,1368cc,"40,591 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,99 bhp,106 mph,13.2 seconds,143 g/km
+hyundai,i10,7495.0,2018,998cc,"50,294 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,12490.0,2018,1.6L,"49,998 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IX35,12000.0,2013,1995cc,"17,232 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,181 bhp,121 mph,9.8 seconds,189 g/km
+hyundai,Kona,13500.0,2020,998cc,"35,724 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,147 g/km
+hyundai,Tucson,8000.0,2015,1685cc,"119,860 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,15690.0,2017,1591cc,"45,348 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Kona,21987.0,2023,998cc,"5,984 miles",Petrol Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,Tucson,14600.0,2018,1591cc,"36,220 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,,162 g/km
+hyundai,i20,11800.0,2021,998cc,"49,334 miles",Petrol Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i20,18499.0,2022,998cc,"4,526 miles",Petrol,Manual,Red Metallic,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,118 g/km
+hyundai,i30,19850.0,2023,998cc,"2,895 miles",Petrol,Manual,Abyss Black Pearl (Solid),Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,123 g/km
+hyundai,Tucson,10995.0,2016,1.69L,"72,600 miles",Diesel,Manual,Grey,4X4,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,13799.0,2017,2.2L,"91,050 miles",Diesel,Automatic,White,4X4,4X4,5.0,5.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,i10,3795.0,2013,1248cc,"106,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i20,8195.0,2017,1248cc,"44,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Tucson,23495.0,2022,1.6L,"6,962 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,IONIQ,15995.0,2018,1.6L,"23,144 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,22187.0,2019,1.6L,"21,945 miles",Diesel,Semiauto,Blue,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,115 g/km
+hyundai,IONIQ,14717.0,2019,1.6L,"39,030 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,13995.0,2019,1.6L,"26,635 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,12795.0,2020,1L,"31,229 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Tucson,15999.0,2019,1.6L,"27,358 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,IONIQ,15330.0,2021,1.6L,"46,348 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,Tucson,26699.0,2021,1.6L,"38,888 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,27999.0,2021,1.6L,"25,162 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Bayon,17995.0,2023,1L,"7,287 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,99 bhp,112 mph,,120 g/km
+hyundai,Tucson,29490.0,2021,1.6L,"15,120 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i30,23490.0,2019,2L,"4,370 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,178 g/km
+hyundai,i20,11992.0,2019,1L,"10,908 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,110 g/km
+hyundai,Tucson,13892.0,2019,1.6L,"29,861 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i20,9250.0,2017,1.2L,"33,424 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i10,8195.0,2017,1.2L,"50,700 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i10,11187.0,2020,1L,"45,122 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Bayon,16305.0,2022,1L,"11,222 miles",Hybrid,Manual,Green,SUV,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,Santa Fe,12690.0,2015,2.2L,"27,268 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,i30,11490.0,2017,1L,"23,739 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,Tucson,27995.0,2021,1.6L,"9,119 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,148 bhp,117 mph,,147 g/km
+hyundai,Tucson,18995.0,2020,1.6L,"17,663 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,,178 g/km
+hyundai,Kona,13220.0,2020,1L,"34,337 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,i30,12420.0,2021,1L,"44,526 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,121 g/km
+hyundai,Kona,12820.0,2020,1L,"45,873 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Kona,13420.0,2021,1L,"38,625 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,i20,17610.0,2021,1L,"7,612 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Getz,2240.0,2008,1086cc,"53,199 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,65 bhp,93 mph,15.6 seconds,130 g/km
+hyundai,Tucson,19495.0,2019,1591cc,"34,354 miles",Petrol,Automatic,Fiery Red,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,i10,4775.0,2014,998cc,"75,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Tucson,14950.0,2018,1598cc,"37,000 miles",Diesel,Manual,Green,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,Tucson,10995.0,2019,1591cc,"69,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,11995.0,2018,1591cc,"39,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,14950.0,2020,1598cc,"38,819 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,i20,16495.0,2022,998cc,"6,819 miles",Other,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,IX35,5995.0,2011,1685cc,"69,164 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i30,8995.0,2018,1000cc,"49,340 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,126 g/km
+hyundai,Tucson,12995.0,2018,1591cc,"41,240 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i30,2950.0,2010,1582cc,"114,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,107 mph,14.0 seconds,115 g/km
+hyundai,i20,8995.0,2017,1248cc,"14,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Tucson,22645.0,2019,1598cc,"20,015 miles",Other,Automatic,Blue,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,115 g/km
+hyundai,IONIQ,12250.0,2019,1580cc,"82,490 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i30,9495.0,2017,998cc,"44,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,IX35,4990.0,2010,1995cc,"79,677 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,134 bhp,112 mph,10.2 seconds,149 g/km
+hyundai,Tucson,13990.0,2020,1591cc,"42,539 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,178 g/km
+hyundai,IX35,6185.0,2011,1685cc,"56,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i40,8995.0,2017,1685cc,"35,000 miles",Diesel,Manual,SILVER,Saloon,4X2,4.0,5.0,139 bhp,126 mph,,114 g/km
+hyundai,IX35,8489.0,2015,1685cc,"48,000 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,Tucson,14920.0,2019,1598cc,"60,870 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,125 g/km
+hyundai,Santa Fe,3795.0,2010,2199cc,"152,333 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,194 bhp,118 mph,10.2 seconds,197 g/km
+hyundai,IX35,7500.0,2015,1995cc,"82,308 miles",Diesel,Manual,WHITE,Estate,4X4,5.0,5.0,134 bhp,112 mph,11.3 seconds,145 g/km
+hyundai,i20,16990.0,2022,998cc,"10,000 miles",Other,Manual,RED/BLACK,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i30,9695.0,2015,1591cc,"51,987 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,10.9 seconds,145 g/km
+hyundai,i40,14950.0,2019,1598cc,"22,683 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,134 bhp,121 mph,11.0 seconds,122 g/km
+hyundai,Kona,12950.0,2019,998cc,"45,138 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i40,4995.0,2012,1685cc,"116,000 miles",Diesel,Automatic,WHITE,Saloon,4X2,4.0,5.0,134 bhp,122 mph,11.6 seconds,159 g/km
+hyundai,i10,8995.0,2018,998cc,"7,867 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Santa Fe,13499.0,2015,2199cc,"55,394 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,Tucson,12995.0,2016,1995cc,"69,847 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,156 g/km
+hyundai,IX35,4640.0,2012,999cc,"97,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,IX35,7777.0,2015,1995cc,"77,783 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,179 g/km
+hyundai,Tucson,9999.0,2016,1685cc,"87,513 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,IX20,10945.0,2016,1591cc,"29,584 miles",Petrol,Automatic,BLUE,MPV,4X2,5.0,5.0,122 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,IX20,12495.0,2017,1591cc,"12,534 miles",Petrol,Automatic,RED,MPV,4X2,5.0,5.0,122 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,i20,10999.0,2019,1248cc,"43,414 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,21999.0,2020,1591cc,"19,636 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,177 g/km
+hyundai,i10,10559.0,2019,998cc,"31,289 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Kona,17490.0,2021,1L,"16,900 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,Tucson,13798.0,2018,1.6L,"26,644 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,25998.0,2021,1.6L,"16,500 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Kona,13999.0,2020,1L,"16,546 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Kona,12999.0,2020,1L,"24,215 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,145 g/km
+hyundai,i20,13450.0,2020,1.2L,"20,692 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,Bayon,20695.0,2023,1L,"2,927 miles",Hybrid,Semiauto,Other,SUV,4X2,5.0,5.0,118 bhp,118 mph,,120 g/km
+hyundai,Kona,18499.0,2020,1.6L,"1,836 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,IONIQ,13649.0,2019,1580cc,"55,209 miles",Hybrid,,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,IX20,11549.0,2019,1591cc,"23,571 miles",Petrol,,Red,MPV,4X2,5.0,5.0,123 bhp,115 mph,10.8 seconds,149 g/km
+hyundai,Tucson,9750.0,2016,1.6L,"66,500 miles",Petrol,Manual,Grey Metallic,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IX20,11500.0,2018,1.6L,"23,849 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,122 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,Tucson,26999.0,2022,1600cc,"3,880 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,i10,17746.0,2023,1197cc,"1,932 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,130 g/km
+hyundai,Tucson,12995.0,2017,1685cc,"45,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Tucson,15795.0,2016,1685cc,"40,878 miles",Diesel,Automatic,Beige,Estate,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,IX20,14795.0,2019,1591cc,"4,858 miles",Petrol,Automatic,Polar White,Hatchback,4X2,5.0,5.0,123 bhp,112 mph,11.5 seconds,159 g/km
+hyundai,Tucson,29480.0,2023,1598cc,"1,982 miles",Petrol/Electric Hybrid,Automatic,Atlas White,Estate,4X2,5.0,5.0,227 bhp,120 mph,,126 g/km
+hyundai,Tucson,14995.0,2018,1598cc,"46,111 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,Tucson,33295.0,2023,1598cc,"4,685 miles",Petrol/Electric Hybrid,Automatic,Grey,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,13677.0,2020,1.2L,"24,558 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,130 g/km
+hyundai,IX35,5290.0,2014,1685cc,Diesel,Manual,Black,Estate,53.3 mpg,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,14995.0,2022,998cc,"4,700 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,126 g/km
+hyundai,Kona,15500.0,2019,1580cc,"44,825 miles",Petrol Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,115 mph,,101 g/km
+hyundai,Tucson,12700.0,2020,1591cc,"51,125 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,7995.0,2018,1248cc,"71,707 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,125 g/km
+hyundai,i10,16850.0,2023,998cc,"2,888 miles",Petrol,Manual,Atlas White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Kona,15790.0,2020,1580cc,"41,939 miles",Hybrid,Automatic,Yellow,Other,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Tucson,14495.0,2020,1591cc,"26,838 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,9950.0,2016,1685cc,"81,444 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,IX35,7495.0,2014,1685cc,"80,260 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i20,17450.0,2023,998cc,619 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i10,9695.0,2019,998cc,"8,482 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i20,9995.0,2018,1248cc,"19,587 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Kona,11495.0,2019,998cc,"38,483 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,IX35,6690.0,2014,1685cc,"87,138 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,Kona,21495.0,2023,1580cc,"5,533 miles",Petrol,Automatic,Blue,MPV,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,IX20,4495.0,2011,1396cc,"82,145 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,88 bhp,104 mph,14.5 seconds,114 g/km
+hyundai,i20,10995.0,2016,1248cc,"18,343 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,119 g/km
+hyundai,i20,5495.0,2014,1248cc,"58,068 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,Tucson,13289.0,2019,1591cc,"33,108 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i40,8495.0,2016,1685cc,"89,999 miles",Diesel,Automatic,Silver,Saloon,4X2,4.0,5.0,139 bhp,126 mph,10.8 seconds,123 g/km
+hyundai,i10,10995.0,2018,1248cc,"16,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Tucson,12949.0,2018,1591cc,"51,494 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,17699.0,2019,1591cc,"37,134 miles",Petrol,,White,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,Kona,20247.0,2020,1.6L,"14,232 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,115 mph,,101 g/km
+hyundai,Kona,17490.0,2018,1.6L,"23,379 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,174 bhp,127 mph,7.9 seconds,158 g/km
+hyundai,Tucson,13995.0,2020,1.6L,"30,930 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,15698.0,2017,1.7L,"48,557 miles",Diesel,Semiauto,Silver,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Kona,12554.0,2020,1L,"43,930 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,26275.0,2022,1.6L,"18,621 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Tucson,32690.0,2023,1.6L,10 miles,Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Kona,19995.0,2021,1580cc,"12,500 miles",Petrol/Electric Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i20,12828.0,2020,1248cc,"24,223 miles",Petrol,Manual,CHAMPION BLUE,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,i20,21499.0,2023,998cc,205 miles,,Manual,Dragon Red,Hatchback,,,,,,,
+hyundai,i10,7195.0,2017,1L,"30,947 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,16990.0,2023,1L,927 miles,Hybrid,Manual,Green,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Santa Fe,40990.0,2023,1.6L,"1,064 miles",Hybrid,Semiauto,Blue,SUV,4X4,5.0,7.0,227 bhp,116 mph,,168 g/km
+hyundai,Tucson,33990.0,2023,1.6L,954 miles,Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,30490.0,2021,1.6L,"7,108 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,34490.0,2023,1.6L,"1,028 miles",Hybrid,Semiauto,Black,SUV,4X4,5.0,5.0,262 bhp,119 mph,,31 g/km
+hyundai,i20,19490.0,2023,1L,894 miles,Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Kona,27990.0,2023,1.6L,"1,028 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,i20,26990.0,2023,1.6L,967 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,201 bhp,142 mph,,158 g/km
+hyundai,i10,16250.0,2023,1L,874 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,Tucson,33990.0,2023,1.6L,"4,994 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,12890.0,2019,1.6L,"54,120 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,16090.0,2022,1.2L,687 miles,Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,129 g/km
+hyundai,Tucson,17140.0,2019,1.6L,"23,008 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,14720.0,2018,1.6L,"52,571 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Tucson,20410.0,2021,1.6L,"24,970 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,148 bhp,117 mph,,148 g/km
+hyundai,i20,12990.0,2020,1L,"24,203 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,134 g/km
+hyundai,Kona,20854.0,2021,1580cc,"24,718 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,i10,7495.0,2019,998cc,"55,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,6490.0,2018,998cc,"73,020 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i10,2495.0,2013,1248cc,"106,740 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i30,10349.0,2016,1591cc,"42,864 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,11.9 seconds,158 g/km
+hyundai,i10,3495.0,2009,1248cc,"30,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,Tucson,19000.0,2020,1598cc,"44,644 miles",Diesel,Semi Automatic,Grey,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,115 g/km
+hyundai,i30,14785.0,2020,1353cc,"11,200 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.2 seconds,146 g/km
+hyundai,Kona,20413.0,2023,1L,"1,800 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,Tucson,13500.0,2018,1685cc,"30,022 miles",Diesel,,Blue,,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,13399.0,2019,1598cc,"59,797 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,Tucson,14399.0,2018,1685cc,"61,717 miles",Diesel,,Blue,SUV,,,,,,,
+hyundai,Kona,13149.0,2018,998cc,"30,851 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,125 g/km
+hyundai,Tucson,13999.0,2017,2L,"31,961 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,156 g/km
+hyundai,i20,10499.0,2019,1L,"28,587 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,110 g/km
+hyundai,Bayon,15999.0,2022,1L,"8,382 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,Kona,14599.0,2019,1L,"8,866 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Bayon,19995.0,2023,998cc,"1,500 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,Tucson,15999.0,2020,1598cc,"54,974 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,113 g/km
+hyundai,i30,6990.0,2015,1396cc,"57,743 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,i40,4995.0,2015,1685cc,"116,038 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,139 bhp,124 mph,10.5 seconds,114 g/km
+hyundai,i20,3495.0,2011,1396cc,"83,555 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,11.6 seconds,129 g/km
+hyundai,i10,5999.0,2013,1248cc,"19,099 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,8990.0,2016,1685cc,"90,087 miles",Diesel,Manual,Beige,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,19500.0,2020,1598cc,"21,767 miles",Diesel Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,145 g/km
+hyundai,IONIQ,15417.0,2019,1.6L,"14,836 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Santa Fe,18300.0,2016,2.2L,"53,842 miles",Diesel,Semiauto,White,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,Tucson,32850.0,2021,1598cc,"14,871 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,Tucson,29350.0,2022,1598cc,"19,603 miles",Petrol,Automatic,Champion Blue,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,Kona,21919.0,2021,1.6L,"11,715 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,100 mph,,113 g/km
+hyundai,Tucson,15684.0,2017,1.7L,"46,791 miles",Diesel,Semiauto,Black,SUV,4X2,5.0,5.0,139 bhp,115 mph,,129 g/km
+hyundai,Santa Fe,32515.0,2020,2.2L,"12,219 miles",Diesel,Semiauto,Black,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,161 g/km
+hyundai,Kona,17868.0,2019,1.6L,"19,557 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,115 mph,,101 g/km
+hyundai,Tucson,16999.0,2018,1.6L,"14,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,173 g/km
+hyundai,i40,5695.0,2012,1685cc,"84,000 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,134 bhp,125 mph,10.3 seconds,119 g/km
+hyundai,i30,10440.0,2017,998cc,"76,189 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,i10,8895.0,2018,998cc,"15,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i30,3395.0,2011,1396cc,"86,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,142 g/km
+hyundai,Veloster,3770.0,2014,1591cc,"174,000 miles",Petrol,Automatic,WHITE,Coupe,4X2,4.0,4.0,138 bhp,125 mph,9.7 seconds,148 g/km
+hyundai,i10,6349.0,2014,998cc,"36,304 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,IX35,6991.0,2013,1685cc,"57,800 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i800,15750.0,2017,2497cc,"61,000 miles",Diesel,Manual,BLACK,Other,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,197 g/km
+hyundai,i30,4795.0,2013,1396cc,"110,062 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,Tucson,10998.0,2016,1685cc,"75,938 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,12250.0,2021,1L,"19,474 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,29560.0,2021,1.6L,"9,660 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Kona,14950.0,2020,1L,"25,080 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Santa Fe,16336.0,2016,2.2L,"71,728 miles",Diesel,Semiauto,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,i30,13995.0,2018,1353cc,"10,764 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.2 seconds,134 g/km
+hyundai,i20,15323.0,2022,998cc,"9,661 miles",Petrol,Manual,PHANTOM BLACK,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,i30,32990.0,2023,1998cc,"3,500 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,i30,11470.0,2017,1L,"20,087 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,i10,10800.0,2020,1.2L,"30,239 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,108 g/km
+hyundai,i10,14000.0,2021,1.2L,"18,159 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,129 g/km
+hyundai,Tucson,11985.0,2018,1591cc,"72,942 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Kona,21454.0,2021,1580cc,"6,412 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Kona,14959.0,2018,998cc,"11,005 miles",Petrol,Manual,Yellow,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i10,12500.0,2023,998cc,"6,116 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i20,8526.0,2015,1368cc,"32,887 miles",Petrol,Manual,Silver,Hatchback,,,,,,,
+hyundai,Tucson,11000.0,2018,1591cc,"40,481 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Kona,15278.0,2020,1L,"12,153 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Kona,27750.0,2023,1.6L,"1,212 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Tucson,15990.0,2020,1.6L,"24,170 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,Santa Fe,28594.0,2021,2.2L,"41,676 miles",Diesel,Manual,Black,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.5 seconds,179 g/km
+hyundai,Kona,19030.0,2022,1L,"7,922 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,i20,7990.0,2017,1.2L,"49,996 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Tucson,25300.0,2021,1.6L,"25,340 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,117 mph,,
+hyundai,Tucson,15500.0,2020,1.6L,"57,787 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,177 g/km
+hyundai,i10,17285.0,2023,1.2L,12 miles,Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,130 g/km
+hyundai,Santa Fe,27790.0,2019,2.2L,"36,278 miles",Diesel,Semiauto,Green,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,165 g/km
+hyundai,Tucson,15547.0,2020,1.6L,"41,093 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,143 g/km
+hyundai,i10,6995.0,2016,1L,"29,511 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i30,3950.0,2012,1582cc,"127,035 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,115 mph,11.5 seconds,
+hyundai,i30,5995.0,2014,1396cc,"90,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,98 bhp,113 mph,13.2 seconds,143 g/km
+hyundai,i20,6790.0,2018,1248cc,"86,134 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,74 bhp,99 mph,13.6 seconds,119 g/km
+hyundai,Tucson,12250.0,2017,1685cc,"70,297 miles",Diesel,Manual,BRONZE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,13999.0,2017,1685cc,"39,660 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,114 bhp,109 mph,,119 g/km
+hyundai,Tucson,8989.0,2016,1995cc,"118,000 miles",Diesel,Manual,GREY,Estate,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,Tucson,14490.0,2018,1995cc,"90,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,183 bhp,125 mph,,151 g/km
+hyundai,IX35,10495.0,2015,1995cc,"68,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,179 g/km
+hyundai,i10,7500.0,2018,998cc,"55,798 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,IX35,11995.0,2015,1995cc,"34,392 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,183 g/km
+hyundai,Kona,10499.0,2018,998cc,"57,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,117 g/km
+hyundai,i10,3999.0,2011,1248cc,"58,732 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,IX35,6995.0,2013,1685cc,"57,113 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,7999.0,2019,998cc,"27,800 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,7999.0,2019,998cc,"28,300 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Kona,11990.0,2018,998cc,"38,998 miles",Petrol,Manual,GREY,Hatchback,,,,,,,
+hyundai,IX35,7495.0,2014,1685cc,"78,918 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,147 g/km
+hyundai,Santa Fe,10999.0,2014,2199cc,"38,426 miles",Diesel,Automatic,Reflex Silver Metallic,SUV,4X4,5.0,5.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,i30,6495.0,2012,1582cc,"52,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,126 bhp,120 mph,11.2 seconds,115 g/km
+hyundai,Tucson,16500.0,2020,1.6L,"21,131 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,Kona,18900.0,2022,1L,"7,089 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,i30,17950.0,2021,1.5L,"8,163 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,i20,14490.0,2022,1L,"9,178 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,120 g/km
+hyundai,i20,11250.0,2016,1.4L,"32,021 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,5.0,98 bhp,106 mph,13.2 seconds,148 g/km
+hyundai,Tucson,28500.0,2021,1.6L,"29,191 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,8990.0,2019,998cc,"39,890 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Kona,15499.0,2020,1L,"7,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,30117.0,2022,1.6L,"10,234 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Kona,18349.0,2020,1.6L,"10,029 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Tucson,18701.0,2019,1.6L,"33,054 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,157 g/km
+hyundai,IONIQ,15540.0,2018,1.6L,"49,673 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,111 mph,10.6 seconds,26 g/km
+hyundai,IX35,8995.0,2014,1685cc,"50,785 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,Tucson,15549.0,2018,1598cc,"38,696 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,i20,7690.0,2018,1248cc,"75,964 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i30,5795.0,2011,1400cc,"40,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,142 g/km
+hyundai,i30,8289.0,2015,1368cc,"31,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,12.7 seconds,138 g/km
+hyundai,Santa Fe,9990.0,2015,2199cc,"99,891 miles",Diesel,Manual,WHITE,Estate,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,Veloster,7990.0,2013,1591cc,"64,088 miles",Petrol,Manual,BLUE,Coupe,4X2,4.0,4.0,138 bhp,125 mph,9.7 seconds,148 g/km
+hyundai,i30,7290.0,2014,1582cc,"45,467 miles",Diesel,Automatic,SILVER,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,12.3 seconds,145 g/km
+hyundai,i10,4000.0,2015,998cc,"51,024 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,9995.0,2016,1248cc,"53,500 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,139 g/km
+hyundai,i10,4995.0,2011,1248cc,"23,000 miles",Petrol,Manual,Silver,Hatchback,,,,,,,
+hyundai,IONIQ,15099.0,2019,1580cc,"48,314 miles",Hybrid,,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,85 g/km
+hyundai,i10,13259.0,2021,1L,"2,476 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i30,9990.0,2018,1L,"49,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,126 g/km
+hyundai,IONIQ,17695.0,2020,1.6L,"17,584 miles",Hybrid,Automatic,Brown,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i10,11752.0,2021,1L,"9,954 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i30,17746.0,2021,1.5L,"13,267 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,i20,18250.0,2023,1L,"2,317 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Tucson,15000.0,2020,1.6L,"46,179 miles",Petrol,Automatic,SILVER,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,177 g/km
+hyundai,Bayon,19940.0,2022,1L,"1,132 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,99 bhp,112 mph,,121 g/km
+hyundai,Kona,17910.0,2018,1591cc,"14,975 miles",Petrol,Automatic,LAKE SILVER,Hatchback,4X4,5.0,5.0,174 bhp,127 mph,7.9 seconds,153 g/km
+hyundai,IONIQ 6,43490.0,2023,"2,000 miles",Electric,Automatic,Nocturne Grey,Saloon,1.2 mpg,4X2,4.0,5.0,225 bhp,115 mph,,0 g/km
+hyundai,Tucson,9500.0,2015,1685cc,"69,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,7995.0,2019,998cc,"16,891 miles",Petrol,Manual,Tomato Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Kona,32990.0,2023,1L,10 miles,Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,201 bhp,104 mph,,
+hyundai,Kona,34990.0,2023,1L,10 miles,Other,Automatic,Black,Hatchback,4X2,5.0,5.0,201 bhp,104 mph,,
+hyundai,Kona,34990.0,2023,1L,10 miles,Other,Automatic,Black,Hatchback,4X2,5.0,5.0,201 bhp,104 mph,,
+hyundai,i40,9699.0,2018,1.7L,"55,864 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,139 bhp,126 mph,,114 g/km
+hyundai,IONIQ,13499.0,2019,1.6L,"41,859 miles",Other,Automatic,Black,Coupe,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,83 g/km
+hyundai,i10,3995.0,2011,1248cc,"49,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,19596.0,2020,1591cc,"21,258 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,i10,12500.0,2023,998cc,"8,425 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i800,13995.0,2016,2497cc,"83,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,197 g/km
+hyundai,Bayon,15268.0,2022,1L,"4,272 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,i20,9999.0,2018,1L,"25,176 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,116 mph,,102 g/km
+hyundai,Santa Fe,18895.0,2017,2.2L,"52,755 miles",Diesel,Semiauto,White,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,Kona,16595.0,2021,1L,"30,894 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Kona,22995.0,2023,1L,"3,000 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,133 g/km
+hyundai,i20,15695.0,2022,1L,"9,120 miles",Hybrid,Manual,Other,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,Tucson,12490.0,2017,2L,"55,167 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,Tucson,13000.0,2017,1685cc,"62,000 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,IX35,5995.0,2013,1685cc,"95,000 miles",Diesel,Manual,METALLIC GREY,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i30,29420.0,2021,2L,"11,002 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,Tucson,14200.0,2020,1591cc,"40,427 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,11950.0,2017,1685cc,"45,179 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,8995.0,2018,1248cc,"23,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,125 g/km
+hyundai,i10,8648.0,2014,1248cc,"20,050 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,i10,7999.0,2000,1248cc,"49,500 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i40,7495.0,2012,1685cc,"79,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,134 g/km
+hyundai,i30,6799.0,2014,1396cc,"66,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,IX35,6499.0,2014,1685cc,"75,412 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,3595.0,2013,1248cc,"73,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i10,5191.0,2015,998cc,"70,200 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Kona,17490.0,2021,998cc,"20,000 miles",Petrol,Manual,Blue,SUV,,,,,,,
+hyundai,IONIQ,12990.0,2019,1L,"45,000 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,103 mph,9.7 seconds,0 g/km
+hyundai,IONIQ,14408.0,2019,1580cc,"42,276 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i10,4888.0,2014,998cc,"61,250 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,3499.0,2013,1248cc,"74,567 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Santa Fe,23950.0,2019,2199cc,"73,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,165 g/km
+hyundai,i10,8949.0,2017,1248cc,"34,764 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Kona,12799.0,2019,998cc,"52,225 miles",Petrol,,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,Tucson,14449.0,2017,1685cc,"39,205 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,,119 g/km
+hyundai,Tucson,27750.0,2022,1.6L,"17,212 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Santa Fe,20290.0,2018,2.2L,"41,326 miles",Diesel,Semiauto,White,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,i20,14890.0,2021,1L,"3,978 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,120 g/km
+hyundai,i10,10777.0,2020,1L,"24,653 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i20,20545.0,2023,1L,"2,602 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i20,13990.0,2021,1L,"10,303 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,120 g/km
+hyundai,i20,7795.0,2015,1.4L,"46,488 miles",Petrol,Manual,White,Hatchback,,,,,,,
+hyundai,Tucson,13500.0,2019,1.6L,"42,017 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,12480.0,2019,1.2L,"24,285 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Tucson,22850.0,2023,1.6L,"9,438 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Tucson,16552.0,2020,1.6L,"18,299 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,126 g/km
+hyundai,IONIQ,12500.0,2017,1.6L,"65,528 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,79 g/km
+hyundai,i30,35495.0,2023,1998cc,"2,342 miles",Petrol,Automatic,Performance Blue,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,
+hyundai,i10,6995.0,2015,1248cc,"64,101 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Tucson,16495.0,2018,1591cc,"6,099 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i30,6795.0,2015,1396cc,"62,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,IX20,4695.0,2013,1582cc,"85,074 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,114 bhp,113 mph,11.5 seconds,117 g/km
+hyundai,Tucson,10990.0,2017,1591cc,"72,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IX35,7495.0,2014,1685cc,"65,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,Tucson,16990.0,2020,1591cc,"9,609 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,178 g/km
+hyundai,i20,18023.0,2023,1L,"3,164 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Kona,17400.0,2021,1.6L,"23,167 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,Kona,16928.0,2021,1L,"16,295 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Kona,17980.0,2020,1.6L,"17,617 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i30,21850.0,2023,1482cc,"3,788 miles",Petrol,Automatic,Abyss Black Pearl (Solid),Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,139 g/km
+hyundai,i10,16350.0,2023,998cc,"5,668 miles",Petrol,Manual,Phantom Black,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Tucson,27907.0,2021,1598cc,"15,994 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,i30,6990.0,2013,1582cc,"22,900 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,115 mph,11.5 seconds,97 g/km
+hyundai,Tucson,33995.0,2023,1.6L,"4,842 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i20,20195.0,2023,1L,"2,492 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,,120 g/km
+hyundai,Tucson,20553.0,2021,1.6L,"16,941 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Tucson,14450.0,2020,1591cc,"29,106 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,14450.0,2020,1591cc,"27,766 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,4100.0,2009,1248cc,"32,909 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,Tucson,16995.0,2021,1598cc,"45,152 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,i20,7500.0,2017,1248cc,"55,106 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Tucson,13990.0,2016,1995cc,"58,603 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i10,8995.0,2019,998cc,"33,005 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,7300.0,2016,998cc,"32,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.9 seconds,105 g/km
+hyundai,i40,10495.0,2018,1685cc,"69,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,118 mph,,110 g/km
+hyundai,i10,15950.0,2023,998cc,524 miles,Petrol,Manual,DRAGON RED,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i20,16995.0,2023,998cc,"12,455 miles",Petrol,Manual,Turquoise,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,Tucson,34590.0,2023,1598cc,"1,990 miles",Petrol,Automatic,SHIMMERING SILVER,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Kona,35310.0,2023,1598cc,3 miles,Other,Other,White,SUV,,,,,,,
+hyundai,Santa Fe,15495.0,2017,2199cc,"81,453 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,Kona,16995.0,2021,998cc,"35,221 miles",Other,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Kona,18950.0,2020,1580cc,"30,000 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,101 g/km
+hyundai,i10,7495.0,2017,998cc,"44,295 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,IX35,6995.0,2015,1591cc,"68,000 miles",Petrol,Manual,White,SUV,,,,,,,
+hyundai,Santa Fe,13995.0,2016,2199cc,"75,034 miles",Diesel,Manual,Silver,Estate,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,i10,8995.0,2018,998cc,"30,545 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Tucson,15995.0,2020,1598cc,"31,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,Tucson,15995.0,2018,1598cc,"62,000 miles",Diesel,Automatic,Green,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,125 g/km
+hyundai,i30,10495.0,2018,1000cc,"48,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,i10,17995.0,2022,998cc,239 miles,Petrol,Automatic,Turquoise,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,126 g/km
+hyundai,Tucson,20995.0,2020,1598cc,"19,180 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,i10,12995.0,2021,1197cc,"25,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,124 g/km
+hyundai,Tucson,16945.0,2018,1591cc,"44,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Tucson,12495.0,2018,1591cc,"40,163 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i40,8655.0,2014,1685cc,"51,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,134 g/km
+hyundai,Tucson,19995.0,2019,1591cc,"40,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,175 bhp,126 mph,,172 g/km
+hyundai,i30,14995.0,2020,1400cc,"27,638 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,9.2 seconds,146 g/km
+hyundai,Tucson,14985.0,2019,1591cc,"14,769 miles",Petrol,Manual,Red,Estate,,,,,,,
+hyundai,Kona,13595.0,2019,998cc,"41,269 miles",Petrol,Manual,Yellow,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i30,7995.0,2015,1591cc,"77,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,184 bhp,136 mph,8.0 seconds,169 g/km
+hyundai,IX35,5995.0,2012,1995cc,"85,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,134 bhp,112 mph,10.2 seconds,154 g/km
+hyundai,Tucson,14668.0,2019,1.6L,"27,700 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Kona,20550.0,2020,1.6L,"8,183 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,i30,29576.0,2021,2L,"10,733 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,Tucson,29255.0,2023,1.6L,"3,018 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,i30,19489.0,2023,998cc,"4,657 miles",Petrol,Manual,Sunset Red,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,124 g/km
+hyundai,Bayon,15550.0,2022,998cc,"6,692 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,Tucson,12490.0,2017,1591cc,"29,424 miles",Petrol,Manual,Fiery Red,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,iLoad,8450.0,2014,2497cc,"52,000 miles",Diesel,Manual,White,Van,4X2,,,114 bhp,96 mph,22.1 seconds,
+hyundai,i30,6250.0,2015,1396cc,"74,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,Tucson,15995.0,2020,1598cc,"31,742 miles",Other,Manual,Silver,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,Tucson,15995.0,2020,1598cc,"35,352 miles",Other,Manual,White,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,143 g/km
+hyundai,i20,14250.0,2021,998cc,"30,912 miles",Other,Manual,Aurora Grey Pearl,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,Tucson,11995.0,2017,1685cc,"82,233 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,13995.0,2018,1685cc,"47,847 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,9495.0,2017,1248cc,"36,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i20,17995.0,2022,998cc,"1,126 miles",Petrol,Automatic,Atlas White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,i30,6950.0,2015,1582cc,"72,620 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,i40,6600.0,2014,1685cc,"93,700 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,119 g/km
+hyundai,Kona,15495.0,2020,998cc,"14,450 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Tucson,14995.0,2019,1591cc,"30,108 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,Kona,17995.0,2020,1580cc,"32,722 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i30,7250.0,2012,1396cc,"28,946 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,143 g/km
+hyundai,Tucson,14295.0,2019,1591cc,"41,539 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,i30,9990.0,2017,998cc,"48,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,Kona,14945.0,2020,998cc,"21,137 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Kona,18195.0,2021,1580cc,"10,859 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,Tucson,16450.0,2020,1598cc,"35,000 miles",Diesel,Manual,WHITE,SUV,,,,,,,
+hyundai,i30,6990.0,2016,1582cc,"93,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,Tucson,16495.0,2019,1591cc,"22,947 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,IONIQ 5,49995.0,2023,1000cc,100 miles,Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,225 bhp,115 mph,,0 g/km
+hyundai,Kona,26995.0,2022,1000cc,"5,437 miles",Other,Automatic,Green,Hatchback,4X2,5.0,5.0,201 bhp,104 mph,,0 g/km
+hyundai,IX35,7250.0,2015,1700cc,"77,829 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,135 g/km
+hyundai,Tucson,14995.0,2016,1995cc,"42,214 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,182 bhp,125 mph,9.9 seconds,154 g/km
+hyundai,Tucson,10350.0,2016,1685cc,"93,140 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,IX20,11995.0,2016,1591cc,"20,300 miles",Petrol,Automatic,Blue,MPV,4X2,5.0,5.0,122 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,i40,6850.0,2015,1685cc,"101,000 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,139 bhp,126 mph,10.3 seconds,114 g/km
+hyundai,Tucson,33995.0,2022,1598cc,"10,368 miles",Other,Automatic,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i30,13995.0,2019,1353cc,"28,884 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,8.9 seconds,129 g/km
+hyundai,Kona,13995.0,2019,998cc,"23,133 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i20,11995.0,2019,1248cc,"16,032 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,118 g/km
+hyundai,Kona,18995.0,2022,1580cc,"38,396 miles",Other,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,i20,20995.0,2023,998cc,"2,500 miles",Petrol,Manual,White / Black Roof,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,,120 g/km
+hyundai,Tucson,10995.0,2017,1685cc,"100,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i30,6995.0,2015,1582cc,"83,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,i10,7890.0,2017,1248cc,"32,000 miles",Petrol,Manual,Metallic Blue,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Tucson,11495.0,2015,1685cc,"76,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,16995.0,2017,2199cc,"77,000 miles",Diesel,Manual,Silver,Estate,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,Tucson,20995.0,2019,1591cc,"23,305 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,175 bhp,125 mph,,161 g/km
+hyundai,Santa Fe,16995.0,2017,2199cc,"85,000 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,IONIQ,16495.0,2019,1580cc,"30,120 miles",Other,Automatic,Orange,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,21995.0,2019,1591cc,"16,529 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,Tucson,33999.0,2023,1598cc,"8,187 miles",Petrol,Automatic,Engine Red,SUV,4X4,5.0,5.0,262 bhp,119 mph,,31 g/km
+hyundai,IONIQ 6,38158.0,2023,"8,000 miles",Other,Automatic,Curated Silver,Saloon,1.2 mpg,4X2,4.0,5.0,225 bhp,115 mph,,0 g/km
+hyundai,i30,5295.0,2013,1396cc,"65,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,143 g/km
+hyundai,i10,8450.0,2018,998cc,"14,800 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Tucson,13995.0,2018,1591cc,"43,337 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IONIQ,16995.0,2020,0L,"55,153 miles",Other,Automatic,INTENSE BLUE,Hatchback,4X2,5.0,5.0,134 bhp,103 mph,9.7 seconds,0 g/km
+hyundai,i10,4595.0,2014,1248cc,"55,468 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Tucson,11995.0,2015,1685cc,"37,030 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,IX35,8995.0,2014,1685cc,"57,610 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,147 g/km
+hyundai,Kona,16385.0,2021,998cc,"16,848 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Tucson,20528.0,2021,1598cc,"18,616 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,IX35,4995.0,2014,1685cc,"143,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,IONIQ,15295.0,2019,1580cc,"42,950 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i30,4995.0,2014,1582cc,"103,834 miles",Diesel,Manual,TUNGSTEN GREY,Hatchback,4X2,5.0,5.0,109 bhp,115 mph,11.5 seconds,97 g/km
+hyundai,i30,4350.0,2013,1396cc,"108,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,i10,9295.0,2018,998cc,"13,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,8999.0,2019,998cc,"46,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Santa Fe,8950.0,2012,2199cc,"118,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,7.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,Kona,19456.0,2021,1580cc,"32,044 miles",Other,Automatic,Atlas White,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Tucson,7990.0,2015,1591cc,"89,000 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,33995.0,2023,1598cc,"6,010 miles",Petrol/Electric Hybrid,Automatic,Blue,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,13999.0,2018,1.6L,"17,474 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,14999.0,2020,1.6L,"30,000 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,10200.0,2015,1.7L,"51,164 miles",Diesel,Manual,Beige,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,19000.0,2020,1598cc,"23,013 miles",Diesel Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,Tucson,27990.0,2021,1.6L,"31,000 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,9395.0,2000,1200cc,"10,282 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,Tucson,33785.0,2023,1598cc,"1,400 miles",Other,Automatic,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,23495.0,2019,1591cc,"4,257 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,Tucson,12250.0,2017,1685cc,"52,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,12750.0,2018,1685cc,"66,000 miles",Diesel,Manual,Silver,SUV,,,,,,,
+hyundai,i30,5995.0,2017,1582cc,"123,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,11.0 seconds,99 g/km
+hyundai,i30,3295.0,2010,1396cc,"99,300 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,142 g/km
+hyundai,Santa Fe,8350.0,2013,2200cc,"102,250 miles",Diesel,Manual,Silver,Other,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,i10,9995.0,2019,1248cc,"9,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,125 g/km
+hyundai,i10,8695.0,2014,1248cc,"31,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,i10,7999.0,2017,998cc,"21,786 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Tucson,12399.0,2015,1995cc,"74,065 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,i30,21300.0,2021,1598cc,"33,057 miles",Diesel,Automatic,SILVER,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,,127 g/km
+hyundai,IONIQ,18966.0,2021,1580cc,"40,859 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,9995.0,2015,1685cc,"72,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,6175.0,2016,998cc,"61,423 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Tucson,16298.0,2019,1.6L,"24,450 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,158 g/km
+hyundai,Kona,18199.0,2022,1L,"10,509 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,Tucson,24499.0,2022,1.6L,"23,859 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Tucson,17999.0,2019,1.6L,"7,191 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,152 g/km
+hyundai,Kona,18000.0,2020,1580cc,"17,924 miles",Petrol/Electric Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i10,12499.0,2020,998cc,"8,733 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,13271.0,2019,1.6L,"35,738 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i30,14490.0,2019,1.4L,"34,185 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.2 seconds,132 g/km
+hyundai,Kona,16950.0,2020,1580cc,"19,633 miles",Petrol Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,IONIQ,15000.0,2021,1580cc,"44,920 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,Kona,12700.0,2020,998cc,"33,417 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,Tucson,12700.0,2019,1591cc,"45,591 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,18000.0,2020,1591cc,"26,431 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,183 g/km
+hyundai,IONIQ,13700.0,2020,1580cc,"44,291 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i20,8395.0,2015,1248cc,"53,910 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,115 g/km
+hyundai,i10,9795.0,2019,998cc,"17,827 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Kona,10861.0,2019,1L,"66,232 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,18750.0,2019,1.6L,"22,417 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,i10,3995.0,2013,1248cc,"48,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Kona,13000.0,2017,1L,"17,116 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,125 g/km
+hyundai,i20,16999.0,2022,1L,"1,607 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,IX35,9995.0,2014,1995cc,"53,128 miles",Diesel,Automatic,Phantom Black,Estate,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,183 g/km
+hyundai,Santa Fe,12999.0,2015,2199cc,"81,862 miles",Diesel,Automatic,Onyx Black,SUV,4X4,5.0,7.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,i30,3495.0,2011,1396cc,"89,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,142 g/km
+hyundai,Kona,19995.0,2022,1580cc,"6,677 miles",Other,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,Kona,18495.0,2020,1580cc,"21,174 miles",Other,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i10,14490.0,2023,998cc,"5,650 miles",Petrol,Manual,Polar White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Tucson,11450.0,2016,1995cc,"85,380 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,182 bhp,125 mph,9.5 seconds,170 g/km
+hyundai,i30,3395.0,2012,1582cc,"88,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,109 bhp,115 mph,11.8 seconds,110 g/km
+hyundai,IX35,7790.0,2015,1685cc,"64,205 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,2895.0,2011,1248cc,"98,467 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,10495.0,2017,1685cc,"59,500 miles",Diesel,Manual,BEIGE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,7495.0,2014,998cc,"11,600 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,7250.0,2017,998cc,"44,739 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,IX35,6995.0,2013,1591cc,"81,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,133 bhp,111 mph,11.1 seconds,158 g/km
+hyundai,Tucson,9990.0,2016,1685cc,"85,000 miles",Diesel,Manual,BEIGE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,14300.0,2016,2199cc,"60,280 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,i30,9390.0,2017,1353cc,"57,253 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.9 seconds,124 g/km
+hyundai,i20,4495.0,2013,1248cc,"65,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,IX35,5395.0,2014,1591cc,"89,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,133 bhp,111 mph,11.1 seconds,158 g/km
+hyundai,Tucson,12000.0,2016,1685cc,"71,000 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,14499.0,2019,1591cc,"34,970 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Kona,17990.0,2022,1.6L,"32,266 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,i10,11499.0,2020,1L,"22,996 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,104 g/km
+hyundai,Santa Fe,29394.0,2020,2.2L,"41,756 miles",Diesel,Semiauto,Black,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,191 g/km
+hyundai,Tucson,27918.0,2021,1.6L,"15,117 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,149 g/km
+hyundai,Tucson,27488.0,2021,1.6L,"13,458 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,147 g/km
+hyundai,Tucson,13203.0,2016,2L,"55,005 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,Tucson,23995.0,2021,1600cc,"4,943 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,i20,16050.0,2022,998cc,"6,698 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,Santa Fe,16995.0,2015,2199cc,"34,991 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,Bayon,19995.0,2023,998cc,10 miles,Petrol,Automatic,Intense Blue,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,i10,7990.0,2018,998cc,"41,777 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,13495.0,2019,998cc,"24,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,11.4 seconds,107 g/km
+hyundai,i10,10490.0,2017,1.2L,"11,563 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,139 g/km
+hyundai,IX35,7495.0,2015,2L,"76,200 miles",Diesel,Manual,White,Estate,4X4,5.0,5.0,134 bhp,112 mph,11.3 seconds,145 g/km
+hyundai,Tucson,16195.0,2018,1591cc,"30,760 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,173 g/km
+hyundai,Tucson,29850.0,2023,1598cc,"8,335 miles",Petrol,Automatic,Champion Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,i20,16350.0,2022,998cc,"8,449 miles",Petrol,Manual,Atlas White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Kona,21850.0,2022,1580cc,"9,790 miles",Petrol,Automatic,Tangerine Comet,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Tucson,26350.0,2022,1598cc,"13,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,IONIQ,13495.0,2017,1580cc,"53,000 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,79 g/km
+hyundai,IX35,7495.0,2015,1685cc,"85,373 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,14980.0,2023,998cc,"3,982 miles",Petrol,Manual,Platinum Grey,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i10,7799.0,2019,998cc,"30,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,8995.0,2016,1591cc,"94,000 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Santa Fe,5495.0,2012,2199cc,"107,322 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,176 g/km
+hyundai,i10,2000.0,2010,1200cc,"111,000 miles",Petrol,Manual,Silver,Other,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,Tucson,10950.0,2017,1685cc,"49,830 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,12995.0,2017,1685cc,"34,000 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,iLoad,15588.0,2019,2497cc,"65,637 miles",Diesel,Manual,WHITE,Other,4X2,,,114 bhp,96 mph,22.1 seconds,199 g/km
+hyundai,i800,24000.0,2019,2497cc,"36,683 miles",Diesel,Automatic,BLACK,MPV,4X2,5.0,8.0,168 bhp,112 mph,14.4 seconds,244 g/km
+hyundai,i30,19993.0,2023,1L,"11,809 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,124 g/km
+hyundai,i40,5495.0,2012,1.7L,"111,800 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,134 bhp,118 mph,12.0 seconds,159 g/km
+hyundai,Tucson,15290.0,2019,1598cc,"70,311 miles",Diesel Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,113 g/km
+hyundai,i10,12995.0,2021,1000cc,"32,668 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,i40,4495.0,2013,1685cc,"108,620 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,119 g/km
+hyundai,i30,22999.0,2018,1998cc,"30,600 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+hyundai,i20,8300.0,2015,1368cc,"46,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,11.6 seconds,127 g/km
+hyundai,i10,4995.0,2011,1248cc,"70,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,84 bhp,99 mph,13.8 seconds,129 g/km
+hyundai,i30,3595.0,2009,1582cc,"86,000 miles",Diesel,Automatic,Silver,Hatchback,4X2,5.0,5.0,114 bhp,112 mph,12.8 seconds,150 g/km
+hyundai,IX35,5395.0,2010,1995cc,"74,500 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,134 bhp,112 mph,10.2 seconds,154 g/km
+hyundai,i10,6995.0,2017,1248cc,"53,000 miles",Petrol,Manual,BROWN,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Tucson,9995.0,2016,1685cc,"109,000 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,i10,4590.0,2014,1248cc,"91,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,i20,8349.0,2017,1248cc,"45,064 miles",Petrol,,White,Coupe,4X2,3.0,5.0,82 bhp,106 mph,12.8 seconds,119 g/km
+hyundai,Tucson,14249.0,2017,1685cc,"46,317 miles",Diesel,,Black,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Tucson,18299.0,2018,1591cc,"39,694 miles",Petrol,,White,SUV,4X2,5.0,5.0,175 bhp,125 mph,,161 g/km
+hyundai,Tucson,16295.0,2020,1.6L,"11,603 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i20,11728.0,2020,1.2L,"19,292 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,134 g/km
+hyundai,IONIQ,15153.0,2021,1.6L,"44,515 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Kona,27990.0,2023,1.6L,10 miles,Hybrid,Automatic,Green,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Kona,26000.0,2023,1L,10 miles,Petrol,Automatic,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,142 g/km
+hyundai,i10,14590.0,2023,1L,10 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,116 g/km
+hyundai,i20,19232.0,2023,1L,11 miles,Hybrid,Semiauto,Blue,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,Tucson,31980.0,2023,1.6L,"1,951 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Kona,26245.0,2023,1.6L,13 miles,Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Santa Fe,41990.0,2023,1.6L,297 miles,Hybrid,Semiauto,Grey,SUV,4X4,5.0,7.0,227 bhp,116 mph,,168 g/km
+hyundai,Tucson,37990.0,2023,1.6L,589 miles,Hybrid,Semiauto,Black,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,i20,19232.0,2023,1L,10 miles,Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,IONIQ,14180.0,2017,1.6L,"41,241 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,79 g/km
+hyundai,Tucson,27995.0,2021,1.6L,"15,632 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,20994.0,2021,1.6L,"19,875 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,148 g/km
+hyundai,i10,13495.0,2019,1.2L,"8,290 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,i10,13499.0,2018,1.2L,"1,530 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Kona,19890.0,2022,1.6L,"12,664 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,Tucson,13750.0,2018,1.6L,"21,456 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,28180.0,2021,1.6L,"11,098 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Tucson,15199.0,2019,1.6L,"24,024 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,14799.0,2019,1.6L,"31,252 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,14499.0,2019,1.6L,"29,445 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Kona,18500.0,2020,1.6L,"18,534 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Kona,20990.0,2020,1.6L,"10,523 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,Tucson,13990.0,2019,1.6L,"37,674 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,13750.0,2021,1L,"6,536 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,IONIQ,14690.0,2019,1.6L,"37,451 miles",Hybrid,Automatic,Orange,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Santa Fe,28900.0,2020,2.2L,"22,932 miles",Diesel,Manual,Silver,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.5 seconds,179 g/km
+hyundai,IONIQ,17560.0,2020,1.6L,"42,514 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,110 mph,10.6 seconds,26 g/km
+hyundai,IONIQ,17300.0,2020,1.6L,"45,040 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,110 mph,10.6 seconds,26 g/km
+hyundai,Kona,13470.0,2018,1L,"25,213 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,125 g/km
+hyundai,Kona,16070.0,2021,1L,"26,649 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Tucson,14180.0,2017,1.7L,"23,479 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,20710.0,2019,1.6L,"15,868 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,Tucson,10992.0,2015,2L,"58,286 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,Tucson,16355.0,2019,1.6L,"37,932 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,,162 g/km
+hyundai,Tucson,14934.0,2019,1.6L,"15,830 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,Kona,22500.0,2022,1.6L,"1,561 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Tucson,19700.0,2021,1.6L,"21,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,IX20,14280.0,2019,1.6L,"10,559 miles",Petrol,Automatic,Grey,MPV,4X2,5.0,5.0,123 bhp,112 mph,11.5 seconds,159 g/km
+hyundai,Tucson,15200.0,2020,1.6L,"26,731 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,24500.0,2021,1.6L,"19,143 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,117 mph,,157 g/km
+hyundai,Kona,13490.0,2019,1L,"26,979 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,i10,12495.0,2021,1000cc,"21,068 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i30,19495.0,2020,1353cc,"8,000 miles",Petrol,Automatic,WHITE,Estate,4X2,5.0,5.0,138 bhp,126 mph,9.2 seconds,140 g/km
+hyundai,i30,8995.0,2014,1396cc,"20,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,Tucson,31285.0,2021,1598cc,"9,242 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,Tucson,27985.0,2022,1598cc,"10,393 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,i30,20985.0,2022,998cc,"6,974 miles",Petrol,Automatic,BRONZE,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,122 g/km
+hyundai,IX35,8995.0,2013,2L,"55,800 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,134 bhp,112 mph,11.3 seconds,149 g/km
+hyundai,i20,15450.0,2021,998cc,"7,911 miles",Petrol Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i20,14453.0,2021,998cc,"9,041 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,120 g/km
+hyundai,Tucson,13000.0,2019,1591cc,"35,008 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,13700.0,2019,1591cc,"26,742 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,12500.0,2020,1591cc,"38,792 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Kona,13300.0,2021,998cc,"30,559 miles",Petrol Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Tucson,17500.0,2021,1591cc,"31,703 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,183 g/km
+hyundai,i10,12998.0,2021,1L,"7,003 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,i20,11799.0,2019,1.2L,"18,581 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,29199.0,2022,1.6L,"13,071 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,14299.0,2020,1.6L,"25,228 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,31150.0,2021,1.6L,"14,187 miles",Hybrid,Semiauto,Red,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,Santa Fe,16480.0,2018,2.2L,"69,173 miles",Diesel,Manual,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,Tucson,21104.0,2021,1.6L,"14,642 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,141 g/km
+hyundai,Kona,15453.0,2021,1L,"15,771 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Tucson,24250.0,2020,1.6L,"11,790 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,i10,12784.0,2021,1.2L,"23,742 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,124 g/km
+hyundai,i10,8965.0,2019,1L,"33,978 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,32750.0,2023,1.6L,"5,540 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i20,16495.0,2022,1L,"1,051 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i30,14995.0,2019,1.4L,"9,209 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.9 seconds,133 g/km
+hyundai,i10,14995.0,2022,1L,"11,567 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i20,12995.0,2019,1.2L,"21,711 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,i10,5495.0,2015,1.25L,"79,379 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,111 g/km
+hyundai,i20,5000.0,2015,1396cc,"95,500 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.1 seconds,106 g/km
+hyundai,IX35,6995.0,2014,1685cc,"82,458 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,6350.0,2015,1248cc,"56,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,i10,3475.0,2012,1248cc,"73,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,11995.0,2017,1685cc,"68,475 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,IONIQ,12950.0,2019,1580cc,"63,150 miles",Other,Automatic,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i20,8490.0,2014,1396cc,"20,200 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,99 bhp,106 mph,12.9 seconds,140 g/km
+hyundai,Kona,12995.0,2019,998cc,"46,000 miles",Petrol,Manual,Orange,Other,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,IX35,5790.0,2010,1998cc,"66,580 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,161 bhp,114 mph,10.4 seconds,177 g/km
+hyundai,Tucson,12600.0,2018,1591cc,"54,484 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i10,6490.0,2012,1248cc,"45,786 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,84 bhp,99 mph,13.8 seconds,129 g/km
+hyundai,Tucson,12499.0,2016,1685cc,"32,888 miles",Diesel,,Red,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,29990.0,2021,1.6L,"8,063 miles",Hybrid,Semiauto,Red,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,i10,12390.0,2020,1L,"13,763 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,Tucson,16974.0,2021,1.6L,"26,171 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,Kona,16430.0,2020,1.6L,"37,249 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i10,6500.0,2017,1.2L,"50,668 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i40,7320.0,2015,1.7L,"68,665 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,114 bhp,119 mph,12.4 seconds,110 g/km
+hyundai,Tucson,19450.0,2020,1.6L,"32,612 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,Kona,13050.0,2019,1L,"39,597 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,16250.0,2018,1.6L,"36,513 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,IONIQ,14900.0,2020,1.6L,"42,985 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i10,13495.0,2021,1197cc,"11,357 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,124 g/km
+hyundai,i10,15590.0,2021,1197cc,"5,987 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,129 g/km
+hyundai,Tucson,21995.0,2020,1.6L,"11,008 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,i10,12139.0,2020,1L,"32,331 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Tucson,15315.0,2020,1.6L,"42,882 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,143 g/km
+hyundai,i20,16060.0,2022,1L,"5,074 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,IX20,14695.0,2019,1.6L,"8,724 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,123 bhp,115 mph,10.8 seconds,149 g/km
+hyundai,i30,21195.0,2023,1.5L,"5,147 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,144 g/km
+hyundai,Tucson,21750.0,2020,1.6L,"19,590 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,177 g/km
+hyundai,Tucson,13799.0,2020,1.6L,"33,986 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i20,16524.0,2021,1L,"10,354 miles",Hybrid,Manual,Other,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,117 g/km
+hyundai,i20,9999.0,2018,1248cc,"42,126 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,126 g/km
+hyundai,i30,7999.0,2016,1582cc,"63,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,IONIQ 5,34995.0,2022,1L,"8,000 miles",Other,Automatic,Green,Estate,4X2,5.0,5.0,168 bhp,115 mph,,0 g/km
+hyundai,IX35,7495.0,2014,1591cc,"70,000 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,133 bhp,111 mph,11.1 seconds,158 g/km
+hyundai,i20,7495.0,2016,1248cc,"68,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,111 g/km
+hyundai,Tucson,13198.0,2018,1.6L,"33,400 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i30,13999.0,2018,1.4L,"17,681 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,,134 g/km
+hyundai,IONIQ,17920.0,2022,1.6L,"9,776 miles",Hybrid,Automatic,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,IX35,5895.0,2015,1.995L,"110,000 miles",Diesel,Manual,White,Estate,4X4,5.0,5.0,134 bhp,112 mph,11.3 seconds,149 g/km
+hyundai,Tucson,12890.0,2019,1591cc,"47,229 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,24600.0,1598cc,"39,815 miles",Petrol,Automatic,Grey,Estate,43.5 mpg,4X2,5.0,5.0,148 bhp,117 mph,,149 g/km
+hyundai,Santa Fe,7750.0,2011,2199cc,"41,999 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,194 bhp,118 mph,10.2 seconds,197 g/km
+hyundai,i30,2995.0,2010,1400cc,"96,789 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,145 g/km
+hyundai,Santa Fe,12490.0,2015,2199cc,"70,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,i10,6195.0,2014,998cc,"35,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Santa Fe,28995.0,2022,1598cc,"1,400 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,227 bhp,116 mph,,145 g/km
+hyundai,Tucson,27779.0,2022,1598cc,"25,663 miles",Other,Automatic,Grey,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i20,15990.0,2020,998cc,"5,600 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,11.4 seconds,134 g/km
+hyundai,IONIQ,13999.0,2019,1580cc,"51,615 miles",Hybrid,,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,14599.0,2019,1.6L,"16,326 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,157 g/km
+hyundai,Tucson,19099.0,2020,1.6L,"30,884 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,Tucson,26295.0,2021,1598cc,"12,233 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,Tucson,33990.0,2023,1598cc,"5,551 miles",Petrol/Electric,Automatic,Amazon Grey,Estate,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,i10,12790.0,2019,1248cc,"3,782 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Tucson,19150.0,2020,1.6L,"18,411 miles",Petrol,unknown,White,Estate,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,
+hyundai,i30,21500.0,2020,1998cc,"34,979 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,188 g/km
+hyundai,Tucson,13400.0,2020,1598cc,"45,048 miles",Diesel Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,143 g/km
+hyundai,Kona,19000.0,2022,998cc,"21,076 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,IONIQ,15850.0,2019,1580cc,"31,048 miles",Petrol,Automatic,Iron Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,31350.0,2021,1598cc,"9,887 miles",Petrol,Automatic,Phantom Black,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Kona,21850.0,2022,1580cc,"15,263 miles",Petrol,Automatic,Tangerine Comet,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Tucson,11499.0,2018,1591cc,"40,203 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i20,4595.0,2010,1248cc,"44,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,76 bhp,103 mph,12.9 seconds,124 g/km
+hyundai,i30,9590.0,2019,1598cc,"70,387 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,117 mph,11.3 seconds,111 g/km
+hyundai,i40,10490.0,2018,1685cc,"67,560 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,139 bhp,126 mph,,123 g/km
+hyundai,Tucson,13800.0,2019,1.6L,"30,867 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,i20,10450.0,2019,1.2L,"48,506 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,13415.0,2019,1.6L,"38,454 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,157 g/km
+hyundai,i10,14772.0,2022,1L,"4,424 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,126 g/km
+hyundai,Tucson,27270.0,2021,1.6L,"24,382 miles",Hybrid,Semiauto,White,SUV,,,,,,,
+hyundai,Bayon,14420.0,2022,1L,"15,644 miles",Hybrid,Semiauto,Silver,SUV,,,,,,,
+hyundai,Kona,13917.0,2018,1L,"12,962 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,
+hyundai,i10,13125.0,2021,1L,"11,356 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,Kona,32895.0,2023,1.6L,11 miles,Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Tucson,27430.0,2022,1.6L,"6,851 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,i30,19299.0,2018,2L,"46,606 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,163 g/km
+hyundai,i20,17795.0,2022,1L,"3,264 miles",Hybrid,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,Kona,17999.0,2019,1.6L,"16,330 miles",Hybrid,Automatic,Yellow,SUV,4X2,5.0,5.0,139 bhp,115 mph,,90 g/km
+hyundai,Tucson,25999.0,2023,1.6L,"3,147 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,IONIQ,18995.0,2020,1.6L,"16,314 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,Tucson,16995.0,2020,1.6L,"17,145 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,16212.0,2018,1.6L,"31,492 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Kona,16500.0,2022,1L,"6,879 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,i10,11635.0,2019,1248cc,"10,959 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,125 g/km
+hyundai,Tucson,16399.0,2020,1591cc,"8,427 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,153 g/km
+hyundai,i10,7249.0,2018,998cc,"57,709 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,12499.0,2020,1248cc,"19,303 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,134 g/km
+hyundai,i10,8450.0,2019,998cc,"16,282 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,13700.0,2020,1598cc,"44,759 miles",Diesel Hybrid,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,Bayon,18350.0,2023,998cc,"2,750 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,Tucson,19850.0,2018,1591cc,"24,785 miles",Petrol,Automatic,Champion Blue,SUV,4X2,5.0,5.0,175 bhp,125 mph,,161 g/km
+hyundai,Kona,19350.0,2020,1580cc,"21,794 miles",Petrol,Automatic,Galactic Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,IONIQ,13495.0,2019,1.58L,"46,343 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,11998.0,2015,2L,"59,439 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,182 bhp,125 mph,9.5 seconds,170 g/km
+hyundai,Tucson,13499.0,2019,1.6L,"34,565 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i30,17950.0,2022,1L,"20,697 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,123 g/km
+hyundai,Kona,17271.0,2022,1L,"26,796 miles",Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,Tucson,11995.0,2017,1685cc,"44,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,11750.0,2015,2199cc,"98,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,IX20,3995.0,2012,1396cc,"105,000 miles",Petrol,Manual,Silver,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,i20,5995.0,2016,1248cc,"69,077 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,99 mph,13.6 seconds,119 g/km
+hyundai,IONIQ,20995.0,2022,1580cc,"16,480 miles",Other,Automatic,Intense Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,20995.0,2020,1591cc,"16,544 miles",Petrol,Manual,Engine Red,Estate,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,183 g/km
+hyundai,i10,4995.0,2013,1248cc,"27,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,11495.0,2016,1685cc,"58,097 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,19995.0,2020,1600cc,"37,917 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,i10,7995.0,2016,1200cc,"25,900 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,i10,9049.0,2018,998cc,"15,119 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Tucson,18999.0,2019,1598cc,"36,659 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,129 g/km
+hyundai,Tucson,21495.0,2020,1598cc,"15,510 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,i10,13995.0,2020,998cc,"7,709 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,126 g/km
+hyundai,i40,4750.0,2015,1685cc,"142,778 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,139 bhp,126 mph,10.3 seconds,114 g/km
+hyundai,IX35,5395.0,2011,1685cc,"100,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i30,4495.0,2012,1582cc,"59,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.5 seconds,119 g/km
+hyundai,IX20,7495.0,2014,1591cc,"51,711 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,123 bhp,114 mph,12.2 seconds,154 g/km
+hyundai,i10,15795.0,2021,1L,"7,025 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i20,18891.0,2023,1L,"1,517 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i30,20395.0,2023,1L,"3,205 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,123 g/km
+hyundai,Tucson,12875.0,2015,1995cc,"65,315 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,160 g/km
+hyundai,Tucson,15990.0,2018,1685cc,"42,568 miles",Diesel,Semi Auto,White,Estate,4X2,5.0,5.0,139 bhp,115 mph,,129 g/km
+hyundai,i30,25490.0,2020,2L,"15,434 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,188 g/km
+hyundai,Kona,16590.0,2020,1.6L,"41,448 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Tucson,19990.0,2020,1.6L,"26,365 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,Kona,19595.0,2020,1.6L,"19,506 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,i20,17323.0,2022,1L,"9,626 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i20,21823.0,2022,1L,"7,035 miles",Hybrid,Semiauto,Blue,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,122 g/km
+hyundai,i20,21673.0,2022,1L,"8,314 miles",Hybrid,Semiauto,Blue,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,122 g/km
+hyundai,Santa Fe,13000.0,2014,2.2L,"46,376 miles",Diesel,Manual,White,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,IONIQ,16495.0,2021,1.6L,"42,200 miles",Other,Semi Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Kona,19000.0,2021,1580cc,"11,225 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Santa Fe,26400.0,2020,2199cc,"46,730 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,161 g/km
+hyundai,Kona,12700.0,2019,998cc,"21,984 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,18500.0,2019,1995cc,"55,083 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,183 bhp,125 mph,,151 g/km
+hyundai,Tucson,31850.0,2023,1598cc,"5,000 miles",Petrol,Automatic,Amazon Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,146 g/km
+hyundai,i20,23553.0,2021,1598cc,"15,094 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,201 bhp,142 mph,,158 g/km
+hyundai,Tucson,11800.0,2018,1685cc,"59,601 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,8695.0,2018,1248cc,"15,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i20,13485.0,2020,1248cc,"7,980 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,i10,9450.0,2018,1248cc,"22,362 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Kona,21295.0,2022,1.6L,"13,203 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,100 mph,,112 g/km
+hyundai,IX20,15295.0,2020,1.6L,"11,391 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,123 bhp,115 mph,10.8 seconds,172 g/km
+hyundai,Tucson,23495.0,2019,1.6L,"22,918 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,Kona,12999.0,2019,1L,"27,627 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,9395.0,2015,1.7L,"70,000 miles",Diesel,Manual,Beige,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i20,12968.0,2020,1.2L,"15,564 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,13800.0,2018,1.6L,"31,048 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Kona,13964.0,2020,1L,"21,725 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,31300.0,2023,1.6L,"7,546 miles",Hybrid,Semiauto,Silver,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Tucson,27995.0,2022,1.6L,"5,176 miles",Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,127 g/km
+hyundai,Tucson,15699.0,2019,1.6L,"13,424 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Kona,20190.0,2020,1580cc,"7,051 miles",Other,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,101 g/km
+hyundai,Tucson,14990.0,2020,1591cc,"40,547 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i30,8995.0,2017,1582cc,"69,474 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,118 mph,11.0 seconds,99 g/km
+hyundai,i10,6495.0,2018,998cc,"89,701 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Santa Fe,15995.0,2016,2199cc,"70,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,i10,9650.0,2016,1248cc,"26,288 miles",Petrol,Automatic,Blue,Hatchback,,,,,,,
+hyundai,IX20,9795.0,2017,1396cc,"53,112 miles",Petrol,Manual,Red,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.8 seconds,130 g/km
+hyundai,Santa Fe,9500.0,2014,2199cc,"110,054 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,i20,4675.0,2012,1248cc,"58,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,Amica,1995.0,2000,999cc,"46,500 miles",Petrol,Automatic,Yellow,Hatchback,4X2,5.0,5.0,54 bhp,88 mph,15.1 seconds,0 g/km
+hyundai,Tucson,12599.0,2017,1.7L,"28,959 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,24450.0,2020,2.2L,"68,995 miles",Diesel,Semiauto,Silver,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,165 g/km
+hyundai,i20,17554.0,2022,1L,"5,433 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,118 g/km
+hyundai,i20,17054.0,2022,1L,"5,114 miles",Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i20,17374.0,2022,1L,"7,474 miles",Hybrid,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i20,17454.0,2022,1L,"6,516 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,118 g/km
+hyundai,i20,17354.0,2022,1L,"7,640 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,IX20,8750.0,2013,1591cc,"24,309 miles",Petrol,Automatic,Ice Blue,MPV,4X2,5.0,5.0,123 bhp,114 mph,12.2 seconds,154 g/km
+hyundai,Bayon,19990.0,2023,998cc,"3,789 miles",Petrol/MHEV,Manual,Sleek Silver,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,122 g/km
+hyundai,Santa Fe,12024.0,2014,2199cc,"75,890 miles",Diesel,Manual,Red,SUV,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,Tucson,13850.0,2019,1591cc,"52,654 miles",Petrol,Manual,Champion Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,Tucson,34959.0,2023,1598cc,"3,267 miles",Petrol Hybrid,Automatic,Bronze,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,10234.0,2015,1685cc,"54,441 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,22893.0,2022,1598cc,"9,664 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Tucson,13995.0,2020,1591cc,"59,000 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i20,5299.0,2013,1248cc,"63,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,Tucson,30985.0,2023,1598cc,"5,902 miles",Petrol,Automatic,RED,Estate,4X2,5.0,5.0,148 bhp,117 mph,,149 g/km
+hyundai,i30,18985.0,2022,998cc,"7,259 miles",Petrol,Automatic,RED,Estate,4X2,5.0,5.0,118 bhp,122 mph,,121 g/km
+hyundai,Tucson,15450.0,2020,1591cc,"16,000 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i30,3295.0,2012,1396cc,"118,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,139 g/km
+hyundai,i10,7995.0,2016,998cc,"23,577 miles",Petrol,Manual,ATLANTIC BLUE,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Tucson,9590.0,2016,1685cc,"98,055 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Santa Fe,15990.0,2017,2199cc,"86,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,i10,8295.0,2017,1248cc,"20,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i10,4995.0,2012,1248cc,"33,200 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,11994.0,2020,1995cc,"108,450 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,183 bhp,125 mph,9.5 seconds,147 g/km
+hyundai,i10,5495.0,2012,1200cc,"33,000 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i10,7495.0,2017,1248cc,"61,050 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,IONIQ 6,37800.0,2023,"1,823 miles",Electric,Automatic,Silver,Saloon,1.2 mpg,4X2,4.0,5.0,225 bhp,115 mph,,0 g/km
+hyundai,Tucson,10977.0,2018,1.7L,"78,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,20781.0,2021,1.6L,"22,321 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Tucson,3290.0,2010,1991cc,"77,000 miles",Diesel,Auto,Black,SUV,4X2,5.0,5.0,147 bhp,109 mph,12.8 seconds,210 g/km
+hyundai,i30,28499.0,2022,1998cc,"6,550 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,182 g/km
+hyundai,Tucson,13500.0,2020,1.6L,"26,152 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,7690.0,2017,1.2L,"27,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i10,11995.0,2020,1L,"19,675 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,104 g/km
+hyundai,Tucson,14375.0,2019,1.6L,"62,156 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,161 g/km
+hyundai,i20,13997.0,2021,1L,"16,981 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,Tucson,17499.0,2020,1591cc,"36,807 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,152 g/km
+hyundai,Kona,22238.0,2022,1580cc,"6,263 miles",Petrol/Electric Hybrid,Automatic,GALACTIC GREY,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,Tucson,14495.0,2017,1995cc,"47,078 miles",Diesel,Manual,White,Estate,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,Bayon,19895.0,2023,998cc,"2,896 miles",Petrol,Manual,Intense Blue + Black Roof,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,121 g/km
+hyundai,Tucson,24495.0,2022,1.6L,"6,181 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Bayon,18999.0,2023,1L,"1,386 miles",Hybrid,Manual,Green,SUV,4X2,5.0,5.0,99 bhp,113 mph,,121 g/km
+hyundai,i20,15999.0,2021,1L,"8,352 miles",Hybrid,Manual,Other,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,IONIQ,18320.0,2022,1.6L,"9,951 miles",Hybrid,Automatic,Silver,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,25799.0,2022,1.6L,"20,313 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,12990.0,2022,1L,"6,542 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Kona,16595.0,2020,1.6L,"26,811 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i10,13295.0,2023,1L,"3,700 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,114 g/km
+hyundai,IONIQ,15995.0,2020,1.6L,"44,800 miles",Other,Semi Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i10,6250.0,2016,1L,"74,200 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Tucson,15000.0,2016,2L,"33,384 miles",Diesel,Manual,Beige,Estate,4X4,5.0,5.0,182 bhp,125 mph,9.9 seconds,154 g/km
+hyundai,Tucson,14000.0,2020,1598cc,"49,926 miles",Diesel Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,143 g/km
+hyundai,Kona,11000.0,2020,998cc,"52,610 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,146 g/km
+hyundai,i30,9500.0,2018,1582cc,"91,410 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,109 bhp,117 mph,11.3 seconds,99 g/km
+hyundai,Tucson,10500.0,2017,1591cc,"56,980 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Santa Fe,27500.0,2020,2199cc,"22,599 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,186 g/km
+hyundai,i10,12457.0,2022,1L,"11,656 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,20338.0,2021,1.6L,"24,507 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,i30,11336.0,2018,1.4L,"27,252 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,8.9 seconds,129 g/km
+hyundai,Santa Fe,40950.0,2023,1.6L,"3,951 miles",Hybrid,Semiauto,Black,SUV,4X4,5.0,7.0,227 bhp,116 mph,,168 g/km
+hyundai,Tucson,26450.0,2023,1.6L,"5,191 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,i20,14614.0,2021,1L,"11,302 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i10,7895.0,2018,1.2L,"37,850 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Bayon,17495.0,2021,1L,"6,636 miles",Hybrid,Manual,Green,SUV,4X2,5.0,5.0,118 bhp,115 mph,,121 g/km
+hyundai,Tucson,14088.0,2019,1598cc,"52,248 miles",Diesel Hybrid,Manual,Blue,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,Tucson,25450.0,2022,1598cc,"9,101 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,Tucson,12299.0,2018,1591cc,"50,890 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i30,20474.0,2023,1.5L,"4,052 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,Tucson,31346.0,2022,1598cc,"4,210 miles",Petrol/Electric Hybrid,Automatic,Grey,Estate,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Tucson,14283.0,2019,1591cc,"34,386 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,26980.0,2023,1598cc,"4,000 miles",Petrol,Manual,Phantom Black,Estate,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,i10,8695.0,2018,1248cc,"52,363 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i20,11846.0,2019,1.2L,"10,819 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,118 g/km
+hyundai,Tucson,20599.0,2022,1.6L,"18,909 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Kona,16950.0,2020,1.6L,"25,514 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Tucson,29595.0,2023,1.6L,"6,831 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,i20,7999.0,2015,1.2L,"82,239 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,119 g/km
+hyundai,i10,3995.0,2008,1248cc,"58,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,76 bhp,97 mph,14.4 seconds,139 g/km
+hyundai,i10,8866.0,0L,"16,009 miles",Diesel,Manual,BLUE,Hatchback,60.1 mpg,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,29850.0,2021,1598cc,"19,887 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,7550.0,2017,1248cc,"50,924 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,Bayon,15050.0,2021,1L,"14,037 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,99 bhp,113 mph,,121 g/km
+hyundai,Kona,21296.0,2022,1.6L,"19,212 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,i20,13424.0,2020,1.2L,"9,085 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,Tucson,25662.0,2023,1.6L,"3,408 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,Tucson,14472.0,2019,1.6L,"28,143 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Bayon,15950.0,2022,1L,"16,933 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,99 bhp,112 mph,,119 g/km
+hyundai,Tucson,16999.0,2020,1.6L,"25,695 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,i10,9421.0,2019,1L,"28,006 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,13790.0,2015,2L,"75,789 miles",Diesel,Manual,Grey,Estate,4X4,5.0,5.0,182 bhp,125 mph,9.9 seconds,154 g/km
+hyundai,Tucson,19672.0,2020,1591cc,"23,520 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,i10,13461.0,2021,998cc,"10,303 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,IONIQ,14850.0,2018,1580cc,"29,522 miles",Petrol,Automatic,Iron Grey,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,79 g/km
+hyundai,Kona,12306.0,2019,1L,"37,481 miles",Petrol,Manual,Yellow,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,13089.0,2018,1.7L,"55,230 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,,119 g/km
+hyundai,Tucson,17325.0,2021,1.6L,"24,982 miles",Hybrid,Manual,White,SUV,,,,,,,
+hyundai,i30,8499.0,2016,1.58L,"52,497 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,Tucson,11950.0,2016,1995cc,"94,500 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i10,8500.0,2018,998cc,"23,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,IX20,8000.0,2012,1591cc,"29,000 miles",Petrol,Automatic,White,MPV,4X2,5.0,5.0,123 bhp,114 mph,12.2 seconds,154 g/km
+hyundai,IX20,5495.0,2012,1396cc,"50,000 miles",Petrol,Manual,GREY,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,IX35,5795.0,2012,1995cc,"92,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,134 bhp,112 mph,10.2 seconds,154 g/km
+hyundai,i20,2699.0,2009,1396cc,"80,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,11.6 seconds,133 g/km
+hyundai,Santa Fe,14980.0,2016,2199cc,"49,988 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,IX35,6290.0,2013,1685cc,"88,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i20,20995.0,2023,1000cc,"3,100 miles",Petrol,Automatic,Pearl - Dragon Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,122 g/km
+hyundai,Kona,29288.0,2023,1600cc,Petrol,Automatic,Special Solid - Atlas White,SUV,60.1 mpg,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Santa Fe,14995.0,2017,2199cc,"81,200 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,i30,7195.0,2015,1582cc,"83,169 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,IX20,9595.0,2018,1591cc,"47,669 miles",Petrol,Manual,BLUE,MPV,4X2,5.0,5.0,123 bhp,115 mph,10.8 seconds,149 g/km
+hyundai,Tucson,17950.0,2020,1598cc,"30,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,IX35,5999.0,2014,1700cc,"105,154 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,8495.0,2019,998cc,"52,844 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,8995.0,2018,998cc,"36,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,IX35,3995.0,2010,1998cc,"102,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,161 bhp,114 mph,10.4 seconds,177 g/km
+hyundai,Tucson,21690.0,2020,1598cc,"24,873 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,146 g/km
+hyundai,i10,2495.0,2009,1248cc,"64,971 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,i30,22490.0,2020,1998cc,"27,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,178 g/km
+hyundai,Tucson,28450.0,2023,1598cc,"9,960 miles",Petrol,Manual,Black Metallic,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,i10,11699.0,2020,998cc,"18,830 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,22995.0,2020,1598cc,"19,298 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,IX35,5990.0,2014,1685cc,"97,120 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i10,9499.0,2018,998cc,"18,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i20,3995.0,2011,1396cc,"71,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,74 bhp,101 mph,16.0 seconds,110 g/km
+hyundai,i20,5295.0,2014,1248cc,"77,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,i10,8000.0,2016,1248cc,"36,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,IX20,8950.0,2017,1396cc,"29,000 miles",Petrol,Manual,Silver,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.8 seconds,130 g/km
+hyundai,i10,15995.0,2021,998cc,"9,200 miles",Petrol,Automatic,Turquoise,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,126 g/km
+hyundai,i40,6495.0,2016,1685cc,"103,000 miles",Diesel,Manual,Silver,Saloon,4X2,4.0,5.0,139 bhp,126 mph,10.3 seconds,114 g/km
+hyundai,Tucson,11690.0,2016,1995cc,"92,795 miles",Diesel,Automatic,Beige,Estate,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,156 g/km
+hyundai,Tucson,19990.0,2019,1591cc,"17,822 miles",Petrol,Automatic,Red,Other,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,i10,13390.0,2020,998cc,"9,998 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i20,14490.0,2021,998cc,"9,898 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i20,6485.0,2016,1396cc,"78,888 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.1 seconds,106 g/km
+hyundai,Tucson,25995.0,2022,1598cc,"29,340 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,148 bhp,117 mph,,148 g/km
+hyundai,Tucson,11150.0,2017,1591cc,"77,279 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i10,4995.0,2011,1248cc,"20,024 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i30,3750.0,2009,1396cc,"34,600 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.7 seconds,145 g/km
+hyundai,Tucson,9995.0,2015,1685cc,"88,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Kona,28590.0,2023,1580cc,"6,841 miles",Other,Automatic,Altas White,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Tucson,12950.0,2017,1591cc,"41,434 miles",Petrol,Manual,Bronze,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i10,10995.0,2020,998cc,"23,296 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,IONIQ,15299.0,2021,1580cc,"38,836 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Santa Fe,20250.0,2019,2199cc,"79,000 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,7.0,197 bhp,127 mph,9.3 seconds,153 g/km
+hyundai,Kona,17481.0,2021,"11,423 miles",Petrol,Manual,White,SUV,47.1 mpg,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,i30,8995.0,2015,1582cc,"29,983 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,Tucson,12750.0,2019,1591cc,"41,497 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,161 g/km
+hyundai,Tucson,8900.0,2018,1598cc,"114,759 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,Kona,16995.0,2020,1580cc,"24,000 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,,90 g/km
+hyundai,Tucson,12589.0,2019,1.6L,"51,833 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,32482.0,2023,1.6L,"8,071 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i40,6995.0,2015,1.685L,"112,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,139 bhp,126 mph,10.3 seconds,123 g/km
+hyundai,i40,5390.0,2015,1685cc,"108,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,118 mph,12.6 seconds,110 g/km
+hyundai,Tucson,14495.0,2018,1685cc,"62,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,IONIQ,14549.0,2018,1580cc,"28,494 miles",Hybrid,,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,IONIQ,18199.0,2019,1580cc,"28,121 miles",Hybrid,,Orange,Hatchback,4X2,5.0,5.0,139 bhp,110 mph,10.8 seconds,26 g/km
+hyundai,i20,11399.0,2019,1248cc,"22,656 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,118 g/km
+hyundai,i20,8049.0,2017,1248cc,"45,514 miles",Petrol,,White,Coupe,4X2,3.0,5.0,82 bhp,106 mph,12.8 seconds,119 g/km
+hyundai,Tucson,30626.0,2022,1.6L,"7,375 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,13995.0,2019,1248cc,"13,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,i20,13499.0,2020,998cc,"17,717 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,115 g/km
+hyundai,Tucson,17295.0,2017,1685cc,"31,746 miles",Diesel,Automatic,Beige,Estate,4X2,5.0,5.0,139 bhp,115 mph,,129 g/km
+hyundai,i20,22995.0,2023,998cc,"1,504 miles",Petrol,Manual,Intense Blue + Black Roof,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,
+hyundai,IONIQ,17495.0,2020,1.6L,"34,920 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i10,11590.0,2020,1L,"11,658 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,104 g/km
+hyundai,i30,18690.0,2021,1.5L,"13,902 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,138 g/km
+hyundai,Tucson,30950.0,2022,1.6L,"7,267 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,24745.0,2021,1.6L,"9,047 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,Kona,16845.0,2022,1L,"10,438 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,IONIQ,15291.0,2021,1.6L,"43,599 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,12300.0,2018,1591cc,"45,268 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,13500.0,2019,1591cc,"29,352 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,IONIQ,13900.0,2020,1580cc,"45,868 miles",Petrol Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,14700.0,2019,1.6L,"30,348 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,i10,10845.0,2019,1.2L,"42,938 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Bayon,17997.0,2022,1L,"3,781 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,118 bhp,118 mph,,120 g/km
+hyundai,Tucson,18699.0,2019,1.6L,"54,760 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,175 bhp,125 mph,,160 g/km
+hyundai,Tucson,15499.0,2016,1995cc,"34,000 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,182 bhp,125 mph,9.5 seconds,170 g/km
+hyundai,i10,8490.0,2016,1248cc,"32,474 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,i30,19995.0,2017,1998cc,"49,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,163 g/km
+hyundai,Santa Fe,10799.0,2014,2199cc,"78,781 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,IX35,7703.0,2013,1685cc,"56,800 miles",Diesel,Manual,BLACK,Other,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i20,13049.0,2019,1248cc,"9,759 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,16299.0,2018,1591cc,"32,564 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,161 g/km
+hyundai,i20,13349.0,2020,1248cc,"17,836 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,139 g/km
+hyundai,i20,13099.0,2017,1368cc,"22,196 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,98 bhp,106 mph,13.2 seconds,148 g/km
+hyundai,Tucson,17295.0,2021,1.6L,"26,971 miles",Diesel,Manual,Phantom Black Metallic,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,IONIQ,15341.0,2018,1.6L,"28,200 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Kona,21490.0,2021,1.6L,"20,251 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,100 mph,,113 g/km
+hyundai,Tucson,12971.0,2020,1.6L,"41,428 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Kona,17999.0,2020,1.6L,"4,122 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Kona,18999.0,2020,1.6L,"11,310 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,i20,13550.0,2020,1L,"12,087 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,134 g/km
+hyundai,Kona,12490.0,2019,1L,"43,585 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,i20,15990.0,2021,1L,"17,099 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,118 g/km
+hyundai,i20,8970.0,2016,1.2L,"21,103 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,111 g/km
+hyundai,Santa Fe,41999.0,2023,1598cc,"2,058 miles",Petrol/Electric Hybrid,Automatic,Typhoon Silver,Estate,4X2,5.0,7.0,227 bhp,116 mph,,152 g/km
+hyundai,Tucson,15956.0,2020,1591cc,"24,567 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,6302.0,2014,998cc,"26,602 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Kona,29995.0,2023,1580cc,302 miles,Petrol/Electric Hybrid,Automatic,Atlas White,Hatchback,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,Santa Fe,39999.0,2023,1600cc,"8,600 miles",Petrol/Electric Hybrid,Automatic,Abyss Black,Estate,4X2,5.0,7.0,227 bhp,116 mph,,152 g/km
+hyundai,Tucson,36995.0,2023,1598cc,"2,536 miles",Petrol/Electric Hybrid,Automatic,Teal,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i20,10990.0,2017,1368cc,"32,568 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,99 bhp,106 mph,13.2 seconds,143 g/km
+hyundai,Tucson,29860.0,2021,1.6L,"23,900 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i30,32995.0,2023,2L,"4,250 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,Tucson,13491.0,2019,1.6L,"41,407 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i10,5195.0,2014,998cc,Petrol,Manual,White,Hatchback,60.1 mpg,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,2990.0,2010,1248cc,"66,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,Santa Fe,50590.0,2023,1598cc,100 miles,Petrol,Automatic,GREY,Estate,4X4,5.0,7.0,227 bhp,116 mph,,168 g/km
+hyundai,i10,4995.0,2015,998cc,"54,806 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Tucson,11999.0,2018,1591cc,"20,800 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,13850.0,2020,1591cc,"13,280 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,7499.0,2013,1.2L,"26,747 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,84 bhp,99 mph,13.8 seconds,129 g/km
+hyundai,Tucson,11795.0,2017,1.7L,"56,000 miles",Diesel,Manual,Bronze,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i800,22999.0,2019,2.5L,"13,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,222 g/km
+hyundai,i20,5990.0,2015,1.2L,"96,810 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,119 g/km
+hyundai,IONIQ,15995.0,2021,1.6L,"47,500 miles",Other,Semi Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Tucson,18128.0,2019,1.6L,"36,092 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,Tucson,27531.0,2021,1.6L,"35,542 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,Tucson,20390.0,2019,1.6L,"25,962 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,175 bhp,126 mph,,173 g/km
+hyundai,Kona,23000.0,2022,1.6L,"9,599 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,139 bhp,100 mph,,115 g/km
+hyundai,Tucson,10625.0,2018,1.6L,"71,387 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i30,17495.0,2019,1.4L,"18,310 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.9 seconds,133 g/km
+hyundai,Tucson,15091.0,2019,1.6L,"23,339 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i10,12144.0,2021,1L,"15,544 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,21527.0,2020,1.6L,"18,538 miles",Diesel,Semiauto,Red,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,115 g/km
+hyundai,Kona,13357.0,2018,1L,"26,221 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,IONIQ,15213.0,2020,1.6L,"34,723 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,85 g/km
+hyundai,Tucson,12231.0,2018,1.6L,"40,246 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Kona,23513.0,2022,1.6L,"2,554 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,i10,8757.0,2019,1L,"33,720 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,30999.0,2023,1.6L,6 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,IONIQ,17002.0,2019,1.6L,"34,563 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,85 g/km
+hyundai,i30,35995.0,2023,2L,8 miles,Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,IONIQ,13600.0,2021,1580cc,"47,153 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Bayon,19400.0,2023,998cc,"8,208 miles",Petrol Hybrid,Automatic,Turquoise,SUV,4X2,5.0,5.0,118 bhp,118 mph,,120 g/km
+hyundai,Tucson,11500.0,2020,1591cc,"67,986 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,11000.0,2019,1591cc,"46,458 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Kona,16200.0,2019,1591cc,"20,152 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,174 bhp,127 mph,7.9 seconds,158 g/km
+hyundai,Tucson,12500.0,2019,1591cc,"78,943 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,152 g/km
+hyundai,i10,14371.0,2021,1L,"11,516 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,
+hyundai,Tucson,11310.0,2018,1.6L,"70,249 miles",Petrol,Manual,White,SUV,,,,,,,
+hyundai,Tucson,14342.0,2018,1.6L,"19,729 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i800,21219.0,2019,2.5L,"37,060 miles",Diesel,Manual,Black,MPV,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,222 g/km
+hyundai,Tucson,13401.0,2018,1.6L,"33,373 miles",Petrol,Manual,Beige,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Santa Fe,36390.0,2021,1.6L,"16,462 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,7.0,227 bhp,116 mph,,152 g/km
+hyundai,Kona,17919.0,2020,1.6L,"23,923 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i30,22895.0,2019,2L,"34,554 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,178 g/km
+hyundai,i10,16710.0,2022,1.2L,"2,479 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,
+hyundai,i10,17250.0,2023,1197cc,"1,899 miles",Petrol,Automatic,Phantom Black,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,130 g/km
+hyundai,IONIQ,13600.0,2021,1580cc,"46,796 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i30,12500.0,2019,1582cc,"29,104 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,118 mph,11.0 seconds,107 g/km
+hyundai,i20,8700.0,2015,1248cc,"17,251 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,82 bhp,106 mph,12.8 seconds,119 g/km
+hyundai,IONIQ,16000.0,2020,1580cc,"46,241 miles",Petrol/Electric Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,105 g/km
+hyundai,IONIQ 6,36992.0,2023,"4,000 miles",Electric,Automatic,Silver,Saloon,1.2 mpg,4X2,4.0,5.0,225 bhp,115 mph,,0 g/km
+hyundai,i30,11298.0,2019,1.4L,"65,555 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.9 seconds,132 g/km
+hyundai,Kona,27990.0,2022,2L,"16,735 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,276 bhp,149 mph,,194 g/km
+hyundai,i20,23490.0,2022,1598cc,"9,000 miles",Petrol,Manual,Performance Blue,Hatchback,4X2,5.0,5.0,201 bhp,142 mph,,158 g/km
+hyundai,Santa Fe,7500.0,2012,2199cc,"47,811 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,176 g/km
+hyundai,i10,4450.0,2013,1248cc,"39,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i20,7995.0,2017,1248cc,"35,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,99 mph,13.6 seconds,119 g/km
+hyundai,i10,2750.0,2013,1200cc,"84,712 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i20,9449.0,2018,998cc,"42,423 miles",Petrol,,Black,Hatchback,4X2,3.0,5.0,99 bhp,116 mph,,107 g/km
+hyundai,Tucson,17199.0,2019,1598cc,"55,130 miles",Diesel,,Black,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,125 g/km
+hyundai,i10,6990.0,2018,1248cc,"48,545 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,IX35,7750.0,2015,1600cc,"64,503 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,133 bhp,111 mph,11.1 seconds,149 g/km
+hyundai,Tucson,11995.0,2016,1995cc,"77,779 miles",Diesel,Manual,Beige,Estate,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,Tucson,23899.0,2023,1598cc,"4,258 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,Tucson,16495.0,2018,1685cc,"35,168 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Tucson,22995.0,2021,1598cc,"26,969 miles",Other,Automatic,White,Estate,4X2,5.0,5.0,148 bhp,117 mph,,146 g/km
+hyundai,i40,5995.0,2014,1685cc,"82,092 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,118 mph,12.9 seconds,113 g/km
+hyundai,Santa Fe,20995.0,2019,2199cc,"83,871 miles",Diesel,Automatic,Silver,SUV,,,,,,,
+hyundai,Tucson,11495.0,2017,1685cc,"75,002 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i20,14988.0,2021,998cc,"29,096 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,i40,9450.0,2016,1700cc,"82,586 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,139 bhp,126 mph,10.8 seconds,123 g/km
+hyundai,Tucson,14495.0,2019,1598cc,"33,357 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,Santa Fe,12995.0,2016,2199cc,"68,737 miles",Diesel,Manual,Silver,Estate,4X4,5.0,5.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,Tucson,13995.0,2017,1685cc,"75,729 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Santa Fe,15950.0,2016,2199cc,"56,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,IX20,7995.0,2016,1396cc,"38,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.8 seconds,130 g/km
+hyundai,Tucson,9995.0,2016,1685cc,"63,695 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,8645.0,2017,1248cc,"25,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.1 seconds,114 g/km
+hyundai,i10,6495.0,2009,1248cc,"23,000 miles",Petrol,Automatic,Blue Metallix,Hatchback,4X2,5.0,5.0,76 bhp,97 mph,14.4 seconds,139 g/km
+hyundai,Coupe,2495.0,2006,1975cc,"103,000 miles",Petrol,Automatic,Electric Blue,Coupe,4X2,3.0,5.0,141 bhp,124 mph,10.6 seconds,203 g/km
+hyundai,i30,2290.0,2011,1582cc,"108,659 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.5 seconds,119 g/km
+hyundai,Tucson,12299.0,2019,1591cc,"57,700 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Santa Fe,7995.0,2008,2188cc,"136,000 miles",Diesel,Automatic,Burgundy,SUV,,,,,,,
+hyundai,i30,10848.0,2015,1591cc,"20,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,11.9 seconds,158 g/km
+hyundai,i20,8148.0,2017,1248cc,"40,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i30,18990.0,2017,1998cc,"55,200 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,163 g/km
+hyundai,Santa Fe,9995.0,2015,2199cc,"118,450 miles",Diesel,Manual,Black,SUV,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,i10,3495.0,2008,1248cc,"32,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,i30,8695.0,2015,1582cc,"45,005 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,Tucson,29825.0,2021,1598cc,"24,042 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,15495.0,2017,1685cc,"56,677 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,IX35,8750.0,2015,1591cc,"69,582 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,133 bhp,111 mph,11.1 seconds,149 g/km
+hyundai,Tucson,11495.0,2015,1995cc,"67,128 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i10,6995.0,2017,998cc,"45,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i40,7990.0,2016,1685cc,"81,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,139 bhp,124 mph,10.5 seconds,114 g/km
+hyundai,i20,4595.0,2015,1396cc,"95,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,109 mph,12.1 seconds,106 g/km
+hyundai,Tucson,14995.0,2017,1685cc,"67,175 miles",Diesel,Automatic,Beige,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,Getz,1750.0,2006,1086cc,"78,110 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,65 bhp,93 mph,15.6 seconds,130 g/km
+hyundai,i10,7194.0,2016,1248cc,"43,879 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,i30,10662.0,2016,1591cc,"30,318 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,11.9 seconds,158 g/km
+hyundai,i10,5995.0,2014,998cc,"52,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i20,6790.0,2015,1248cc,"61,000 miles",Petrol,Manual,White,Coupe,4X2,3.0,5.0,82 bhp,106 mph,12.8 seconds,119 g/km
+hyundai,i20,17950.0,2023,998cc,"2,600 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,99 bhp,115 mph,,117 g/km
+hyundai,i30,18495.0,2018,1998cc,"52,222 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,163 g/km
+hyundai,IX20,5995.0,2015,1400cc,"62,159 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,i20,4000.0,2010,1248cc,"28,175 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,12.9 seconds,124 g/km
+hyundai,i40,9395.0,2016,1685cc,"69,977 miles",Diesel,Manual,RED,Estate,4X2,5.0,5.0,139 bhp,126 mph,10.3 seconds,123 g/km
+hyundai,Kona,17490.0,2021,1L,"9,045 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,112 mph,,137 g/km
+hyundai,Tucson,11650.0,2018,1.6L,"53,814 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Tucson,16298.0,2021,1.6L,"12,695 miles",Hybrid,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,Kona,16990.0,2021,1L,"7,611 miles",Hybrid,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Tucson,18990.0,2019,1.6L,"19,960 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,Tucson,12998.0,2020,1.6L,"35,784 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i30,9298.0,2017,1L,"48,840 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,112 g/km
+hyundai,IX20,7598.0,2015,1.6L,"62,500 miles",Petrol,Automatic,Blue,MPV,4X2,5.0,5.0,123 bhp,114 mph,12.2 seconds,154 g/km
+hyundai,Tucson,12998.0,2020,1.6L,"46,931 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,Kona,12298.0,2018,1L,"28,486 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i800,20995.0,2019,2.5L,"31,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,222 g/km
+hyundai,IONIQ,16110.0,2020,1.6L,"31,396 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,Kona,16999.0,2020,1.6L,"20,450 miles",Hybrid,Automatic,Orange,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,i20,8990.0,2018,1.2L,"43,718 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i10,12083.0,2021,1.2L,"5,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,119 g/km
+hyundai,Tucson,11246.0,2017,1.6L,"51,061 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,i20,12107.0,2021,1L,"39,159 miles",Hybrid,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,i30,19995.0,2020,2L,"48,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,178 g/km
+hyundai,Tucson,19070.0,2019,1.6L,"32,568 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,113 g/km
+hyundai,Tucson,16327.0,2017,2L,"53,169 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,134 bhp,114 mph,12.0 seconds,156 g/km
+hyundai,IONIQ,15699.0,2020,1.6L,"25,387 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,
+hyundai,Tucson,34470.0,2023,1.6L,372 miles,Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,9990.0,2020,1L,"44,920 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i10,5500.0,2015,1248cc,"70,714 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,87 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Santa Fe,41495.0,2023,1600cc,"4,125 miles",Petrol/Electric Hybrid,Automatic,Abyss Black,Estate,4X4,5.0,7.0,227 bhp,116 mph,,168 g/km
+hyundai,IX35,9495.0,2015,179cc,"62,693 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,179 g/km
+hyundai,i10,9495.0,2019,998cc,"15,118 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,28850.0,2022,1598cc,"18,981 miles",Petrol Plug-In Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,262 bhp,118 mph,,31 g/km
+hyundai,i20,2995.0,2013,1396cc,"101,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,108 mph,13.5 seconds,96 g/km
+hyundai,i10,4490.0,2012,1248cc,"27,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,IONIQ,14495.0,2017,1580cc,"9,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,79 g/km
+hyundai,IX20,13250.0,2018,1591cc,"10,000 miles",Petrol,Automatic,BLUE,MPV,4X2,5.0,5.0,122 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,i10,7450.0,2014,998cc,"10,815 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i30,29402.0,2021,2L,"13,502 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,Tucson,11406.0,2019,1.6L,"38,879 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Kona,17495.0,2021,1L,"10,679 miles",Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,i20,13360.0,2021,1L,"29,611 miles",Hybrid,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,115 g/km
+hyundai,Kona,14750.0,2020,1L,"19,601 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,31995.0,2023,1.6L,10 miles,Petrol,Manual,Other,SUV,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,i30,18404.0,2020,1.4L,"18,937 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,138 bhp,126 mph,9.5 seconds,124 g/km
+hyundai,Tucson,16999.0,2019,1.6L,"23,782 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,114 g/km
+hyundai,i10,11559.0,2020,1L,"29,608 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,i10,16028.0,2023,1L,"4,332 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,125 g/km
+hyundai,Tucson,12181.0,2017,1.7L,"45,451 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i800,24991.0,2019,2.5L,"7,334 miles",Diesel,Manual,Silver,MPV,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,222 g/km
+hyundai,i20,18308.0,2023,1L,"5,290 miles",Hybrid,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,119 g/km
+hyundai,i20,19505.0,2023,1L,"4,182 miles",Hybrid,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,,120 g/km
+hyundai,IONIQ,15608.0,2021,1.6L,"44,724 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i20,13280.0,2020,1L,"14,548 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,134 g/km
+hyundai,i30,22943.0,2019,2L,"34,290 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,178 g/km
+hyundai,i10,5795.0,2014,1.2L,"43,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,Tucson,15199.0,2019,1.6L,"21,252 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,130 g/km
+hyundai,i10,6100.0,2017,1L,"68,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,IONIQ,17695.0,2020,1.6L,"44,500 miles",Other,Semi Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,110 mph,10.6 seconds,26 g/km
+hyundai,IONIQ,13400.0,2020,1580cc,"49,397 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,102 g/km
+hyundai,i10,7700.0,2018,998cc,"33,347 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i20,6699.0,2015,1.2L,"54,867 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,119 g/km
+hyundai,i10,13225.0,0L,"21,993 miles",Petrol,Manual,WHITE,Hatchback,52.3 mpg,4X2,5.0,5.0,99 bhp,115 mph,,123 g/km
+hyundai,i10,11499.0,2017,1248cc,"12,881 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,139 g/km
+hyundai,Kona,27350.0,2023,1580cc,"5,750 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,139 bhp,100 mph,,106 g/km
+hyundai,IONIQ,15477.0,2020,1.6L,"22,551 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,103 g/km
+hyundai,i10,11526.0,2018,1.2L,"23,833 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,Tucson,11990.0,2018,1591cc,"24,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,i30,20490.0,2018,1998cc,"47,000 miles",Petrol,Manual,Performance Blue,Hatchback,4X2,5.0,5.0,272 bhp,155 mph,6.1 seconds,163 g/km
+hyundai,Tucson,3295.0,2008,1991cc,"88,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,147 bhp,110 mph,12.0 seconds,187 g/km
+hyundai,Tucson,22490.0,2019,1995cc,"30,260 miles",Hybrid,Automatic,Red,Other,4X4,5.0,5.0,183 bhp,125 mph,9.5 seconds,147 g/km
+hyundai,Kona,19150.0,2020,1580cc,"23,212 miles",Hybrid,Automatic,Black,Other,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,Tucson,22150.0,2021,1598cc,"19,602 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,Kona,12550.0,2020,998cc,"34,098 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,145 g/km
+hyundai,Tucson,12300.0,2000,1591cc,"60,016 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,IX20,5300.0,2013,1396cc,"46,000 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,i10,9500.0,2019,998cc,"17,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,9500.0,2019,998cc,"15,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i30,8599.0,2015,1582cc,"32,796 miles",Diesel,Manual,VIVID BLUE METALLIC,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,Santa Fe,11975.0,2014,2199cc,"81,499 miles",Diesel,Manual,Red,Estate,4X4,5.0,7.0,194 bhp,118 mph,9.8 seconds,159 g/km
+hyundai,Santa Fe,14950.0,2017,2199cc,"79,064 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,IONIQ,12750.0,2019,1580cc,"54,000 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,30495.0,2023,1598cc,"8,873 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,227 bhp,120 mph,,130 g/km
+hyundai,Tucson,30995.0,2023,1598cc,"13,939 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Santa Fe,14450.0,2016,2199cc,"64,850 miles",Diesel,Manual,Silver,SUV,4X4,5.0,7.0,197 bhp,126 mph,9.0 seconds,159 g/km
+hyundai,IX35,6495.0,2014,1685cc,"100,000 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,147 g/km
+hyundai,Tucson,12495.0,2018,1685cc,"84,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,12844.0,2021,998cc,"17,179 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,i10,3795.0,2012,1248cc,"55,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i20,3890.0,2012,1200cc,"79,000 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,i20,3115.0,2011,1396cc,"74,227 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,11.6 seconds,125 g/km
+hyundai,i10,3085.0,2011,1248cc,"73,794 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i20,7350.0,2015,1248cc,"52,444 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,111 g/km
+hyundai,Amica,1250.0,2006,1086cc,"70,108 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,62 bhp,91 mph,15.2 seconds,128 g/km
+hyundai,IONIQ,17549.0,2019,1580cc,"55,041 miles",Hybrid,,Silver,Hatchback,4X2,5.0,5.0,139 bhp,110 mph,10.8 seconds,26 g/km
+hyundai,i20,9499.0,2016,1368cc,"56,358 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,98 bhp,106 mph,13.2 seconds,148 g/km
+hyundai,Tucson,16049.0,2019,1591cc,"47,496 miles",Petrol,,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,10599.0,2018,1248cc,"23,569 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,139 g/km
+hyundai,i10,6598.0,2017,1L,"61,042 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,8598.0,2018,1.2L,"52,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i20,13398.0,2021,1L,"15,921 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,120 g/km
+hyundai,Tucson,12698.0,2018,1.6L,"31,373 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Tucson,17498.0,2019,1.6L,"18,175 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,152 g/km
+hyundai,Tucson,15900.0,2020,1.6L,"16,195 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Kona,29990.0,2023,2L,"1,000 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,276 bhp,149 mph,,194 g/km
+hyundai,Kona,18910.0,2020,1.6L,"8,435 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,139 bhp,115 mph,,122 g/km
+hyundai,Tucson,14360.0,2019,1.6L,"29,270 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,157 g/km
+hyundai,i10,15995.0,2023,1L,10 miles,Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,122 g/km
+hyundai,Tucson,36995.0,2023,1.6L,12 miles,Hybrid,Semiauto,Blue,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,18999.0,2019,1.6L,"17,369 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,175 bhp,126 mph,9.2 seconds,168 g/km
+hyundai,IONIQ,16190.0,2018,1.6L,"43,094 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,111 mph,10.6 seconds,26 g/km
+hyundai,Kona,11950.0,2019,1L,"37,447 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,Tucson,33180.0,2023,1.6L,"2,986 miles",Hybrid,Semiauto,Red,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,16470.0,2018,1.6L,"25,751 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,,162 g/km
+hyundai,Tucson,23495.0,2020,1.6L,"15,752 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,175 bhp,125 mph,8.9 seconds,151 g/km
+hyundai,IONIQ,17695.0,2019,1.6L,"8,908 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,85 g/km
+hyundai,Tucson,11250.0,2017,1.7L,"38,742 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Tucson,19999.0,2021,1591cc,"12,400 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,,185 g/km
+hyundai,Tucson,27999.0,2023,1598cc,10 miles,Petrol,Manual,Teal,Estate,4X2,5.0,5.0,148 bhp,117 mph,,154 g/km
+hyundai,Bayon,19490.0,2023,998cc,"1,069 miles",Petrol/MHEV,Automatic,Blue,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,120 g/km
+hyundai,Bayon,15990.0,2023,998cc,"4,409 miles",Petrol/MHEV,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,IX35,7450.0,2015,1995cc,"66,495 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,134 bhp,112 mph,11.3 seconds,145 g/km
+hyundai,Tucson,10900.0,2017,1995cc,"78,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,134 bhp,114 mph,10.9 seconds,139 g/km
+hyundai,i20,3995.0,2013,1248cc,"80,202 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,Tucson,10690.0,2018,1591cc,"65,923 miles",Petrol,Manual,Metallic Grey,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Santa Fe,7495.0,2015,2199cc,"123,000 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,7.0,194 bhp,118 mph,10.1 seconds,178 g/km
+hyundai,Tucson,21995.0,2022,1598cc,"11,000 miles",Petrol,Manual,RED,Estate,4X2,5.0,5.0,148 bhp,117 mph,,151 g/km
+hyundai,IX20,13995.0,2017,1591cc,"13,500 miles",Petrol,Automatic,BLACK,MPV,4X2,5.0,5.0,123 bhp,112 mph,11.5 seconds,150 g/km
+hyundai,IX35,9995.0,2014,1995cc,"27,622 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,134 bhp,113 mph,11.3 seconds,179 g/km
+hyundai,i20,12490.0,2019,998cc,"5,718 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,10.8 seconds,115 g/km
+hyundai,Tucson,13995.0,2016,1995cc,"55,200 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i10,2995.0,2010,1248cc,"59,355 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,76 bhp,102 mph,12.8 seconds,119 g/km
+hyundai,i20,14990.0,2021,998cc,"6,859 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,99 bhp,117 mph,,116 g/km
+hyundai,i20,12490.0,2018,1368cc,"11,995 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,99 bhp,106 mph,13.2 seconds,143 g/km
+hyundai,Tucson,19990.0,2020,1598cc,"20,756 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,i10,6699.0,2015,998cc,"30,040 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,7699.0,2018,998cc,"50,391 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,i10,5995.0,2014,998cc,"36,567 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,Kona,18485.0,2019,1591cc,"18,557 miles",Petrol,Automatic,YELLOW,Hatchback,4X4,5.0,5.0,174 bhp,127 mph,7.9 seconds,158 g/km
+hyundai,i20,8970.0,2016,1.2L,"40,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,115 g/km
+hyundai,Tucson,11000.0,2015,2L,"69,000 miles",Diesel,Manual,Beige,Estate,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i20,4880.0,2012,1248cc,"65,121 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,i10,12950.0,2021,1197cc,"8,606 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,,119 g/km
+hyundai,Kona,12300.0,2021,998cc,"42,994 miles",Petrol Hybrid,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,112 mph,,135 g/km
+hyundai,Tucson,11900.0,2020,1591cc,"64,458 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,15795.0,2017,1591cc,"46,425 miles",Petrol,Semi Auto,SILVER,Estate,4X2,5.0,5.0,174 bhp,125 mph,,165 g/km
+hyundai,Tucson,13495.0,2016,1995cc,"43,639 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i20,20352.0,2023,1.6L,"4,107 miles",Hybrid,Semiauto,Other,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,,120 g/km
+hyundai,Tucson,9975.0,2015,1.7L,"94,104 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i10,14995.0,2023,1L,895 miles,Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,120 g/km
+hyundai,Kona,18762.0,2023,1L,"2,470 miles",Hybrid,Manual,Other,SUV,4X2,5.0,5.0,118 bhp,112 mph,,130 g/km
+hyundai,IONIQ,14590.0,2018,1.6L,"40,855 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,IONIQ,15999.0,2019,1.6L,"27,736 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,i10,12499.0,2020,1L,"13,890 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i20,11999.0,2019,1.2L,"27,886 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,127 g/km
+hyundai,Tucson,11978.0,2018,1.6L,"50,458 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,162 g/km
+hyundai,Kona,10615.0,2018,1L,"50,240 miles",Petrol,Manual,Yellow,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,125 g/km
+hyundai,Kona,11646.0,2018,1L,"50,394 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,127 g/km
+hyundai,i10,12381.0,2022,1L,"14,815 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,i30,19000.0,2023,1L,"1,460 miles",Hybrid,Semiauto,Other,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,,118 g/km
+hyundai,i30,12490.0,2018,1.4L,"38,813 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,130 mph,8.9 seconds,133 g/km
+hyundai,Bayon,16920.0,2023,1L,996 miles,Hybrid,Manual,Other,SUV,4X2,5.0,5.0,99 bhp,113 mph,,119 g/km
+hyundai,Tucson,15650.0,2020,1.6L,"17,326 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,19900.0,2020,1.6L,"12,075 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,141 g/km
+hyundai,Tucson,12557.0,2017,1.7L,"44,436 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Kona,27290.0,2021,2L,"8,659 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,276 bhp,149 mph,,194 g/km
+hyundai,Tucson,20650.0,2020,1.6L,"32,969 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.2 seconds,146 g/km
+hyundai,Tucson,11995.0,2017,1995cc,"75,000 miles",Diesel,Automatic,Gold,SUV,4X4,5.0,5.0,182 bhp,125 mph,9.5 seconds,170 g/km
+hyundai,i40,4795.0,2012,1685cc,"89,900 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,124 mph,10.6 seconds,119 g/km
+hyundai,i30,4990.0,2011,1396cc,"45,583 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,107 bhp,116 mph,11.6 seconds,142 g/km
+hyundai,Tucson,10895.0,2015,1591cc,"51,122 miles",Petrol,Manual,BEIGE,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,Kona,19950.0,2020,1580cc,"15,995 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,139 bhp,115 mph,,123 g/km
+hyundai,Kona,17300.0,2021,1580cc,"24,330 miles",Petrol Hybrid,Automatic,White,SUV,4X2,5.0,5.0,139 bhp,100 mph,,114 g/km
+hyundai,i800,14000.0,2018,2497cc,"59,854 miles",Diesel,Manual,Black,Estate,4X2,5.0,8.0,134 bhp,104 mph,17.6 seconds,197 g/km
+hyundai,Santa Fe,25999.0,2019,2.2L,"32,000 miles",Diesel,Semiauto,White,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,165 g/km
+hyundai,i20,11200.0,2020,1248cc,"29,793 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,134 g/km
+hyundai,i10,12400.0,2000,1000cc,"4,347 miles",Petrol,Manual,Aurora Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,15690.0,2020,1591cc,"20,932 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i10,6795.0,2015,1248cc,"49,800 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Tucson,13995.0,2020,1591cc,"29,332 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,i20,7655.0,2017,1248cc,"60,219 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.1 seconds,115 g/km
+hyundai,i10,4490.0,2014,998cc,"100,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,3999.0,2012,1248cc,"59,773 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,IX35,5995.0,2013,1685cc,"98,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i30,5995.0,2012,1582cc,"76,460 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,12.3 seconds,145 g/km
+hyundai,Tucson,10495.0,2015,1685cc,"56,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,111 g/km
+hyundai,i30,6495.0,2013,1396cc,"54,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,13.2 seconds,143 g/km
+hyundai,Tucson,13995.0,2019,1591cc,"36,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,,162 g/km
+hyundai,IX20,5695.0,2012,1396cc,"41,404 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,140 g/km
+hyundai,Tucson,37995.0,2023,1598cc,10 miles,Other,Automatic,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i10,2595.0,2009,1086cc,"84,719 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,64 bhp,94 mph,15.6 seconds,119 g/km
+hyundai,i10,6595.0,2019,998cc,"61,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,14.7 seconds,117 g/km
+hyundai,Tucson,11495.0,2016,1685cc,"49,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i20,8990.0,2017,1248cc,"32,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,i30,7000.0,2013,1582cc,"33,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,115 mph,11.5 seconds,97 g/km
+hyundai,IX20,3990.0,2011,1396cc,"84,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,130 g/km
+hyundai,IX20,3990.0,2011,1396cc,"84,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,104 mph,12.9 seconds,130 g/km
+hyundai,i10,6495.0,2014,1248cc,"66,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,i10,7499.0,2017,998cc,"34,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,i20,4995.0,2013,1248cc,"50,052 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,IONIQ,13950.0,2019,1580cc,"30,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,10690.0,2016,1995cc,"68,124 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,134 bhp,116 mph,10.6 seconds,127 g/km
+hyundai,i10,5350.0,2014,998cc,"64,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i30,3995.0,2011,1582cc,"56,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,117 mph,11.5 seconds,119 g/km
+hyundai,Tucson,9350.0,2016,1685cc,"105,162 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,Getz,1880.0,2006,1086cc,"57,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,65 bhp,93 mph,15.6 seconds,130 g/km
+hyundai,i10,2995.0,2013,1248cc,"91,439 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i10,3490.0,2012,1248cc,"59,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,84 bhp,105 mph,12.2 seconds,108 g/km
+hyundai,i30,9700.0,2018,998cc,"38,652 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,11.1 seconds,115 g/km
+hyundai,Tucson,33490.0,2023,1.6L,"7,749 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,20190.0,2020,1.6L,"11,480 miles",Hybrid,Manual,Black,SUV,4X2,5.0,5.0,134 bhp,112 mph,11.8 seconds,151 g/km
+hyundai,i10,7790.0,2018,1L,"46,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,66 bhp,96 mph,14.7 seconds,108 g/km
+hyundai,Santa Fe,31491.0,2020,2.2L,"20,235 miles",Diesel,Semiauto,Black,SUV,4X4,5.0,7.0,197 bhp,127 mph,9.4 seconds,161 g/km
+hyundai,Tucson,26699.0,2023,1598cc,"7,985 miles",Petrol,Manual,Engine Red,Estate,4X2,5.0,5.0,148 bhp,117 mph,,155 g/km
+hyundai,Tucson,18880.0,2018,1591cc,"30,177 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,175 bhp,125 mph,,161 g/km
+hyundai,i30,16990.0,2021,1482cc,"16,042 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,157 bhp,130 mph,,142 g/km
+hyundai,i20,16990.0,2022,998cc,"19,055 miles",Petrol,Automatic,White,Hatchback,,,,,,,
+hyundai,Tucson,32990.0,2023,1598cc,"3,122 miles",Other,Automatic,White,Other,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,21990.0,2021,1598cc,"32,802 miles",Petrol,Manual,Brown,Other,4X2,5.0,5.0,148 bhp,117 mph,,156 g/km
+hyundai,Tucson,35990.0,2023,1598cc,"3,155 miles",Other,Automatic,Grey,Other,4X4,5.0,5.0,262 bhp,119 mph,,31 g/km
+hyundai,Tucson,31490.0,2023,1598cc,"3,000 miles",Other,Automatic,White,Other,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Santa Fe,43490.0,2023,1598cc,"3,750 miles",Other,Automatic,Grey,Other,4X4,5.0,7.0,262 bhp,116 mph,,37 g/km
+hyundai,i10,5790.0,2015,998cc,"47,865 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,64 bhp,96 mph,14.9 seconds,108 g/km
+hyundai,i10,11485.0,2020,998cc,"12,270 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,66 bhp,97 mph,,119 g/km
+hyundai,Tucson,29785.0,2021,1598cc,"12,993 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Tucson,29185.0,2021,1598cc,"17,790 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,Santa Fe,19285.0,2017,2199cc,"11,550 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,5.0,197 bhp,126 mph,9.6 seconds,174 g/km
+hyundai,Tucson,28785.0,2022,1598cc,"22,608 miles",Petrol,Automatic,SILVER,Estate,4X2,5.0,5.0,227 bhp,120 mph,,131 g/km
+hyundai,i20,3500.0,2014,1248cc,"96,786 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,83 bhp,104 mph,12.7 seconds,114 g/km
+hyundai,IX20,4995.0,2011,1.39L,"71,437 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,88 bhp,104 mph,14.5 seconds,114 g/km
+hyundai,IONIQ,12649.0,2019,1.6L,"67,543 miles",Other,Semi Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,115 mph,10.8 seconds,84 g/km
+hyundai,Tucson,14700.0,2017,1.7L,"20,818 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,109 mph,,119 g/km
+hyundai,Tucson,17220.0,2017,1.7L,"33,897 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,139 bhp,115 mph,11.5 seconds,129 g/km
+hyundai,i10,12350.0,2017,1248cc,"15,360 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,139 g/km
+hyundai,i30,17298.0,2017,1.4L,"33,809 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,138 bhp,126 mph,9.2 seconds,125 g/km
+hyundai,i30,6480.0,2014,1582.0cc,"76,787 miles",Diesel,Automatic,Metallic - White Sands,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,12.3 seconds,145 g/km
+hyundai,Santa Fe,3770.0,2011,2199cc,"135,000 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,194 bhp,118 mph,10.2 seconds,194 g/km
+hyundai,Veloster,4800.0,2012,1591cc,"65,000 miles",Petrol,Manual,Silver,Hatchback,4X2,4.0,4.0,138 bhp,125 mph,9.7 seconds,148 g/km
+hyundai,Tucson,14995.0,2020,1598cc,"40,895 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,113 bhp,109 mph,11.8 seconds,135 g/km
+hyundai,IX35,3975.0,2011,1685cc,"137,291 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,Kona,12995.0,2020,1000cc,"30,025 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,126 g/km
+hyundai,Tucson,11685.0,2017,1591cc,"57,609 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,147 g/km
+hyundai,IX35,7395.0,2015,1685cc,"81,062 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.4 seconds,139 g/km
+hyundai,i30,6950.0,2015,1582cc,"83,089 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,10.6 seconds,94 g/km
+hyundai,i30,9895.0,2018,1582cc,"81,500 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,109 bhp,117 mph,11.3 seconds,99 g/km
+hyundai,i10,11995.0,2018,1248cc,"3,479 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,86 bhp,103 mph,13.8 seconds,141 g/km
+hyundai,i20,13990.0,2018,"17,122 miles",Petrol,Automatic,Red,Hatchback,49.6 mpg,4X2,5.0,5.0,99 bhp,113 mph,11.4 seconds,114 g/km
+hyundai,Kona,15995.0,2021,998cc,"18,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,,138 g/km
+hyundai,i40,8790.0,2016,1685cc,"77,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,139 bhp,126 mph,10.8 seconds,123 g/km
+hyundai,i30,27995.0,2021,1998cc,"18,325 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,276 bhp,155 mph,,191 g/km
+hyundai,IONIQ,12995.0,2017,1580cc,"27,871 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,,115 mph,10.8 seconds,79 g/km
+hyundai,i10,8965.0,2015,1248cc,"43,775 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,86 bhp,101 mph,13.8 seconds,142 g/km
+hyundai,Tucson,10100.0,2016,1685cc,"88,827 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,114 bhp,109 mph,13.7 seconds,119 g/km
+hyundai,i20,8350.0,2017,1248cc,"43,233 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,83 bhp,106 mph,12.8 seconds,112 g/km
+hyundai,Kona,11990.0,2019,1L,"27,835 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,112 mph,12.0 seconds,121 g/km
+hyundai,Tucson,14890.0,2019,1.6L,"19,912 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,15990.0,2020,1.6L,"12,608 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,183 g/km
+hyundai,Tucson,14400.0,2019,1.6L,"26,495 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,14300.0,2019,1.6L,"34,631 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,Tucson,14250.0,2019,1.6L,"32,825 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,130 bhp,113 mph,11.5 seconds,156 g/km
+hyundai,i10,8700.0,2017,1248cc,"10,800 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,86 bhp,109 mph,12.3 seconds,114 g/km
+hyundai,Santa Fe,9995.0,2015,2199cc,"110,092 miles",Diesel,Manual,BLACK,Estate,4X4,5.0,5.0,194 bhp,118 mph,9.8 seconds,159 g/km

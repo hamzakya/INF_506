@@ -1,0 +1,124 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+jeep,Compass,18499.0,2020,1368cc,"18,387 miles",Petrol,Automatic,RED,Estate,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,209 g/km
+jeep,Cherokee,10995.0,2015,2184cc,"87,492 miles",Diesel,Automatic,Bright White,Estate,4X4,5.0,5.0,197 bhp,127 mph,8.5 seconds,150 g/km
+jeep,Renegade,15899.0,2019,999cc,"18,832 miles",Petrol,,Black,SUV,4X2,5.0,5.0,118 bhp,115 mph,11.2 seconds,138 g/km
+jeep,Renegade,13849.0,2018,1332cc,"42,072 miles",Petrol,,Black,SUV,4X2,5.0,5.0,148 bhp,122 mph,9.4 seconds,144 g/km
+jeep,Wrangler,39999.0,2019,2L,"17,128 miles",Petrol,Automatic,Blue,SUV,,,,,,,
+jeep,Renegade,9489.0,2016,1.6L,"68,383 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Compass,12300.0,2019,1368cc,"37,411 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,155 g/km
+jeep,Compass,8000.0,2013,2143cc,"32,019 miles",Diesel,Manual,RED,Estate,4X4,5.0,5.0,161 bhp,125 mph,10.9 seconds,172 g/km
+jeep,Renegade,19700.0,2000,"19,002 miles",Petrol,Automatic,Blue,SUV,40.4 mpg,4X2,5.0,5.0,148 bhp,122 mph,,
+jeep,Renegade,8990.0,2015,1.6L,"76,700 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,120 g/km
+jeep,Renegade,17749.0,2019,1.3L,"14,011 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,148 bhp,122 mph,9.4 seconds,144 g/km
+jeep,Grand Cherokee,2495.0,2006,2987cc,"113,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,216 bhp,124 mph,9.7 seconds,270 g/km
+jeep,Compass,13500.0,2019,1368cc,"48,263 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,155 g/km
+jeep,Renegade,7599.0,2016,1598cc,"90,500 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Wrangler,29989.0,2017,3604cc,"48,930 miles",Petrol,Automatic,WHITE,Convertible,4X4,4.0,5.0,280 bhp,112 mph,8.9 seconds,273 g/km
+jeep,Renegade,11995.0,2016,1368cc,"31,700 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Renegade,11995.0,2016,1368cc,"40,100 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Grand Cherokee,78000.0,2023,2L,"1,600 miles",Hybrid,Automatic,Other,SUV,4X4,5.0,5.0,375 bhp,130 mph,,59 g/km
+jeep,Compass,15499.0,2020,2L,"27,363 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,138 bhp,118 mph,10.1 seconds,181 g/km
+jeep,Renegade,16495.0,2020,1300cc,"41,768 miles",Petrol,Automatic,STING GREY,SUV,4X2,5.0,5.0,148 bhp,122 mph,,162 g/km
+jeep,Grand Cherokee,29995.0,2000,6417cc,"35,000 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,461 bhp,160 mph,5.0 seconds,315 g/km
+jeep,Renegade,19685.0,2021,1332cc,"18,111 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,148 bhp,122 mph,,156 g/km
+jeep,Renegade,16995.0,2019,1.6L,"36,321 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,118 bhp,110 mph,10.2 seconds,129 g/km
+jeep,Compass,14500.0,2020,1.4L,"15,207 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,173 g/km
+jeep,Grand Cherokee,17950.0,2018,2987cc,"111,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,247 bhp,126 mph,,184 g/km
+jeep,Renegade,13598.0,2019,1598cc,"49,501 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,110 mph,10.2 seconds,129 g/km
+jeep,Renegade,16382.0,2020,1.3L,"39,998 miles",Petrol,Automatic,Other,SUV,4X2,5.0,5.0,148 bhp,122 mph,,139 g/km
+jeep,Renegade,13999.0,2020,1.6L,"14,500 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,118 bhp,110 mph,10.2 seconds,148 g/km
+jeep,Renegade,14285.0,0L,"25,818 miles",Petrol,Manual,RED,SUV,46.3 mpg,4X2,5.0,5.0,118 bhp,115 mph,11.2 seconds,130 g/km
+jeep,Renegade,9895.0,2015,1368cc,"39,272 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Compass,20949.0,2021,1368cc,"7,590 miles",Petrol,,White,SUV,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,209 g/km
+jeep,Compass,23000.0,2021,1.4L,"10,151 miles",Petrol,Automatic,Colorado Red/Brilliant Black,4x4,4X4,5.0,5.0,168 bhp,127 mph,,210 g/km
+jeep,Renegade,18995.0,2021,1L,"15,224 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,115 mph,,151 g/km
+jeep,Compass,18000.0,2019,1.4L,"10,013 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,155 g/km
+jeep,Compass,18395.0,2019,1.4L,"13,190 miles",Petrol,Automatic,Other,SUV,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,190 g/km
+jeep,Renegade,17729.0,2019,1.3L,"10,154 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,148 bhp,122 mph,9.4 seconds,144 g/km
+jeep,Wrangler,62495.0,2023,2L,200 miles,Petrol,Automatic,Orange,SUV,4X4,4.0,5.0,268 bhp,99 mph,,268 g/km
+jeep,Wrangler,22995.0,2015,3604cc,"27,500 miles",Petrol,Automatic,Orange,Estate,4X4,2.0,5.0,281 bhp,112 mph,8.1 seconds,0 g/km
+jeep,Grand Cherokee,10999.0,2013,2987cc,"103,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,239 bhp,126 mph,8.2 seconds,218 g/km
+jeep,Grand Cherokee,16995.0,2016,3000cc,"73,575 miles",Diesel,Automatic,White,Other,4X4,5.0,5.0,247 bhp,126 mph,8.2 seconds,184 g/km
+jeep,Compass,12996.0,2019,1.4L,"40,273 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,155 g/km
+jeep,Compass,16990.0,2020,1368cc,"28,000 miles",Petrol,Manual,Colorado Red/Black Roof,Estate,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Wrangler,47950.0,2021,1995cc,"11,405 miles",Petrol,Automatic,ORANGE,Convertible,4X4,4.0,5.0,268 bhp,99 mph,,270 g/km
+jeep,Renegade,8995.0,2016,1368cc,"62,563 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Grand Cherokee,19000.0,2016,2987cc,"64,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,247 bhp,126 mph,8.2 seconds,198 g/km
+jeep,Renegade,8000.0,2016,1368cc,"54,175 miles",Petrol,Manual,YELLOW,Estate,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Renegade,11649.0,2018,1368cc,"35,247 miles",Petrol,,Red,SUV,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Renegade,8950.0,2016,1368cc,"66,155 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Renegade,7990.0,2016,1598cc,"72,934 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.8 seconds,141 g/km
+jeep,Grand Cherokee,17450.0,2015,2987cc,"63,264 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,247 bhp,126 mph,8.2 seconds,198 g/km
+jeep,Wrangler,34995.0,2015,2776cc,"44,000 miles",Diesel,Automatic,White,SUV,4X4,4.0,5.0,198 bhp,107 mph,13.5 seconds,217 g/km
+jeep,Compass,15650.0,2020,1368cc,"23,727 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Renegade,18225.0,2021,1.3L,"7,323 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,148 bhp,122 mph,,150 g/km
+jeep,Renegade,10500.0,2016,1368cc,"30,329 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,112 mph,10.9 seconds,140 g/km
+jeep,Compass,16454.0,2021,1368cc,"31,120 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Renegade,9999.0,2017,1598cc,"55,022 miles",Petrol,Manual,RED,Estate,4X2,5.0,5.0,109 bhp,111 mph,11.8 seconds,141 g/km
+jeep,Renegade,12995.0,2016,1368cc,"56,000 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,138 bhp,112 mph,11.0 seconds,137 g/km
+jeep,Compass,14895.0,2019,1368cc,"39,579 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,155 g/km
+jeep,Renegade,11495.0,2017,1598cc,"53,183 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Compass,17000.0,2019,1368cc,"17,900 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,190 g/km
+jeep,Compass,18290.0,2021,1.4L,"29,125 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,168 bhp,127 mph,,208 g/km
+jeep,Renegade,6495.0,2015,1598cc,"109,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.8 seconds,141 g/km
+jeep,Grand Cherokee,30995.0,2000,2987cc,"40,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,247 bhp,126 mph,,208 g/km
+jeep,Cherokee,3995.0,2002,3700cc,"97,172 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,209 bhp,112 mph,10.8 seconds,347 g/km
+jeep,Compass,21588.0,2020,1368cc,"7,676 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,209 g/km
+jeep,Wrangler,54949.0,2023,1995cc,668 miles,Petrol,Automatic,BLACK,Convertible,4X4,2.0,4.0,268 bhp,99 mph,,259 g/km
+jeep,Compass,18245.0,2021,1368cc,"13,500 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Compass,6195.0,2014,1998cc,"86,911 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,154 bhp,115 mph,10.6 seconds,175 g/km
+jeep,Cherokee,9500.0,2015,1956cc,"76,000 miles",Diesel,Manual,BLACK,Estate,4X4,5.0,5.0,138 bhp,117 mph,12.0 seconds,147 g/km
+jeep,Compass,37895.0,2023,1.3L,17 miles,Hybrid,Automatic,Other,SUV,4X4,5.0,5.0,240 bhp,124 mph,,44 g/km
+jeep,Renegade,23295.0,2021,1.3L,"16,801 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,128 bhp,113 mph,,50 g/km
+jeep,Renegade,9995.0,2015,1598cc,"68,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Patriot,2995.0,2007,1968cc,"84,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,138 bhp,117 mph,11.0 seconds,180 g/km
+jeep,Renegade,11490.0,2020,999cc,"29,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,115 mph,,158 g/km
+jeep,Renegade,15998.0,2020,1.3L,"43,029 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,148 bhp,122 mph,,158 g/km
+jeep,Renegade,15245.0,2017,1.4L,"38,896 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,168 bhp,122 mph,8.8 seconds,
+jeep,Renegade,23495.0,2021,1332cc,"29,905 miles",Other,Automatic,Grey,SUV,4X4,5.0,5.0,240 bhp,124 mph,,51 g/km
+jeep,Cherokee,6990.0,2015,1956cc,"133,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,116 mph,10.9 seconds,139 g/km
+jeep,Grand Cherokee,36995.0,2020,2987cc,"13,581 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,247 bhp,126 mph,,252 g/km
+jeep,Compass,15950.0,2020,1.6L,"30,712 miles",Diesel,Manual,Grey,4X4,4X2,5.0,5.0,118 bhp,115 mph,11.0 seconds,130 g/km
+jeep,Compass,15620.0,2020,2L,"32,390 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,118 mph,10.1 seconds,177 g/km
+jeep,Compass,19273.0,2020,1.4L,"22,829 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,168 bhp,124 mph,9.5 seconds,209 g/km
+jeep,Grand Cherokee,5695.0,2010,2987cc,"134,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,216 bhp,124 mph,9.0 seconds,270 g/km
+jeep,Grand Cherokee,13000.0,2012,2987cc,"68,090 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,239 bhp,126 mph,8.2 seconds,218 g/km
+jeep,Wrangler,46990.0,2019,1995cc,"34,000 miles",Petrol,Automatic,Black,SUV,4X4,4.0,5.0,268 bhp,99 mph,,214 g/km
+jeep,Grand Cherokee,6981.0,2007,5654cc,"95,253 miles",Petrol,Automatic,Silver,Estate,4X4,5.0,5.0,324 bhp,129 mph,7.4 seconds,364 g/km
+jeep,Renegade,6750.0,2015,1598cc,"120,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,120 g/km
+jeep,Grand Cherokee,4995.0,2006,2987cc,"71,185 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,216 bhp,124 mph,9.7 seconds,270 g/km
+jeep,Renegade,7590.0,2016,1598cc,"83,292 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Renegade,15623.0,2019,999cc,"17,360 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,118 bhp,115 mph,11.2 seconds,134 g/km
+jeep,Renegade,14989.0,2018,1368cc,"27,300 miles",Petrol,Automatic,BLACK,Estate,4X2,5.0,5.0,138 bhp,112 mph,11.0 seconds,137 g/km
+jeep,Wrangler,21990.0,2012,2777cc,"83,500 miles",Diesel,Automatic,Black,SUV,4X4,4.0,5.0,198 bhp,107 mph,10.7 seconds,217 g/km
+jeep,Renegade,14298.0,2019,1L,"46,172 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,115 mph,,134 g/km
+jeep,Cherokee,13995.0,2016,2184cc,"52,864 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,5.0,197 bhp,127 mph,8.5 seconds,150 g/km
+jeep,Renegade,14500.0,2020,1.6L,"29,187 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,118 bhp,110 mph,10.2 seconds,126 g/km
+jeep,Compass,6000.0,2012,2360cc,"91,000 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,169 bhp,116 mph,10.7 seconds,199 g/km
+jeep,Renegade,13998.0,2019,1L,"40,595 miles",Petrol,Manual,Yellow,SUV,4X2,5.0,5.0,118 bhp,115 mph,11.2 seconds,138 g/km
+jeep,Grand Cherokee,17995.0,2015,3L,"70,385 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,126 mph,8.2 seconds,198 g/km
+jeep,Wrangler,13490.0,2010,2777cc,"94,000 miles",Diesel,Automatic,Black,SUV,4X4,4.0,5.0,174 bhp,107 mph,13.5 seconds,252 g/km
+jeep,Renegade,16999.0,2020,999cc,"19,925 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,115 mph,11.2 seconds,138 g/km
+jeep,Compass,12750.0,2018,1598cc,"68,933 miles",Diesel,Manual,Bronze,SUV,4X2,5.0,5.0,118 bhp,122 mph,11.0 seconds,117 g/km
+jeep,Grand Cherokee,12990.0,2012,2987cc,"90,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,239 bhp,126 mph,8.2 seconds,218 g/km
+jeep,Compass,12490.0,2019,1598cc,"33,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,118 bhp,122 mph,11.0 seconds,117 g/km
+jeep,Compass,15375.0,2020,1.4L,"14,686 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,149 g/km
+jeep,Cherokee,8490.0,2015,1956cc,"67,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,138 bhp,117 mph,12.0 seconds,147 g/km
+jeep,Renegade,9495.0,2015,1368cc,"62,855 miles",Petrol,Automatic,Omaha Orange Solid,Estate,4X2,5.0,5.0,138 bhp,112 mph,11.0 seconds,137 g/km
+jeep,Cherokee,8200.0,2014,1956cc,"83,744 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,168 bhp,119 mph,10.3 seconds,154 g/km
+jeep,Compass,9250.0,2014,2359cc,"47,123 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,168 bhp,116 mph,10.5 seconds,209 g/km
+jeep,Cherokee,13495.0,2016,2184cc,"73,040 miles",Diesel,Automatic,White,Other,4X4,5.0,5.0,197 bhp,127 mph,8.5 seconds,150 g/km
+jeep,Renegade,10849.0,2017,1598cc,"42,724 miles",Petrol,,Orange,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.8 seconds,141 g/km
+jeep,Renegade,16549.0,2021,999cc,"38,189 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,118 bhp,115 mph,,152 g/km
+jeep,Cherokee,10495.0,2014,1956cc,"59,194 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,168 bhp,119 mph,10.3 seconds,154 g/km
+jeep,Renegade,10995.0,2016,1956cc,"48,729 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,138 bhp,113 mph,9.5 seconds,134 g/km
+jeep,Renegade,9995.0,2016,1956cc,"62,120 miles",Diesel,Manual,Alpine White,Estate,4X4,5.0,5.0,138 bhp,113 mph,9.5 seconds,134 g/km
+jeep,Renegade,17299.0,2020,1L,"16,165 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,115 mph,,158 g/km
+jeep,Compass,13650.0,2020,1368cc,"27,148 miles",Petrol,Manual,Red,Station Wagon,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Cherokee,2200.0,2007,2776cc,"127,457 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,162 bhp,108 mph,12.6 seconds,277 g/km
+jeep,Renegade,9495.0,2016,1598cc,"46,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,111 mph,10.2 seconds,115 g/km
+jeep,Renegade,9995.0,2016,1598cc,"59,940 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.8 seconds,141 g/km
+jeep,Compass,16299.0,2020,1.4L,"17,879 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,138 bhp,119 mph,9.9 seconds,172 g/km
+jeep,Renegade,12499.0,2016,1956cc,"51,964 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,168 bhp,122 mph,8.9 seconds,151 g/km
+jeep,Grand Cherokee,4990.0,2002,4701cc,"63,000 miles",Petrol,Automatic,SILVER,Estate,4X4,5.0,5.0,221 bhp,124 mph,9.0 seconds,380 g/km
+jeep,Renegade,7395.0,2016,1956cc,"122,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,138 bhp,113 mph,9.5 seconds,134 g/km

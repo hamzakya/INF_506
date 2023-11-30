@@ -1,0 +1,724 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+fiat,500,3495.0,2011,1242cc,"85,906 miles",Petrol,Manual,RED,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6600.0,2014,1242cc,"33,250 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,14750.0,2020,1332cc,"17,707 miles",Petrol,Automatic,BEIGE,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,9.1 seconds,128 g/km
+fiat,500,4450.0,2013,1242cc,"74,877 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9144.0,2020,1242cc,"25,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,2995.0,2013,1242cc,"98,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,3495.0,2013,1.24L,"93,627 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9925.0,2018,0.9L,"5,661 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,90 g/km
+fiat,Qubo,7695.0,2017,1248cc,"73,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,79 bhp,100 mph,13.9 seconds,118 g/km
+fiat,500X,5779.0,2016,1400cc,"96,100 miles",Petrol,Manual,Passione Red,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,Panda,3850.0,2016,1242cc,"88,750 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,4291.0,2014,1242cc,"53,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Doblo,8995.0,2015,1598cc,"45,644 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,103 bhp,102 mph,13.4 seconds,145 g/km
+fiat,500,5795.0,2013,1200cc,"34,895 miles",Petrol,Manual,White,Other,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Punto,1895.0,2009,1400cc,"85,459 miles",Petrol,Manual,Grey,Other,4X2,5.0,5.0,76 bhp,103 mph,13.6 seconds,139 g/km
+fiat,500,7199.0,2014,1368cc,"58,915 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,133 bhp,129 mph,7.9 seconds,155 g/km
+fiat,500,10499.0,2020,999cc,"23,893 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500C,11599.0,2019,1242cc,"11,980 miles",Petrol,,Black,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,111 g/km
+fiat,500,8649.0,2018,1242cc,"28,791 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,8049.0,2017,1242cc,"40,685 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,7000.0,2018,1.2L,"43,893 miles",Petrol,Manual,Passodable Red,Hatchback,,,,,,,
+fiat,Panda,8295.0,2020,1.2L,"32,239 miles",Petrol,Manual,White,Hatchback,,,,,,,
+fiat,500,10490.0,2017,1.2L,"24,859 miles",Petrol,Semiauto,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,Doblo Cargo,9999.0,2019,1.6L,"70,828 miles",Diesel,Manual,White,van,4X2,,,105 bhp,102 mph,,
+fiat,Panda,11300.0,2018,1.3L,"25,056 miles",Diesel,Manual,Red,Hatchback,4X4,5.0,5.0,74 bhp,99 mph,14.5 seconds,117 g/km
+fiat,Doblo Cargo,11995.0,2022,1598cc,"21,174 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,105 mph,,
+fiat,500,9493.0,2020,1242cc,"33,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,3795.0,2012,1242cc,"75,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,5995.0,2015,1598cc,"74,500 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,Doblo Cargo,7495.0,2016,1598cc,"78,000 miles",Diesel,Manual,Red,Van,4X2,,,103 bhp,102 mph,,
+fiat,Talento,9495.0,2017,1598cc,"50,000 miles",Diesel,Manual,Grey,Van,4X2,,,119 bhp,103 mph,,
+fiat,Ducato,10500.0,2014,2287cc,"61,347 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,96 mph,,
+fiat,Fiorino,5995.0,2016,1248cc,"68,234 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,97 mph,,
+fiat,Ducato,18999.0,2000,2800cc,"73,775 miles",Diesel,Manual,WHITE,Other,4X2,,,,,,
+fiat,500X,14180.0,2000,1332cc,"16,760 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,124 mph,9.1 seconds,146 g/km
+fiat,500L,3995.0,2013,1248cc,"111,000 miles",Diesel,Manual,Green/White,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,500,4377.0,2013,1242cc,"62,627 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Tipo,7907.0,2016,"37,235 miles",Petrol,Manual,Red,Hatchback,49.6 mpg,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,Punto,3895.0,2014,1242cc,"77,067 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,126 g/km
+fiat,124,10995.0,2016,1368cc,"55,873 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,7995.0,2017,1242cc,"50,000 miles",Petrol,Manual,BLACK,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3995.0,2011,1242cc,"81,470 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Punto,6495.0,2015,1242cc,"18,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,68 bhp,97 mph,14.4 seconds,124 g/km
+fiat,500,5995.0,2014,1242cc,"38,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5300.0,2013,1242cc,"46,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5150.0,2013,1242cc,"51,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,11295.0,2014,1368cc,"37,671 miles",Petrol,Automatic,BLACK,Hatchback,4X2,3.0,4.0,159 bhp,129 mph,7.6 seconds,150 g/km
+fiat,500,4350.0,2012,1242cc,"73,827 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Tipo,6280.0,2017,1248cc,"75,022 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,94 bhp,112 mph,,99 g/km
+fiat,124,12590.0,2017,1368cc,"18,688 miles",Petrol,Manual,WHITE,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,8399.0,2018,1242cc,"30,464 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,12995.0,2020,1242cc,"11,000 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500L,5490.0,2015,1368cc,"62,174 miles",Petrol,Manual,White/Black,MPV,4X2,5.0,5.0,94 bhp,111 mph,12.8 seconds,143 g/km
+fiat,Panda,11595.0,2018,1242cc,"4,641 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,96 mph,14.8 seconds,131 g/km
+fiat,500,6495.0,2014,1.2L,"60,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9790.0,2017,"17,179 miles",Petrol,Manual,Grey,Hatchback,42.8 mpg,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,500,7500.0,2019,1242cc,"19,956 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,116 g/km
+fiat,500L,4995.0,2014,1248cc,"62,410 miles",Diesel,Manual,WHITE/BLACK,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,500,5995.0,2015,1242cc,"75,000 miles",Petrol,Manual,White,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,4995.0,2013,875cc,"84,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,500,8490.0,2019,0.9L,"46,757 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,84 bhp,106 mph,11.0 seconds,106 g/km
+fiat,500,10495.0,2021,1L,"26,206 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,11490.0,2022,1L,"7,088 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,9825.0,2019,1.2L,"24,571 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,122 g/km
+fiat,500,9111.0,2018,1.2L,"17,131 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,7699.0,2016,1.2L,"23,472 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Ducato,11100.0,2015,2287cc,"73,732 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,94 mph,,
+fiat,Ducato,38999.0,2009,2300cc,"48,498 miles",Diesel,Manual,WHITE,Other,,,,,,,
+fiat,500,5055.0,2013,1242cc,"50,141 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500L,4295.0,2013,1248cc,"65,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,500,5995.0,2013,1242cc,"57,765 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6995.0,2015,1242cc,"51,286 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3995.0,2011,1242cc,"101,427 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5995.0,2015,1242cc,"44,357 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,5495.0,2015,1242cc,"54,212 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,6995.0,2016,1242cc,"54,708 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5995.0,2013,1242cc,"53,260 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5650.0,2015,1242cc,"87,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,2499.0,2009,1242cc,"82,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,Punto,2750.0,2010,1368cc,"55,156 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,8595.0,2018,1242cc,"27,000 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,500,8495.0,2018,1242cc,"25,861 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5590.0,2015,1242cc,"52,284 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500X,7495.0,2015,1598cc,"85,230 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,500,5295.0,2014,1242cc,"60,354 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4645.0,2012,1242cc,"69,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Punto,4795.0,2012,1368cc,"17,799 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,5490.0,2010,1242cc,"95,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4880.0,2012,1242cc,"63,979 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,13995.0,2020,1368cc,"15,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,155 g/km
+fiat,500,3299.0,2012,875cc,"112,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,Panda,9490.0,2015,1248cc,"16,247 miles",Diesel,Manual,BLACK,Hatchback,4X4,5.0,4.0,74 bhp,99 mph,14.5 seconds,125 g/km
+fiat,500,3950.0,2012,1242cc,"91,807 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,10000.0,2016,1368cc,"51,981 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,133 g/km
+fiat,500,5982.0,2015,1242cc,"49,500 miles",Petrol,Manual,BLUE,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,11500.0,2017,1368cc,"36,978 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+fiat,500,9994.0,2020,1L,"15,931 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,88 g/km
+fiat,500,13990.0,2023,1L,"2,799 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,11490.0,2021,1L,"5,674 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,13990.0,2023,1L,780 miles,Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,13990.0,2023,1L,250 miles,Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,9199.0,2018,1242cc,"12,366 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,12500.0,2020,1L,"17,815 miles",Petrol,Manual,BLUE,Convertible,4X2,2.0,4.0,68 bhp,104 mph,,121 g/km
+fiat,500L,12557.0,2021,1.4L,"18,204 miles",Petrol,Manual,Green,MPV,4X2,5.0,5.0,94 bhp,101 mph,,168 g/km
+fiat,500,5590.0,2015,1242cc,"40,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5695.0,2016,1.2L,"62,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Doblo Cargo 1.3 MULTIJET II 95 BHP 16V SWB TECNICO EDITION ( AIR CON ! ),12989.0,2021,1.3L,"38,000 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,98 mph,,
+fiat,Doblo Cargo 1.6 16V SX MAXI MULTIJET II COMBI 105 BHP,9599.0,2019,1.6L,"58,278 miles",Diesel,Manual,White,Van,4X2,,,103 bhp,102 mph,,
+fiat,Tipo,7995.0,2017,1.4L,"54,616 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,9.9 seconds,139 g/km
+fiat,500,13850.0,2020,1242cc,"12,500 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,138 g/km
+fiat,500,5995.0,2013,1242cc,"51,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,3695.0,2010,1242cc,"66,675 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Doblo,7995.0,2014,1598cc,"34,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,103 bhp,102 mph,13.4 seconds,138 g/km
+fiat,Fiorino,10198.0,2019,1.3L,"43,763 miles",Diesel,Manual,White,van,4X2,,,79 bhp,97 mph,,
+fiat,Tipo,7799.0,2017,1368cc,"41,663 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,500,8049.0,2017,1242cc,"35,623 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9449.0,2019,1242cc,"18,313 miles",Petrol,,Green,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,111 g/km
+fiat,500X,13000.0,2020,1L,"23,005 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,148 g/km
+fiat,500,8999.0,2018,1.2L,"28,854 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,500,7799.0,2018,1.2L,"35,487 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,6495.0,2015,1242cc,"44,324 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500L,5495.0,2013,1248cc,"44,000 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,500,3995.0,2014,1200cc,"81,000 miles",Petrol,Manual,Grey,Other,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7995.0,2014,1368cc,"35,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,159 bhp,129 mph,7.6 seconds,155 g/km
+fiat,500,4490.0,2012,1242cc,"67,576 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,17950.0,2020,1332cc,"11,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,,163 g/km
+fiat,500,11495.0,2021,1000cc,"13,111 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,11295.0,2020,1000cc,"7,417 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+fiat,500X,7395.0,2016,1598cc,"74,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,Panda,6990.0,2015,1242cc,"26,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,3999.0,2014,1242cc,"67,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,10500.0,2020,1242cc,"10,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,130 g/km
+fiat,500,8495.0,2018,1242cc,"34,655 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,7649.0,2016,1242cc,"27,271 miles",Petrol,,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10790.0,2018,1.2L,"43,122 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,117 g/km
+fiat,500X,5495.0,2016,1248cc,"82,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,12.9 seconds,107 g/km
+fiat,500,10990.0,2016,1368cc,"34,406 miles",Petrol,Manual,Blue,Convertible,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+fiat,500,19250.0,2022,1368cc,"4,708 miles",Petrol,Manual,Gara White,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,152 g/km
+fiat,500,7395.0,2015,1242cc,"40,424 miles",Petrol,Manual,Red,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8895.0,2019,1242cc,"22,108 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,Panda,6500.0,2013,1242cc,"14,946 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,9995.0,2019,1242cc,"28,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,124 Spider,12803.0,2018,1.4L,"17,974 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,9298.0,2021,999cc,"30,663 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,114 g/km
+fiat,500,7495.0,2013,1242cc,"57,799 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8999.0,2020,999cc,"7,933 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500L,4995.0,2014,1248cc,"90,322 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,83 bhp,99 mph,14.9 seconds,114 g/km
+fiat,500,7490.0,2018,1242cc,"33,000 miles",Petrol,Manual,Smooth Mint,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Tipo,7795.0,2017,1368cc,"44,480 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,500,7490.0,2012,1368cc,"39,753 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,133 bhp,129 mph,7.9 seconds,155 g/km
+fiat,Tipo,11295.0,2020,1368cc,"39,000 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,118 bhp,124 mph,10.1 seconds,163 g/km
+fiat,500,19995.0,2021,1L,"7,612 miles",Other,Automatic,BLUE,Hatchback,4X2,3.0,4.0,117 bhp,93 mph,,0 g/km
+fiat,500,4590.0,2014,1598cc,"91,000 miles",Diesel,Manual,RED,MPV,4X2,5.0,7.0,103 bhp,112 mph,11.8 seconds,117 g/km
+fiat,500,2695.0,2008,1400cc,"75,788 miles",Petrol,Manual,Red,Other,4X2,3.0,4.0,98 bhp,113 mph,10.5 seconds,149 g/km
+fiat,500,13990.0,2023,1L,"2,616 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,10295.0,2021,1L,"40,464 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,10995.0,2021,1L,"42,680 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,121 g/km
+fiat,500,11200.0,2020,1.2L,"30,853 miles",Petrol,Manual,Black,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,10600.0,2021,1L,"29,409 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,115 g/km
+fiat,500,13990.0,2023,1L,"2,311 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+fiat,500,13990.0,2023,1L,"2,152 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+fiat,Doblo Cargo,19995.0,2020,1598cc,"13,004 miles",Diesel,Manual,Grey,Other,4X2,,,103 bhp,102 mph,,
+fiat,Panda,12995.0,2023,999cc,"4,491 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,,111 g/km
+fiat,500X,17995.0,2020,1332cc,"20,842 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,,162 g/km
+fiat,Tipo,17250.0,2021,999cc,"10,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,131 g/km
+fiat,500,6995.0,2016,1242cc,"39,500 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,6495.0,2013,875cc,"57,707 miles",Petrol,Manual,White,Hatchback,4X4,5.0,4.0,83 bhp,103 mph,12.1 seconds,114 g/km
+fiat,Doblo Cargo,26394.0,2023,1.5L,16 miles,Diesel,Manual,Grey,van,4X2,,,101 bhp,102 mph,,
+fiat,500,13990.0,2023,1L,"2,226 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,107 g/km
+fiat,500,12796.0,2022,1L,490 miles,Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500X,21495.0,2023,1L,98 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,,140 g/km
+fiat,500,9200.0,2017,1.2L,"35,000 miles",Petrol,Manual,Grey,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500L,12856.0,2021,1.4L,"15,630 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,94 bhp,101 mph,,168 g/km
+fiat,500,12100.0,2021,999cc,"6,058 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,112 g/km
+fiat,500,3995.0,2009,1.37L,"77,892 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,98 bhp,113 mph,10.5 seconds,140 g/km
+fiat,Doblo Cargo,7500.0,2017,1248cc,"59,000 miles",Diesel,Manual,WHITE,Other,4X2,,,95 bhp,98 mph,,
+fiat,Doblo Cargo,17945.0,2018,1598cc,"19,256 miles",Diesel,Manual,SILVER,Other,4X2,,,103 bhp,102 mph,,
+fiat,Ducato,69995.0,2020,2287cc,"2,611 miles",Diesel,Manual,White,Van,4X2,,,140 bhp,93 mph,,
+fiat,Panda,5491.0,2013,1248cc,"70,000 miles",Diesel,Manual,SILVER,Hatchback,4X4,5.0,4.0,74 bhp,99 mph,14.5 seconds,125 g/km
+fiat,500L,10995.0,2019,1368cc,"25,000 miles",Petrol,Manual,Red,MPV,4X2,5.0,5.0,94 bhp,101 mph,13.9 seconds,156 g/km
+fiat,500L,7995.0,2016,1248cc,"53,082 miles",Diesel,Automatic,Green,MPV,4X2,5.0,5.0,94 bhp,105 mph,14.8 seconds,104 g/km
+fiat,500,8799.0,2016,1242cc,"25,000 miles",Petrol,Manual,Pink,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8290.0,2017,1242cc,"39,574 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500X,7699.0,2015,1598cc,"67,651 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,Fullback,16795.0,2017,2442cc,"41,580 miles",Diesel,Manual,WHITE,Other,4X4,,,178 bhp,112 mph,,186 g/km
+fiat,500,3495.0,2012,1242cc,"114,500 miles",Petrol,Manual,White,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Doblo,9444.0,2017,1368cc,"8,486 miles",Petrol,Manual,SILVER,MPV,4X2,5.0,5.0,94 bhp,100 mph,15.4 seconds,165 g/km
+fiat,500,3695.0,2014,1242cc,"81,050 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Punto,1995.0,2009,1368cc,"97,725 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,76 bhp,103 mph,13.6 seconds,139 g/km
+fiat,500,3999.0,2008,1248cc,"80,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,75 bhp,103 mph,12.5 seconds,110 g/km
+fiat,Punto,2475.0,2010,1400cc,"51,000 miles",Petrol,Manual,Black,Other,4X2,3.0,4.0,76 bhp,103 mph,12.7 seconds,139 g/km
+fiat,500X,10995.0,2019,1.6L,"28,725 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.5 seconds,154 g/km
+fiat,500,7491.0,2018,1242cc,"56,395 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,116 g/km
+fiat,500,4695.0,2015,1242cc,"65,038 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,7995.0,2019,1242cc,"44,624 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,13990.0,2023,1L,"2,158 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,13990.0,2023,1L,"2,111 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,13990.0,2023,1L,"2,222 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,7749.0,2016,1.2L,"36,000 miles",Petrol,Manual,Other,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,3695.0,2011,1242cc,"32,056 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.4 seconds,113 g/km
+fiat,Panda,14995.0,2020,875cc,"21,299 miles",Petrol,Manual,White,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,166 g/km
+fiat,Doblo,8500.0,2015,1368cc,"54,000 miles",Petrol,Manual,Silver,MPV,4X2,5.0,5.0,94 bhp,100 mph,15.4 seconds,165 g/km
+fiat,500,6490.0,2012,1242cc,"62,137 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Fiorino,10000.0,2019,1399cc,"30,980 miles",Petrol,Manual,WHITE,Other,4X2,,,76 bhp,98 mph,,
+fiat,500,5900.0,2016,1242cc,"73,957 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,21950.0,2022,1368cc,"4,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,155 g/km
+fiat,500,31140.0,2022,1L,"7,826 miles",Other,Automatic,GOLD,Convertible,4X2,2.0,4.0,117 bhp,93 mph,,0 g/km
+fiat,500,4495.0,2013,1242cc,"65,000 miles",Petrol,Manual,PURPLE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6995.0,2014,1242cc,"31,812 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5253.0,2011,1368cc,"83,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,133 bhp,129 mph,7.9 seconds,155 g/km
+fiat,124,10985.0,2017,1368cc,"43,069 miles",Petrol,Manual,Other,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,Panda,6400.0,2014,875cc,"65,348 miles",Petrol,Manual,WHITE,Hatchback,4X4,5.0,4.0,83 bhp,103 mph,12.1 seconds,114 g/km
+fiat,Panda,12490.0,2019,875cc,"24,000 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,129 g/km
+fiat,500,6349.0,2014,1242cc,"28,426 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8799.0,2017,1242cc,"17,094 miles",Petrol,,White,Hatchback,,,,,,,
+fiat,Panda,11475.0,2021,1L,"8,380 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,,118 g/km
+fiat,Doblo Cargo 1.6 16V MULTIJET II DROPSIDE 105 BHP,15495.0,2021,1.6L,"35,045 miles",Diesel,Manual,White,Van,4X2,,,105 bhp,103 mph,,
+fiat,500C,10500.0,2019,1242cc,"18,135 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,Doblo,5795.0,2010,1598cc,"73,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,102 mph,13.4 seconds,138 g/km
+fiat,500,7295.0,2015,1.2L,"34,187 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10489.0,2020,999.0cc,"12,880 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,Panda,5995.0,2014,1242cc,"16,000 miles",Petrol,Manual,GLACIER WHITE,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,4695.0,2009,1242cc,"41,662 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,Fiorino,8999.0,2019,1248cc,"60,600 miles",Diesel,Automatic,WHITE,Other,4X2,,,79 bhp,97 mph,,
+fiat,Ducato,15995.0,2019,2287cc,"163,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,,,
+fiat,Fiorino,4422.0,2016,1248cc,"140,000 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,97 mph,,
+fiat,500,4195.0,2012,1242cc,"80,542 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8495.0,2014,1242cc,"55,459 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4980.0,2017,1242cc,"51,446 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,6995.0,2015,1368cc,"53,500 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,138 bhp,127 mph,7.9 seconds,139 g/km
+fiat,500,3000.0,2011,875cc,"70,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,Panda,7995.0,2013,1248cc,"36,896 miles",Diesel,Manual,Brown,Hatchback,4X4,5.0,4.0,74 bhp,99 mph,14.5 seconds,125 g/km
+fiat,500,5495.0,2014,1242cc,"60,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,23994.0,2021,1L,"10,832 miles",Other,Automatic,BLUE,Hatchback,4X2,3.0,4.0,117 bhp,93 mph,,0 g/km
+fiat,500,8999.0,2020,1242cc,"52,858 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,139 g/km
+fiat,500X,8495.0,2016,1956cc,"72,000 miles",Diesel,Automatic,BLACK,Hatchback,4X4,5.0,5.0,138 bhp,118 mph,9.8 seconds,144 g/km
+fiat,500X,7399.0,2016,1248cc,"55,000 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,12.9 seconds,107 g/km
+fiat,Panda,5199.0,2015,1242cc,"73,549 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,Punto,2699.0,2010,1368cc,"49,987 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,13990.0,2023,1L,"2,311 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,Panda,13995.0,2019,875cc,"31,747 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,122 g/km
+fiat,Panda,14495.0,2020,875cc,"18,276 miles",Petrol,Manual,Grey,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,166 g/km
+fiat,500L,5995.0,2015,1248cc,"47,522 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,Fullback,17850.0,2018,2442cc,"45,460 miles",Diesel,Automatic,White,Van,4X4,4.0,,178 bhp,110 mph,9.8 seconds,
+fiat,Ducato,16995.0,2020,2287cc,"64,263 miles",Diesel,Manual,Grey,Van,4X2,,,140 bhp,93 mph,,
+fiat,500,4795.0,2013,1242cc,"45,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,5695.0,2014,1242cc,"36,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,5690.0,2014,1242cc,"47,223 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8260.0,2016,1242cc,"25,956 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5495.0,2015,1242cc,"81,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,Panda,4295.0,2014,1242cc,"37,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,4695.0,2013,1242cc,"52,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,10900.0,2020,999cc,"13,150 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,3799.0,2009,1242cc,"67,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500L,7500.0,2014,1248cc,"42,122 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,5.0,83 bhp,102 mph,15.1 seconds,105 g/km
+fiat,500,4995.0,2014,1242cc,"53,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8995.0,2018,1368cc,"77,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+fiat,124,12990.0,2017,1368cc,"31,999 miles",Petrol,Manual,Polar White,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,7495.0,2016,1242cc,"73,242 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5995.0,2014,1242cc,"68,541 miles",Petrol,Manual,NARDO GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4995.0,2014,1242cc,"67,007 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5485.0,2013,1242cc,"41,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Punto,4985.0,2014,1368cc,"46,076 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,7699.0,2018,1242cc,"39,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,6995.0,2014,1242cc,"29,030 miles",Petrol,Manual,Yellow,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7995.0,2018,1242cc,"38,890 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5995.0,2014,1242cc,"41,486 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,3900.0,2013,1242cc,"61,652 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500L,9990.0,2018,1.4L,"27,985 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,94 bhp,101 mph,13.9 seconds,161 g/km
+fiat,500,6390.0,2015,1.2L,"70,140 miles",Petrol,Manual,Red,Convertible,,,,,,,
+fiat,500X,17900.0,2021,1.3L,"14,022 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,147 bhp,124 mph,,149 g/km
+fiat,Doblo Cargo,7500.0,2018,1248cc,"65,500 miles",Diesel,Manual,Silver,Van,4X2,,,95 bhp,98 mph,,
+fiat,Tipo,7995.0,2019,1368cc,"75,000 miles",Petrol,Manual,Grey,Saloon,4X2,4.0,5.0,94 bhp,113 mph,,129 g/km
+fiat,500,10990.0,2021,999cc,"34,526 miles",Petrol,Manual,Bossa Nova White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,116 g/km
+fiat,500,9995.0,2020,1242cc,"22,234 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,4295.0,2012,1242cc,"52,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8790.0,2021,999cc,"32,055 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,7995.0,2015,1368cc,"39,700 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,138 bhp,127 mph,7.9 seconds,139 g/km
+fiat,500,6495.0,2015,1242cc,"37,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,5945.0,2016,1242cc,"61,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,11095.0,2020,999cc,"13,450 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,Panda,11495.0,2021,999cc,"10,950 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,,125 g/km
+fiat,500,1795.0,2009,1242cc,"135,926 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500,8999.0,2017,1242cc,"7,500 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8999.0,2019,1242cc,"23,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,Tipo,13312.0,2021,1L,"17,992 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,99 bhp,113 mph,,131 g/km
+fiat,500,4995.0,2013,1242cc,"74,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4991.0,2011,900cc,"72,389 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,Fullback,16995.0,2018,2442cc,"65,000 miles",Diesel,Automatic,Black,Van,4X4,4.0,,178 bhp,110 mph,9.8 seconds,
+fiat,Ducato,27495.0,2023,2200cc,50 miles,Diesel,Manual,WHITE,Van,4X2,,,140 bhp,93 mph,,
+fiat,500,7995.0,2013,1368cc,"36,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,133 bhp,127 mph,7.9 seconds,155 g/km
+fiat,500,5499.0,2014,1242cc,"40,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6695.0,2014,1242cc,"18,850 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500L,5450.0,2014,1598cc,"86,237 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,103 bhp,112 mph,11.8 seconds,117 g/km
+fiat,500,6195.0,2016,1242cc,"54,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Punto,650.0,2006,1242cc,"76,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,59 bhp,96 mph,14.3 seconds,136 g/km
+fiat,500,5995.0,2016,1242cc,"61,000 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9995.0,2017,1368cc,"49,404 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+fiat,500X,7498.0,2015,1598cc,"58,672 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,500,6625.0,2014,1242cc,"32,400 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5995.0,2016,1242cc,"61,373 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9495.0,2016,1368cc,"36,157 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+fiat,500,6000.0,2013,1242cc,"50,500 miles",Petrol,Manual,BEIGE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,13199.0,2021,999cc,"33,414 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,120 g/km
+fiat,500,8749.0,2018,1242cc,"28,363 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,7499.0,2016,1.2L,"32,854 miles",Petrol,Manual,Red,Convertible,4X2,2.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500X,13290.0,2020,1L,"34,250 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,149 g/km
+fiat,500,8858.0,2021,1L,"42,218 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,6995.0,2017,1242cc,"19,599 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,14995.0,2020,1242cc,"10,166 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,5495.0,2016,1242cc,"99,895 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3495.0,2011,1242cc,"93,770 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9850.0,2019,1.2L,"9,150 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,8995.0,2017,1242cc,"23,284 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4595.0,2013,1242cc,"51,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6995.0,2017,1242cc,"72,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Doblo Cargo,10782.0,2020,1248cc,"58,000 miles",Diesel,Manual,WHITE,Other,4X2,,,79 bhp,98 mph,,
+fiat,500,12995.0,2020,1000cc,"15,670 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,3990.0,2010,1242cc,"73,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500,7995.0,2018,1242cc,"39,463 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,7495.0,2014,1242cc,"46,000 miles",Petrol,Manual,Blue,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4995.0,2013,1242cc,"63,691 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,11490.0,2017,1368cc,"54,395 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,139 g/km
+fiat,Punto,2200.0,2005,1242cc,"62,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,59 bhp,96 mph,14.3 seconds,136 g/km
+fiat,500,7495.0,2013,1368cc,"35,029 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,133 bhp,127 mph,7.9 seconds,155 g/km
+fiat,500,5995.0,2015,1242cc,"63,103 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,5999.0,2013,875cc,"45,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,83 bhp,106 mph,11.5 seconds,105 g/km
+fiat,500,4695.0,2014,1242cc,"81,621 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4295.0,2012,900cc,"69,000 miles",Petrol,Manual,White,Other,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,500,7495.0,2015,1242cc,"28,000 miles",Petrol,Manual,PINK,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Tipo,7995.0,2017,1368cc,"34,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,500L,7995.0,2016,1248cc,"35,000 miles",Diesel,Manual,WHITE,MPV,4X2,5.0,5.0,94 bhp,103 mph,14.3 seconds,109 g/km
+fiat,500,4495.0,2014,1242cc,"69,356 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,8300.0,2018,1242cc,"16,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,5995.0,2014,1242cc,"54,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7799.0,2017,1242cc,"39,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,6950.0,2016,1242cc,"40,116 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,4995.0,2015,1242cc,"52,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,124,19870.0,2016,1368cc,"18,153 miles",Petrol,Manual,RED,Convertible,4X2,2.0,2.0,168 bhp,144 mph,6.8 seconds,148 g/km
+fiat,500L,6500.0,2014,1248cc,"47,631 miles",Diesel,Automatic,WHITE,MPV,4X2,5.0,5.0,83 bhp,98 mph,15.1 seconds,109 g/km
+fiat,500,5995.0,2015,1242cc,"31,302 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10995.0,2021,1L,"25,112 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500X,15695.0,2021,999cc,"26,560 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,149 g/km
+fiat,Doblo,4995.0,2006,1.89L,"71,293 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,103 bhp,104 mph,13.3 seconds,153 g/km
+fiat,Fiorino,8394.0,2019,1248cc,"48,450 miles",Diesel,Manual,White,Van,4X2,,,79 bhp,97 mph,,
+fiat,500,5699.0,2013,1242cc,"45,500 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,10995.0,2016,1242cc,"22,000 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,500,6000.0,2016,1242cc,"70,674 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8489.0,2017,1242cc,"13,066 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Punto,3890.0,2012,1242cc,"52,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,126 g/km
+fiat,Tipo,13550.0,2021,999cc,"19,855 miles",Petrol,Manual,Grey,Station Wagon,4X2,5.0,5.0,99 bhp,118 mph,,128 g/km
+fiat,Fullback,13295.0,2018,2442cc,"31,500 miles",Diesel,Manual,Blue,Van,4X4,,,151 bhp,108 mph,,
+fiat,Fullback,18995.0,2019,2442cc,"31,600 miles",Diesel,Manual,Black,Van,4X4,4.0,,178 bhp,112 mph,11.5 seconds,
+fiat,500,4995.0,2008,1242cc,"44,389 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,69 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500L,11444.0,2021,1368cc,"10,383 miles",Petrol,Manual,GREY/BLACK,MPV,4X2,5.0,5.0,94 bhp,101 mph,,168 g/km
+fiat,500,5257.0,2012,1242cc,"43,694 miles",Petrol,Manual,WHITE,Hatchback,,,,,,,
+fiat,500,8995.0,2018,1242cc,"20,892 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8495.0,2017,1242cc,"30,321 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Punto,6190.0,2016,1242cc,"37,563 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,124 g/km
+fiat,500,6749.0,2016,1242cc,"43,898 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Doblo Cargo,17394.0,2021,1.6L,"28,732 miles",Diesel,Manual,White,pickup,4X2,,,105 bhp,103 mph,,
+fiat,500,6995.0,2016,0.9L,"36,537 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,90 g/km
+fiat,500,11390.0,2021,1L,"9,334 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,11995.0,2021,1L,"13,295 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500,10595.0,2020,1L,"19,131 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,10999.0,2020,0.9L,"16,226 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,84 bhp,106 mph,11.0 seconds,106 g/km
+fiat,500,9900.0,2019,1.2L,"24,439 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,12010.0,2022,1L,"12,900 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,124 Spider,13999.0,2017,1.4L,"14,517 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500X,15800.0,2022,1L,"18,192 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,119 mph,,142 g/km
+fiat,500,11250.0,2019,1.2L,"19,100 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,5495.0,2014,1.2L,"61,358 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7999.0,2017,1242cc,"21,000 miles",Petrol,Manual,BORDEAUX,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,7895.0,2017,875cc,"69,002 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,83 bhp,108 mph,11.8 seconds,95 g/km
+fiat,500,10298.0,2021,1L,"18,438 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,10290.0,2020,1L,"13,442 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,4995.0,2013,1242cc,"71,999 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Ducato,26495.0,2023,2179cc,100 miles,Diesel,Manual,White,Van,4X2,,,140 bhp,93 mph,,
+fiat,500,4995.0,2015,1242cc,"80,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,7990.0,2016,1368cc,"57,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,138 bhp,127 mph,7.9 seconds,139 g/km
+fiat,500,4895.0,2013,1242cc,"35,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,7695.0,2015,1598cc,"50,200 miles",Diesel,Manual,Grey,SUV,,,,,,,
+fiat,500,9995.0,2019,1242cc,"13,600 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,122 g/km
+fiat,Panda,2950.0,2011,1242cc,"74,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.4 seconds,113 g/km
+fiat,500,8049.0,2018,1242cc,"33,183 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9049.0,2019,1242cc,"26,117 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,7690.0,2018,1.2L,"63,448 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,Tipo,15499.0,2023,1L,117 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,119 mph,,127 g/km
+fiat,500,9800.0,2019,1.2L,"27,014 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,119 g/km
+fiat,Panda,4500.0,2011,1242cc,"66,416 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,15.0 seconds,113 g/km
+fiat,Panda,3695.0,2012,1242cc,"74,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,15.0 seconds,113 g/km
+fiat,500,4999.0,2009,1368cc,"94,400 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,133 bhp,127 mph,7.9 seconds,155 g/km
+fiat,Ducato,15490.0,2018,2287cc,"52,022 miles",Diesel,Manual,White,Van,4X2,,,147 bhp,98 mph,,
+fiat,Fiorino,6995.0,2019,1368cc,"97,200 miles",Petrol,Manual,White,Van,4X2,,,76 bhp,98 mph,,
+fiat,500X,13495.0,2020,1.332L,"36,000 miles",Petrol,Automatic,Green,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,9.1 seconds,152 g/km
+fiat,Ducato,17995.0,2020,2287cc,"25,281 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,,
+fiat,500,9995.0,2019,1242cc,"19,000 miles",Petrol,Manual,Smooth Mint,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,500,3895.0,2012,875cc,"74,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,Panda,8495.0,2016,875cc,"31,445 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,83 bhp,106 mph,11.5 seconds,105 g/km
+fiat,500,8495.0,2018,1242cc,"20,345 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4795.0,2013,1242cc,"64,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8499.0,2015,1368cc,"51,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,158 bhp,130 mph,7.4 seconds,139 g/km
+fiat,500,7999.0,2013,1368cc,"65,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,159 bhp,129 mph,7.6 seconds,151 g/km
+fiat,500,7680.0,2017,1242cc,"39,000 miles",Petrol,Manual,Mint,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5695.0,2014,1242cc,"53,999 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,11944.0,2022,1L,"6,449 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,105 g/km
+fiat,500,9995.0,2019,1242cc,"22,356 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,5250.0,2013,1242cc,"28,001 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,7995.0,2018,1242cc,"5,625 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,14.8 seconds,125 g/km
+fiat,500,14999.0,2022,1L,"3,499 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,68 bhp,104 mph,,109 g/km
+fiat,500C,11990.0,2016,875cc,"19,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,103 bhp,117 mph,10.0 seconds,99 g/km
+fiat,500X,7300.0,2016,1598cc,"56,960 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.5 seconds,147 g/km
+fiat,Panda,4690.0,2013,1242cc,"38,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,16995.0,2020,1242cc,"4,014 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,138 g/km
+fiat,500,9995.0,2019,1242cc,"28,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,4495.0,2012,1242cc,"72,499 miles",Petrol,Manual,Blue,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9995.0,2018,1368cc,"38,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,151 g/km
+fiat,500,4390.0,2013,1242cc,"65,115 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,3863.0,2015,1242cc,"90,889 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,4495.0,2013,1242cc,"42,336 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5395.0,2015,1242cc,"62,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,3490.0,2008,1368cc,"55,256 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,98 bhp,113 mph,10.5 seconds,149 g/km
+fiat,500,2695.0,2008,1248cc,"126,000 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,4.0,75 bhp,103 mph,12.5 seconds,110 g/km
+fiat,500,5295.0,2014,1242cc,"67,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6990.0,2013,1242cc,"62,797 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Tipo,6999.0,2017,1368cc,"45,743 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,Panda,8350.0,2018,1242cc,"23,200 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,96 mph,14.8 seconds,131 g/km
+fiat,Tipo,13649.0,2021,999cc,"8,542 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,99 bhp,119 mph,,128 g/km
+fiat,Doblo Cargo,3995.0,2012,1248cc,"111,158 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,98 mph,,
+fiat,Doblo Cargo,11995.0,2020,1598cc,"16,982 miles",Diesel,Manual,White,Van,4X2,,,105 bhp,103 mph,,
+fiat,Punto,3499.0,2012,1242cc,"62,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,126 g/km
+fiat,500L,4495.0,2013,1598cc,"77,000 miles",Diesel,Manual,Multicolour,MPV,4X2,5.0,5.0,103 bhp,109 mph,11.3 seconds,122 g/km
+fiat,Panda,6295.0,2015,1242cc,"17,740 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,7995.0,2016,1242cc,"24,737 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,7150.0,2014,1368cc,"61,800 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,133 bhp,129 mph,7.9 seconds,155 g/km
+fiat,124,19500.0,2018,1368cc,"32,000 miles",Petrol,Automatic,RED,Convertible,4X2,2.0,2.0,168 bhp,142 mph,6.9 seconds,153 g/km
+fiat,124,13000.0,2018,1368cc,"43,669 miles",Petrol,Manual,WHITE,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,8495.0,2016,1.2L,"39,100 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8499.0,2019,1.2L,"29,188 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500X,15999.0,2020,1.3L,"11,000 miles",Petrol,Semi Automatic,White,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,9.1 seconds,158 g/km
+fiat,500,8400.0,2016,1.2L,"23,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10999.0,2020,1L,"13,000 miles",Petrol,Manual,Rosso Metallic,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500C,9900.0,2020,1242cc,"47,379 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,132 g/km
+fiat,500,5450.0,2010,1242cc,"70,803 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,8495.0,2016,1598cc,"26,220 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,11.5 seconds,147 g/km
+fiat,500L,4995.0,2017,1248cc,"109,883 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,94 bhp,106 mph,13.9 seconds,107 g/km
+fiat,Doblo Cargo,5450.0,2015,1248cc,"117,000 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,98 mph,,
+fiat,Fiorino,8995.0,2019,1248cc,"29,000 miles",Diesel,Manual,White,Van,4X2,,,79 bhp,97 mph,,
+fiat,Tipo,9450.0,2018,1368cc,"20,307 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,132 g/km
+fiat,Tipo,7495.0,2017,1368cc,"68,000 miles",Petrol,Manual,Mediterranean Blue Pearl,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,9.9 seconds,139 g/km
+fiat,500L,6495.0,2015,1248cc,"69,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,83 bhp,103 mph,15.1 seconds,110 g/km
+fiat,500,4790.0,2015,1242cc,"59,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500X,13295.0,2020,999cc,"21,601 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,153 g/km
+fiat,500,7495.0,2016,1242cc,"33,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,13392.0,2021,999cc,"15,452 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,68 bhp,104 mph,,121 g/km
+fiat,500,4495.0,2015,1242cc,"113,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,5295.0,2015,1242cc,"48,150 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5695.0,2013,1368cc,"97,919 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,159 bhp,129 mph,7.6 seconds,155 g/km
+fiat,500,5480.0,2015,1200cc,"82,000 miles",Petrol,Manual,Blue,Other,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,12650.0,2020,1242cc,"9,022 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,129 g/km
+fiat,Panda,7500.0,2015,1.2L,"41,985 miles",Diesel,Manual,White,Hatchback,4X4,5.0,4.0,74 bhp,99 mph,14.5 seconds,125 g/km
+fiat,500,14250.0,0L,"7,573 miles",Petrol,Automatic,BLUE,Hatchback,46.3 mpg,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,8799.0,2018,1242cc,"13,028 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,116 g/km
+fiat,500,4995.0,2014,1242cc,"62,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,3995.0,2014,1242cc,"70,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,1995.0,2010,1108cc,"109,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,54 bhp,93 mph,15.0 seconds,119 g/km
+fiat,500,3600.0,2012,1242cc,"76,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6290.0,2014,1242cc,"38,000 miles",Petrol,Manual,Mint,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,12995.0,2019,1242cc,"10,000 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,8995.0,2018,1242cc,"38,741 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4995.0,2012,1.2L,"55,500 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,9490.0,2018,1368cc,"59,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500X,14766.0,2021,1L,"21,233 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,118 bhp,119 mph,,142 g/km
+fiat,500X,21832.0,2023,1.5L,"2,598 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,133 g/km
+fiat,500L,7995.0,2017,1248cc,"38,974 miles",Diesel,Automatic,Red,MPV,4X2,5.0,5.0,94 bhp,105 mph,14.8 seconds,104 g/km
+fiat,Panda,13995.0,2019,875cc,"18,007 miles",Petrol,Manual,White,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,129 g/km
+fiat,Doblo,5495.0,2009,1368cc,"22,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,76 bhp,90 mph,17.0 seconds,174 g/km
+fiat,500,11395.0,2017,1.2L,"24,392 miles",Petrol,Semiauto,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,Panda,12995.0,2020,875cc,"46,166 miles",Petrol,Manual,Grey,Hatchback,4X4,5.0,4.0,89 bhp,104 mph,,166 g/km
+fiat,500X,8979.0,2018,1400cc,"45,000 miles",Petrol,Manual,Jeans Blue,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,Panda,6395.0,2021,1L,"68,522 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,,123 g/km
+fiat,Panda,7660.0,2016,1.2L,"9,016 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,5694.0,2015,1.2L,"63,210 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10001.0,2018,1.2L,"56,711 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,500X,8995.0,2016,1.4L,"35,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500,4595.0,2013,1242cc,"72,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7990.0,2011,875cc,"39,991 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,Fiorino SWB L1H1 16V Multijet Ii Tecnico Air Con Sensors EURO 6 National Delivery Available,10494.0,2020,1248cc,"18,913 miles",Diesel,Manual,White,van,4X2,,,80 bhp,100 mph,,
+fiat,500,11995.0,2019,1.2L,"12,802 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,10499.0,2015,1.2L,"15,363 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,Fiorino,9000.0,2019,1368cc,"50,877 miles",Petrol,Manual,WHITE,Other,4X2,,,76 bhp,98 mph,,
+fiat,Ducato,12000.0,2015,2287cc,"48,188 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,93 mph,,
+fiat,Ducato,11250.0,2015,2287cc,"64,133 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,93 mph,,
+fiat,Ducato,13990.0,2019,2287cc,"80,714 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,90 mph,,
+fiat,Fiorino,11994.0,2019,1248cc,"56,489 miles",Diesel,Manual,WHITE,Other,4X2,,,79 bhp,97 mph,,
+fiat,500,6995.0,2016,1242cc,"73,000 miles",Petrol,Manual,Purple,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Doblo,6450.0,2012,1368cc,"51,000 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,94 bhp,100 mph,15.4 seconds,166 g/km
+fiat,500,5995.0,2014,875cc,"76,899 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,92 g/km
+fiat,Panda,4195.0,2016,1242cc,"88,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,4995.0,2012,1242cc,"56,171 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7990.0,2018,1242cc,"42,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500X,9995.0,2016,2000cc,"44,000 miles",Diesel,Automatic,White,Other,4X4,5.0,5.0,138 bhp,118 mph,9.8 seconds,144 g/km
+fiat,500,6495.0,2014,1242cc,"43,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5690.0,2014,1242cc,"46,992 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Tipo,8850.0,2017,1368cc,"32,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,9.9 seconds,139 g/km
+fiat,500L,10995.0,2020,1368cc,"30,005 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,94 bhp,101 mph,13.9 seconds,142 g/km
+fiat,500X,13295.0,2020,999cc,"21,601 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,153 g/km
+fiat,500,5995.0,2015,"64,535 miles",Petrol,Manual,BLUE/CREAM,Hatchback,58.9 mpg,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,11995.0,2019,1242cc,"20,000 miles",Petrol,Manual,Grey Metallic,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,Punto,2400.0,2012,1368cc,"79,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,Panda,6495.0,2016,1242cc,"16,169 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,Qubo,4495.0,2011,1200cc,"51,759 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,74 bhp,96 mph,16.5 seconds,115 g/km
+fiat,Tipo,6490.0,2017,1368cc,"67,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,132 g/km
+fiat,500,6599.0,2015,1200cc,"33,627 miles",Petrol,Manual,White,Other,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Doblo,4895.0,2010,1598cc,"108,284 miles",Diesel,Manual,RED,MPV,4X2,5.0,5.0,103 bhp,102 mph,13.4 seconds,138 g/km
+fiat,500,5995.0,2015,1242cc,"53,057 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500X,6595.0,2017,1248cc,"89,017 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,107 mph,12.9 seconds,107 g/km
+fiat,500X,16995.0,2019,999cc,"4,125 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,136 g/km
+fiat,500,5795.0,2014,1242cc,"58,539 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5795.0,2015,1242cc,"50,531 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,6995.0,2014,1242cc,"59,420 miles",Petrol,Manual,METALLIC BABY BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,2395.0,2008,1368cc,"81,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,98 bhp,113 mph,10.5 seconds,149 g/km
+fiat,500,8795.0,2019,1242cc,"9,515 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,116 g/km
+fiat,Tipo,6750.0,2016,1598cc,"71,200 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,118 bhp,124 mph,,98 g/km
+fiat,Panda,5999.0,2017,1242cc,"27,700 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500L,5950.0,2014,1598cc,"69,701 miles",Diesel,Manual,Green,MPV,4X2,5.0,7.0,103 bhp,112 mph,11.8 seconds,117 g/km
+fiat,500,3595.0,2009,1242cc,"47,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500,10995.0,2021,999cc,"11,680 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,7500.0,2018,1242cc,"42,316 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,12498.0,2021,999cc,"11,418 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,Tipo,8695.0,2017,1368cc,"36,457 miles",Petrol,Manual,Magnetic Bronze Metallic,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,Panda,10995.0,2018,875cc,"7,157 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,83 bhp,108 mph,11.8 seconds,95 g/km
+fiat,500,5995.0,2012,1242cc,"46,593 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500L,5995.0,2014,1598cc,"59,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,103 bhp,109 mph,11.3 seconds,122 g/km
+fiat,500,4995.0,2014,1242cc,"91,502 miles",Petrol,Manual,Blue,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5995.0,2013,1368cc,"107,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,159 bhp,129 mph,7.6 seconds,155 g/km
+fiat,Punto,2395.0,2010,1368cc,"85,828 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,4395.0,2013,1242cc,"70,100 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6498.0,2015,1242cc,"39,642 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,Panda,6495.0,2015,1242cc,"25,674 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,Panda,6995.0,2014,875cc,"66,322 miles",Petrol,Manual,Black,Hatchback,4X4,5.0,4.0,83 bhp,103 mph,12.1 seconds,114 g/km
+fiat,500X,15000.0,2020,1L,"1,461 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,,154 g/km
+fiat,500,4995.0,2015,1242cc,"71,538 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,3995.0,2012,1242cc,"48,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4495.0,2012,1242cc,"51,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Qubo,8950.0,2011,1248cc,"17,000 miles",Diesel,Automatic,Blue,Other,4X2,5.0,5.0,74 bhp,96 mph,16.5 seconds,115 g/km
+fiat,500,13995.0,2020,1368cc,"16,622 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,167 g/km
+fiat,Panda,1985.0,2009,1200cc,"65,000 miles",Petrol,Manual,Black,Other,4X2,5.0,5.0,59 bhp,96 mph,14.0 seconds,133 g/km
+fiat,Tipo,9449.0,2019,1368cc,"30,816 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.1 seconds,133 g/km
+fiat,500X,10699.0,2018,999cc,"48,050 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,133 g/km
+fiat,Tipo,10899.0,2020,1368cc,"9,900 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,133 g/km
+fiat,Tipo,8298.0,2017,1.4L,"45,363 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,500,8800.0,2019,1.2L,"23,685 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,,129 g/km
+fiat,500X,11490.0,2020,1L,"42,125 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,153 g/km
+fiat,124,10950.0,2000,1368cc,"62,442 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,Scudo 2.0 MULTIJET 145 BHP SWB BUSINESS EDITION 6DR,22989.0,2022,2L,"15,000 miles",Diesel,Manual,Black,Van,4X2,,,145 bhp,105 mph,,
+fiat,500,8588.0,2018,1242cc,"13,732 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500X,15000.0,2020,1.3L,"21,407 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,124 mph,9.1 seconds,128 g/km
+fiat,500,9995.0,2021,999cc,"28,780 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,115 g/km
+fiat,500L,5400.0,2014,1248cc,"72,561 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,83 bhp,103 mph,15.1 seconds,110 g/km
+fiat,500,8170.0,2019,1.2L,"35,000 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+fiat,Fullback,15500.0,2017,2.4L,"23,363 miles",Diesel,Manual,Blue,Pick Up,4X4,,,178 bhp,112 mph,,173 g/km
+fiat,Ducato,11995.0,2019,2287cc,"98,123 miles",Diesel,Manual,White,Other,4X2,,,129 bhp,96 mph,,
+fiat,500,5989.0,2015,1242cc,"46,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,3950.0,2012,875cc,"76,245 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,83 bhp,108 mph,11.8 seconds,99 g/km
+fiat,Qubo,3299.0,2013,1248cc,"114,000 miles",Diesel,Auto,Silver,MPV,4X2,5.0,5.0,74 bhp,96 mph,15.2 seconds,107 g/km
+fiat,500,9299.0,2019,1.2L,"37,756 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500X,11995.0,2017,1400cc,"55,773 miles",Petrol,Automatic,Argento Grey Metallic,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,133 g/km
+fiat,500,8849.0,2018,1242cc,"16,618 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Tipo,8899.0,2016,1368cc,"12,478 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,132 g/km
+fiat,500,11099.0,2021,999cc,"11,033 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,Fullback,8750.0,2017,2442cc,"90,512 miles",Diesel,Manual,Grey,Van,4X4,,,178 bhp,112 mph,,
+fiat,Ducato,8495.0,2012,2287cc,"30,600 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,,
+fiat,Ducato,7995.0,2016,2287cc,"104,000 miles",Diesel,Manual,BLUE,Other,4X2,,,129 bhp,96 mph,,
+fiat,Punto,6799.0,2015,1242cc,"14,470 miles",Petrol,Manual,LYRICAL GREY METALLIC,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,124 g/km
+fiat,500,10990.0,2022,999cc,"26,193 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,8495.0,2019,1242cc,"13,500 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,111 g/km
+fiat,500,10495.0,2017,1242cc,"45,000 miles",Petrol,Automatic,Pink,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,105 g/km
+fiat,500,6995.0,2018,1242cc,"50,147 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5995.0,2015,1242cc,"63,456 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,8990.0,2019,1242cc,"8,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,14.8 seconds,114 g/km
+fiat,500X,9700.0,2016,1368cc,"72,310 miles",Petrol,Automatic,Bronze,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,133 g/km
+fiat,Tipo,8394.0,2019,1368cc,"43,820 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.1 seconds,149 g/km
+fiat,Panda,6495.0,2015,1242cc,"39,648 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,99 mph,14.2 seconds,119 g/km
+fiat,500,5799.0,2015,1242cc,"45,149 miles",Petrol,Manual,Yellow,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,Tipo,8900.0,2017,1368cc,"35,613 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,12.4 seconds,132 g/km
+fiat,500,4250.0,2012,1242cc,"68,167 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,6790.0,2015,1242cc,"62,000 miles",Petrol,Manual,White,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4000.0,2010,1242cc,"61,566 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4995.0,2014,1242cc,"80,000 miles",Petrol,Manual,Black,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,124,11995.0,2017,1368cc,"45,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,2.0,138 bhp,134 mph,,148 g/km
+fiat,500,13995.0,2018,1368cc,"39,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,155 g/km
+fiat,500,6190.0,2012,1242cc,"31,272 miles",Petrol,Manual,Grey,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,5495.0,2016,1242cc,"89,595 miles",Petrol,Manual,Pink,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4394.0,2014,1242cc,"53,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,3995.0,2012,1242cc,"89,355 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4995.0,2014,1242cc,"69,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500X,7980.0,2016,1368cc,"60,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500,6295.0,2016,1242cc,"59,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9995.0,2017,1368cc,"35,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+fiat,Punto,2295.0,2011,1400cc,"97,000 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500X,6995.0,2016,1368cc,"82,999 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500X,7995.0,2015,1368cc,"79,159 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500,6995.0,2014,1242cc,"62,419 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Tipo,11698.0,2020,1.4L,"8,008 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,,153 g/km
+fiat,500,8994.0,2019,1.2L,"57,653 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,6999.0,2017,1.2L,"54,670 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,13990.0,2023,1L,134 miles,Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,106 g/km
+fiat,500,6490.0,2015,1242cc,"37,213 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9299.0,2019,1242cc,"20,239 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,7499.0,2015,1242cc,"21,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,19495.0,2021,1368cc,"13,700 miles",Petrol,Automatic,GREY,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,172 g/km
+fiat,500,12495.0,2021,999cc,"16,452 miles",Petrol,Manual,BOSS NOVA WHITE,Other,4X2,2.0,4.0,68 bhp,104 mph,,109 g/km
+fiat,500,6495.0,2016,1.2L,"32,035 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500X,15309.0,2020,1L,"9,664 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,117 mph,,162 g/km
+fiat,500L,6970.0,2015,1.4L,"42,402 miles",Petrol,Manual,MPV,45.6 mpg,4X2,5.0,5.0,94 bhp,111 mph,12.8 seconds,143 g/km
+fiat,500,12990.0,2019,1.2L,"10,000 miles",Petrol,Semi Automatic,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,Doblo Cargo MAXI 1.6 MULTIJET II 16V 120 BHP L2 LONG TECNICO 6DR,11989.0,2020,1.6L,"52,000 miles",Diesel,Manual,White,Van,4X2,,,119 bhp,106 mph,,
+fiat,500,3450.0,2011,875cc,"68,225 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,95 g/km
+fiat,500,8400.0,2019,1242cc,"28,079 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,Punto,4995.0,2014,1.24L,"40,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,97 mph,14.4 seconds,126 g/km
+fiat,Punto,2995.0,2012,1242cc,"49,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,68 bhp,97 mph,14.4 seconds,123 g/km
+fiat,Doblo Cargo 1.3 Doblo Cargo Maxi Cargo 1.3 90 Multijet Ii,5495.0,2014,1248cc,"73,000 miles",Diesel,Manual,Red,Panel Van,4X2,,,88 bhp,98 mph,,
+fiat,500,10000.0,2020,999cc,"23,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,8750.0,2018,1242cc,"42,017 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,122 g/km
+fiat,Doblo Cargo,4495.0,2017,1248cc,"135,819 miles",Diesel,Manual,White,Van,4X2,,,95 bhp,98 mph,,
+fiat,500,4250.0,2016,1242cc,"109,200 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5495.0,2017,1242cc,"46,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3250.0,2010,1242cc,"42,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,119 g/km
+fiat,500X,15994.0,2022,999cc,"8,352 miles",Petrol,Manual,Venezia Blue,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,,154 g/km
+fiat,500,10495.0,2020,1242cc,"14,944 miles",Petrol,Manual,Tech House Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,139 g/km
+fiat,500,6750.0,2016,1242cc,"47,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,2750.0,2009,1242cc,"38,570 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,96 mph,14.0 seconds,119 g/km
+fiat,500,6999.0,2017,1242cc,"45,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3995.0,2010,1242cc,"76,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,8000.0,2017,1242cc,"27,000 miles",Petrol,Manual,Quartz Grey Metallic,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,10995.0,2021,999cc,"35,856 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,115 g/km
+fiat,Tipo,7995.0,2017,1600cc,"49,035 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,118 bhp,124 mph,10.1 seconds,98 g/km
+fiat,500,6695.0,2014,1242cc,"50,391 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,8995.0,2018,1242cc,"70,628 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,68 bhp,96 mph,14.8 seconds,131 g/km
+fiat,500L,10995.0,2018,1368cc,"33,041 miles",Petrol,Manual,BLUE/BLACK,MPV,4X2,5.0,5.0,94 bhp,101 mph,13.9 seconds,161 g/km
+fiat,500,5450.0,2014,1242cc,"38,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9999.0,2019,1242cc,"14,860 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,111 g/km
+fiat,500,12995.0,2019,1.2L,"17,885 miles",Petrol,Semiauto,Blue,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,114 g/km
+fiat,500,10700.0,2021,1L,"28,470 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500,10400.0,2019,1.2L,"24,641 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,10500.0,2020,1.2L,"18,282 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,108 g/km
+fiat,500,10400.0,2021,1L,"34,447 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500,10400.0,2021,1L,"35,299 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500X,7293.0,2016,1.6L,"47,661 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,500,10699.0,2021,1L,"9,421 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,500,10990.0,999cc,"9,145 miles",Petrol,Manual,White,Hatchback,56.5 mpg,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500,13990.0,999cc,"5,017 miles",Petrol,Manual,Blue,Convertible,55.4 mpg,4X2,2.0,4.0,68 bhp,104 mph,,109 g/km
+fiat,Tipo,9750.0,2018,1368cc,"34,054 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,,139 g/km
+fiat,500,12450.0,2020,1242cc,"51,082 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,135 g/km
+fiat,500,7150.0,2017,1242cc,"35,644 miles",Petrol,Manual,Bossa Nova White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,7495.0,2017,1242cc,"52,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,9495.0,2018,1368cc,"49,867 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+fiat,500,7980.0,2018,1242cc,"21,230 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,500,9995.0,2020,1242cc,"9,277 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,130 g/km
+fiat,500,16994.0,2021,1L,"5,800 miles",Other,Automatic,GREEN,Hatchback,4X2,3.0,4.0,117 bhp,93 mph,,0 g/km
+fiat,500,6970.0,2016,1242cc,"24,156 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,5929.0,2016,1242cc,"77,891 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8440.0,2017,1.2L,"36,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,8780.0,2016,0.9L,"41,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,103 bhp,117 mph,10.0 seconds,99 g/km
+fiat,Talento 2.0 16V MULTIJET II 145 BHP LWB SPORTIVO AUTOMATIC ( NO VAT ! ),26989.0,2021,2L,"15,000 miles",Diesel,Automatic,Black,Van,4X2,,,145 bhp,112 mph,,
+fiat,500,8999.0,2015,1.2L,"22,000 miles",Petrol,Manual,Green,Convertible,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,500,8895.0,2018,1.2L,"17,500 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,Panda,8990.0,2020,1.2L,"24,082 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,68 bhp,102 mph,14.8 seconds,114 g/km
+fiat,500,6988.0,2015,0.9L,"29,446 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,103 bhp,117 mph,10.0 seconds,99 g/km
+fiat,Panda,5795.0,2013,1242cc,"18,890 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,500,8490.0,2018,1242cc,"24,547 miles",Petrol,Manual,Crossover Black,Hatchback,4X2,3.0,4.0,68 bhp,101 mph,12.9 seconds,116 g/km
+fiat,Panda,4995.0,2012,1242cc,"9,803 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,14.2 seconds,120 g/km
+fiat,124,21450.0,2018,1368cc,"16,000 miles",Petrol,Manual,Turini White,Convertible,4X2,2.0,2.0,168 bhp,144 mph,6.8 seconds,148 g/km
+fiat,Panda,5490.0,2013,1248cc,"83,499 miles",Diesel,Manual,Blue,Hatchback,4X4,5.0,4.0,74 bhp,99 mph,14.5 seconds,125 g/km
+fiat,Punto,2495.0,2008,1368cc,"51,000 miles",Petrol,Manual,METALLIC BLACK,Hatchback,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,139 g/km
+fiat,500X,6995.0,2015,1368cc,"51,261 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,138 bhp,118 mph,9.8 seconds,139 g/km
+fiat,500,11995.0,2021,1L,"3,128 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,104 mph,,119 g/km
+fiat,Fiorino,5795.0,2016,1248cc,"62,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,97 mph,,
+fiat,Ducato,7995.0,2016,2287cc,"96,657 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,90 mph,,
+fiat,Ducato,6000.0,2013,2287cc,"54,000 miles",Diesel,Manual,White,Van,4X2,,,109 bhp,96 mph,,
+fiat,Ducato,44995.0,2015,2287cc,"16,000 miles",Diesel,Manual,White,Other,,,,,,,
+fiat,Doblo Cargo,3995.0,2014,1598cc,"70,238 miles",Diesel,Manual,White,Van,4X2,,,103 bhp,102 mph,,
+fiat,500X,7985.0,2016,1598cc,"50,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.5 seconds,147 g/km
+fiat,500L,4386.0,2013,1248cc,"69,919 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,83 bhp,102 mph,14.9 seconds,110 g/km
+fiat,500,5495.0,2015,1242cc,"54,971 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,111 g/km
+fiat,Punto,3843.0,2014,1368cc,"80,463 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,3995.0,2012,1242cc,"50,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,11115.0,2021,"4,398 miles",Petrol,Manual,Black,Hatchback,56.5 mpg,4X2,3.0,4.0,68 bhp,104 mph,,113 g/km
+fiat,500,9494.0,2014,1368cc,"44,548 miles",Petrol,Automatic,Black,Convertible,4X2,3.0,4.0,138 bhp,129 mph,8.1 seconds,150 g/km
+fiat,500,5990.0,2015,875cc,"59,102 miles",Petrol,Manual,Blue,Convertible,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,92 g/km
+fiat,500,3796.0,2012,1242cc,"50,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Panda,6450.0,2013,875cc,"49,000 miles",Petrol,Manual,White,Hatchback,4X4,5.0,4.0,83 bhp,103 mph,12.1 seconds,114 g/km
+fiat,500,4250.0,2014,1242cc,"86,031 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7495.0,2016,1242cc,"25,600 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,11500.0,2017,1368cc,"27,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+fiat,500,6999.0,2015,1242cc,"63,052 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,Panda,1695.0,2011,1242cc,Petrol,Manual,Grey,Hatchback,57.6 mpg,4X2,5.0,5.0,68 bhp,101 mph,13.4 seconds,113 g/km
+fiat,500,7700.0,2018,1242cc,"36,165 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500L,5995.0,2013,1368cc,"60,420 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,94 bhp,111 mph,12.8 seconds,145 g/km
+fiat,500,5999.0,2014,1242cc,"58,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7999.0,2017,1242cc,"43,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,,110 g/km
+fiat,Doblo,3495.0,2013,1598cc,"92,511 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,103 bhp,102 mph,13.4 seconds,138 g/km
+fiat,500,12495.0,2016,"64,000 miles",Petrol,Manual,Red,Other,47.1 mpg,4X2,3.0,4.0,177 bhp,140 mph,6.7 seconds,139 g/km
+fiat,500,4699.0,2014,1200cc,"77,591 miles",Petrol,Manual,Black,Other,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,2499.0,2010,1248cc,"101,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,3.0,4.0,94 bhp,112 mph,10.7 seconds,104 g/km
+fiat,500X,8450.0,2016,1598cc,"42,304 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,115 mph,10.5 seconds,109 g/km
+fiat,500,8280.0,2017,0.9L,"22,390 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,90 g/km
+fiat,500,13499.0,2022,1L,"3,247 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,68 bhp,104 mph,,109 g/km
+fiat,500,16795.0,2019,1368cc,"13,890 miles",Petrol,Manual,GARA WHITE,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,155 g/km
+fiat,500,5290.0,2015,1242cc,"63,641 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,3495.0,2013,1242cc,"97,952 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,3490.0,2014,1242cc,"69,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,Sedici,2995.0,2006,1586cc,"45,100 miles",Petrol,Manual,Beige,Hatchback,4X4,5.0,5.0,106 bhp,106 mph,10.8 seconds,173 g/km
+fiat,500,6199.0,2010,1242cc,"54,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km
+fiat,500,4875.0,2014,1242cc,"47,912 miles",Petrol,Manual,Beige,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4795.0,2013,1242cc,"65,301 miles",Petrol,Manual,BIANCO WHITE,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,4995.0,2014,875cc,"61,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,83 bhp,107 mph,11.0 seconds,92 g/km
+fiat,500,5495.0,2014,1242cc,"58,700 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,7500.0,2013,1242cc,"42,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,113 g/km
+fiat,500,9995.0,2017,1368cc,"61,152 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,158 bhp,134 mph,,139 g/km
+fiat,Punto,1550.0,2013,1400cc,"128,680 miles",Petrol,Manual,Blue,Other,4X2,3.0,5.0,76 bhp,103 mph,13.2 seconds,132 g/km
+fiat,500,8000.0,2018,1242cc,"20,000 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,12.9 seconds,110 g/km

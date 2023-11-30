@@ -1,0 +1,6 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+lotus,Evora,49990.0,2016,3456cc,"26,925 miles",Petrol,Automatic,Grey,Coupe,4X2,2.0,4.0,399 bhp,174 mph,4.1 seconds,225 g/km
+lotus,Evora,64950.0,2019,3456cc,"9,430 miles",Petrol,Manual,GREY,Coupe,4X2,2.0,2.0,410 bhp,186 mph,,225 g/km
+lotus,Evora,52999.0,2018,3.5L,"22,101 miles",Petrol,Semiauto,Black,Coupe,4X2,2.0,4.0,399 bhp,174 mph,4.1 seconds,225 g/km
+lotus,Esprit,35000.0,1991,2173cc,"21,323 miles",Petrol,Manual,Black,Coupe,4X2,2.0,,216 bhp,150 mph,5.3 seconds,0 g/km
+lotus,Emira,81500.0,2023,3456cc,23 miles,Petrol,Manual,Grey,Coupe,4X2,2.0,2.0,399 bhp,180 mph,,258 g/km

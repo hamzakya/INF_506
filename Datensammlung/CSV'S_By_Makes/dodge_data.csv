@@ -1,0 +1,4 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+dodge,Caliber,5999.0,2008,1998cc,"24,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,154 bhp,125 mph,10.7 seconds,192 g/km
+dodge,Nitro,3995.0,2009,2777cc,"86,912 miles",Diesel,Automatic,RED,Estate,4X4,5.0,5.0,176 bhp,113 mph,10.5 seconds,250 g/km
+dodge,Ram,15995.0,2004,5900cc,"129,000 miles",Petrol,Automatic,Grey,Van,,,,,,,

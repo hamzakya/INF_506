@@ -1,0 +1,9 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+chrysler,Ypsilon,3995.0,2013,1242cc,"40,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.4 seconds,118 g/km
+chrysler,Crossfire,4795.0,2005,3199cc,"88,000 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,2.0,216 bhp,155 mph,6.5 seconds,243 g/km
+chrysler,Ypsilon,2999.0,2012,1242cc,"53,700 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,13.4 seconds,118 g/km
+chrysler,300C,13995.0,2013,2987cc,"26,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,237 bhp,144 mph,7.4 seconds,185 g/km
+chrysler,300C,5995.0,2007,3518cc,"35,832 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,251 bhp,143 mph,9.0 seconds,260 g/km
+chrysler,Grand Voyager,9295.0,2012,2800cc,"87,567 miles",Diesel,Automatic,METALLIC SILVER,MPV,4X2,5.0,7.0,162 bhp,115 mph,12.8 seconds,222 g/km
+chrysler,300C,3995.0,2009,3000cc,"117,000 miles",Diesel,Automatic,Blue,Other,4X2,4.0,5.0,216 bhp,141 mph,8.4 seconds,215 g/km
+chrysler,300C,3350.0,2006,2987cc,"95,755 miles",Diesel,Automatic,GREY,Saloon,4X2,4.0,5.0,218 bhp,143 mph,7.5 seconds,215 g/km

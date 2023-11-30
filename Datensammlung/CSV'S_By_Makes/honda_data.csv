@@ -1,0 +1,937 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+honda,HRV,9995.0,2016,1597cc,"70,000 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,CRV,9890.0,2014,2199cc,"75,261 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,CRV,2500.0,2008,2204cc,"152,800 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,CRV,17412.0,2017,1597cc,"39,228 miles",Diesel,Automatic,Silver,Other,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,CRV,28990.0,2020,1993cc,"15,690 miles",Hybrid,Automatic,Red,Other,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,CRV,33291.0,2023,1993cc,"2,200 miles",Hybrid,Automatic,Blue,Estate,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,HRV,26290.0,2022,1.5L,"5,415 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,27290.0,2021,2L,"13,398 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,CRV,18450.0,2018,1.6L,"33,924 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Civic,11879.0,2019,1600cc,"74,800 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Jazz,13990.0,2018,1.3L,"5,320 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,111 g/km
+honda,Civic,10850.0,2019,988cc,"26,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Civic,3490.0,2009,1339cc,"84,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,98 bhp,110 mph,13.0 seconds,135 g/km
+honda,Jazz,8250.0,2013,1339cc,"56,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,CRV,2795.0,2007,2200cc,"104,376 miles",Diesel,Manual,Blue And Silver,Other,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,Jazz,4990.0,2009,1339cc,"24,148 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,Civic,12799.0,2017,988cc,"52,232 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,114 g/km
+honda,CRV,18749.0,2016,1597cc,"19,309 miles",Diesel,,Black,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.2 seconds,139 g/km
+honda,Civic,13549.0,2017,1798cc,"53,606 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,11.2 seconds,150 g/km
+honda,Jazz,17990.0,2020,1.5L,"40,597 miles",Hybrid,Automatic,Grey,Hatchback,,,,,,,
+honda,Civic,12990.0,2017,1L,"60,054 miles",Petrol,Automatic,White,Hatchback,,,,,,,
+honda,Jazz,17295.0,2020,1.5L,"6,042 miles",Hybrid,Automatic,White,Hatchback,,,,,,,
+honda,Jazz,17991.0,2020,1.5L,"6,400 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,30900.0,2021,2L,"14,422 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,10920.0,2016,1.3L,"26,471 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,CRV,16600.0,2017,2000cc,"32,984 miles",Petrol,Manual,Unknown,Estate,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,177 g/km
+honda,CRV,25290.0,2022,2L,"23,698 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,CRV,27880.0,2021,2L,"32,645 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Civic,18500.0,2019,1.5L,"27,550 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.3 seconds,128 g/km
+honda,Jazz,13300.0,2018,1.3L,"38,479 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,HRV,15000.0,2016,1.5L,"50,319 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,Civic,12250.0,2018,1L,"58,914 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,HRV,18769.0,2020,1.5L,"17,523 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,HRV,26686.0,2023,1.5L,"1,905 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,23500.0,2022,1.5L,"17,117 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,N VAN Model G - Works Specification 658cc Automatic,10999.0,2023,658000cc,"32,000 miles",Petrol,Automatic,Various Available,Panel Van,,,,,,,
+honda,Civic,17495.0,2018,1.5L,"35,649 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,CRV,26995.0,2020,2L,"22,437 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Jazz,2995.0,2008,1339cc,"79,950 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,HRV,13993.0,2017,1597cc,"18,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,CRV,9995.0,2014,2199cc,"82,750 miles",Diesel,Manual,Red,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,Stepwagon,10995.0,2012,2000cc,"76,000 miles",Petrol,Automatic,Black,MPV,,,,,,,
+honda,Jazz,23999.0,2022,"7,188 miles",Petrol,Automatic,Red,Hatchback,58.9 mpg,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Civic,14849.0,2019,1597cc,"43,890 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,CRV,5199.0,2013,2199cc,"163,910 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,CRV,8299.0,2015,2199cc,"122,347 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,CRV,1999.0,2004,1998cc,"134,251 miles",Petrol,Manual,Silver,SUV,4X4,5.0,5.0,148 bhp,110 mph,10.1 seconds,216 g/km
+honda,CRV,6599.0,2010,2199cc,"87,711 miles",Diesel,Automatic,Bronze,SUV,4X4,5.0,5.0,147 bhp,116 mph,10.6 seconds,195 g/km
+honda,FRV,4995.0,2007,1799cc,"72,000 miles",Petrol,Automatic,GREY,MPV,4X2,5.0,6.0,138 bhp,115 mph,12.4 seconds,190 g/km
+honda,CRV,8490.0,2014,1997cc,"70,000 miles",Petrol,Manual,BROWN,Estate,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,CRV,5995.0,2014,1597cc,"128,896 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,CRV,9000.0,2012,2199cc,"54,703 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,147 bhp,116 mph,10.6 seconds,195 g/km
+honda,HRV,11489.0,2018,1597cc,"51,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,10.5 seconds,108 g/km
+honda,Civic,15495.0,2019,1498cc,"30,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Civic,10000.0,2015,1597cc,"43,043 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,98 g/km
+honda,Jazz,11049.0,2018,1318cc,"26,080 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,Jazz,21295.0,2020,1498cc,"11,998 miles",Petrol/Electric,CVT,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,HRV,15990.0,2017,1498cc,"21,283 miles",Petrol,CVT,Blue,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,125 g/km
+honda,Jazz,21795.0,2021,1498cc,"7,559 miles",Petrol/Electric,CVT,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,29995.0,2019,1996cc,"13,125 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,177 g/km
+honda,Jazz,22490.0,2023,"2,641 miles",Petrol/Electric,CVT,Platinum White,Hatchback,62.8 mpg,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,47990.0,2023,"5,000 miles",Petrol/Electric,CVT,Premium Crystal Red,Estate,6.6 mpg,4X2,5.0,5.0,146 bhp,187 mph,,
+honda,Jazz,25990.0,2023,"5,000 miles",Petrol/Electric,CVT,Premium Sunlight White,Hatchback,62.8 mpg,4X2,5.0,5.0,106 bhp,108 mph,,
+honda,Civic,12990.0,2016,"45,600 miles",Petrol,Automatic,White Orchid Pearl,Hatchback,44.1 mpg,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Jazz,20999.0,2021,1498cc,"13,000 miles",Other,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,5495.0,2012,1339cc,"67,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,CRV,4490.0,2008,2204cc,"110,834 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,Civic,2990.0,1996,1493cc,"75,038 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,114 bhp,110 mph,12.2 seconds,0 g/km
+honda,HRV,13995.0,2018,1498cc,"63,595 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,134 g/km
+honda,Jazz,6990.0,2015,1339cc,"74,933 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,Civic,16595.0,2019,988cc,"6,132 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,CRV,28495.0,2021,1993cc,"14,057 miles",Petrol Hybrid,Automatic,Brown,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Civic,9500.0,2017,988cc,"71,430 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,110 g/km
+honda,Jazz,3295.0,2012,1198cc,"103,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Civic,15490.0,2017,1498cc,"40,177 miles",Petrol,Auto,Silver,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.2 seconds,139 g/km
+honda,Civic,18895.0,2020,1L,"10,361 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,11.2 seconds,140 g/km
+honda,Jazz,15750.0,2020,1.3L,"28,160 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,139 g/km
+honda,Civic,19791.0,2020,1.5L,"14,999 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,137 g/km
+honda,Civic,14799.0,2018,1L,"28,497 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Jazz,19729.0,2021,1.5L,"22,227 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,22495.0,2022,1.5L,"6,236 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,35500.0,2023,2L,"7,145 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,HRV,20000.0,2019,1.5L,"17,489 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,180 bhp,134 mph,8.6 seconds,137 g/km
+honda,Civic,14495.0,2020,1L,"12,372 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,134 g/km
+honda,Jazz,24190.0,2022,1.5L,"3,500 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,CRV,22500.0,2019,1.5L,"15,082 miles",Petrol,Automatic,White,SUV,,,,,,,
+honda,Jazz,15995.0,2020,1.3L,"10,716 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,Civic,30400.0,2022,2L,"8,358 miles",Hybrid,Automatic,Blue,Hatchback,,,,,,,
+honda,HRV,25950.0,2022,1.5L,"15,107 miles",Hybrid,Automatic,Beige,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,20950.0,2020,1.5L,"15,140 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,156 g/km
+honda,Jazz,13490.0,2018,1.3L,"16,700 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,Jazz,23490.0,2022,1.5L,"4,967 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,11799.0,2017,1.3L,"33,982 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,111 g/km
+honda,Civic,16771.0,2019,1L,"15,860 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,10.8 seconds,107 g/km
+honda,Jazz,21381.0,2021,1.5L,"17,750 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,10920.0,2018,1.3L,"15,682 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,HRV,13750.0,2018,1.5L,"36,976 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,Jazz,20490.0,2020,1.5L,"32,480 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Civic,16999.0,2020,1L,"9,100 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,110 g/km
+honda,CRV,11499.0,2014,1997cc,"72,365 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,HRV,15680.0,2000,1498cc,"28,751 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,132 g/km
+honda,CRV,12750.0,2016,1597cc,"98,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,Civic,7500.0,2014,2199cc,"55,000 miles",Diesel,Manual,Brown,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,110 g/km
+honda,CRV,7295.0,2014,2199cc,"100,009 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,144 g/km
+honda,Civic,4650.0,2012,2199cc,"11,700 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,132 mph,9.2 seconds,102 g/km
+honda,Civic,2795.0,2008,1798cc,"104,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,152 g/km
+honda,CRV,11995.0,2016,1597cc,"83,000 miles",Diesel,Manual,Red,SUV,,,,,,,
+honda,CRV,7890.0,2010,1997cc,"73,000 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,147 bhp,110 mph,12.2 seconds,193 g/km
+honda,Civic,4980.0,2010,1339cc,"51,972 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,98 bhp,110 mph,13.0 seconds,135 g/km
+honda,CRV,7495.0,2013,1597cc,"90,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,Jazz,3195.0,2008,1339cc,"42,525 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.3 seconds,134 g/km
+honda,Jazz,3950.0,2005,1339cc,"46,432 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,139 g/km
+honda,Civic,1999.0,2007,2204cc,"119,000 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.6 seconds,140 g/km
+honda,CRV,14249.0,2018,1597cc,"56,088 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.6 seconds,129 g/km
+honda,CRV,14990.0,2016,1597cc,"56,000 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Jazz,5995.0,2012,1198cc,"44,500 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Jazz,11590.0,2017,1318cc,"25,223 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.0 seconds,106 g/km
+honda,Jazz,5490.0,2015,1339cc,"59,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Jazz,5995.0,2014,1198cc,"65,572 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,E,19788.0,2020,1L,"28,000 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,4.0,151 bhp,90 mph,,0 g/km
+honda,CRV,2995.0,2012,2199cc,"186,456 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Civic,12698.0,2018,1L,"44,085 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Jazz,17000.0,2021,1.5L,"25,314 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,17750.0,2021,1.5L,"54,413 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,21650.0,2020,1.5L,"8,328 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,27995.0,2023,1.5L,5 miles,Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,108 g/km
+honda,CRV,20849.0,2020,1993cc,"50,459 miles",Hybrid,,Red,SUV,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,120 g/km
+honda,Jazz,14199.0,2017,1318cc,"16,683 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,HRV,32990.0,2023,"5,000 miles",Petrol/Electric,CVT,Premium Crystal Red,Hatchback,52.3 mpg,4X2,5.0,5.0,129 bhp,106 mph,,
+honda,HRV,14990.0,2015,"41,000 miles",Petrol,CVT,Milano Red,Hatchback,52.3 mpg,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,HRV,26172.0,2022,1.5L,"20,351 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Stepwagon Spada,11995.0,2012,2000cc,"49,332 miles",Petrol,Automatic,White,MPV,,,,,,,
+honda,Stepwagon Spada,10495.0,2009,2000cc,"43,016 miles",Petrol,Automatic,Black,MPV,,,,,,,
+honda,CRV,24700.0,2020,1993cc,"37,481 miles",Petrol Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Jazz,12795.0,2019,1318cc,"35,656 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,Jazz,23795.0,2022,1498cc,"10,584 miles",Petrol Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Jazz,23795.0,2022,1498cc,"10,239 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Jazz,23795.0,2023,1498cc,"6,379 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,21995.0,2022,1498cc,"6,151 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,9100.0,2018,1318cc,"48,281 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,Jazz,10595.0,2018,1318cc,"39,561 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,CRF300L 1 OWNER FROM NEW,4590.0,2022,286cc,"8,005 miles",Petrol,Manual,Red,bike,,,,27 bhp,,,
+honda,CB125R 125 BEST 125 IN CLASS,4096.0,2020,125cc,"2,500 miles",Petrol,Manual,Blue,bike,,,,10 bhp,,,
+honda,X-ADV 750 FULLY Spec Out,9896.0,2021,745cc,"5,188 miles",Petrol,Automatic,Red,bike,,,,58 bhp,,,
+honda,PCX125 125 phone mount & top box,3600.0,2022,125cc,627 miles,Petrol,Automatic,Black,bike,,,,12 bhp,,,
+honda,CRF1000L Africa Twin 1000 Africa Twin ABS fully kitted out,6900.0,2017,998cc,"20,500 miles",Petrol,Manual,White,bike,,,,,,,
+honda,Civic,8950.0,2016,1597cc,"70,668 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,118 bhp,121 mph,10.3 seconds,99 g/km
+honda,Jazz,19991.0,2020,1498cc,"27,241 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Civic,27995.0,2000,1996cc,"25,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,177 g/km
+honda,Civic,10190.0,2016,1798cc,"77,740 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,CRV,9490.0,2012,2199cc,"34,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Civic,2394.0,2007,1798cc,"133,700 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,156 g/km
+honda,Civic,15590.0,2019,1597cc,"50,650 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,Jazz,4995.0,2012,1339cc,"69,000 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,Civic,8995.0,2018,1597cc,"139,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,CRV,18749.0,2017,1997cc,"29,076 miles",Petrol,,Blue,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Civic,15399.0,2019,988cc,"28,026 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,10.8 seconds,107 g/km
+honda,CRV,28295.0,2020,2L,"9,251 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Jazz,19250.0,2022,1.5L,"9,112 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,16500.0,2019,1L,"36,181 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,11.0 seconds,107 g/km
+honda,Jazz,23250.0,2022,1.5L,"11,660 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Civic,17750.0,2019,1.5L,"41,592 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.4 seconds,137 g/km
+honda,Jazz,21000.0,2022,1.5L,"8,476 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,13350.0,2017,1.3L,"34,263 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Civic,16221.0,2017,1.5L,"45,842 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,,133 g/km
+honda,CRV,28690.0,2020,2L,"28,206 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Jazz,17432.0,2019,1.5L,"10,782 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,10.1 seconds,125 g/km
+honda,HRV,29140.0,2023,1.5L,"6,558 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,31319.0,2021,2L,"13,533 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,13799.0,2019,1.3L,"37,215 miles",Petrol,Automatic,Blue,Hatchback,,,,,,,
+honda,CRV,22000.0,2019,2L,"42,424 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,HRV,21991.0,2019,1498cc,"18,033 miles",Petrol,CVT,Blue,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,122 g/km
+honda,Jazz,18991.0,2020,1498cc,"27,835 miles",Petrol/Electric,CVT,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,7492.0,2015,1339cc,"42,425 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,HRV,18500.0,2020,1.5L,"32,007 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,153 g/km
+honda,Jazz,21500.0,2021,1.5L,"26,027 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Civic,13705.0,2017,1L,"43,470 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,CRV,13295.0,2017,1.6L,"49,669 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,CRV,34950.0,2022,2L,"11,690 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,34950.0,2022,2L,"11,737 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,HRV,30891.0,2023,1498cc,100 miles,Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,106 mph,,
+honda,HRV,30891.0,2023,1498cc,100 miles,Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,106 mph,,
+honda,Jazz,9995.0,2013,1.3L,"43,600 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,CRV,17990.0,2016,1597cc,"39,968 miles",Diesel,Automatic,White Orchid Pearl,Estate,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,Civic,8289.0,2013,1798cc,"35,941 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,143 g/km
+honda,CRV,11000.0,2015,2199cc,"38,671 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,175 g/km
+honda,CRV,11500.0,2015,1597cc,"82,217 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Civic,10595.0,2016,1798cc,"56,752 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,139 bhp,130 mph,9.5 seconds,149 g/km
+honda,Civic,46950.0,2023,2L,"7,081 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,325 bhp,171 mph,,186 g/km
+honda,CRV,15495.0,2017,1597cc,"69,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.6 seconds,129 g/km
+honda,Civic,14300.0,2018,1597cc,"40,098 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,Civic,15550.0,2020,988cc,"17,502 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,110 g/km
+honda,Shuttle,9395.0,2012,0L,"84,000 miles",Petrol,Automatic,Purple,MPV,4X4,3.0,,66 bhp,,,0 g/km
+honda,CRV,22049.0,2019,1498cc,"31,382 miles",Petrol,,Brown,SUV,4X4,5.0,5.0,170 bhp,129 mph,9.8 seconds,151 g/km
+honda,Jazz,22995.0,2021,1498cc,"1,500 miles",Petrol/Electric Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,HRV,29995.0,2022,1498cc,"9,512 miles",Petrol/Electric,CVT,Red,Hatchback,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,7995.0,2013,1798cc,"38,493 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,137 g/km
+honda,Civic,7495.0,2012,1.8L,"31,369 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,137 g/km
+honda,Civic,3495.0,2008,1339cc,"110,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,82 bhp,127 mph,10.9 seconds,139 g/km
+honda,CBR1100XX Super Blackbird,1690.0,1997,1137cc,"57,228 miles",Petrol,Manual,Black,bike,,,,,,,
+honda,CB650 1 PREVIOUS OWNER,5490.0,2019,649cc,"6,256 miles",Petrol,Manual,Black,bike,,,,94 bhp,,,
+honda,CRV,19250.0,2018,2L,"32,347 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Jazz,22556.0,2020,1.5L,"9,250 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,CRV,27324.0,2022,2L,885 miles,Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,21753.0,2020,1.5L,"8,131 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,22430.0,2020,1.5L,"13,670 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,HRV,23960.0,2022,1.5L,"20,196 miles",Hybrid,Automatic,Beige,SUV,4X2,5.0,5.0,129 bhp,106 mph,,
+honda,Jazz,21054.0,2021,1.5L,"16,157 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,17143.0,2018,1.5L,"41,268 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.4 seconds,139 g/km
+honda,Civic,20487.0,2020,1L,"12,683 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,125 bhp,124 mph,,152 g/km
+honda,CRV,31223.0,2020,2L,"10,429 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Jazz,13785.0,2019,1.3L,"31,543 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,119 g/km
+honda,CRV,33879.0,2022,2L,"4,315 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,19747.0,2021,1.5L,"17,447 miles",Hybrid,Automatic,Grey,Hatchback,,,,,,,
+honda,Jazz,21398.0,2020,1.5L,"8,393 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,22991.0,2021,1.5L,"5,715 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,5499.0,2009,1339cc,"53,061 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,13.5 seconds,125 g/km
+honda,CRV,9350.0,2012,1997cc,"42,482 miles",Petrol,Manual,WHITE,Estate,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,173 g/km
+honda,Civic,4999.0,2010,1339cc,"70,935 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,5.0,98 bhp,110 mph,15.0 seconds,132 g/km
+honda,Jazz,11995.0,2016,1318cc,"35,700 miles",Petrol,Automatic,ORANGE,Hatchback,,,,,,,
+honda,Civic,15149.0,2019,1597cc,"49,210 miles",Diesel,,Red,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Jazz,13349.0,2019,1498cc,"29,610 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,8.7 seconds,134 g/km
+honda,CRV,28695.0,2020,2L,"25,962 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,HRV,11404.0,2015,1.5L,"40,329 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,HRV,18953.0,2020,1.5L,"44,489 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,121 g/km
+honda,HRV,26470.0,2023,1.5L,"2,769 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,13000.0,2018,1.6L,"42,789 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,HRV,27500.0,2022,1.5L,"10,351 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,31990.0,2023,2L,"11,042 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Jazz,5499.0,2012,1339cc,"67,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,CRV,10495.0,2015,1997cc,"52,000 miles",Petrol,Manual,BROWN,Estate,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,CRV,5995.0,2008,2L,"92,000 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,147 bhp,110 mph,12.2 seconds,195 g/km
+honda,CRV,14500.0,2018,1597cc,"58,396 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Civic,18600.0,2021,1L,"9,414 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,147 g/km
+honda,Civic,18500.0,2019,1L,"10,660 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,11.0 seconds,107 g/km
+honda,Jazz,9999.0,2018,1.3L,"41,962 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,Jazz,27329.0,2023,1.5L,5 miles,Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,108 g/km
+honda,Jazz,28960.0,2023,1.5L,5 miles,Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,108 g/km
+honda,HRV,32990.0,2023,1.5L,4 miles,Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,25490.0,2023,1.5L,4 miles,Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,102 g/km
+honda,HRV,28995.0,2023,1.5L,5 miles,Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,18700.0,2017,1.5L,"11,588 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.5 seconds,139 g/km
+honda,CRV,17889.0,2018,2L,"49,071 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,24250.0,2019,2L,"46,865 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,HRV,18645.0,2019,1.5L,"25,576 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,135 g/km
+honda,CRV,14995.0,2014,2000cc,"38,489 miles",Petrol,Automatic,Twighlight Blue Metallic,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRZ,4995.0,2011,1497cc,"84,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,113 bhp,124 mph,9.9 seconds,117 g/km
+honda,Jazz,5995.0,2013,1339cc,"56,366 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Jazz,10000.0,2018,1318cc,"57,528 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,CRV,2095.0,2007,2204cc,"157,839 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,Jazz,5500.0,2012,1339cc,"71,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,CRZ,8490.0,2014,1497cc,"57,000 miles",Other,Manual,RED,Hatchback,4X2,3.0,4.0,113 bhp,124 mph,9.9 seconds,117 g/km
+honda,CRV,11890.0,2014,1997cc,"71,767 miles",Petrol,Automatic,SILVER,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,8995.0,2013,2199cc,"103,503 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,180 g/km
+honda,CRV,7999.0,2013,1997cc,"93,859 miles",Petrol,Manual,Silver,SUV,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,177 g/km
+honda,CRV,54950.0,2023,2L,"3,500 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,146 bhp,121 mph,,19 g/km
+honda,ZR V,43870.0,2023,2L,"3,500 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,182 bhp,108 mph,,133 g/km
+honda,Civic,16479.0,2018,1.5L,"32,231 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Jazz,9190.0,2016,1.3L,"50,553 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,HRV,17350.0,2019,1.5L,"42,193 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,122 g/km
+honda,Civic,48995.0,2023,1996cc,665 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,325 bhp,171 mph,,186 g/km
+honda,CBR1000RR Fireblade,4290.0,2004,998cc,"9,909 miles",Petrol,Manual,Red,bike,,,,,,,
+honda,VFR750,1990.0,1990,748cc,"59,718 miles",Petrol,Manual,White,Sports,,,,,,,
+honda,ST1300 Pan European 1 PREVIOUS OWNER,4190.0,2006,1261cc,"25,570 miles",Petrol,Manual,Blue,bike,,,,,,,
+honda,Civic,32590.0,2023,2L,"1,500 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,CRV,7490.0,2013,1997cc,"92,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,Jazz,12950.0,2018,1318cc,"38,000 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Civic,9975.0,2014,1798cc,"75,691 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,5.0,139 bhp,130 mph,9.6 seconds,149 g/km
+honda,Civic,6995.0,2014,1600cc,"80,652 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,CRV,16400.0,2017,1997cc,"6,575 miles",Petrol,Manual,RED,Estate,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,CRV,6999.0,2011,1997cc,"83,441 miles",Petrol,Manual,Silver,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.2 seconds,190 g/km
+honda,Jazz,10995.0,2017,1318cc,"26,637 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,HRV,18600.0,2000,1498cc,"13,066 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,153 g/km
+honda,Civic,11200.0,2000,988cc,"45,361 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,110 g/km
+honda,Civic,7795.0,2014,1597cc,"75,638 miles",Diesel,Manual,Blue,Hatchback,,,,,,,
+honda,Civic,13099.0,2018,1597cc,"45,369 miles",Diesel,,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Civic,16949.0,2019,1498cc,"39,073 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.3 seconds,128 g/km
+honda,Civic,14392.0,2018,1L,"38,729 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.9 seconds,110 g/km
+honda,Jazz,21975.0,2021,1.5L,"15,711 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,16199.0,2019,1.5L,"18,170 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,10.1 seconds,125 g/km
+honda,Civic,16990.0,2019,1.5L,"31,879 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Civic,13490.0,2016,1.8L,"32,204 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Civic,15490.0,2019,1L,"11,193 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,11.2 seconds,110 g/km
+honda,CRV,27990.0,2021,2L,"16,346 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,
+honda,Civic,31490.0,2022,2L,"17,844 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,Civic,29990.0,2022,2L,"10,558 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,CRV,28990.0,2022,2L,"3,917 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Jazz,18490.0,2022,1.5L,"21,141 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,25490.0,2020,2L,"46,277 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Jazz,21490.0,2022,1.5L,"5,528 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,32990.0,2022,2L,"7,595 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Civic,33990.0,2022,2L,"5,455 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,Jazz,21490.0,2022,1.5L,"21,848 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,CRV,29490.0,2022,2L,"7,834 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,Civic,33399.0,2022,2L,"11,237 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,HRV,29890.0,2022,1.5L,500 miles,Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,16995.0,2015,2L,"38,000 miles",Petrol,Automatic,Other,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Civic,5695.0,2012,1339cc,"95,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.4 seconds,129 g/km
+honda,NT650V Deauville FULL LUGGAGE,1490.0,1999,647cc,"30,785 miles",Petrol,Manual,Beige,bike,,,,,,,
+honda,CB1000R,4590.0,2008,998cc,"12,363 miles",Petrol,Manual,Black,bike,,,,,,,
+honda,CRV,12700.0,2018,2L,"53,589 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,Jazz,19795.0,2020,1.5L,"13,684 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,18995.0,2021,1.3L,"13,581 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,HRV,18299.0,2020,1.5L,"17,732 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,HRV,15299.0,2018,1.6L,"41,090 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.5 seconds,108 g/km
+honda,HRV,19472.0,2020,1.5L,"19,255 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,153 g/km
+honda,CRV,15789.0,2018,1997.0cc,"44,652 miles",Petrol,Automatic,Metallic Paint,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,25991.0,2020,1993cc,"10,799 miles",Hybrid,Automatic,Black,Estate,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,156 g/km
+honda,Jazz,22491.0,2020,1498cc,"5,063 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,21391.0,2020,1498cc,"5,981 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,10540.0,2019,1318cc,"30,725 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.2 seconds,117 g/km
+honda,CRV,5250.0,2014,1597cc,"145,185 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,
+honda,Civic,13490.0,2018,1597cc,"41,793 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Civic,14980.0,2018,1498cc,"24,072 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.5 seconds,137 g/km
+honda,CRV,12995.0,2013,1997cc,"30,000 miles",Petrol,Manual,RED,Estate,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,177 g/km
+honda,Accord,6790.0,2010,2354cc,"85,900 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,198 bhp,141 mph,9.5 seconds,202 g/km
+honda,Civic,9290.0,2014,1798cc,"27,990 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,143 g/km
+honda,Jazz,7895.0,2015,1339cc,"36,323 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Jazz,5470.0,2014,1339cc,"94,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Civic,18745.0,2019,1498cc,"23,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.5 seconds,
+honda,Jazz,4995.0,2011,1339cc,"90,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,Jazz,7450.0,2014,1339cc,"40,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,FRV,7475.0,2009,2200cc,"40,000 miles",Diesel,Manual,Black,Other,4X2,5.0,6.0,140 bhp,118 mph,10.1 seconds,167 g/km
+honda,Jazz,9495.0,2013,1339cc,"35,781 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,CRV,22990.0,2019,2L,"42,433 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,HRV,26470.0,2022,1.5L,"8,296 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,12300.0,2018,1.6L,"42,243 miles",Diesel,Manual,Blue,SUV,,,,,,,
+honda,CRV,28000.0,2021,2L,"11,515 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,CRV,31990.0,2022,"10,473 miles",Petrol/Electric,CVT,Premium Crystal Red,Estate,42.2 mpg,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,Jazz,21691.0,2022,1498cc,"6,988 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,5999.0,2014,1339cc,"71,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,Civic,4990.0,2010,1.8L,"76,812 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,138 bhp,127 mph,8.9 seconds,155 g/km
+honda,Civic,13000.0,2015,1798cc,"34,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,11.2 seconds,150 g/km
+honda,NC750X 750 X DCT,7696.0,2021,745cc,241 miles,Petrol,Automatic,Red,bike,,,,58 bhp,,,
+honda,CB500X 500 Top Box Included,6396.0,2022,471cc,"1,951 miles",Petrol,Manual,Red,bike,,,,47 bhp,,,
+honda,Civic,13999.0,2017,1L,"29,784 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,114 g/km
+honda,Jazz,14750.0,2021,1.5L,"45,474 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,20999.0,2019,1.5L,"38,309 miles",Petrol,Manual,Silver,SUV,4X4,5.0,5.0,170 bhp,129 mph,9.8 seconds,151 g/km
+honda,Civic,14799.0,2019,1L,"33,891 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Civic,1395.0,2006,1798cc,"133,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,152 g/km
+honda,HRV,18845.0,2020,1498cc,"14,992 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,153 g/km
+honda,Civic,13390.0,2020,988cc,"11,500 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,147 g/km
+honda,HRV,12950.0,2018,1597cc,"68,329 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,Jazz,5995.0,2012,1339cc,"55,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,126 g/km
+honda,Civic,12495.0,2017,988cc,"46,546 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Jazz,6495.0,2013,1339cc,"49,167 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,126 g/km
+honda,Civic,11495.0,2014,1798cc,"33,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,139 bhp,130 mph,9.6 seconds,149 g/km
+honda,Jazz,7650.0,2015,1339cc,"37,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,CRV,16490.0,2018,1597cc,"39,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,HRV,28995.0,2022,1498cc,"6,347 miles",Other,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,27995.0,2022,1498cc,"12,615 miles",Other,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,25995.0,2023,1498cc,"2,000 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,104 g/km
+honda,CRV,6949.0,2012,2199cc,"99,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,5.0,147 bhp,116 mph,10.6 seconds,195 g/km
+honda,Civic,8995.0,2014,1798cc,"68,898 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,148 g/km
+honda,CRV,9695.0,2013,2199cc,"70,000 miles",Diesel,Manual,BLACK,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,CRV,10499.0,2014,1597cc,"46,464 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,CRV,24997.0,2019,1993cc,"19,507 miles",Other,Automatic,Silver,Estate,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,120 g/km
+honda,Civic,12950.0,2017,988cc,"30,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Jazz,22990.0,2022,1.5L,"8,200 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,CRV,30590.0,2021,2L,"9,247 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,27390.0,2021,2L,"11,393 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,Civic,12995.0,2015,1798cc,"26,840 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Civic,1950.0,2008,2204cc,"130,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,138 bhp,127 mph,8.6 seconds,138 g/km
+honda,CRV,12495.0,2016,1597cc,"79,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.6 seconds,129 g/km
+honda,Civic,12995.0,2018,1597cc,"62,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Civic,13750.0,2018,1597cc,"71,000 miles",Diesel,Automatic,Red,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Jazz,5895.0,2013,1198cc,"40,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Civic,14990.0,2019,988cc,"18,893 miles",Petrol,Manual,Lunar Silver,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,HRV,22244.0,2020,1498cc,"10,621 miles",Petrol,Other,Blue,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,156 g/km
+honda,CRV,15995.0,2018,1597cc,"58,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Civic,4295.0,2012,1798cc,"132,965 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,143 g/km
+honda,Civic,16450.0,2007,1990cc,"104,500 miles",Petrol,Manual,White,Saloon,4X2,4.0,,,,,219 g/km
+honda,Civic,13995.0,2017,988cc,"58,075 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,114 g/km
+honda,Civic,11890.0,2017,988cc,"60,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,CRV,31495.0,2022,1993cc,"11,926 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Civic,7995.0,2014,1597cc,"57,400 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,CRV,6750.0,2011,2199cc,"112,102 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Civic,59991.0,2021,1996cc,131 miles,Petrol,Manual,YELLOW,Hatchback,4X2,5.0,4.0,315 bhp,168 mph,,191 g/km
+honda,Jazz,6475.0,2023,1300cc,"41,000 miles",Other,Automatic,Brown,Other,,,,,,,
+honda,Jazz,6000.0,2023,1300cc,"67,000 miles",Other,Automatic,Black,Other,4X2,5.0,5.0,102 bhp,109 mph,12.1 seconds,0 g/km
+honda,HRV,17970.0,2020,1.5L,"35,263 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,153 g/km
+honda,HRV,14940.0,2017,1.5L,"24,969 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,134 g/km
+honda,Civic,12995.0,2019,1.6L,"88,100 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Civic,14295.0,2016,1798cc,"39,000 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,139 bhp,127 mph,11.3 seconds,155 g/km
+honda,Civic,5980.0,2012,1798cc,"82,200 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,143 g/km
+honda,Civic,12500.0,2019,1597cc,"49,479 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,90 g/km
+honda,Civic,15000.0,2019,988cc,"39,705 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,127 bhp,130 mph,10.6 seconds,107 g/km
+honda,Civic,6999.0,2015,1798cc,"115,653 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,Jazz,16295.0,2019,1.3L,"11,865 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,Jazz,9586.0,2000,1400cc,"16,883 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,CRV,5900.0,2011,1997cc,"96,591 miles",Petrol,Manual,Black,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.2 seconds,190 g/km
+honda,CRV,8400.0,2015,1597cc,"97,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.6 seconds,129 g/km
+honda,Jazz,7995.0,2012,1339cc,"49,799 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,CRV,7499.0,2011,2199cc,"71,756 miles",Diesel,Manual,Bronze,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Civic,34984.0,2010,1998cc,"11,200 miles",Petrol,Manual,White,Other,4X2,3.0,4.0,198 bhp,146 mph,6.6 seconds,215 g/km
+honda,Civic,10499.0,2014,1798cc,"49,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,139 bhp,130 mph,9.6 seconds,149 g/km
+honda,Jazz,3895.0,2009,1339cc,"62,427 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,128 g/km
+honda,HRV,16315.0,2017,1498cc,"40,732 miles",Petrol,Automatic,WHITE,Other,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,Jazz,5995.0,2014,1198cc,"59,610 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Civic,13999.0,2018,988cc,"9,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,110 g/km
+honda,Civic,9995.0,2012,1798cc,"39,435 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.6 seconds,145 g/km
+honda,Civic,13980.0,2020,988cc,"23,927 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,134 g/km
+honda,Civic,5495.0,2013,1798cc,"131,061 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,143 g/km
+honda,CRV,18949.0,2018,1997cc,"41,681 miles",Petrol,,White,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,16299.0,2017,1.6L,"35,804 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.8 seconds,133 g/km
+honda,Civic,34490.0,2022,1993cc,"11,898 miles",Petrol/Electric,CVT,Blue,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,Jazz,16490.0,2019,1318cc,"19,960 miles",Petrol,CVT,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,Jazz,20990.0,2022,"7,803 miles",Petrol/Electric,CVT,Shining Grey,Hatchback,62.8 mpg,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,20490.0,2022,"8,078 miles",Petrol/Electric,CVT,Shining Grey,Hatchback,62.8 mpg,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,15190.0,2019,1.3L,"13,380 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,CRV,20390.0,2019,2L,"56,610 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,120 g/km
+honda,Civic,8000.0,2012,1.8L,"55,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,148 g/km
+honda,CRV,27980.0,2020,1993cc,"24,032 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Civic,4992.0,2005,1998cc,"78,166 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,158 bhp,130 mph,8.5 seconds,179 g/km
+honda,Civic,14018.0,2018,1L,"19,906 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Civic,15500.0,2019,1L,"26,020 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,10.8 seconds,107 g/km
+honda,Civic,17000.0,2019,1.5L,"26,547 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Civic,14895.0,2020,1L,"31,252 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,137 g/km
+honda,Civic,14295.0,2019,1.597L,"56,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Jazz,11995.0,2017,1318cc,"48,711 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,CRV,4995.0,2012,2199cc,"121,000 miles",Diesel,Manual,Brown,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Jazz,3995.0,2006,1339cc,"55,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,139 g/km
+honda,Civic,12995.0,2015,1798cc,"27,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Jazz,5995.0,2009,1339cc,"41,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,CRV,9995.0,2010,1997cc,"27,264 miles",Petrol,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.2 seconds,190 g/km
+honda,CRV,21950.0,2019,1498cc,"39,769 miles",Petrol,Manual,Black,SUV,4X4,5.0,5.0,170 bhp,129 mph,9.8 seconds,151 g/km
+honda,HRV,12499.0,2016,1498cc,"37,942 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,CRV,8749.0,2013,2199cc,"52,000 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,Civic,13750.0,2019,988cc,"51,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.9 seconds,110 g/km
+honda,Jazz,14995.0,2018,1498cc,"17,152 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,10.1 seconds,124 g/km
+honda,Civic,5000.0,2010,1799cc,"79,907 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.8 seconds,155 g/km
+honda,Jazz,7099.0,2010,1339cc,"31,625 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,13.5 seconds,125 g/km
+honda,Civic,10495.0,2018,988cc,"79,562 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,110 g/km
+honda,Jazz,22490.0,2020,1.5L,"7,426 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,17495.0,2019,988cc,"10,577 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Jazz,14991.0,2019,1318cc,"20,800 miles",Petrol,CVT,Black,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,109 g/km
+honda,Civic,9595.0,2015,1.8L,"42,300 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,137 g/km
+honda,Jazz,7995.0,2013,1339cc,"56,203 miles",Petrol,Automatic,SATIN SILVER,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,Civic,3995.0,2008,1998cc,"110,800 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,198 bhp,146 mph,6.6 seconds,215 g/km
+honda,Jazz,9995.0,2015,1339cc,"50,862 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,Civic,25995.0,2017,1996cc,"32,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,176 g/km
+honda,Jazz,6695.0,2009,1339cc,"25,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,13.5 seconds,125 g/km
+honda,Civic,6295.0,2014,1597cc,"85,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,CRV,34953.0,2023,2L,5 miles,Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Jazz,8995.0,2016,1318cc,"66,400 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,GL1800 Goldwing FULL LUGGAGE,6790.0,2001,1832cc,"54,717 miles",Petrol,Manual,Red,bike,,,,,,,
+honda,CRV,7245.0,2014,1597cc,"117,154 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,124 g/km
+honda,Jazz,6990.0,2013,1339cc,"35,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,126 g/km
+honda,CRV,8990.0,2013,2199cc,"83,313 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,Jazz,9495.0,2015,1339cc,"52,100 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,Jazz,10899.0,2019,1318cc,"69,706 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,119 g/km
+honda,Jazz,14490.0,2018,1.3L,"9,883 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,HRV,18500.0,2019,1.5L,"31,948 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,135 g/km
+honda,Jazz,12499.0,2018,1.3L,"33,695 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,Civic,31491.0,2023,2L,15 miles,Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,Jazz,20821.0,2022,1.5L,"13,861 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,19326.0,2018,1.6L,"31,318 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,CRV,15600.0,2016,2L,"49,621 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,Jazz,20450.0,2023,1.5L,"4,814 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,14992.0,2018,988cc,"27,948 miles",Petrol,CVT,White,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,114 g/km
+honda,Civic,9995.0,2014,1798cc,"53,350 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.6 seconds,145 g/km
+honda,Jazz,10295.0,2014,1.3L,"23,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,HRV,11300.0,2017,1597cc,"69,087 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.5 seconds,108 g/km
+honda,ST1300 Pan European,3690.0,2007,1261cc,"66,947 miles",Petrol,Manual,Silver,bike,,,,,,,
+honda,NC750S 1 PREVIOUS OWNER,3990.0,2019,745cc,"23,101 miles",Petrol,Manual,Black,bike,,,,54 bhp,,,
+honda,CBR1000RR Fireblade,5290.0,2009,999cc,"18,953 miles",Petrol,Manual,White,bike,,,,,,,
+honda,NT1100 1 OWNER FROM NEW,8490.0,2022,1084cc,"13,985 miles",Petrol,Manual,White,bike,,,,101 bhp,,,
+honda,HRV,16477.0,2020,1.5L,"30,046 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,Jazz,2790.0,2007,1339cc,"110,000 miles",Petrol,Auto,Black,Hatchback,,,,,,,
+honda,Civic,16356.0,2018,1.5L,"33,619 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.2 seconds,139 g/km
+honda,HRV,26995.0,2022,1.5L,"9,736 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,17995.0,2019,1.5L,"22,783 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,CRV,26000.0,2020,2L,"14,035 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Civic,14395.0,2017,1.5L,"46,942 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,133 g/km
+honda,Civic,16000.0,2019,1.6L,"30,319 miles",Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,HRV,19999.0,2020,1.5L,"5,710 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,153 g/km
+honda,Civic,16700.0,2019,1.6L,"20,144 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,Jazz,21599.0,2020,1.5L,"5,694 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,17999.0,2020,1.5L,"31,233 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,17250.0,2021,1.5L,"17,130 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,16795.0,2020,1L,"20,358 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,10.8 seconds,148 g/km
+honda,CRV,14895.0,2016,2L,"68,442 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,HRV,28995.0,2023,1.5L,"11,343 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,X-ADV SUPER LOW MILEAGE,10801.0,2023,745cc,500 miles,Petrol,Automatic,Grey,bike,Automatic,,,58 bhp,,,
+honda,Jazz,6790.0,2016,1318cc,"94,560 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.2 seconds,116 g/km
+honda,Civic,16995.0,2020,988cc,"28,250 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,11.2 seconds,141 g/km
+honda,Jazz,21495.0,2022,1498cc,"4,838 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,14750.0,2019,1597cc,"48,074 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,CRV,20977.0,2020,2L,"39,873 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,156 g/km
+honda,Civic,4695.0,2011,1799cc,"78,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.8 seconds,155 g/km
+honda,HRV,15495.0,2017,1498cc,"54,995 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,CRV,12950.0,2017,1597cc,"82,000 miles",Diesel,Manual,Red,SUV,,,,,,,
+honda,CRV,8450.0,2016,1597cc,"101,000 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Jazz,3990.0,2007,1339cc,"71,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,139 g/km
+honda,Jazz,2495.0,2009,1339cc,"155,240 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,128 g/km
+honda,Jazz,7495.0,2015,1339cc,"81,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,CRV,7790.0,2013,1597cc,"83,578 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,HRV,13599.0,2017,1597cc,"23,472 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,Civic,12349.0,2016,1798cc,"44,070 miles",Petrol,,Grey,Estate,4X2,5.0,5.0,139 bhp,127 mph,11.2 seconds,155 g/km
+honda,HRV,16349.0,2019,1498cc,"33,370 miles",Petrol,,White,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,132 g/km
+honda,HRV,27440.0,2022,1.5L,"11,132 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,13990.0,2017,1.8L,"46,991 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,,149 g/km
+honda,CRV,16870.0,2019,1.5L,"30,038 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,170 bhp,130 mph,9.3 seconds,143 g/km
+honda,Jazz,19199.0,2022,1.5L,"15,754 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,HRV,17791.0,2018,1.5L,"14,547 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,132 g/km
+honda,HRV,15980.0,2018,1498cc,"26,100 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,Civic,19390.0,2020,988cc,"19,054 miles",Petrol,CVT,Red,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,11.0 seconds,152 g/km
+honda,CRV,29990.0,2020,"30,000 miles",Petrol/Electric,CVT,Crystal Red,Estate,51.4 mpg,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,Civic,49250.0,2023,2L,"3,136 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,325 bhp,171 mph,,186 g/km
+honda,Civic,15500.0,2020,1L,"7,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,134 g/km
+honda,Jazz,25490.0,2023,1.5L,4 miles,Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,102 g/km
+honda,HRV,29500.0,2023,1.5L,"3,121 miles",Hybrid,Automatic,Beige,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,33000.0,2022,2L,"4,415 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,21395.0,2020,1.5L,"12,799 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Civic,17099.0,2019,1.5L,"28,102 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Civic,14500.0,2018,1L,"60,406 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,11.0 seconds,107 g/km
+honda,Civic,6895.0,2013,1339cc,"55,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.4 seconds,129 g/km
+honda,Jazz,6795.0,2011,1339cc,"60,363 miles",Petrol,Other,Black,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,HRV,19477.0,2019,1.5L,"16,107 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,122 g/km
+honda,Civic,12495.0,2015,1.8L,"48,227 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,139 bhp,127 mph,11.3 seconds,155 g/km
+honda,Jazz,4590.0,2011,1198cc,"59,942 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Civic,6595.0,2012,1798cc,"84,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.6 seconds,145 g/km
+honda,Jazz,2995.0,2010,1339cc,"103,694 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,Jazz,3250.0,2009,1339cc,"65,180 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,CRV,9495.0,2014,2199cc,"102,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,144 g/km
+honda,Civic,13049.0,2019,1597cc,"69,253 miles",Diesel,,Red,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Jazz,23995.0,2023,1.5L,"2,204 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,102 g/km
+honda,HRV,16390.0,2019,1.5L,"30,758 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,122 g/km
+honda,Jazz,23495.0,2021,1.5L,"10,949 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,22490.0,2021,"3,773 miles",Petrol/Electric,CVT,Midnight Blue,Hatchback,62.8 mpg,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,HRV,15600.0,2018,1500cc,"32,640 miles",Petrol,Automatic,Unknown,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,125 g/km
+honda,Civic,10200.0,2014,1.8L,"36,600 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Civic,13100.0,2020,1597cc,"46,928 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,90 g/km
+honda,CBR500R 500 SUPER LOW MILEAGE,5396.0,2023,1493cc,609 miles,Petrol,Manual,Red,bike,,,,47 bhp,,,
+honda,Jazz,3995.0,2006,1.34L,"76,482 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.7 seconds,139 g/km
+honda,Civic,5695.0,2014,1597cc,"121,608 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,HRV,17990.0,2019,1.5L,"25,233 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,
+honda,CRV,39000.0,2023,2L,"4,547 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,
+honda,Jazz,22379.0,2021,1.5L,"7,502 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,
+honda,Civic,14599.0,2016,1798cc,"16,093 miles",Petrol,,Blue,Estate,4X2,5.0,5.0,139 bhp,127 mph,11.2 seconds,155 g/km
+honda,Jazz,14399.0,2017,1318cc,"12,637 miles",Petrol,,Orange,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,CRV,30500.0,2022,2L,"10,342 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Jazz,19950.0,2023,1.5L,"4,352 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,21290.0,2020,1.5L,"6,531 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,27990.0,2020,"31,000 miles",Petrol,CVT,Crystal Red,Estate,31.7 mpg,4X4,5.0,5.0,190 bhp,124 mph,10.0 seconds,162 g/km
+honda,Civic,15795.0,2020,988cc,"20,330 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,137 g/km
+honda,CRV,8890.0,2012,1997cc,"51,000 miles",Petrol,Manual,Brown,SUV,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,173 g/km
+honda,Jazz,5695.0,2008,1339cc,"66,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,137 g/km
+honda,Civic,12500.0,2019,1597cc,"44,461 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Jazz,19700.0,2023,1.5L,"7,885 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,10995.0,2019,1597cc,"93,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Civic,4500.0,2010,1339cc,"46,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,110 mph,13.0 seconds,135 g/km
+honda,Stepwagon,11995.0,2012,2000cc,"79,000 miles",Petrol,Automatic,Pearlescent White,MPV,,,,,,,
+honda,CRV,18995.0,2017,1997cc,"28,000 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Stepwagon,11495.0,2013,"85,000 miles",Petrol,Automatic,Black,MPV,58.9 mpg,4X2,5.0,5.0,94 bhp,110 mph,,126 g/km
+honda,Stepwagon,11495.0,2013,"86,000 miles",Petrol,Automatic,Purple,MPV,30.1 mpg,4X4,2.0,2.0,222 bhp,147 mph,6.7 seconds,228 g/km
+honda,Civic,5995.0,2010,1800cc,"61,400 miles",Petrol,Automatic,Silver,Other,4X2,5.0,5.0,138 bhp,122 mph,11.0 seconds,169 g/km
+honda,Jazz,2295.0,2004,1339cc,"113,500 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,137 g/km
+honda,Jazz,2795.0,2003,1339cc,"67,500 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,137 g/km
+honda,Civic,5495.0,2009,1799cc,"38,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,10.9 seconds,150 g/km
+honda,CRV,8995.0,2013,2199cc,"86,000 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,180 g/km
+honda,Jazz,22191.0,2021,1498cc,"3,268 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,22690.0,2020,1498cc,"2,988 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,CRV,25650.0,2020,1993cc,"20,096 miles",Hybrid,Automatic,Silver,Other,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Civic,13856.0,2019,988cc,"28,124 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Civic,15399.0,2020,988cc,"26,119 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,137 g/km
+honda,Jazz,14495.0,2017,1318cc,"16,150 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,HRV,22175.0,2020,"8,336 miles",Petrol,Manual,White,SUV,42.2 mpg,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,151 g/km
+honda,Jazz,5995.0,2009,1339cc,"12,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,128 g/km
+honda,HRV,18690.0,2020,1.5L,"15,189 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,122 g/km
+honda,HRV,23991.0,2020,1498cc,"8,357 miles",Petrol,CVT,Blue,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,156 g/km
+honda,CRV,31990.0,2023,2L,"7,797 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,HRV,25690.0,2022,1.5L,"18,393 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,48250.0,2023,2L,"5,727 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,325 bhp,171 mph,,186 g/km
+honda,Civic,15500.0,2020,1L,"17,073 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,137 g/km
+honda,Civic,15504.0,2017,1.5L,"25,725 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,133 g/km
+honda,Civic,9990.0,2016,1.8L,"62,260 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,Jazz,19795.0,2021,1.5L,"19,944 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,CRV,20999.0,2019,2L,"59,964 miles",Other,Automatic,Red,Estate,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,Civic,8990.0,2016,1.3L,"67,636 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.5 seconds,131 g/km
+honda,Civic,18490.0,2021,988cc,"15,040 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,141 g/km
+honda,Civic,12995.0,2014,1798cc,"26,000 miles",Petrol,Automatic,Brown,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,Civic,13526.0,2018,1597cc,"63,063 miles",Diesel,Manual,White Orchid,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,CRV,21895.0,2019,2L,"29,136 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,120 g/km
+honda,Jazz,16995.0,2021,1.5L,"30,876 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,34500.0,2022,2L,"9,824 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,31390.0,2022,2L,"17,108 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,17496.0,2016,2L,"26,826 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Jazz,14295.0,2018,1.3L,"7,927 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,119 g/km
+honda,Jazz,22250.0,2023,1.5L,"4,523 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,103 g/km
+honda,Jazz,9495.0,2014,1339cc,"50,866 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,Jazz,3695.0,2004,1339cc,"106,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,137 g/km
+honda,CRV,8995.0,2010,2199cc,"68,000 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,5.0,147 bhp,116 mph,10.6 seconds,195 g/km
+honda,Jazz,11450.0,2017,1318cc,"37,650 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,CRV,9495.0,2014,2199cc,"92,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,Stepwagon,10995.0,2012,2000cc,"73,332 miles",Petrol,Automatic,White,MPV,,,,,,,
+honda,Civic,6995.0,2016,1597cc,"95,543 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Jazz,14990.0,2018,1.5L,"42,181 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,10.1 seconds,124 g/km
+honda,Jazz,25490.0,2023,1.5L,"4,000 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Civic,30490.0,2022,2L,"8,500 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,CRV,32708.0,2021,2L,"8,985 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,10700.0,2016,1.6L,"81,726 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,HRV,27795.0,2023,1498cc,"5,200 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,CRV,30795.0,2022,1993cc,"10,489 miles",Petrol Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,Jazz,22795.0,2022,1498cc,"8,222 miles",Petrol Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,7950.0,2014,1798cc,"63,000 miles",Petrol,Manual,Polished Metal Metallic Grey,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,Jazz,7995.0,2012,1339cc,"23,800 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,Jazz,22791.0,2020,1498cc,"6,972 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,17494.0,2022,1498cc,"17,801 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,2995.0,2009,1799cc,"98,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,156 g/km
+honda,CRV,9500.0,2015,1597cc,"122,629 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Jazz,7995.0,2011,1339cc,"23,676 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,125 g/km
+honda,CRV,11940.0,2012,2199cc,"41,722 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,180 g/km
+honda,CRV,11145.0,2015,1597cc,"73,000 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,Civic,8290.0,2010,1800cc,"44,510 miles",Petrol,Automatic,Silver,Other,4X2,5.0,5.0,138 bhp,122 mph,11.0 seconds,169 g/km
+honda,HRV,12480.0,2000,1498cc,"36,884 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,Civic,15995.0,2018,1L,"16,957 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Jazz,19650.0,2023,1.5L,"7,918 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Civic,17990.0,2020,1.5L,"19,806 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,137 g/km
+honda,Civic,25690.0,2018,2L,"29,362 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,178 g/km
+honda,Civic,14350.0,2019,1L,"44,907 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.9 seconds,110 g/km
+honda,CRV,28849.0,2020,2L,"16,974 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,168 g/km
+honda,CRV,32490.0,2023,2L,"4,481 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,Jazz,5495.0,2006,1339cc,"33,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,139 g/km
+honda,Jazz,10000.0,2019,1318cc,"49,989 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,HRV,20790.0,2019,1498cc,"21,282 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,180 bhp,134 mph,8.6 seconds,137 g/km
+honda,CRV,16325.0,2015,2L,"39,638 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,HRV,15399.0,2016,1.5L,"28,006 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,CRV,29500.0,2021,2L,"9,323 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,112 mph,,151 g/km
+honda,CRV,25750.0,2020,2L,"26,400 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Jazz,20850.0,2021,1.5L,"19,457 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,15499.0,2019,1.5L,"46,855 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,CRV,23614.0,2018,1.5L,"21,631 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,190 bhp,124 mph,10.0 seconds,162 g/km
+honda,CRV,26995.0,2020,2L,"11,756 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Jazz,11790.0,2019,1.3L,"15,400 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.2 seconds,117 g/km
+honda,HRV,27991.0,2022,1498cc,"4,880 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,11991.0,2019,1318cc,"23,975 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,CRV,18000.0,2019,1498cc,"20,743 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,170 bhp,130 mph,9.3 seconds,143 g/km
+honda,CRV,20995.0,2019,2000cc,"41,973 miles",Hybrid,Automatic,Cosmic Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,HRV,15349.0,2017,1498cc,"44,666 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,HRV,26490.0,2022,"3,000 miles",Petrol/Electric,CVT,Sand Khaki,Hatchback,52.3 mpg,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,16099.0,2019,1.5L,"35,711 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,HRV,12990.0,2019,1.5L,"15,906 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.2 seconds,130 g/km
+honda,HRV,17690.0,2017,1.5L,"17,080 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,125 g/km
+honda,Jazz,11750.0,2018,1.3L,"13,100 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,VFR800X Crossrunner,5390.0,2015,782cc,"19,178 miles",Petrol,Manual,White,bike,,,,,,,
+honda,Jazz,4495.0,2008,1339cc,"77,694 miles",Petrol,Manual,Purple,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,HRV,18991.0,2018,1.5L,"23,370 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,Civic,13295.0,2020,1.6L,"30,700 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,,117 g/km
+honda,HRV,19950.0,2020,1.5L,"21,195 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,156 g/km
+honda,CRV,30500.0,2022,2L,"7,278 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,HRV,26890.0,2022,1.5L,"13,354 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,13690.0,2019,1.5L,"26,852 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,8.7 seconds,134 g/km
+honda,Civic,10995.0,2015,1.8L,"71,120 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,150 g/km
+honda,CRV,32995.0,2021,2L,"13,000 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,HRV,18500.0,2019,1.5L,"22,266 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,135 g/km
+honda,Civic,12867.0,2017,1L,"41,283 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,HRV,18849.0,2020,1.5L,"32,501 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,153 g/km
+honda,Jazz,20000.0,2021,1.5L,"19,504 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,13992.0,2019,1597cc,"73,647 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,118 bhp,124 mph,10.9 seconds,109 g/km
+honda,Civic,12000.0,2017,1.6L,"56,624 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,118 bhp,121 mph,10.5 seconds,103 g/km
+honda,HRV,24990.0,2022,1498cc,"8,949 miles",Petrol Hybrid,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,HRV,24990.0,2022,1498cc,"10,108 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,14360.0,2019,1L,"34,112 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Civic,14995.0,2018,988cc,"22,792 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,HRV,14700.0,2020,1498cc,"9,814 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.2 seconds,148 g/km
+honda,Civic,14000.0,2019,1498cc,"45,937 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,CRV,8495.0,2015,2199cc,"101,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,149 g/km
+honda,Civic,2295.0,2006,1339cc,"57,615 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,14.6 seconds,139 g/km
+honda,HRV,29990.0,2022,1498cc,"4,119 miles",Other,Other,Grey,Hatchback,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Jazz,3795.0,2009,1339cc,"83,751 miles",Petrol,Manual,Storm Silver Metallic,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,128 g/km
+honda,Civic,14990.0,2004,1998cc,"52,036 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,197 bhp,146 mph,6.8 seconds,212 g/km
+honda,CRV,11990.0,2015,1597cc,"85,000 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Civic,9190.0,2016,1597cc,"79,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,FRV,3690.0,2008,1799cc,"107,000 miles",Petrol,Manual,Other,MPV,4X2,5.0,6.0,138 bhp,118 mph,10.6 seconds,177 g/km
+honda,Jazz,7990.0,2019,1318cc,"95,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.2 seconds,117 g/km
+honda,Jazz,10800.0,2016,1498cc,"41,227 miles",Petrol,Automatic,Blue,Hatchback,,,,,,,
+honda,CRV,12993.0,2016,1997cc,"50,000 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,177 g/km
+honda,Jazz,10995.0,2015,1339cc,"23,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,Civic,10999.0,2016,1798cc,"42,642 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,139 bhp,130 mph,10.9 seconds,148 g/km
+honda,CRV,6998.0,2011,2199cc,"67,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,CRV,8995.0,2011,1997cc,"81,765 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,5.0,147 bhp,110 mph,12.2 seconds,193 g/km
+honda,Jazz,12990.0,2016,1318cc,"17,622 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Jazz,19995.0,2021,1498cc,"16,085 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Stepwagon,11995.0,2012,2000cc,"65,000 miles",Petrol,Automatic,Smetallic Silver,MPV,,,,,,,
+honda,Jazz,13195.0,2020,1318cc,"31,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,Jazz,4000.0,2008,1339cc,"60,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,137 g/km
+honda,Civic,15991.0,2018,1498cc,"72,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.5 seconds,137 g/km
+honda,Civic,4990.0,2012,2199cc,"87,232 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,110 g/km
+honda,CRV,8995.0,2014,2199cc,"99,314 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,5.0,147 bhp,118 mph,10.6 seconds,169 g/km
+honda,CRV,10550.0,2013,1997cc,"70,400 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,Civic,5000.0,2013,1597cc,"98,871 miles",Diesel,Manual,BROWN,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Jazz,6750.0,2009,1339cc,"13,726 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,13.5 seconds,125 g/km
+honda,HRV,11499.0,2017,1597cc,"57,000 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,Civic,3699.0,2009,1799cc,"95,879 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,155 g/km
+honda,Jazz,5999.0,2011,1300cc,"49,400 miles",Other,Automatic,Red,Other,4X2,5.0,5.0,102 bhp,109 mph,12.1 seconds,0 g/km
+honda,Jazz,13698.0,2017,1318cc,"24,136 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Civic,4295.0,2009,1998cc,"127,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,198 bhp,146 mph,6.6 seconds,215 g/km
+honda,Civic,3295.0,2009,1798cc,"87,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,152 g/km
+honda,Civic,6795.0,2014,1597cc,"93,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Civic,11399.0,2020,988cc,"62,049 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,134 g/km
+honda,Civic,10445.0,2018,1597cc,"89,915 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,HRV,15250.0,2017,1.5L,"45,258 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,CRV,27750.0,2020,2L,"11,816 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Civic,29490.0,2022,2L,"11,711 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,Jazz,19850.0,2023,1.5L,"6,927 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,18990.0,2017,2L,"29,498 miles",Petrol,Automatic,Brown,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Civic,11490.0,2016,1.4L,"42,501 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.5 seconds,131 g/km
+honda,CRV,20995.0,2019,1993cc,"65,589 miles",Other,Automatic,Red,SUV,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,120 g/km
+honda,Jazz,10490.0,2016,1318cc,"35,262 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,116 g/km
+honda,Accord,1700.0,2006,2204cc,"112,000 miles",Diesel,Manual,Black,Saloon,4X2,4.0,5.0,140 bhp,132 mph,9.3 seconds,145 g/km
+honda,CRV,5250.0,2010,1997cc,"135,000 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.2 seconds,190 g/km
+honda,CRV,17995.0,2017,1597cc,"25,633 miles",Diesel,Automatic,White Solid,Estate,4X4,5.0,5.0,158 bhp,122 mph,10.0 seconds,134 g/km
+honda,CRV,6995.0,2010,2199cc,"91,826 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,147 bhp,116 mph,10.6 seconds,195 g/km
+honda,Civic,14249.0,2019,1597cc,"54,913 miles",Diesel,,Blue,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.2 seconds,93 g/km
+honda,Jazz,21590.0,2020,1498cc,"6,990 miles",Petrol/Electric,CVT,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,13704.0,2019,1L,"40,444 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,HRV,18490.0,2017,1.5L,"34,267 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,CRV,29199.0,2022,2L,"10,579 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,CRV,13990.0,2017,1.6L,"72,192 miles",Diesel,Manual,Black,Other,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,CRV,9250.0,2014,2.2L,"93,124 miles",Diesel,Manual,Silver,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,Jazz,3495.0,2005,1339cc,"151,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,139 g/km
+honda,CBR1000RR Fireblade REPSOL,5990.0,2009,999cc,"13,524 miles",Petrol,Manual,Orange,bike,,,,,,,
+honda,NTV600 Revere,1290.0,1990,598cc,"17,334 miles",Petrol,Manual,Red,bike,,,,,,,
+honda,CRV,14991.0,2018,1.6L,"36,893 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Jazz,15500.0,2018,1.3L,"7,404 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Civic,14890.0,2017,1.5L,"57,003 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.4 seconds,139 g/km
+honda,HRV,17997.0,2019,1.5L,"26,557 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,135 g/km
+honda,Civic,11995.0,2018,1498cc,"95,212 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.2 seconds,137 g/km
+honda,CRV,5995.0,2014,1600cc,"101,000 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,119 g/km
+honda,Civic,1695.0,2007,1800cc,"179,000 miles",Petrol,Manual,Blue,Other,4X2,5.0,5.0,138 bhp,127 mph,8.9 seconds,156 g/km
+honda,Civic,4000.0,2013,1600cc,"102,915 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Civic,19998.0,2021,1.5L,"10,368 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,,
+honda,HRV,12528.0,2017,1.5L,"53,253 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.7 seconds,134 g/km
+honda,Jazz,15995.0,2019,1318cc,"6,796 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,119 g/km
+honda,CRV,26995.0,2021,1993cc,"12,394 miles",Petrol/Electric,CVT,Silver,Estate,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,157 g/km
+honda,Jazz,19990.0,2020,1498cc,"16,493 miles",Petrol/Electric,CVT,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,11395.0,2016,1318cc,"34,207 miles",Petrol,CVT,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Jazz,22995.0,2022,1498cc,"17,596 miles",Petrol/Electric,CVT,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Jazz,24600.0,2022,1.5L,"2,530 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,CRV,14491.0,2015,2L,"48,505 miles",Petrol,Automatic,Brown,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,ZR V,39980.0,2023,2L,"3,000 miles",Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,182 bhp,108 mph,,132 g/km
+honda,CRV,52390.0,2023,2L,"5,000 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,146 bhp,121 mph,,19 g/km
+honda,ZR V,37790.0,2023,2L,50 miles,Hybrid,Automatic,White,SUV,4X2,5.0,5.0,182 bhp,108 mph,,131 g/km
+honda,ZR V,41490.0,2023,2L,"2,000 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,182 bhp,108 mph,,131 g/km
+honda,Civic,14999.0,2018,1.6L,"30,974 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,CRV,29495.0,2021,2L,"13,474 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,CRV,26995.0,2021,2L,"16,157 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,HRV,16995.0,2019,1498cc,"23,193 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,122 g/km
+honda,Jazz,20290.0,2020,1498cc,"18,563 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,29650.0,2022,1993cc,"16,606 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,NC750X 750 XA Honda Box included,7896.0,2022,745cc,"1,556 miles",Petrol,Automatic,Red,bike,,,,58 bhp,,,
+honda,CRV,17145.0,2018,1.5L,"47,708 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,170 bhp,130 mph,9.8 seconds,151 g/km
+honda,HRV,17590.0,2020,1.6L,"24,000 miles",Diesel,Manual,Grey,SUV,,,,,,,
+honda,Jazz,11000.0,2017,1.3L,"25,699 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.5 seconds,120 g/km
+honda,CRV,15950.0,2016,2L,"54,740 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,Jazz,19895.0,2021,1.5L,"7,000 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,17000.0,2017,1.6L,"27,451 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.8 seconds,133 g/km
+honda,Civic,6999.0,2014,1597cc,"80,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,118 bhp,121 mph,10.1 seconds,99 g/km
+honda,Jazz,24495.0,2022,1498cc,"1,345 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Accord,5495.0,2011,2199cc,"95,400 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,129 mph,9.8 seconds,143 g/km
+honda,CRV,31495.0,2022,1993cc,910 miles,Hybrid,Automatic,Red,Estate,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Jazz,11149.0,2017,1318cc,"39,881 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,111 g/km
+honda,Civic,11795.0,2018,1597cc,"56,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,CRV,2995.0,2009,2204cc,"103,257 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,HRV,19995.0,2019,1498cc,"9,998 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,180 bhp,134 mph,7.8 seconds,135 g/km
+honda,HRV,12995.0,2016,1498cc,"29,303 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,Jazz,5495.0,2014,1198cc,"55,191 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.5 seconds,123 g/km
+honda,Civic,6475.0,2015,1597cc,"93,323 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Jazz,4244.0,2012,1339cc,"57,596 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,129 g/km
+honda,Civic,2795.0,2008,2204cc,"133,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,127 mph,8.6 seconds,135 g/km
+honda,CRV,7995.0,2014,2199cc,"103,997 miles",Diesel,Manual,Bronze,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,Civic,3499.0,2009,1798cc,"89,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,138 bhp,127 mph,8.9 seconds,155 g/km
+honda,Civic,27490.0,2017,1996cc,"17,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,176 g/km
+honda,Civic,7499.0,2013,1339cc,"32,100 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.4 seconds,129 g/km
+honda,Jazz,18599.0,2021,1498cc,"12,156 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,CRV,12450.0,2018,1597cc,"81,169 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Civic,14375.0,2019,1597cc,"18,100 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.0 seconds,93 g/km
+honda,S2000,13990.0,2005,1997cc,"60,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,2.0,240 bhp,150 mph,6.0 seconds,237 g/km
+honda,Civic,8090.0,2013,1339cc,"34,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.4 seconds,129 g/km
+honda,Accord,9290.0,2012,1997cc,"57,000 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,154 bhp,132 mph,11.3 seconds,170 g/km
+honda,CRV,8495.0,2013,2199cc,"87,360 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,CRV,2595.0,2008,2204cc,"173,800 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,Jazz,5290.0,2012,1339cc,"72,311 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,129 g/km
+honda,CRV,9990.0,2010,1997cc,"51,000 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,110 mph,12.2 seconds,193 g/km
+honda,Jazz,4999.0,2012,1339cc,"60,950 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.5 seconds,126 g/km
+honda,CRV,5795.0,2013,2199cc,"159,612 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,Civic,4490.0,2009,1998cc,"94,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,198 bhp,146 mph,6.6 seconds,215 g/km
+honda,CRZ,5995.0,2011,1497cc,"61,000 miles",Petrol,Manual,Black,Coupe,4X2,3.0,4.0,113 bhp,124 mph,9.9 seconds,117 g/km
+honda,Civic,14995.0,2019,988cc,"20,102 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,Jazz,3894.0,2010,1339cc,"71,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,Civic,12494.0,2019,988cc,"33,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,10.8 seconds,110 g/km
+honda,HRV,12494.0,2018,1498cc,"35,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,CRV,15900.0,2018,1597cc,"65,500 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,CRV,13500.0,2013,1997cc,"50,383 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,7999.0,2014,2199cc,"111,799 miles",Diesel,Manual,Brown,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.7 seconds,154 g/km
+honda,CRV,3799.0,2007,1998cc,"110,052 miles",Petrol,Manual,Silver,SUV,4X4,5.0,5.0,148 bhp,110 mph,10.8 seconds,215 g/km
+honda,CRV,12990.0,2015,1997cc,"77,600 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,Civic,10999.0,2016,1798cc,"41,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,Jazz,11880.0,2018,1498cc,"77,406 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,129 bhp,118 mph,8.7 seconds,134 g/km
+honda,Civic,7500.0,2017,1.6L,"98,633 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,118 bhp,121 mph,10.3 seconds,99 g/km
+honda,CRV,13995.0,2016,1.6L,"35,998 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Civic,11677.0,2019,1.6L,"65,053 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,HRV,18477.0,2020,1.6L,"19,697 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.5 seconds,135 g/km
+honda,Jazz,20999.0,2020,1.5L,"6,466 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,25995.0,2019,2L,"31,129 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,Jazz,10950.0,2014,1.3L,"11,895 miles",Petrol,Automatic,RED Metallic,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,12.8 seconds,128 g/km
+honda,Jazz,18996.0,2020,1.5L,"29,789 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,24990.0,2021,2L,"21,504 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,Jazz,20511.0,2020,1.5L,"19,493 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,CRV,23750.0,2019,1.5L,"16,131 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,190 bhp,124 mph,10.0 seconds,162 g/km
+honda,Civic,29992.0,2020,1996cc,"19,005 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,315 bhp,169 mph,5.8 seconds,192 g/km
+honda,Civic,18291.0,2019,1498cc,"26,797 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.2 seconds,137 g/km
+honda,Jazz,1990.0,2007,1339cc,"71,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.3 seconds,134 g/km
+honda,Jazz,2995.0,2009,1339cc,"106,066 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.8 seconds,130 g/km
+honda,Civic,12000.0,2017,1L,"46,436 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Civic,19795.0,2022,1L,"7,364 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,147 g/km
+honda,Jazz,21795.0,2021,1.5L,"12,604 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,26999.0,2022,2L,"19,561 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,143 bhp,112 mph,,151 g/km
+honda,CRV,29690.0,2022,2L,"11,407 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,Civic,34000.0,2023,2L,"3,099 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,Civic,13000.0,2018,1.6L,"66,383 miles",Diesel,Manual,Grey,Hatchback,,,,,,,
+honda,CRV,22295.0,2020,1.5L,"43,344 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,170 bhp,129 mph,9.8 seconds,151 g/km
+honda,HRV,18000.0,2020,1.5L,"14,080 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,CRV,17999.0,2020,1.5L,"45,328 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,170 bhp,130 mph,9.3 seconds,167 g/km
+honda,Jazz,12799.0,2019,1.3L,"22,510 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.0 seconds,106 g/km
+honda,Civic,10999.0,2015,1.8L,"36,856 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,CRV,18499.0,2017,2L,"28,960 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,Civic,18795.0,2021,1.5L,"35,344 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,,137 g/km
+honda,CRV,14795.0,2017,2L,"49,031 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,153 bhp,118 mph,10.2 seconds,177 g/km
+honda,HRV,20000.0,2020,1.6L,"10,305 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.5 seconds,135 g/km
+honda,Jazz,22695.0,2022,1.5L,"13,762 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,13000.0,2018,1L,"38,945 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,127 bhp,126 mph,,117 g/km
+honda,Civic,18495.0,2020,1498cc,"22,063 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,180 bhp,124 mph,8.2 seconds,150 g/km
+honda,Jazz,13995.0,2018,1318cc,"24,349 miles",Petrol,Automatic,Orange,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,CRV,29990.0,2021,1993cc,"19,481 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,19995.0,2021,1498cc,"30,637 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,14300.0,2018,1597cc,"48,720 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Civic,17300.0,2020,988cc,"18,251 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,11.2 seconds,140 g/km
+honda,Civic,14777.0,2019,1.6L,"24,056 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,90 g/km
+honda,CRV,14995.0,2016,1597cc,"65,000 miles",Diesel,Automatic,PASSION RED,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,Jazz,15250.0,2020,1318cc,"15,372 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,109 g/km
+honda,CRV,21690.0,2020,1993cc,"35,828 miles",Hybrid,Automatic,Blue,Other,4X2,5.0,5.0,143 bhp,112 mph,8.8 seconds,156 g/km
+honda,CRV,11950.0,2018,1597cc,"83,177 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Civic,8991.0,2014,1798cc,"31,971 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,139 bhp,134 mph,9.1 seconds,145 g/km
+honda,CRV,8995.0,2015,1997cc,"112,400 miles",Petrol,Automatic,White,Estate,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,175 g/km
+honda,Jazz,11000.0,2020,1318cc,"23,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.2 seconds,117 g/km
+honda,Jazz,14950.0,2019,1318cc,"26,985 miles",Petrol,Other,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,CRV,13990.0,2016,1597cc,"75,577 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,Civic,18490.0,2020,988cc,"19,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,125 bhp,127 mph,,141 g/km
+honda,Civic,4995.0,2010,1798cc,"79,765 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,5.0,138 bhp,127 mph,8.9 seconds,155 g/km
+honda,Civic,13277.0,2019,1L,"37,924 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,CRV,23450.0,2019,2L,"47,362 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,126 g/km
+honda,CRV,13499.0,2017,1.6L,"48,518 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,118 bhp,113 mph,11.2 seconds,115 g/km
+honda,Jazz,10480.0,2014,1339cc,"15,200 miles",Petrol,CVT,Grey,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,Jazz,23695.0,2020,1498cc,"10,300 miles",Petrol/Electric,CVT,Red,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Jazz,14995.0,2020,1318cc,"25,439 miles",Petrol,CVT,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,109 g/km
+honda,HRV,14995.0,2016,1498cc,"49,121 miles",Petrol,CVT,Grey,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,HRV,19995.0,2019,1498cc,"21,798 miles",Petrol,CVT,White,Hatchback,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,121 g/km
+honda,Jazz,25990.0,2022,1498cc,25 miles,Petrol/Electric,CVT,Blue,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,109 g/km
+honda,Jazz,24695.0,2023,1498cc,578 miles,Petrol/Electric,CVT,Blue,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Civic,29490.0,2022,1993cc,"17,983 miles",Petrol/Electric,CVT,Grey,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,113 g/km
+honda,Jazz,26490.0,2023,1498cc,"3,852 miles",Petrol/Electric,CVT,Black,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,104 g/km
+honda,Insight,6493.0,2010,1339cc,"51,000 miles",Petrol/Electric Hybrid,Automatic,Silver,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.5 seconds,105 g/km
+honda,CRV,22995.0,2019,1498cc,"33,824 miles",Petrol,Manual,Blue,Other,4X4,5.0,5.0,170 bhp,129 mph,9.8 seconds,151 g/km
+honda,Jazz,7995.0,2015,1.3L,"43,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Jazz,13995.0,2017,1318cc,"5,221 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Jazz,17995.0,2021,1498cc,"40,597 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,102 g/km
+honda,Jazz,12990.0,2017,1318cc,"28,219 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,111 g/km
+honda,Civic,18245.0,2021,988cc,"24,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,152 g/km
+honda,Jazz,7495.0,2012,1.4L,"60,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,98 bhp,109 mph,13.1 seconds,128 g/km
+honda,Civic,7750.0,2015,1798cc,"95,000 miles",Petrol,Manual,BROWN,Estate,4X2,5.0,5.0,139 bhp,130 mph,9.6 seconds,149 g/km
+honda,Jazz,10700.0,2020,1.3L,"56,707 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,Jazz,12800.0,2019,1.3L,"22,614 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,11.3 seconds,117 g/km
+honda,HRV,13250.0,2017,1.6L,"19,101 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,118 bhp,119 mph,10.2 seconds,108 g/km
+honda,Civic,12250.0,2016,1.8L,"59,156 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,139 bhp,127 mph,11.3 seconds,155 g/km
+honda,CRV,16999.0,2017,1.6L,"45,101 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,158 bhp,122 mph,10.4 seconds,139 g/km
+honda,HRV,15700.0,2016,1.5L,"14,187 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,129 bhp,116 mph,10.9 seconds,125 g/km
+honda,Jazz,16000.0,2019,1.3L,"15,177 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,111 g/km
+honda,CRV,24995.0,2020,1.5L,"31,250 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,190 bhp,124 mph,10.0 seconds,197 g/km
+honda,HRV,16999.0,2020,1.5L,"34,523 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,CRV,26990.0,2020,2L,"20,959 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,143 bhp,112 mph,9.2 seconds,166 g/km
+honda,HRV,16995.0,2020,1.5L,"31,662 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,150 g/km
+honda,Jazz,15995.0,2020,1.3L,"10,687 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,109 g/km
+honda,CRV,17000.0,2018,1.6L,"43,785 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,Civic,18000.0,2020,1L,"33,502 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,125 bhp,124 mph,,152 g/km
+honda,Civic,31984.0,2022,2L,"13,828 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,Civic,31984.0,2022,2L,"15,527 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,182 bhp,112 mph,,114 g/km
+honda,HRV,11395.0,2015,1498cc,"45,802 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,129 bhp,119 mph,10.4 seconds,134 g/km
+honda,Jazz,21995.0,2020,1498cc,"5,399 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,CRV,33490.0,2022,2L,"10,131 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,143 bhp,112 mph,,163 g/km
+honda,Jazz,7790.0,2014,1339cc,"32,000 miles",Petrol,Manual,Passion Red Metallic,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Civic,10995.0,2018,1597cc,"79,222 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.0 seconds,93 g/km
+honda,CRV,4495.0,2010,2199cc,"126,232 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,CRV,4495.0,2011,2199cc,"105,798 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,Jazz,2995.0,2003,1339cc,"54,928 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,12.3 seconds,137 g/km
+honda,CRV,13750.0,2018,1597cc,"81,524 miles",Diesel,Automatic,Red,SUV,,,,,,,
+honda,Civic,20995.0,2021,1498cc,"5,718 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,,137 g/km
+honda,Jazz,6495.0,2015,1339cc,"67,771 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Accord,4995.0,2009,2354cc,"114,000 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,198 bhp,141 mph,9.5 seconds,204 g/km
+honda,Jazz,2495.0,2007,1339cc,"101,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,106 mph,13.5 seconds,137 g/km
+honda,Jazz,13599.0,2019,1318cc,"39,262 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.2 seconds,109 g/km
+honda,HRV,14894.0,2017,1498cc,"59,115 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,116 mph,11.4 seconds,125 g/km
+honda,Jazz,7490.0,2013,1400cc,"25,000 miles",Petrol,Automatic,White,Hatchback,,,,,,,
+honda,Jazz,6490.0,2012,1400cc,"40,000 miles",Other,Other,Blue,Hatchback,,,,,,,
+honda,CRV,3795.0,2009,2204cc,"118,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.3 seconds,173 g/km
+honda,CRV,3999.0,2006,1998cc,"122,967 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,148 bhp,104 mph,13.1 seconds,221 g/km
+honda,CRV,9944.0,2015,1597cc,"89,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,158 bhp,125 mph,9.6 seconds,129 g/km
+honda,Civic,1250.0,2006,2200cc,"177,000 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,138 bhp,127 mph,8.6 seconds,135 g/km
+honda,CRV,28595.0,2021,1993cc,"14,592 miles",Other,Automatic,WHITE,Estate,4X2,5.0,4.0,181 bhp,99 mph,,0 g/km
+honda,Jazz,4495.0,2009,1339cc,"103,741 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,82 bhp,99 mph,14.5 seconds,137 g/km
+honda,Civic,16295.0,2018,988cc,"25,669 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,11.0 seconds,107 g/km
+honda,Civic,15991.0,2018,1.6L,"24,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,118 bhp,125 mph,10.1 seconds,93 g/km
+honda,Jazz,26490.0,2023,1498cc,"6,504 miles",Petrol/Electric,CVT,Red,Hatchback,4X2,5.0,5.0,106 bhp,108 mph,,104 g/km
+honda,Jazz,22495.0,2021,1498cc,Petrol,Automatic,Grey,Hatchback,58.9 mpg,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,Civic,6349.0,2015,"110,247 miles",Diesel,Manual,White,Hatchback,78.5 mpg,4X2,5.0,5.0,118 bhp,129 mph,10.5 seconds,94 g/km
+honda,Civic,6900.0,2013,1.3L,"45,792 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,116 mph,13.4 seconds,129 g/km
+honda,Civic,14998.0,2019,1L,"22,580 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,125 bhp,126 mph,,110 g/km
+honda,CRV,21495.0,2018,2L,"22,119 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,153 bhp,113 mph,12.3 seconds,179 g/km
+honda,CRV,5499.0,2012,2199cc,"127,444 miles",Diesel,Manual,BROWN,Estate,4X4,5.0,5.0,147 bhp,118 mph,9.6 seconds,171 g/km
+honda,HRV,27495.0,2022,1498cc,946 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X2,5.0,5.0,129 bhp,106 mph,,122 g/km
+honda,Civic,18795.0,2021,988cc,"7,009 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,127 bhp,124 mph,,147 g/km
+honda,Civic,13500.0,2019,1498cc,"69,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,180 bhp,137 mph,8.2 seconds,128 g/km
+honda,Jazz,10450.0,2017,1.3L,"75,282 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,101 bhp,113 mph,12.3 seconds,114 g/km
+honda,Accord,10995.0,2003,1990cc,"75,791 miles",Petrol,Automatic,Blue,Saloon,,,,,,,
+honda,Jazz,6991.0,2014,1339cc,"46,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,113 mph,11.6 seconds,129 g/km
+honda,Jazz,20991.0,2020,1498cc,"18,432 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,107 bhp,107 mph,,110 g/km
+honda,CRV,29950.0,2023,1993cc,"18,341 miles",Other,Automatic,Black,SUV,4X4,5.0,5.0,143 bhp,112 mph,,161 g/km
+honda,FRV,5495.0,2008,1799cc,"83,992 miles",Petrol,Manual,Grey,MPV,4X2,5.0,6.0,138 bhp,118 mph,10.6 seconds,177 g/km
+honda,CRV,6995.0,2013,1997cc,"101,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,153 bhp,118 mph,10.0 seconds,168 g/km
+honda,Jazz,4150.0,2009,1339cc,"113,214 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,98 bhp,112 mph,13.5 seconds,125 g/km
+honda,CRV,6490.0,2011,1997cc,"110,609 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,147 bhp,110 mph,12.2 seconds,193 g/km
+honda,CRV,13695.0,2017,1597cc,"71,858 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,5.0,158 bhp,125 mph,9.9 seconds,133 g/km
+honda,NSX,67500.0,1992,2977cc,"66,630 miles",Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,270 bhp,111 mph,11.1 seconds,0 g/km
+honda,Jazz,11995.0,2022,1498cc,"11,279 miles",Petrol/Electric,CVT,Grey,Hatchback,4X2,5.0,5.0,107 bhp,108 mph,,104 g/km
+honda,Jazz,7995.0,2015,1198cc,"30,877 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,88 bhp,110 mph,12.7 seconds,120 g/km

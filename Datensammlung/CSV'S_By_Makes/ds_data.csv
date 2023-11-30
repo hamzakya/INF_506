@@ -1,0 +1,116 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+ds,DS 3,13572.0,2019,1.2L,"24,860 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,112 mph,,107 g/km
+ds,DS 3,13295.0,2019,1.2L,"26,896 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,99 bhp,112 mph,,107 g/km
+ds,DS 3,7995.0,2016,1199cc,"47,000 miles",Petrol,Manual,Purple,Hatchback,4X2,3.0,5.0,129 bhp,127 mph,8.9 seconds,105 g/km
+ds,DS 3 Crossback,16949.0,2021,1499cc,"13,420 miles",Diesel,,White,SUV,4X2,5.0,5.0,101 bhp,112 mph,,121 g/km
+ds,DS 3 Crossback,19349.0,2021,1199cc,"12,878 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,138 g/km
+ds,DS 3 Crossback,17849.0,2021,1199cc,"14,911 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,138 g/km
+ds,DS 3 Crossback,15599.0,2019,1199cc,"28,752 miles",Petrol,,White,SUV,4X2,5.0,5.0,153 bhp,129 mph,,115 g/km
+ds,DS 3,13999.0,2020,1.5L,"45,532 miles",Diesel,Manual,Black,SUV,,,,,,,
+ds,DS 4,8383.0,2015,1.6L,"35,388 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.8 seconds,103 g/km
+ds,DS 5,8350.0,2016,2000cc,"92,273 miles",Diesel,Manual,Black,Other,4X2,5.0,5.0,147 bhp,127 mph,10.6 seconds,105 g/km
+ds,DS 4 Crossback,8995.0,1199cc,"42,363 miles",Petrol,Manual,Grey,Hatchback,54.3 mpg,4X2,5.0,5.0,129 bhp,123 mph,9.9 seconds,116 g/km
+ds,DS 3,18750.0,2019,1.2L,"19,500 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,153 bhp,129 mph,,123 g/km
+ds,DS 4,30000.0,2022,1.6L,"10,073 miles",Hybrid,Semiauto,Other,Hatchback,4X2,5.0,5.0,225 bhp,145 mph,,30 g/km
+ds,DS 4,32000.0,2022,1.6L,"2,250 miles",Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,225 bhp,145 mph,,30 g/km
+ds,DS 3,17500.0,2019,1.2L,"20,000 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,111 g/km
+ds,DS 3,21000.0,2021,1.2L,"4,891 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,138 g/km
+ds,DS 7 Crossback,19750.0,2019,1.6L,"24,098 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,178 bhp,137 mph,10.2 seconds,134 g/km
+ds,DS 3,17450.0,2020,1.2L,"17,929 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,141 g/km
+ds,DS 7 Crossback,22950.0,2018,2L,"27,014 miles",Diesel,Semiauto,Other,SUV,4X2,5.0,5.0,180 bhp,134 mph,9.4 seconds,128 g/km
+ds,DS 3,15990.0,2021,1.2L,"30,292 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,112 mph,,129 g/km
+ds,DS 7 Crossback,19495.0,2019,1.6L,"19,247 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,178 bhp,137 mph,10.2 seconds,122 g/km
+ds,DS 3,6450.0,2016,1560cc,"92,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,9.0 seconds,94 g/km
+ds,DS 3,15989.0,2022,1L,208 miles,Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ds,DS 3,7299.0,2016,1199cc,"48,021 miles",Petrol,,Red,Hatchback,4X2,3.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+ds,DS 3,16995.0,2021,1500cc,"13,098 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,112 mph,,121 g/km
+ds,DS 7 Crossback,18984.0,2019,1.6L,"43,251 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,128 g/km
+ds,DS 4,9999.0,2016,1560cc,"43,000 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,118 bhp,120 mph,11.4 seconds,102 g/km
+ds,DS 3,19788.0,2020,1L,"4,000 miles",Other,Automatic,RED,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ds,DS 3,7899.0,2017,1199cc,"38,695 miles",Petrol,,Green,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,100 g/km
+ds,DS 7 Crossback,25495.0,2020,1.6L,"12,555 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,170 g/km
+ds,DS 4,30023.0,2023,1.6L,"6,858 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,225 bhp,145 mph,,31 g/km
+ds,DS 3,21588.0,2022,1L,"9,000 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ds,DS 3,9995.0,2018,1.2L,"24,218 miles",Petrol,Manual,White,Convertible,4X2,3.0,5.0,129 bhp,126 mph,9.0 seconds,105 g/km
+ds,DS 3 Crossback,13799.0,2019,1199cc,"60,038 miles",Petrol,,Black,SUV,4X2,5.0,5.0,129 bhp,124 mph,,110 g/km
+ds,DS 7 Crossback,25350.0,2022,1.6L,"3,522 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,178 bhp,137 mph,,157 g/km
+ds,DS 4,10332.0,2018,1.6L,"37,600 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,103 g/km
+ds,DS 3,16395.0,2020,1500cc,"12,680 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,112 mph,,121 g/km
+ds,DS 3,13990.0,2020,1500cc,"60,703 miles",Diesel,Manual,Cumulus Grey - Black Roof,SUV,4X2,5.0,5.0,101 bhp,112 mph,,124 g/km
+ds,DS 3,15950.0,2020,1200cc,"13,646 miles",Petrol,Manual,Pearlescent White / Black Roof,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,127 g/km
+ds,DS 3,15450.0,2020,1200cc,"23,733 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,127 g/km
+ds,DS 3,14980.0,2020,1500cc,"39,952 miles",Diesel,Manual,Pearlescent White / Black Roof,SUV,4X2,5.0,5.0,101 bhp,112 mph,,123 g/km
+ds,DS 4,7200.0,2016,1560cc,"93,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,103 g/km
+ds,DS 4,7450.0,2015,1560cc,"62,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.8 seconds,100 g/km
+ds,DS 3,4750.0,2015,1560cc,"112,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,98 bhp,117 mph,10.4 seconds,87 g/km
+ds,DS 7 Crossback,20495.0,1598cc,"45,127 miles",Petrol,Automatic,Blue,SUV,40.4 mpg,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,128 g/km
+ds,DS 3,19140.0,2021,1L,"9,491 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ds,DS 7 Crossback,18998.0,2019,1.5L,"21,604 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,130 bhp,121 mph,10.7 seconds,105 g/km
+ds,DS 3,14401.0,2020,1.2L,"27,767 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,112 mph,,106 g/km
+ds,DS 3,13461.0,2020,1.2L,"25,596 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,112 mph,,128 g/km
+ds,DS 7 Crossback,15249.0,2019,1499cc,"60,807 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,130 bhp,121 mph,10.8 seconds,108 g/km
+ds,DS 3,13999.0,2019,1.2L,"46,862 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,124 mph,,111 g/km
+ds,DS 7 Crossback,26495.0,1499cc,"12,314 miles",Diesel,Automatic,Grey,SUV,57.7 mpg,4X2,5.0,5.0,130 bhp,121 mph,,145 g/km
+ds,DS 4,8995.0,2015,2L,"61,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,8.8 seconds,103 g/km
+ds,DS 7 Crossback,18495.0,2019,2L,"51,460 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,180 bhp,134 mph,9.4 seconds,128 g/km
+ds,DS 3,13795.0,2019,1.5L,"38,515 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,101 bhp,112 mph,,97 g/km
+ds,DS 3,5995.0,2017,1560cc,"93,000 miles",Diesel,Manual,Yellow,Hatchback,4X2,3.0,5.0,98 bhp,117 mph,10.8 seconds,87 g/km
+ds,DS 4,7495.0,2015,1997cc,"57,175 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,8.8 seconds,103 g/km
+ds,DS 4,8990.0,2017,1.6L,"46,037 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,118 bhp,120 mph,10.9 seconds,100 g/km
+ds,DS 7 Crossback,17660.0,2019,1.2L,"38,437 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,10.2 seconds,124 g/km
+ds,DS 7 Crossback,21800.0,2019,1598cc,"36,307 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,135 g/km
+ds,DS 3 Crossback,18349.0,2021,1199cc,"27,415 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,138 g/km
+ds,DS 7 Crossback,28999.0,2022,1.6L,"29,815 miles",Hybrid,Semiauto,Black,SUV,4X4,5.0,5.0,300 bhp,149 mph,,34 g/km
+ds,DS 3,17430.0,2019,1.2L,"17,834 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,153 bhp,129 mph,,115 g/km
+ds,DS 3,14950.0,2020,1500cc,"33,952 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,112 mph,,123 g/km
+ds,DS 3,7490.0,2017,1.6L,"44,871 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,98 bhp,117 mph,10.8 seconds,87 g/km
+ds,DS 3,15350.0,2019,1199cc,"24,059 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,99 bhp,112 mph,,106 g/km
+ds,DS 3,8299.0,2018,1199cc,"51,682 miles",Petrol,Manual,White,Convertible,4X2,3.0,5.0,109 bhp,118 mph,,100 g/km
+ds,DS 3,14199.0,2020,1.5L,"40,727 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,101 bhp,112 mph,,97 g/km
+ds,DS 3,14999.0,2019,1.2L,"37,062 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,124 mph,,111 g/km
+ds,DS 3,13899.0,2019,1.2L,"36,700 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,124 mph,,110 g/km
+ds,DS 3,7995.0,2016,1.2L,"60,996 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,100 g/km
+ds,DS 7 Crossback,18500.0,2019,1598cc,"51,539 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,128 g/km
+ds,DS 7 Crossback,18800.0,2019,1598cc,"46,679 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,128 g/km
+ds,DS 3,16444.0,2021,1L,"7,187 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+ds,DS 3,14980.0,2019,1.2L,"20,708 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,129 bhp,124 mph,,111 g/km
+ds,DS 3 Crossback,13700.0,2020,1199cc,"37,800 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,99 bhp,112 mph,,127 g/km
+ds,DS 3,7800.0,2018,1199cc,"59,327 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,80 bhp,108 mph,,107 g/km
+ds,DS 9,24599.0,2021,1.6L,"16,864 miles",Hybrid,Semiauto,White,Saloon,4X2,4.0,5.0,225 bhp,149 mph,,34 g/km
+ds,DS 4,22920.0,2022,1.5L,"12,475 miles",Diesel,Semiauto,White,Hatchback,4X2,5.0,5.0,130 bhp,129 mph,,127 g/km
+ds,DS 3,21900.0,2023,1.2L,5 miles,Petrol,Manual,Black,SUV,4X2,5.0,5.0,99 bhp,112 mph,,127 g/km
+ds,DS 7 Crossback,14400.0,2018,1499cc,"65,170 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,130 bhp,121 mph,10.8 seconds,107 g/km
+ds,DS 3,9495.0,2016,1.2L,"24,338 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,129 bhp,127 mph,8.9 seconds,105 g/km
+ds,DS 7 Crossback,16558.0,2018,2L,"50,431 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,180 bhp,134 mph,9.4 seconds,128 g/km
+ds,DS 3,8295.0,2017,1199cc,"56,445 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,5.0,80 bhp,108 mph,,107 g/km
+ds,DS 4,6995.0,2015,1560cc,"89,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.8 seconds,103 g/km
+ds,DS 5,12995.0,2017,1997cc,"63,000 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,178 bhp,137 mph,9.9 seconds,117 g/km
+ds,DS 3,3950.0,2015,1560cc,"114,170 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,9.0 seconds,94 g/km
+ds,DS 3,4950.0,2015,1560cc,"86,258 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,98 bhp,117 mph,10.4 seconds,87 g/km
+ds,DS 3 Crossback,19049.0,2022,1199cc,"10,152 miles",Petrol,,White,SUV,4X2,5.0,5.0,129 bhp,124 mph,,138 g/km
+ds,DS 7 Crossback,18120.0,2020,1.5L,"27,058 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,130 bhp,141 mph,10.8 seconds,143 g/km
+ds,DS 7 Crossback,18346.0,2019,1.6L,"44,287 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,135 g/km
+ds,DS 7 Crossback,23920.0,2022,1.6L,"21,697 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,225 bhp,140 mph,,32 g/km
+ds,DS 3,13995.0,2019,"21,847 miles",Petrol,Manual,White,Hatchback,52.3 mpg,4X2,5.0,5.0,99 bhp,112 mph,,106 g/km
+ds,DS 4,21950.0,2022,1199cc,98 miles,Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,137 g/km
+ds,DS 7 Crossback,17450.0,2018,1499cc,"28,667 miles",Diesel,Manual,Polar White,SUV,4X2,5.0,5.0,130 bhp,121 mph,10.8 seconds,107 g/km
+ds,DS 7 Crossback,20195.0,2019,1598cc,"29,850 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,135 g/km
+ds,DS 3,4494.0,2016,1560cc,"107,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,9.0 seconds,94 g/km
+ds,DS 3,18595.0,2022,1199cc,"6,100 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,124 mph,,137 g/km
+ds,DS 3,8195.0,2017,1.2L,"43,541 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,,100 g/km
+ds,DS 7 Crossback,26920.0,2022,1.6L,"4,330 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,225 bhp,140 mph,,32 g/km
+ds,DS 3,15100.0,2019,1.2L,"44,160 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,153 bhp,129 mph,,115 g/km
+ds,DS 7 Crossback,16495.0,2019,1499cc,"67,233 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,130 bhp,121 mph,10.7 seconds,105 g/km
+ds,DS 3,4000.0,2015,1600cc,"113,000 miles",Diesel,Manual,PURPLE,Other,4X2,3.0,5.0,98 bhp,117 mph,10.4 seconds,87 g/km
+ds,DS 3,5495.0,2015,1200cc,"84,768 miles",Petrol,Manual,Silver,Other,,,,,,,
+ds,DS 7 Crossback,21840.0,2019,1598cc,"37,407 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,221 bhp,141 mph,8.3 seconds,135 g/km
+ds,DS 5,14995.0,0L,"38,130 miles",Diesel,Automatic,GREY,Hatchback,62.8 mpg,4X2,5.0,5.0,178 bhp,137 mph,,117 g/km
+ds,DS 4,7999.0,2017,1.6L,"45,405 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,120 mph,10.9 seconds,100 g/km
+ds,DS 3,5975.0,2016,1560cc,"65,530 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,9.3 seconds,94 g/km
+ds,DS 3,5990.0,2016,1560cc,"82,000 miles",Diesel,Manual,Silver,Convertible,4X2,3.0,5.0,98 bhp,113 mph,10.8 seconds,92 g/km
+ds,DS 5,9995.0,2015,1997cc,"44,200 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,127 mph,10.6 seconds,105 g/km
+ds,DS 7 Crossback,16688.0,2019,1499cc,"23,655 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,130 bhp,141 mph,10.8 seconds,108 g/km
+ds,DS 3,6999.0,2017,1199cc,"51,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,100 g/km
+ds,DS 4,7995.0,2017,1560cc,"73,211 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,118 bhp,117 mph,10.9 seconds,103 g/km
+ds,DS 3,7990.0,2017,1199cc,"28,000 miles",Petrol,Manual,Black,Convertible,4X2,3.0,5.0,109 bhp,118 mph,9.8 seconds,100 g/km
+ds,DS 3,5890.0,2016,1560cc,"87,000 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,9.3 seconds,94 g/km

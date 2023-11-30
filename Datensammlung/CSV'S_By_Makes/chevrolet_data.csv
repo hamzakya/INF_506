@@ -1,0 +1,33 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+chevrolet,Cruze,1950.0,2013,1598cc,"51,403 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,122 bhp,114 mph,12.8 seconds,155 g/km
+chevrolet,Trax,6975.0,2014,1598cc,"33,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.3 seconds,153 g/km
+chevrolet,Captiva,4500.0,2013,2231cc,"127,200 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,181 bhp,118 mph,11.0 seconds,208 g/km
+chevrolet,Captiva,1995.0,2010,1991cc,"163,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,147 bhp,113 mph,11.5 seconds,197 g/km
+chevrolet,Trax,6995.0,2013,1598cc,"45,194 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,108 mph,12.3 seconds,153 g/km
+chevrolet,Cruze,2895.0,2012,1998cc,"78,273 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,163 bhp,127 mph,8.5 seconds,147 g/km
+chevrolet,Corvette,95530.0,2023,6162cc,200 miles,Petrol,Automatic,Tactical Red,Coupe,,,,,,,
+chevrolet,Captiva,2695.0,2008,2405cc,"93,000 miles",Petrol,Manual,Green,Estate,4X2,5.0,5.0,134 bhp,115 mph,11.5 seconds,217 g/km
+chevrolet,Matiz,4495.0,2009,796cc,"39,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,51 bhp,84 mph,21.9 seconds,132 g/km
+chevrolet,GMC CORVETTE,14990.0,1991,5.79L,"87,000 miles",Petrol,Automatic,Grey,Convertible,,,,,,,
+chevrolet,Spark,3850.0,2013,1206cc,"46,488 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,80 bhp,102 mph,12.1 seconds,118 g/km
+chevrolet,Spark,2895.0,2010,995cc,"94,883 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,15.5 seconds,
+chevrolet,Tacuma,2490.0,2008,1998cc,"76,463 miles",Petrol,Automatic,Blue,MPV,4X2,5.0,5.0,121 bhp,108 mph,11.7 seconds,234 g/km
+chevrolet,Spark,2995.0,2013,1206cc,"63,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,80 bhp,102 mph,12.1 seconds,119 g/km
+chevrolet,Spark,2695.0,2010,995cc,"86,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,15.5 seconds,119 g/km
+chevrolet,Cruze,2995.0,2009,1991cc,"68,000 miles",Diesel,Manual,RED,Saloon,4X2,4.0,5.0,149 bhp,130 mph,10.0 seconds,149 g/km
+chevrolet,Matiz,1650.0,2009,995cc,"52,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,64 bhp,97 mph,14.1 seconds,137 g/km
+chevrolet,Corvette,42995.0,2014,6162cc,"34,699 miles",Petrol,Manual,RED,Coupe,4X2,2.0,2.0,460 bhp,180 mph,4.2 seconds,279 g/km
+chevrolet,Spark,3495.0,2013,1206cc,"91,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,102 mph,12.1 seconds,118 g/km
+chevrolet,Cruze,2450.0,2012,1598cc,"116,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,125 bhp,118 mph,12.0 seconds,153 g/km
+chevrolet,Trax,4495.0,2014,1598cc,"42,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,108 mph,12.3 seconds,153 g/km
+chevrolet,Spark,2695.0,2011,995cc,"64,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,15.5 seconds,119 g/km
+chevrolet,Spark,1895.0,2012,1206cc,"93,751 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,80 bhp,102 mph,12.1 seconds,119 g/km
+chevrolet,Matiz,1775.0,2007,1000cc,"87,000 miles",Petrol,Manual,Silver,Other,4X2,5.0,5.0,64 bhp,97 mph,,139 g/km
+chevrolet,Kalos,2495.0,2005,1399cc,"38,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,92 bhp,106 mph,11.9 seconds,178 g/km
+chevrolet,Spark,3999.0,2014,995cc,"40,310 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,15.5 seconds,118 g/km
+chevrolet,Orlando,4490.0,2012,1796cc,"78,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,7.0,142 bhp,114 mph,11.6 seconds,172 g/km
+chevrolet,Orlando,4690.0,2012,1998cc,"77,000 miles",Diesel,Automatic,WHITE,MPV,4X2,5.0,7.0,163 bhp,111 mph,11.0 seconds,186 g/km
+chevrolet,Spark,2995.0,2011,1206cc,"74,513 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,80 bhp,102 mph,12.1 seconds,119 g/km
+chevrolet,Captiva,4995.0,2011,2231cc,"115,292 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,185 bhp,118 mph,8.4 seconds,203 g/km
+chevrolet,Camaro,11975.0,1997,3800cc,"14,000 miles",Petrol,Automatic,White,Coupe,,,,,,,
+chevrolet,Spark,1895.0,2011,995cc,"59,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,96 mph,15.5 seconds,119 g/km

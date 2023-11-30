@@ -1,0 +1,4 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+austin,Maestro,3495.0,1988,1300cc,"26,960 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,,68 bhp,,,0 g/km
+austin,Metropolitan,7750.0,1958,1489cc,"80,000 miles",Petrol,Automatic,Turquoise,Coupe,,,,,,,
+austin,Other,3695.0,1973,2227cc,"27,666 miles",Petrol,Automatic,White,Saloon,4X2,4.0,,,,,0 g/km

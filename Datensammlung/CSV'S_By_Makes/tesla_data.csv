@@ -1,0 +1,88 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+tesla,Model 3,23495.0,2019,1L,"58,477 miles",Other,Automatic,WHITE,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,25990.0,2020,"49,684 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,22760.0,2020,"41,709 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,28990.0,2020,"19,893 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,27540.0,2020,1L,"47,245 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,25295.0,2020,1L,"29,000 miles",Other,Automatic,GREY,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model X,48495.0,2019,1L,"38,000 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,7.0,88 bhp,,,0 g/km
+tesla,Model 3,28644.0,2020,1L,"16,148 miles",Other,Automatic,RED,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,22944.0,2020,1L,"43,657 miles",Other,Automatic,RED,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,23999.0,2020,"34,151 miles",Electric,,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,22800.0,2020,"79,490 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,31740.0,2020,1L,"28,643 miles",Other,Automatic,WHITE,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,31140.0,2020,1L,"47,430 miles",Other,Automatic,GREY,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,31740.0,2020,1L,"27,458 miles",Other,Automatic,BLUE,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model X,57540.0,2020,1L,"57,248 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,7.0,469 bhp,155 mph,,0 g/km
+tesla,Model S,47940.0,2020,1L,"51,582 miles",Other,Automatic,BLUE,Hatchback,4X4,5.0,5.0,469 bhp,155 mph,,0 g/km
+tesla,Model 3,25985.0,2020,1L,"40,944 miles",Other,Automatic,WHITE,Saloon,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,44388.0,2022,1L,"21,300 miles",Other,Automatic,WHITE,Saloon,4X4,4.0,5.0,302 bhp,140 mph,,0 g/km
+tesla,Model 3,26675.0,2020,1L,"40,166 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,26800.0,2019,1L,"21,000 miles",Other,Automatic,GREY,Saloon,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,25999.0,2020,"64,484 miles",Electric,,Black,Saloon,0.1 mpg,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,23998.0,2020,"29,761 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,20500.0,2019,"67,890 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model S,71987.0,2020,1L,"19,554 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,5.0,604 bhp,155 mph,,0 g/km
+tesla,Model S,33995.0,2019,0L,"17,000 miles",Other,Automatic,Blue,Hatchback,4X4,5.0,5.0,517 bhp,140 mph,5.2 seconds,0 g/km
+tesla,Model S,45995.0,2020,0L,"38,000 miles",Other,Automatic,Grey,Hatchback,4X4,5.0,5.0,469 bhp,155 mph,,0 g/km
+tesla,Model 3,23499.0,2019,"24,353 miles",Electric,,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,25700.0,2020,"51,060 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,28495.0,2020,"21,300 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,26999.0,2020,0L,"81,000 miles",Other,Automatic,Black,Saloon,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,26999.0,2020,0L,"81,000 miles",Other,Automatic,Black,Saloon,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,23899.0,2020,"57,308 miles",Electric,,Grey,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model X,48250.0,2019,1L,"70,734 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,7.0,761 bhp,155 mph,,0 g/km
+tesla,Model X,77987.0,2020,1L,"48,300 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,7.0,469 bhp,155 mph,,0 g/km
+tesla,Model 3,26399.0,2020,"40,417 miles",Electric,,Black,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,24740.0,2020,"65,987 miles",Other,Automatic,Grey,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,22995.0,2019,"64,105 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,18500.0,2020,"81,766 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,26500.0,2000,"47,151 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,24595.0,2019,1L,"30,559 miles",Other,Automatic,BLACK,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,27499.0,2020,"22,929 miles",Electric,,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model Y,39948.0,2022,"18,000 miles",Electric,Automatic,Red,MPV,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+tesla,Model 3,21000.0,2019,"60,290 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,27490.0,2020,1L,"21,700 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,31871.0,2021,"30,649 miles",Other,Automatic,WHITE,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,21999.0,2020,"62,133 miles",Electric,,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,28290.0,2020,"12,324 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,26790.0,2020,"33,448 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,23290.0,2020,"38,415 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,20220.0,2019,"56,107 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,25490.0,2020,"42,084 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,21990.0,2019,"70,589 miles",Electric,Automatic,Blue,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,24750.0,2020,0L,"22,000 miles",Other,Automatic,Black,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,25499.0,2019,"42,000 miles",Other,Automatic,Blue,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,23549.0,2019,"57,831 miles",Electric,,Black,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,28899.0,2021,"6,806 miles",Electric,,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,27599.0,2020,"65,000 miles",Other,Automatic,Pearl White Multi-Coat,Saloon,0.1 mpg,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,25400.0,2019,"44,232 miles",Electric,Automatic,Blue,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,19000.0,2020,"74,185 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model Y,43920.0,2023,"2,818 miles",Electric,Automatic,White,SUV,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+tesla,Model Y,39959.0,2022,"13,711 miles",Electric,Automatic,White,SUV,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+tesla,Model 3,28799.0,2020,1L,"39,807 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,24499.0,2020,"56,600 miles",Other,Automatic,Black,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,26499.0,2020,"34,467 miles",Electric,,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,20599.0,2019,"60,245 miles",Electric,,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,24499.0,2020,"43,652 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model Y,38998.0,2022,"17,880 miles",Electric,Automatic,White,SUV,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+tesla,Model 3,19999.0,2019,"48,456 miles",Other,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model Y,40520.0,2022,"9,496 miles",Electric,Automatic,White,SUV,0.1 mpg,4X4,5.0,5.0,507 bhp,135 mph,,0 g/km
+tesla,Model 3,27759.0,2021,"22,934 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,23849.0,2020,"50,000 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,24995.0,2019,"48,500 miles",Electric,Auto,Blue,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,21698.0,2019,"47,842 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,23298.0,2020,"37,615 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,27948.0,2020,"26,000 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,26999.0,2020,"40,825 miles",Other,Automatic,Red,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,19400.0,2019,"71,030 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model X,39990.0,2018,1L,"31,500 miles",Other,Automatic,BLACK,Hatchback,4X4,5.0,7.0,88 bhp,,,0 g/km
+tesla,Model 3,19990.0,2020,1L,"69,000 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,30000.0,2022,"1,956 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,22800.0,2020,"73,790 miles",Electric,Automatic,Grey,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,19795.0,2020,"55,013 miles",Electric,Automatic,White,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,19795.0,2019,"57,442 miles",Electric,Automatic,Black,Saloon,0.1 mpg,4X2,4.0,5.0,302 bhp,140 mph,5.6 seconds,0 g/km
+tesla,Model 3,26499.0,2019,"40,500 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km
+tesla,Model 3,20980.0,2019,"64,000 miles",Other,Automatic,White,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,25798.0,2020,"30,134 miles",Electric,Automatic,Red,Saloon,0.1 mpg,4X4,4.0,5.0,302 bhp,140 mph,4.5 seconds,0 g/km
+tesla,Model 3,29400.0,2019,1L,"58,723 miles",Other,Automatic,BLACK,Saloon,4X4,4.0,5.0,482 bhp,162 mph,,0 g/km

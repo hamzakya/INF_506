@@ -1,0 +1,319 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+mitsubishi,Outlander,8695.0,2009,2360cc,"50,732 miles",Petrol,Automatic,Grey,Estate,4X4,5.0,7.0,168 bhp,118 mph,10.8 seconds,222 g/km
+mitsubishi,Outlander,13450.0,2016,1998cc,"69,845 miles",Other,Automatic,WHITE,Estate,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Outlander,19749.0,2020,2360cc,"27,863 miles",Hybrid,,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,20449.0,2020,2360cc,"35,683 miles",Hybrid,,Red,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,15349.0,2017,2268cc,"64,919 miles",Diesel,,Red,SUV,4X4,5.0,7.0,147 bhp,118 mph,,154 g/km
+mitsubishi,Outlander,19699.0,2018,1998cc,"20,795 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Outlander,18549.0,2019,2360cc,"27,529 miles",Hybrid,,Red,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,14995.0,2018,1560cc,"52,976 miles",Diesel,Manual,Brown,SUV,4X4,5.0,5.0,113 bhp,111 mph,11.5 seconds,132 g/km
+mitsubishi,ASX,16199.0,2020,2L,"6,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,Outlander,19980.0,2020,2360cc,"22,000 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,19200.0,2020,2L,"36,773 miles",Petrol,Semiauto,White,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Outlander,18995.0,2020,2360cc,"38,779 miles",Petrol,Automatic,Sterling Silver Metallic,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Eclipse Cross,12550.0,2019,1499cc,"58,928 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,159 g/km
+mitsubishi,L200,13849.0,2018,2442cc,"78,446 miles",Diesel,Manual,White,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,28794.0,2020,2268cc,"34,000 miles",Diesel,Automatic,SILVER,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,24660.0,2020,2360cc,"22,606 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Shogun,21399.0,2017,3200cc,"58,152 miles",Diesel,Automatic,SILVER,Estate,4X4,5.0,7.0,188 bhp,111 mph,11.1 seconds,245 g/km
+mitsubishi,ASX,8390.0,2013,1590cc,"40,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,11.4 seconds,137 g/km
+mitsubishi,Outlander,23148.0,2020,2360cc,"33,000 miles",Other,Automatic,WHITE,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,16449.0,2019,2360cc,"53,491 miles",Hybrid,,Red,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200 DI-D 4X4 WARRIOR DCB,13995.0,2016,2442cc,"98,185 miles",Diesel,Automatic,White,4x4,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Outlander,9829.0,2015,2268cc,"80,349 miles",Diesel,Manual,White,SUV,4X4,5.0,7.0,147 bhp,124 mph,10.2 seconds,140 g/km
+mitsubishi,Outlander,19695.0,2020,2L,"34,000 miles",Petrol,Automatic,White,Estate,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,L200 2.3 DI-D 150 BHP BARBARIAN X 4WD AUTOMATIC ( EURO 6 ),24989.0,2020,2.3L,"51,000 miles",Diesel,Automatic,Black,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,17700.0,2020,1998cc,"35,671 miles",Petrol,Automatic,White,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Outlander,19400.0,2021,2360cc,"45,205 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,18700.0,2021,2360cc,"48,018 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,18700.0,2020,1998cc,"37,944 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Colt,2495.0,2007,1124cc,"83,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,74 bhp,103 mph,12.9 seconds,130 g/km
+mitsubishi,L200 Di-d 150 Barbarian 4wd Double Cab With Truckman Top Auto,21994.0,2020,2.268L,"37,160 miles",Diesel,Automatic,Blue,Pick up,4X4,,,147 bhp,106 mph,,
+mitsubishi,Shogun,25699.0,2021,2.4L,"40,581 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,0 g/km
+mitsubishi,Shogun,29869.0,2021,2.4L,"11,056 miles",Diesel,Automatic,Other,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,0 g/km
+mitsubishi,Outlander,19920.0,2020,2.4L,"29,537 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200,13850.0,2019,2442cc,"117,738 miles",Diesel,Automatic,Blue,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Shogun,16750.0,2017,3200cc,"102,753 miles",Diesel,Automatic,Grey,SUV,4X4,,,188 bhp,111 mph,10.4 seconds,238 g/km
+mitsubishi,Shogun,14000.0,2014,3200cc,"87,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,197 bhp,111 mph,11.1 seconds,224 g/km
+mitsubishi,Lancer,24685.0,2003,1998cc,"67,602 miles",Petrol,Manual,Black,Saloon,,,,,,,
+mitsubishi,ASX,14690.0,2020,1998cc,"13,000 miles",Petrol,Manual,GREY,Other,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,Outlander,17290.0,2020,1998cc,"53,000 miles",Petrol,Automatic,BLACK,Other,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,169 g/km
+mitsubishi,Outlander,11495.0,2014,1998cc,"64,000 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Outlander,22680.0,2019,2360cc,"32,725 miles",Other,Automatic,BLACK,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Shogun,14899.0,2013,3200cc,"65,944 miles",Diesel,Automatic,RED,Estate,4X4,3.0,5.0,197 bhp,111 mph,10.4 seconds,216 g/km
+mitsubishi,Outlander,9495.0,2015,1998cc,"105,090 miles",Other,Automatic,BLACK,Estate,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,ASX,6795.0,2014,1590cc,"82,698 miles",Petrol,Manual,BROWN,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,11.4 seconds,137 g/km
+mitsubishi,Outlander,18140.0,2018,2L,"48,705 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Outlander,20749.0,2019,1998cc,"17,944 miles",Petrol,,Silver,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,169 g/km
+mitsubishi,ASX,19049.0,2021,1998cc,"19,414 miles",Petrol,,Silver,SUV,4X4,5.0,5.0,147 bhp,118 mph,12.5 seconds,185 g/km
+mitsubishi,Outlander,19999.0,2020,2.4L,"22,000 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,16200.0,2019,2360cc,"42,976 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Shogun,22500.0,2019,2442cc,"44,726 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,227 g/km
+mitsubishi,Outlander,12995.0,2015,1998cc,"55,000 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Outlander,16000.0,2018,2360cc,"62,993 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,20600.0,2021,2360cc,"42,189 miles",Petrol Plug-in Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,7000.0,2013,2268cc,"80,000 miles",Diesel,Manual,Silver,Estate,4X4,5.0,7.0,174 bhp,124 mph,9.8 seconds,167 g/km
+mitsubishi,Eclipse Cross,14829.0,2018,1499cc,"46,662 miles",Petrol,Automatic,Red,Other,4X4,5.0,5.0,161 bhp,127 mph,10.4 seconds,175 g/km
+mitsubishi,Outlander,16576.0,2018,2360cc,"45,961 miles",Hybrid,Automatic,Black,Other,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200,16500.0,2018,2442cc,"77,500 miles",Diesel,Automatic,Black,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,24600.0,2019,2442cc,"44,991 miles",Diesel,Automatic,GREY,Other,4X4,,,178 bhp,109 mph,,
+mitsubishi,L200,15050.0,2016,2442cc,"75,408 miles",Diesel,Manual,WHITE,Other,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,23994.0,2019,2442cc,"54,830 miles",Diesel,Automatic,BLACK,Other,4X4,4.0,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,25140.0,2020,2268cc,"39,911 miles",Diesel,Automatic,BLACK,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,17599.0,2019,2360cc,"42,319 miles",Hybrid,,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Eclipse Cross,17599.0,2019,1499cc,"22,501 miles",Petrol,,Grey,SUV,4X4,5.0,5.0,161 bhp,124 mph,10.4 seconds,175 g/km
+mitsubishi,Outlander,19949.0,2019,2360cc,"21,377 miles",Hybrid,,Brown,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Mirage,10749.0,2020,1193cc,"3,896 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,70 bhp,104 mph,,116 g/km
+mitsubishi,Outlander,19000.0,2018,2.4L,"35,359 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,6995.0,2013,2.29L,"87,300 miles",Diesel,Automatic,Grey,Hatchback,,,,,,,
+mitsubishi,Outlander,10995.0,2015,1998cc,"80,000 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,Shogun,16250.0,2016,3200cc,"109,321 miles",Diesel,Automatic,WHITE,Estate,4X4,3.0,5.0,188 bhp,111 mph,10.4 seconds,238 g/km
+mitsubishi,Eclipse Cross,12849.0,2018,1499cc,"30,126 miles",Petrol,,White,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,151 g/km
+mitsubishi,Outlander,16799.0,2019,2360cc,"53,563 miles",Hybrid,,White,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,11498.0,2017,1.6L,"4,449 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,115 bhp,114 mph,11.5 seconds,135 g/km
+mitsubishi,Shogun,23495.0,2018,2.4L,"33,685 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,227 g/km
+mitsubishi,Mirage,8495.0,2019,1193cc,"18,761 miles",Petrol,Manual,Bronze,Hatchback,4X2,5.0,5.0,79 bhp,112 mph,12.7 seconds,111 g/km
+mitsubishi,Outlander,18490.0,2019,1998cc,"22,793 miles",Petrol,CVT,White,Estate,4X4,5.0,5.0,147 bhp,118 mph,,171 g/km
+mitsubishi,L200,23394.0,2019,2442cc,"19,828 miles",Diesel,Manual,BLUE,Other,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200 L200 BARBARIAN X DI-D AUT - He,27500.0,2021,2.3L,"39,050 miles",Diesel,Automatic,BLUE,Pickup,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,23508.0,2019,2.4L,"38,671 miles",Diesel,Manual,White,pickup,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,Outlander,17900.0,2019,2.4L,"33,947 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Shogun,26950.0,2020,2442cc,"23,395 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,0 g/km
+mitsubishi,Outlander,19370.0,2020,2L,"23,914 miles",Petrol,Semiauto,White,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Eclipse Cross,16386.0,2019,1.5L,"8,123 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,161 bhp,127 mph,10.4 seconds,175 g/km
+mitsubishi,Outlander,19495.0,2019,2L,"24,611 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,147 bhp,118 mph,,171 g/km
+mitsubishi,L200,17990.0,2019,2442cc,"54,888 miles",Diesel,Automatic,White,Van,4X4,,,178 bhp,109 mph,,
+mitsubishi,L200,32394.0,2020,2268cc,"61,446 miles",Diesel,Automatic,WHITE,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,18900.0,2020,1998cc,"34,643 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,ASX,8995.0,2014,2268cc,"43,785 miles",Diesel,Automatic,Black,Hatchback,4X4,5.0,5.0,147 bhp,118 mph,10.8 seconds,153 g/km
+mitsubishi,Outlander,9999.0,2016,2268cc,"100,000 miles",Diesel,Manual,SILVER,Estate,,,,,,,
+mitsubishi,Colt,1995.0,2008,1124cc,"69,953 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,5.0,74 bhp,103 mph,12.9 seconds,130 g/km
+mitsubishi,Eclipse Cross,15399.0,2018,1499cc,"44,148 miles",Petrol,,Red,SUV,4X4,5.0,5.0,161 bhp,127 mph,10.4 seconds,175 g/km
+mitsubishi,Outlander,13777.0,2018,2268cc,"54,655 miles",Diesel,Manual,BLUE,Estate,4X4,5.0,7.0,147 bhp,124 mph,,139 g/km
+mitsubishi,Outlander,14980.0,2016,2L,"62,965 miles",Other,Automatic,Red,Other,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,Outlander,15390.0,2018,2.4L,"65,278 miles",Other,Automatic,White,Other,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Lancer,2995.0,2008,1584cc,"79,000 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,96 bhp,112 mph,12.6 seconds,166 g/km
+mitsubishi,L200,21000.0,2018,2442cc,"26,000 miles",Diesel,Automatic,Black,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,15950.0,2018,2442cc,"89,548 miles",Diesel,Automatic,Green,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,17990.0,2018,2442cc,"84,047 miles",Diesel,Manual,WHITE,Other,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,16990.0,2018,2442cc,"89,902 miles",Diesel,Manual,WHITE,Other,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,Outlander,9390.0,2012,2179cc,"50,000 miles",Diesel,Automatic,BROWN,Estate,4X4,5.0,7.0,154 bhp,123 mph,11.1 seconds,189 g/km
+mitsubishi,Outlander,16350.0,2018,2268cc,"49,177 miles",Diesel,Manual,RED,Estate,4X4,5.0,7.0,147 bhp,124 mph,,139 g/km
+mitsubishi,Outlander,17849.0,2019,2360cc,"40,864 miles",Hybrid,,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Mirage,12545.0,2020,1193cc,"14,699 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,79 bhp,107 mph,,127 g/km
+mitsubishi,Outlander 2.4h TwinMotor 13.8kWh Reflex LCV CVT 4WD Euro 6 (s/s) 5dr Ulez Auto Commercial Hybrid,13487.0,2019,2360cc,"59,506 miles",Petrol Plug-in Hybrid,Automatic,White,van,4X4,,,221 bhp,106 mph,,
+mitsubishi,Shogun,16995.0,2016,3200cc,"102,444 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,7.0,188 bhp,111 mph,11.1 seconds,245 g/km
+mitsubishi,Outlander,19349.0,2019,2360cc,"43,041 miles",Hybrid,,Silver,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,17599.0,2020,2360cc,"55,894 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,ASX,13990.0,2020,1998cc,"27,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,Outlander,12950.0,2015,1998cc,"51,427 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Eclipse Cross,14699.0,0L,"16,792 miles",Petrol,Manual,Amethyst Black,SUV,36.2 mpg,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,177 g/km
+mitsubishi,Shogun,24989.0,2021,2.4L,"44,847 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,0 g/km
+mitsubishi,Shogun,9995.0,2010,3200cc,"87,433 miles",Diesel,Automatic,Knight Black,SUV,4X4,5.0,7.0,197 bhp,111 mph,11.1 seconds,224 g/km
+mitsubishi,L200,26940.0,2020,2268cc,"22,311 miles",Diesel,Automatic,SILVER,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,15995.0,2017,2442cc,"62,444 miles",Diesel,Manual,Red,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,12495.0,2014,2477cc,"87,100 miles",Diesel,Manual,White,Van,4X4,,,176 bhp,111 mph,12.1 seconds,
+mitsubishi,ASX,12500.0,2000,1998cc,"25,832 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,ASX,8995.0,2018,1560cc,"63,776 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,113 bhp,113 mph,,119 g/km
+mitsubishi,Outlander,20500.0,2021,2.4L,"46,217 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,L200,23950.0,2020,2268cc,"21,443 miles",Diesel,Automatic,Red,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,15495.0,2018,2442cc,"56,186 miles",Diesel,Manual,White,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,18495.0,2018,2442cc,"45,883 miles",Diesel,Automatic,Black,Van,4X4,4.0,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,20995.0,2020,2268cc,"52,877 miles",Diesel,Automatic,Grey,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,17995.0,2019,2442cc,"34,339 miles",Diesel,Manual,White,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,15495.0,2019,2442cc,"61,370 miles",Diesel,Automatic,Grey,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Shogun,14950.0,2015,3200cc,"98,000 miles",Diesel,Manual,Black,Van,4X4,,,197 bhp,111 mph,9.7 seconds,
+mitsubishi,L200,21650.0,2020,2268cc,"33,000 miles",Diesel,Automatic,White,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,17995.0,2018,2442cc,"38,973 miles",Diesel,Manual,White,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,22995.0,2020,2268cc,"43,102 miles",Diesel,Automatic,Grey,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,Eclipse Cross,12399.0,2018,1499cc,"33,065 miles",Petrol,Manual,Bronze,Hatchback,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,151 g/km
+mitsubishi,L200 2.4 DI-D DC Challenger Pickup 4dr Diesel Auto 4WD Euro 6 (181 ps),15997.0,2019,2.44L,"61,911 miles",Diesel,Automatic,White,Pick Up,4X4,,,178 bhp,109 mph,,
+mitsubishi,Outlander,20000.0,2360cc,"28,309 miles",Petrol/PlugIn Elec Hybrid,Automatic,Red,Estate,141.3 mpg,,,,,,,
+mitsubishi,L200,13950.0,2017,2442cc,"100,000 miles",Diesel,Automatic,Red,Van,,,,,,,
+mitsubishi,Eclipse Cross,16799.0,2020,1.5L,"15,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,177 g/km
+mitsubishi,3000GT,7900.0,1998,2972cc,"118,782 miles",Petrol,Manual,Silver,Saloon,4X4,3.0,,281 bhp,155 mph,5.7 seconds,0 g/km
+mitsubishi,Outlander,14400.0,2019,2360cc,"68,882 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200 2.2 DI-D DC Barbarian X Auto 4WD Euro 6 (s/s) 4dr ROLL COVER - HEATED SEATS,24750.0,2020,2268cc,"35,000 miles",Diesel,Automatic,Silver,van,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,18000.0,2019,2.4L,"40,000 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200,32994.0,2020,2268cc,"23,000 miles",Diesel,Automatic,Blue,SUV,4X4,,,147 bhp,106 mph,,
+mitsubishi,Canter,13995.0,2017,2998cc,"66,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,81 mph,,
+mitsubishi,L200,29994.0,2020,2268cc,"25,000 miles",Diesel,Automatic,SILVER,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,16250.0,2019,2360cc,"55,850 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,17290.0,2019,2360cc,"49,500 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,10495.0,2018,1590cc,"38,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,11.5 seconds,135 g/km
+mitsubishi,Outlander,18799.0,2019,2360cc,"37,552 miles",Hybrid,,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,19199.0,2019,2360cc,"33,782 miles",Hybrid,,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Shogun,25699.0,2019,2442cc,"35,839 miles",Diesel,,Black,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,227 g/km
+mitsubishi,Eclipse Cross,14499.0,2018,1.5L,"28,733 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,161 bhp,124 mph,9.7 seconds,154 g/km
+mitsubishi,ASX,12790.0,2018,1.6L,"30,014 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,115 bhp,114 mph,,136 g/km
+mitsubishi,Eclipse Cross,14400.0,2018,1499cc,"47,165 miles",Petrol,Automatic,Red,SUV,4X4,5.0,5.0,161 bhp,127 mph,10.4 seconds,175 g/km
+mitsubishi,Eclipse Cross,15595.0,2019,1.5L,"35,183 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,161 bhp,124 mph,10.4 seconds,175 g/km
+mitsubishi,Shogun,19995.0,2015,3200cc,"38,898 miles",Diesel,Automatic,Grey Metallic,Van,4X4,,,188 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,22740.0,2021,2268cc,"65,000 miles",Diesel,Manual,RED,Other,4X4,,,147 bhp,108 mph,,
+mitsubishi,L200,17995.0,2019,2442cc,"85,000 miles",Diesel,Automatic,WHITE,Other,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,24000.0,2018,2442cc,"39,200 miles",Diesel,Automatic,WHITE,Other,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Shogun,17450.0,2017,3200cc,"100,132 miles",Diesel,Automatic,Red,SUV,4X4,,,188 bhp,111 mph,10.4 seconds,238 g/km
+mitsubishi,ASX,10800.0,2017,1590cc,"31,794 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,115 bhp,114 mph,11.5 seconds,136 g/km
+mitsubishi,Shogun,11495.0,2012,3200cc,"96,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,7.0,197 bhp,111 mph,10.5 seconds,213 g/km
+mitsubishi,Shogun,18489.0,2018,3200cc,"63,100 miles",Diesel,Automatic,RED,Estate,4X4,5.0,7.0,188 bhp,111 mph,11.1 seconds,245 g/km
+mitsubishi,Outlander,12349.0,2015,1998cc,"55,382 miles",Other,Automatic,BLUE,Estate,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Outlander,13695.0,2018,1998cc,"89,911 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Outlander,16480.0,2020,2360cc,"74,000 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,L200,28194.0,2021,2.3L,"44,801 miles",Diesel,Manual,White,pickup,4X4,,,147 bhp,108 mph,,
+mitsubishi,L200,16995.0,2019,2442cc,"39,000 miles",Diesel,Manual,Red,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,13490.0,2014,2477cc,"72,000 miles",Diesel,Automatic,White,Van,4X4,,,176 bhp,109 mph,13.0 seconds,
+mitsubishi,L200,8950.0,2011,2477cc,"95,000 miles",Diesel,Automatic,White,Van,4X4,,,176 bhp,108 mph,13.0 seconds,
+mitsubishi,L200,12450.0,2012,2477cc,"60,000 miles",Diesel,Automatic,Red,Van,4X4,,,176 bhp,108 mph,14.5 seconds,
+mitsubishi,L200,11000.0,2010,2477cc,"58,000 miles",Diesel,Manual,RED,Other,4X4,,,176 bhp,111 mph,12.1 seconds,
+mitsubishi,L200,27300.0,2020,2268cc,"31,997 miles",Diesel,Automatic,GREY,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,18576.0,2019,2442cc,"56,810 miles",Diesel,Manual,GREY,Other,4X4,,,178 bhp,111 mph,,
+mitsubishi,Shogun,14500.0,2012,3200cc,"57,000 miles",Diesel,Automatic,Brown,SUV,4X4,5.0,7.0,197 bhp,111 mph,11.1 seconds,224 g/km
+mitsubishi,Outlander,12995.0,2017,1998cc,"78,994 miles",Other,Automatic,White,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Shogun,21990.0,2016,3200cc,"55,905 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,7.0,188 bhp,111 mph,11.1 seconds,245 g/km
+mitsubishi,L200 2.2 DI-D DC Barbarian Auto 4WD Euro 6 (s/s) 4dr TRUCKMAN TOP - APPLE PLAY,26500.0,2021,2268cc,"34,000 miles",Diesel,Automatic,Black,van,4X4,,,147 bhp,106 mph,,
+mitsubishi,Shogun,4950.0,2007,3200cc,"132,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,7.0,168 bhp,110 mph,14.0 seconds,280 g/km
+mitsubishi,L200,2500.0,2001,2477cc,"140,016 miles",Diesel,Manual,Black,Van,4X4,,,98 bhp,,,
+mitsubishi,L200,18995.0,2020,2442cc,"44,600 miles",Diesel,Automatic,Black,Van,4X4,,,178 bhp,109 mph,,
+mitsubishi,L200,15295.0,2018,2442cc,"75,500 miles",Diesel,Manual,Black,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,Outlander,17849.0,2018,2360cc,"35,415 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,19049.0,2020,2360cc,"41,824 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,17299.0,2019,2.4L,"51,520 miles",Other,Automatic,Silver,Estate,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Mirage,7799.0,2017,1.2L,"24,417 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,79 bhp,112 mph,11.7 seconds,100 g/km
+mitsubishi,ASX,14500.0,2019,1.6L,"22,527 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,Shogun,21490.0,2019,2442cc,"60,000 miles",Diesel,Automatic,Other,SUV,,,,,,,
+mitsubishi,ASX,14479.0,2019,1.6L,"20,706 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,Outlander,19000.0,2019,2L,"28,000 miles",Petrol,Semiauto,White,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,169 g/km
+mitsubishi,L200,25989.0,2021,2268cc,"25,367 miles",Diesel,Automatic,ORANGE,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,17999.0,2018,2.4L,"25,326 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,8990.0,2017,1560cc,"84,218 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,113 bhp,113 mph,11.2 seconds,119 g/km
+mitsubishi,Outlander,19799.0,2019,2360cc,"19,357 miles",Hybrid,,White,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,16649.0,2019,2360cc,"48,418 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,15849.0,2018,1998cc,"42,517 miles",Hybrid,,White,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,ASX,12849.0,2018,1590cc,"32,825 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,Outlander,18500.0,2021,2360cc,"51,142 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,14495.0,2017,1998cc,"58,010 miles",Petrol Plug-in Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,Outlander,18700.0,2021,2360cc,"47,402 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,L200,11995.0,2015,2477cc,"99,300 miles",Diesel,Manual,WHITE,Other,4X4,,,176 bhp,111 mph,12.1 seconds,
+mitsubishi,Eclipse Cross,13798.0,2018,1.5L,"31,536 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,151 g/km
+mitsubishi,Outlander,16099.0,2018,2360cc,"59,068 miles",Hybrid,,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,13999.0,2019,1.6L,"17,360 miles",Petrol,Manual,Brown,MPV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,ASX,12995.0,2018,1590cc,"23,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,,136 g/km
+mitsubishi,Outlander,8480.0,2014,1998cc,"111,000 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,L200,17495.0,2020,2268cc,"28,250 miles",Diesel,Manual,White,Van,4X4,,,147 bhp,108 mph,,
+mitsubishi,Colt,3495.0,2008,1124cc,"99,577 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,74 bhp,103 mph,12.9 seconds,130 g/km
+mitsubishi,Colt,6995.0,2009,1460cc,"70,900 miles",Petrol,Automatic,White,Hatchback,,,,,,,
+mitsubishi,L200,24994.0,2019,2442cc,"26,700 miles",Diesel,Automatic,Green,SUV,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,15950.0,2019,2442cc,"79,905 miles",Diesel,Automatic,Silver,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Lancer,23995.0,1999,"85,000 miles",Petrol,Manual,Yellow,Other,27.6 mpg,4X4,3.0,,118 bhp,102 mph,11.1 seconds,0 g/km
+mitsubishi,Eclipse Cross,12299.0,2018,1499cc,"50,134 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,159 g/km
+mitsubishi,ASX,14100.0,2018,2268cc,"28,556 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.8 seconds,152 g/km
+mitsubishi,Outlander,19993.0,2020,2360cc,"33,540 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,12795.0,2016,2L,"58,000 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,Outlander,20252.0,2020,2L,"19,724 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Shogun,25995.0,2021,2442cc,"31,813 miles",Diesel,Automatic,Grey,SUV,,,,,,,
+mitsubishi,Lancer,24995.0,1999,"52,775 miles",Petrol,Manual,Blue,Saloon,20 mpg,4X4,4.0,5.0,280 bhp,,,0 g/km
+mitsubishi,Outlander,19548.0,2019,2360cc,"70,000 miles",Other,Automatic,SILVER,Estate,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Eclipse Cross,13800.0,2018,1.5L,"59,518 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,161 bhp,124 mph,10.4 seconds,159 g/km
+mitsubishi,L200,22000.0,2019,2442cc,"16,200 miles",Diesel,Automatic,Grey Metallic,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,ASX,12750.0,2019,2L,"40,032 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,161 g/km
+mitsubishi,L200,9995.0,2014,2477cc,"100,741 miles",Diesel,Manual,Silver,Van,4X4,,,176 bhp,111 mph,12.1 seconds,
+mitsubishi,Shogun,25079.0,2021,2.4L,"43,828 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,0 g/km
+mitsubishi,Outlander,13700.0,2016,1998cc,"54,104 miles",Petrol Plug-in Hybrid,Automatic,White,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,Eclipse Cross,10892.0,2017,1499cc,"51,945 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,151 g/km
+mitsubishi,Eclipse Cross,11000.0,2019,1499cc,"66,317 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,159 g/km
+mitsubishi,L200,24000.0,2018,2.4L,"25,752 miles",Diesel,Manual,White,pickup,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,ASX,9998.0,2017,1.6L,"53,467 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,115 bhp,114 mph,11.5 seconds,136 g/km
+mitsubishi,Outlander,19795.0,2020,2L,"35,624 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,ASX,5999.0,2015,1.6L,"86,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,11.4 seconds,137 g/km
+mitsubishi,Outlander,18500.0,2020,2360cc,"38,640 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,19980.0,2020,1998cc,"42,557 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,169 g/km
+mitsubishi,L200 2.2 DI-D DC Barbarian Pickup 4dr Diesel Auto 4WD Euro 6 (s/s) (150 ps),22995.0,2020,2268cc,"45,297 miles",Diesel,Automatic,Black,Pickup,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,18295.0,2020,2400cc,"33,547 miles",Hybrid,Automatic,Alpine White,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Eclipse Cross,17795.0,2020,1.5L,"27,617 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,161 bhp,127 mph,10.4 seconds,196 g/km
+mitsubishi,Outlander,15900.0,2018,2360cc,"61,867 miles",Petrol Plug-in Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,14795.0,2019,2000cc,"74,600 miles",Petrol,Automatic,METALLIC MINERAL GREY,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,169 g/km
+mitsubishi,Shogun,13995.0,2015,3200cc,"71,000 miles",Diesel,Automatic,White,Estate,4X4,5.0,7.0,197 bhp,111 mph,11.1 seconds,224 g/km
+mitsubishi,L200,26400.0,2020,2268cc,"28,500 miles",Diesel,Manual,WHITE,Other,4X4,,,147 bhp,108 mph,,
+mitsubishi,L200,15990.0,2016,2442cc,"52,000 miles",Diesel,Automatic,Grey,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,16794.0,2018,2442cc,"104,000 miles",Diesel,Manual,WHITE,Other,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,21450.0,2021,2268cc,"16,125 miles",Diesel,Manual,Blue,Van,4X4,,,147 bhp,108 mph,,
+mitsubishi,ASX,12790.0,2018,1590cc,"32,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,ASX,5950.0,2014,1798cc,"87,000 miles",Diesel,Manual,Red,Hatchback,4X4,5.0,5.0,114 bhp,116 mph,10.6 seconds,136 g/km
+mitsubishi,Lancer,26985.0,2008,1998cc,"42,222 miles",Petrol,Manual,Black,Saloon,4X4,4.0,5.0,366 bhp,155 mph,4.1 seconds,327 g/km
+mitsubishi,ASX,9995.0,2015,2268cc,"62,478 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.8 seconds,153 g/km
+mitsubishi,Eclipse Cross,16399.0,2018,1499cc,"34,095 miles",Petrol,,Red,SUV,4X4,5.0,5.0,161 bhp,124 mph,,159 g/km
+mitsubishi,Eclipse Cross,12899.0,2019,1499cc,"46,580 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,159 g/km
+mitsubishi,Outlander,10240.0,2015,1998cc,"83,000 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,ASX,12599.0,2019,1590cc,"32,917 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,115 bhp,114 mph,11.5 seconds,136 g/km
+mitsubishi,ASX,14699.0,2020,1998cc,"22,328 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,Outlander,22998.0,2019,2.4L,"30,387 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,ASX,15499.0,2021,2L,"34,000 miles",Petrol,Automatic,Silver,Hatchback,4X4,5.0,5.0,147 bhp,118 mph,12.5 seconds,185 g/km
+mitsubishi,L200,22560.0,2019,2.4L,"60,959 miles",Diesel,Automatic,Black,pickup,4X4,,,178 bhp,109 mph,,
+mitsubishi,ASX,12500.0,2021,1998cc,"44,939 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,171 g/km
+mitsubishi,Outlander,17900.0,2020,2360cc,"62,283 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander 2.2 DI-D LCV 4WD Euro 6 (s/s) 5dr FREE UK DELIVERY +VAT,8000.0,2018,2268cc,"118,262 miles",Diesel,Manual,White,van,4X4,,,147 bhp,124 mph,,
+mitsubishi,L200,18500.0,2017,2.4L,"58,092 miles",Diesel,Automatic,Grey,pickup,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,L200,18989.0,2019,2268cc,"72,344 miles",Diesel,Manual,GREY,Van,4X4,,,147 bhp,108 mph,,
+mitsubishi,Outlander,17699.0,2019,2360cc,"49,614 miles",Hybrid,,White,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200,6995.0,2007,2477cc,"117,000 miles",Diesel,Manual,Silver,Van,4X4,,,134 bhp,,,
+mitsubishi,L200,13995.0,2016,2442cc,"78,919 miles",Diesel,Automatic,Black,Van,,,,,,,
+mitsubishi,ASX,12495.0,2018,1590cc,"55,466 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,115 bhp,114 mph,,136 g/km
+mitsubishi,ASX,11995.0,2016,2268cc,"89,000 miles",Diesel,Automatic,Red,Other,,,,,,,
+mitsubishi,Outlander,16795.0,2018,2268cc,"27,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,147 bhp,118 mph,,154 g/km
+mitsubishi,Lancer,24685.0,2004,1998cc,"65,470 miles",Petrol,Manual,White,Saloon,,,,,,,
+mitsubishi,ASX,12494.0,2019,1590cc,"28,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,ASX,14994.0,2020,1998cc,"29,000 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,118 mph,12.5 seconds,161 g/km
+mitsubishi,ASX,2895.0,2011,1800cc,"119,671 miles",Diesel,Manual,White,Other,4X4,5.0,5.0,147 bhp,123 mph,10.0 seconds,150 g/km
+mitsubishi,Outlander,12498.0,2016,2L,"77,626 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,Eclipse Cross,16104.0,2019,1.5L,"14,200 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,161 bhp,124 mph,10.4 seconds,175 g/km
+mitsubishi,Outlander,18180.0,2019,2.4L,"42,685 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Mirage,9995.0,2019,1193cc,"63,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,79 bhp,108 mph,13.5 seconds,114 g/km
+mitsubishi,L200 Double Cab DI-D Barbarian Black 4WD AUTO 176Bhp,11900.0,2014,2477cc,"73,000 miles",Diesel,Automatic,White,PICK UP,4X4,,,176 bhp,109 mph,13.0 seconds,
+mitsubishi,Outlander,20995.0,2020,2L,"11,909 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,7.0,147 bhp,118 mph,13.3 seconds,196 g/km
+mitsubishi,Outlander,19568.0,2018,2.4L,"22,000 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,16799.0,2020,2.4L,"51,000 miles",Other,Automatic,Black,Estate,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200 2.3 DI-D BARBARIAN X DCB 5d AUTO 148 BHP,32398.0,2021,2.3L,"24,044 miles",Diesel,Automatic,Red,Other,4X4,,,147 bhp,106 mph,,
+mitsubishi,Outlander,17500.0,2019,2360cc,"39,274 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Outlander,19000.0,2021,2360cc,"44,813 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,106 mph,10.5 seconds,46 g/km
+mitsubishi,Outlander,12290.0,2015,1998cc,"45,950 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Outlander,12895.0,2017,2000cc,"89,498 miles",Hybrid,Automatic,Atlantic Grey,SUV,4X4,5.0,5.0,200 bhp,106 mph,,41 g/km
+mitsubishi,L200,16980.0,2018,2442cc,"70,000 miles",Diesel,Automatic,Amazon Green,Other,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,ASX,3450.0,2015,2268cc,"120,000 miles",Diesel,Automatic,Black,Hatchback,4X4,5.0,5.0,147 bhp,118 mph,10.8 seconds,153 g/km
+mitsubishi,Shogun,5999.0,2005,3200cc,"135,000 miles",Diesel,Auto,Black,4x4,4X4,5.0,7.0,168 bhp,110 mph,14.0 seconds,280 g/km
+mitsubishi,Outlander,9495.0,2015,2268cc,"79,570 miles",Diesel,Manual,Grey,Estate,4X4,5.0,7.0,147 bhp,124 mph,10.2 seconds,140 g/km
+mitsubishi,L200,15750.0,2018,2442cc,"86,500 miles",Diesel,Automatic,White,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Canter,20000.0,2019,2998cc,"68,000 miles",Diesel,Manual,White,Other,4X2,,,129 bhp,81 mph,,
+mitsubishi,Outlander,15950.0,2018,2268cc,"59,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,7.0,147 bhp,124 mph,,139 g/km
+mitsubishi,Eclipse Cross,13649.0,2018,1499cc,"29,102 miles",Petrol,,Bronze,SUV,4X2,5.0,5.0,161 bhp,127 mph,9.7 seconds,151 g/km
+mitsubishi,L200,15990.0,2015,2.4L,"64,000 miles",Diesel,Automatic,Black,pickup,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,ASX,11995.0,2018,1560cc,"47,330 miles",Diesel,Manual,Silver,Hatchback,4X4,5.0,5.0,113 bhp,111 mph,11.5 seconds,132 g/km
+mitsubishi,Shogun,23990.0,2019,2442cc,"32,000 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,227 g/km
+mitsubishi,Outlander,16490.0,2019,2360cc,"60,772 miles",Petrol,Automatic,BLACK,Estate,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,Mirage,10490.0,2016,1193cc,"18,285 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,79 bhp,108 mph,12.8 seconds,99 g/km
+mitsubishi,Outlander,17499.0,2018,2360cc,"45,258 miles",Hybrid Electric,Automatic,White,Estate,,,,,,,
+mitsubishi,ASX,14699.0,2020,2L,"22,486 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,
+mitsubishi,Canter,19995.0,2019,2998cc,"26,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,81 mph,,
+mitsubishi,ASX,1995.0,2010,1798cc,"94,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,124 mph,9.7 seconds,145 g/km
+mitsubishi,L200,10995.0,2013,2477cc,"92,490 miles",Diesel,Manual,Red,Van,4X4,,,176 bhp,111 mph,13.6 seconds,
+mitsubishi,L200,4000.0,2006,2477cc,"158,176 miles",Diesel,Automatic,Black,Van,4X4,,,134 bhp,,,
+mitsubishi,L200,9995.0,2015,2477cc,"86,000 miles",Diesel,Manual,Red,Van,4X4,,,176 bhp,111 mph,12.1 seconds,
+mitsubishi,Shogun,21985.0,2018,3200cc,"70,292 miles",Diesel,Automatic,Eiger Grey,Van,4X4,,,188 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,16995.0,2019,2442cc,"26,000 miles",Diesel,Manual,Red,Van,4X4,,,151 bhp,105 mph,12.2 seconds,
+mitsubishi,L200,18795.0,2020,2268cc,"69,700 miles",Diesel,Automatic,Grey,Van,4X4,,,147 bhp,106 mph,,
+mitsubishi,L200,15495.0,2018,2442cc,"48,000 miles",Diesel,Manual,Grey,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,8750.0,2015,2477cc,"171,000 miles",Diesel,Automatic,Grey,Van,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,Shogun,25800.0,2021,2.4L,"32,032 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,178 bhp,112 mph,11.0 seconds,
+mitsubishi,Outlander,8950.0,2014,1998cc,"113,832 miles",Other,Automatic,Black,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,44 g/km
+mitsubishi,Outlander,11995.0,2016,2268cc,"82,595 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,147 bhp,118 mph,11.6 seconds,154 g/km
+mitsubishi,ASX,13495.0,2019,2L,"22,800 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,118 mph,10.2 seconds,161 g/km
+mitsubishi,Outlander,14800.0,2019,2360cc,"74,910 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,206 bhp,106 mph,10.5 seconds,40 g/km
+mitsubishi,L200,12445.0,2013,2477cc,"91,203 miles",Diesel,Automatic,White,Van,4X4,,,176 bhp,108 mph,14.5 seconds,
+mitsubishi,L200,15495.0,2019,2442cc,"66,000 miles",Diesel,Manual,Silver,Van,4X4,,,178 bhp,111 mph,10.4 seconds,
+mitsubishi,L200,9495.0,2012,2477cc,"110,000 miles",Diesel,Manual,Black,Van,4X4,,,176 bhp,111 mph,13.6 seconds,
+mitsubishi,L200,13490.0,2019,2442cc,"67,000 miles",Diesel,Manual,White,Van,4X4,,,151 bhp,105 mph,12.2 seconds,
+mitsubishi,Mirage,8495.0,2018,1200cc,"47,664 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,79 bhp,112 mph,11.7 seconds,100 g/km
+mitsubishi,ASX,11950.0,2019,1590cc,"40,610 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,115 bhp,113 mph,12.2 seconds,155 g/km
+mitsubishi,Outlander,12998.0,2015,1998cc,"57,510 miles",Petrol,Automatic,Brown,SUV,4X4,5.0,5.0,161 bhp,106 mph,11.0 seconds,42 g/km
+mitsubishi,L200,21999.0,2018,2.4L,"36,000 miles",Diesel,Automatic,Blue,pickup,4X4,,,178 bhp,109 mph,11.8 seconds,
+mitsubishi,ASX,11695.0,2016,2.2L,"49,000 miles",Diesel,Semiauto,Grey,SUV,4X4,5.0,5.0,147 bhp,118 mph,10.8 seconds,152 g/km
+mitsubishi,L200,10390.0,2014,2477cc,"89,319 miles",Diesel,Automatic,BLACK,Other,4X4,,,176 bhp,109 mph,13.0 seconds,

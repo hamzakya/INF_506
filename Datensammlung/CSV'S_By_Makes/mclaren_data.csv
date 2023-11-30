@@ -1,0 +1,11 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+mclaren,675LT,240000.0,2017,3799cc,"12,500 miles",Petrol,Automatic,ORANGE,Convertible,4X2,2.0,2.0,665 bhp,203 mph,,275 g/km
+mclaren,570,95500.0,2019,3799cc,"20,500 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,563 bhp,204 mph,3.4 seconds,249 g/km
+mclaren,540C,69895.0,2016,3799cc,"29,499 miles",Petrol,Automatic,White,Coupe,,,,,,,
+mclaren,Artura,177900.0,2022,3L,"6,895 miles",Petrol/Electric,Automatic,PLATEAUX GREY,Coupe,4X2,2.0,2.0,670 bhp,205 mph,,104 g/km
+mclaren,720S,129991.0,2017,3994cc,"5,770 miles",Petrol,Automatic,ORANGE,Coupe,4X2,2.0,2.0,710 bhp,212 mph,2.9 seconds,249 g/km
+mclaren,720S,131995.0,2019,3994cc,"11,269 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,2.0,710 bhp,212 mph,2.9 seconds,249 g/km
+mclaren,720S,137900.0,2018,4L,"23,490 miles",Petrol,Automatic,COSMOS BLACK,Coupe,4X2,2.0,2.0,710 bhp,212 mph,2.9 seconds,249 g/km
+mclaren,570,79990.0,2018,3800cc,"27,000 miles",Petrol,Automatic,Orange,Coupe,4X2,2.0,2.0,563 bhp,204 mph,3.4 seconds,249 g/km
+mclaren,570,82990.0,2016,3799cc,"36,000 miles",Petrol,Automatic,ORANGE,Coupe,,2.0,2.0,561 bhp,,3.4 seconds,249 g/km
+mclaren,GT,159900.0,2023,4L,164 miles,Petrol,Automatic,ONYX BLACK,Coupe,,,,,,,

@@ -1,0 +1,414 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+lexus,UX 250h,17995.0,2019,1987cc,"52,250 miles",Other,Automatic,GREY,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,94 g/km
+lexus,NX 300h,34390.0,2021,2494cc,"10,303 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,RX 450h,48990.0,2022,3456cc,"12,315 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,
+lexus,NX 350h,46990.0,2023,2487cc,365 miles,Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,UX 250h,19500.0,2019,1987cc,"44,720 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,CT,19499.0,2021,1.8L,"14,206 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,119 g/km
+lexus,LC,41995.0,2017,3456cc,"52,000 miles",Petrol,Automatic,White,Coupe,,,,,,,
+lexus,CT,15390.0,2018,1798cc,"32,000 miles",Other,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,94 g/km
+lexus,UX 250h,18599.0,2019,1987cc,"58,368 miles",Hybrid,,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,94 g/km
+lexus,RX 450h,31999.0,2020,3.5L,"68,000 miles",Hybrid,Automatic,Red,SUV,,,,,,,
+lexus,NX,53695.0,2023,2.5L,"8,008 miles",Hybrid,Automatic,Black,SUV,,,,,,,
+lexus,NX,39695.0,2022,2.5L,"9,200 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,130 g/km
+lexus,NX,34699.0,2020,2.5L,"29,655 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,RX 450h,42858.0,2022,3.5L,"11,114 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,ES 300h,37999.0,2023,2.5L,"10,082 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,122 g/km
+lexus,ES 300h,32999.0,2023,2.5L,"17,670 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,NX,30695.0,2021,2.5L,"20,976 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,176 g/km
+lexus,UX 250h,27999.0,2021,2L,"11,075 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,CT,14599.0,2019,1.8L,"51,000 miles",Other,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,ES 300h,37995.0,2023,2487cc,476 miles,Petrol Hybrid,Automatic,Unknown,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,
+lexus,NX,47995.0,2023,2487cc,14 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,239 bhp,124 mph,,
+lexus,ES 300h,48995.0,2023,2487cc,12 miles,Petrol Hybrid,Automatic,Unknown,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,
+lexus,NX,53995.0,2023,2487cc,12 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,239 bhp,124 mph,,
+lexus,RX,64995.0,2023,2487cc,751 miles,Petrol Hybrid,Automatic,Unknown,SUV,,,,,,,
+lexus,UX 250h,23990.0,2020,1987cc,"25,697 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,IS 300,16600.0,2017,2494cc,"48,016 miles",Petrol Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,178 bhp,125 mph,,101 g/km
+lexus,UX 250h,19500.0,2019,1987cc,"46,932 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,CT 200h,17300.0,2020,1798cc,"20,740 miles",Petrol Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,118 g/km
+lexus,RX,2475.0,2001,3000cc,"140,000 miles",Petrol,Automatic,Grey,Other,4X2,3.0,5.0,79 bhp,107 mph,10.9 seconds,150 g/km
+lexus,IS,14995.0,2019,2494cc,"89,000 miles",Other,Automatic,WHITE,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,109 g/km
+lexus,RX,23777.0,2016,3456cc,"47,630 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,IS,19194.0,2019,2494cc,"74,000 miles",Other,Automatic,BLUE,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,109 g/km
+lexus,NX,28788.0,2020,2494cc,"41,363 miles",Other,Automatic,BLACK,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,UX 250h,29755.0,2020,1987cc,"8,835 miles",Other,Automatic,SILVER,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,121 g/km
+lexus,IS,17999.0,2017,2.5L,"17,300 miles",Other,Automatic,Black,Saloon,4X2,4.0,5.0,178 bhp,125 mph,,107 g/km
+lexus,NX 300h,32990.0,2020,2494cc,"14,204 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RC,68990.0,2023,4969cc,250 miles,Petrol,Automatic,Unknown,Coupe,4X2,2.0,4.0,471 bhp,168 mph,,
+lexus,NX,29334.0,2020,2.5L,"18,000 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX,31950.0,2020,2.5L,"15,349 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX,29950.0,2019,2.5L,"29,824 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX 450h,56155.0,2023,2.5L,"10,642 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX,31455.0,2019,2.5L,"34,894 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX,64355.0,2023,2.4L,"5,700 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,366 bhp,130 mph,,184 g/km
+lexus,NX,21055.0,2017,2.5L,"59,250 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,GS,19677.0,2016,2.5L,"29,538 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,178 bhp,118 mph,9.0 seconds,113 g/km
+lexus,RX 450h,39916.0,2021,3.5L,"40,595 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,181 g/km
+lexus,UX 250h,27995.0,2020,2L,"9,435 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,107 bhp,110 mph,8.7 seconds,103 g/km
+lexus,UX,19595.0,2019,1987cc,"66,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,CT,9890.0,2015,1800cc,"89,899 miles",Other,Automatic,Grey,Other,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,GS,8690.0,2013,2500cc,"116,000 miles",Petrol,Automatic,White,Other,4X2,4.0,5.0,206 bhp,144 mph,8.6 seconds,209 g/km
+lexus,IS,17970.0,2019,2494cc,"16,386 miles",Other,Automatic,BLACK,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,109 g/km
+lexus,RC,20590.0,2016,2494cc,"45,000 miles",Other,Automatic,BLUE,Coupe,4X2,2.0,4.0,178 bhp,118 mph,8.6 seconds,116 g/km
+lexus,UX 250h,22495.0,2019,1987cc,"34,500 miles",Other,Automatic,SILVER,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,RX,34950.0,2021,3456cc,"34,500 miles",Other,Automatic,SILVER,Estate,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,181 g/km
+lexus,CT,11000.0,2015,1798cc,"72,216 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,ES 300h,22999.0,2020,2.5L,"34,649 miles",Hybrid,Automatic,Black,Saloon,,,,,,,
+lexus,CT,16049.0,2019,1798cc,"39,241 miles",Hybrid,,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,RX 450h,29930.0,2018,3.5L,"26,515 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,RX 450h,63995.0,2023,2.5L,"9,679 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,RX,54950.0,2023,2.5L,50 miles,Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,247 bhp,112 mph,,143 g/km
+lexus,ES 300h,33129.0,2021,2.5L,"38,735 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,
+lexus,LC 500,44000.0,2018,3456cc,"47,802 miles",Petrol Hybrid,Automatic,Silver,Coupe,,,,,,,
+lexus,RX 450h,38495.0,2021,3456cc,"21,746 miles",Petrol Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,NX,26295.0,2018,2494cc,"25,960 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,NX,30995.0,2020,2494cc,"36,347 miles",Petrol Hybrid,Automatic,Orange,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,175 g/km
+lexus,NX 300h,25500.0,2019,2494cc,"38,246 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,42990.0,2022,2487cc,"5,451 miles",Petrol Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,239 bhp,124 mph,,137 g/km
+lexus,RX 450h,37790.0,2020,3456cc,"19,220 miles",Petrol Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,RX,55990.0,2023,2487cc,"4,788 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,112 mph,,144 g/km
+lexus,ES 300h,29990.0,2021,2487cc,"19,758 miles",Petrol Hybrid,Automatic,Blue,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,RX 450h,34490.0,2019,3456cc,"43,321 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,RX L 450h,44950.0,2022,3.5l,"2,129 miles",Hybrid,Automatic,Silver,Other,4X4,5.0,7.0,308 bhp,112 mph,,185 g/km
+lexus,RC 300h,27250.0,2019,2494cc,"22,780 miles",Petrol/Electric Hybrid,Automatic,White,Coupe,4X2,2.0,4.0,220 bhp,118 mph,8.6 seconds,114 g/km
+lexus,GS 450h,4990.0,2009,3456cc,"117,000 miles",Petrol Hybrid,Auto,Green,Saloon,4X2,4.0,5.0,342 bhp,155 mph,5.9 seconds,181 g/km
+lexus,NX,24990.0,2018,2494cc,"35,650 miles",Other,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,,135 g/km
+lexus,IS,15349.0,2016,2494cc,"35,264 miles",Hybrid,,Black,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,101 g/km
+lexus,UX 250h,25990.0,2022,1987cc,"23,652 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,CT 200h,15990.0,2017,1798cc,"26,250 miles",Petrol Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,CT,12495.0,2015,1798cc,"74,000 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,ES 300h,29485.0,2021,2487cc,"28,193 miles",Petrol Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,NX,26485.0,2019,2494cc,"30,226 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,NX,30485.0,2020,2494cc,"22,768 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX 300h,24800.0,2020,2494cc,"47,080 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX,12995.0,2011,3456cc,"90,800 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,295 bhp,124 mph,7.8 seconds,145 g/km
+lexus,RX 450h,29990.0,2019,3.5L,"30,132 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,UX 250h,29995.0,2023,1987cc,"7,976 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,120 g/km
+lexus,NX,46295.0,2023,2487cc,"1,035 miles",Petrol Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,UX 300e,46990.0,2023,673 miles,Electric,Automatic,Grey,SUV,0.1 mpg,4X2,5.0,5.0,201 bhp,100 mph,,0 g/km
+lexus,ES 300h,36990.0,2023,2487cc,"3,546 miles",Petrol Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,RX,55990.0,2023,2487cc,"2,389 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,247 bhp,112 mph,,143 g/km
+lexus,RX,74990.0,2023,2393cc,"2,510 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,366 bhp,130 mph,,184 g/km
+lexus,NX,52490.0,2023,2487cc,"1,048 miles",Petrol Plugin Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,22 g/km
+lexus,RX 450h,74990.0,2023,2487cc,"4,397 miles",Petrol Plugin Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,ES 300h,46990.0,2023,2487cc,"3,300 miles",Petrol Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,123 g/km
+lexus,UX 250h,34990.0,2023,1987cc,"1,000 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,UX 250h,27990.0,2021,1987cc,"15,151 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,UX 250h,18800.0,2019,1987cc,"52,660 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,94 g/km
+lexus,RX 450h,30350.0,2019,3.5L,"59,246 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,NX,23695.0,2017,2.5L,"41,944 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,RX 450h,37922.0,2021,3.5L,"17,104 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,181 g/km
+lexus,CT,17741.0,2019,1.8L,"19,752 miles",Hybrid,Automatic,Blue,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,RX 450h,45890.0,2021,3.5L,"9,726 miles",Hybrid,Automatic,Silver,SUV,,,,,,,
+lexus,GS,12490.0,2013,3456cc,"128,000 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,342 bhp,155 mph,5.9 seconds,145 g/km
+lexus,RC,33950.0,2020,2.5L,"10,044 miles",Hybrid,Automatic,Blue,Coupe,4X2,2.0,4.0,220 bhp,118 mph,8.6 seconds,146 g/km
+lexus,UX 250h,21199.0,2020,2L,"32,000 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,
+lexus,UX 250h,25268.0,2021,2L,"15,092 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,ES 300h,38995.0,2022,2.5L,"7,902 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,RX 450h,16480.0,2015,3456cc,"98,000 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,295 bhp,124 mph,7.8 seconds,145 g/km
+lexus,RX 450h,34990.0,2019,3456cc,"44,598 miles",Petrol Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,RX 450h,38950.0,2022,3.5L,"33,000 miles",Petrol/Electric Hybrids,Automatic,EMINENT WHITE PEARL,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,IS 300,18000.0,2019,2494cc,"29,179 miles",Petrol Hybrid,Automatic,Red,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,109 g/km
+lexus,NX,30521.0,2021,2.5L,"18,227 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,UX 250h,31355.0,2021,2L,"6,744 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,
+lexus,RX,66455.0,2023,2.4L,"1,440 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,366 bhp,130 mph,,183 g/km
+lexus,ES 300h,29995.0,2021,2.5L,"29,325 miles",Hybrid,Automatic,Blue,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,RX 450h,69495.0,2023,2.5L,"5,135 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX,24933.0,2020,2.5L,"43,901 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,UX 250h,25199.0,2019,1987cc,"48,487 miles",Other,Automatic,GREY,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,NX,25999.0,2018,2494cc,"36,719 miles",Other,Automatic,RED,Estate,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,RX 450h,62495.0,2023,2.5L,"11,668 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,UX 250h,26177.0,2021,2L,"18,851 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,NX,31138.0,2021,2.5L,"19,404 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX,25790.0,2018,2.5L,"36,169 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,NX,27000.0,2019,2494cc,"17,000 miles",Other,Automatic,BLACK,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX 450h,23490.0,2016,3.5L,"46,864 miles",Hybrid,Automatic,Silver,SUV,,,,,,,
+lexus,ES 300h,36094.0,2022,2.5L,"6,879 miles",Hybrid,Automatic,Red,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,124 g/km
+lexus,NX,30055.0,2021,2.5L,"22,409 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,RX 450h,28990.0,2019,3.5L,"52,986 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,UX 250h,31190.0,2023,1987cc,786 miles,Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,UX 250h,30990.0,2023,1987cc,"5,425 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,NX,44990.0,2023,2487cc,888 miles,Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,UX 250h,31990.0,2023,1987cc,"1,561 miles",Petrol Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,124 g/km
+lexus,GS,19990.0,2018,2494cc,"67,131 miles",Petrol Hybrid,Automatic,Blue,Saloon,4X2,4.0,5.0,178 bhp,118 mph,9.0 seconds,104 g/km
+lexus,NX,28985.0,2020,2494cc,"36,532 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,UX 250h,23985.0,2020,1987cc,"17,521 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,ES,29495.0,2022,2494cc,"10,604 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,124 g/km
+lexus,RX,24989.0,2017,3456cc,"78,120 miles",Other,Automatic,SILVER,Estate,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,NX,53495.0,2022,2.5L,"10,744 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,145 g/km
+lexus,LC 500,91900.0,2023,5L,"3,162 miles",Petrol,Semiauto,Black,Coupe,4X2,2.0,4.0,457 bhp,168 mph,,262 g/km
+lexus,RX,70490.0,2023,2.4L,"3,456 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,366 bhp,130 mph,,183 g/km
+lexus,RX,58490.0,2023,2.5L,10 miles,Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,112 mph,,143 g/km
+lexus,NX,63290.0,2023,2.5L,"3,456 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,26 g/km
+lexus,RX 450h,46990.0,2022,3.5L,"19,026 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,180 g/km
+lexus,NX,32495.0,2021,2494cc,"21,331 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX,52995.0,2022,2487cc,"5,550 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,239 bhp,124 mph,,144 g/km
+lexus,UX 250h,31495.0,2023,1987cc,"6,707 miles",Petrol Hybrid,Automatic,Orange,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,UX 250h,33495.0,2023,1987cc,"8,132 miles",Petrol Hybrid,Automatic,Green,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,UX 250h,30990.0,2023,1987cc,"3,210 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,ES 300h,32990.0,2021,2487cc,"11,872 miles",Petrol Hybrid,Automatic,Silver,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,128 g/km
+lexus,RX 450h,37990.0,2021,3456cc,"19,550 miles",Petrol Hybrid,Automatic,Blue,SUV,,,,,,,
+lexus,NX 300h,31660.0,2019,2494cc,"20,896 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,CT 200h,16220.0,2018,1798cc,"39,446 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,IS,13990.0,2016,2.5L,"65,714 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,101 g/km
+lexus,GS,12000.0,2013,2500cc,"69,000 miles",Petrol,Automatic,BLACK,Saloon,4X2,4.0,5.0,206 bhp,144 mph,8.6 seconds,211 g/km
+lexus,GS,9950.0,2013,2500cc,"77,500 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,206 bhp,144 mph,8.6 seconds,209 g/km
+lexus,NX,28950.0,2019,2.5L,"54,000 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX 450h,36950.0,2020,3.5L,"11,653 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,UX 250h,27950.0,2020,2L,"19,544 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,RX 450h,42450.0,2020,3.5L,"14,806 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,RX 450h L,37950.0,2019,3.5L,"29,053 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,NX,31340.0,2020,2.5L,"12,738 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,UX 250h,26790.0,2021,1987cc,"12,980 miles",Petrol Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,RC,19995.0,2018,2494cc,"78,000 miles",Other,Automatic,Grey,Coupe,,,,,,,
+lexus,GS,3950.0,2007,2995cc,"94,000 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,245 bhp,124 mph,7.2 seconds,232 g/km
+lexus,RX 450h,42795.0,2021,3.5L,"30,020 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,180 g/km
+lexus,NX,42595.0,2022,2.5L,"17,012 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,RX 450h,29495.0,2016,3.5L,"46,036 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,IS 300,20500.0,2020,2494cc,"43,277 miles",Petrol Hybrid,Automatic,Blue,Saloon,4X2,4.0,5.0,220 bhp,125 mph,,143 g/km
+lexus,NX,36990.0,2021,2494cc,"18,000 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,RX 450h,40990.0,2020,3456cc,"21,287 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,RX 450h,9790.0,2011,3456cc,"106,000 miles",Petrol Hybrid,Auto,Black,4x4,4X4,5.0,5.0,245 bhp,124 mph,7.8 seconds,145 g/km
+lexus,UX 250h,23495.0,2020,2L,"43,486 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,NX,31995.0,2021,2.5L,"29,969 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,LS,27450.0,2021,2494cc,"24,500 miles",Other,Automatic,BLUE,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,125 g/km
+lexus,IS,14490.0,2017,2494cc,"62,000 miles",Other,Automatic,GREY,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,101 g/km
+lexus,IS,17750.0,2018,2.5L,"57,314 miles",Hybrid,Automatic,Red,Saloon,4X2,4.0,5.0,220 bhp,125 mph,,104 g/km
+lexus,CT,9450.0,2015,1798cc,"115,000 miles",Petrol,Automatic,Mercury Grey Pearl,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,NX,28985.0,2019,2494cc,"35,955 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,41985.0,2022,2487cc,"2,088 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,ES 300h,22500.0,2019,2487cc,"44,192 miles",Petrol Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,103 g/km
+lexus,ES 300h,28990.0,2021,2487cc,"10,912 miles",Petrol Hybrid,Automatic,Silver,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,125 g/km
+lexus,ES 300h,31085.0,2021,2.5L,"14,004 miles",Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,ES 300h,33802.0,2022,2.5L,"5,500 miles",Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,IS,14450.0,2017,2494cc,"72,000 miles",Other,Automatic,SILVER,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,107 g/km
+lexus,IS,13950.0,2016,2494cc,"70,000 miles",Other,Automatic,SILVER,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,107 g/km
+lexus,UX 250h,27949.0,2022,1987cc,"16,500 miles",Other,Automatic,WHITE,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,CT,13975.0,2015,1798cc,"40,091 miles",Other,Automatic,RED,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,NX 300h,25000.0,2018,2494cc,"50,017 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,ES 300h,31990.0,2020,2487cc,"27,593 miles",Petrol Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,128 g/km
+lexus,LC 500,82000.0,2021,4969cc,"1,153 miles",Petrol,Automatic,White,Convertible,4X2,2.0,4.0,457 bhp,168 mph,,275 g/km
+lexus,CT,8995.0,2012,1798cc,"95,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,LC,55995.0,2018,4969cc,"6,000 miles",Petrol,Automatic,RED,Coupe,4X2,2.0,4.0,470 bhp,168 mph,,267 g/km
+lexus,LS,24859.0,2019,2494cc,"36,044 miles",Other,Automatic,RED,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,106 g/km
+lexus,NX,32555.0,2021,2.5L,"15,460 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,RX,4495.0,2008,3311cc,"165,000 miles",Other,Automatic,BLUE,Estate,4X4,5.0,5.0,208 bhp,124 mph,7.6 seconds,192 g/km
+lexus,NX,31950.0,2019,2.5L,"29,469 miles",Hybrid,Automatic,Orange,SUV,4X4,5.0,5.0,194 bhp,112 mph,,135 g/km
+lexus,RX 450h,27450.0,2017,3.5L,"48,800 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,NX,23450.0,2017,2.5L,"22,269 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,RX 450h,46950.0,2021,3.5L,"9,869 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,181 g/km
+lexus,ES 300h,33795.0,2023,2.5L,"4,688 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,IS,17390.0,2016,2L,"32,881 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,241 bhp,143 mph,7.0 seconds,167 g/km
+lexus,RX 450h,80490.0,2023,2.5L,"1,654 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX,48990.0,2023,2.5L,"1,654 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,137 g/km
+lexus,RX 450h,53995.0,2022,3456cc,"7,377 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,180 g/km
+lexus,IS 200,14500.0,2015,1998cc,"46,599 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,241 bhp,143 mph,7.0 seconds,167 g/km
+lexus,RX 450h,31990.0,2018,3456cc,"28,704 miles",Petrol Hybrid,Automatic,Silver,SUV,,,,,,,
+lexus,NX,25690.0,2019,2.5L,"35,325 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,RC,22995.0,2018,2.5L,"35,109 miles",Hybrid,Automatic,Orange,Coupe,4X2,2.0,4.0,220 bhp,118 mph,,116 g/km
+lexus,NX 300h,30000.0,2020,2494cc,"25,009 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,CT,18490.0,2020,1798cc,"17,480 miles",Other,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,115 g/km
+lexus,NX,18500.0,2016,2.5L,"48,522 miles",Petrol/Electric,Automatic,BLUE,Estate,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,UX 250h,25975.0,2019,2L,"18,989 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,RX 450h,28459.0,2016,3.5L,"40,426 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,NX,25899.0,2019,2.5L,"19,462 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,27126.0,2019,2.5L,"31,589 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,CT,15695.0,2015,1.8L,"37,530 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,UX 250h,30795.0,2023,2L,"9,034 miles",Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,120 g/km
+lexus,CT,16295.0,2017,1.8L,"50,280 miles",Hybrid,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,ES 300h,39037.0,2023,2.5L,"9,450 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,122 g/km
+lexus,RX,54795.0,2023,2.5L,"8,986 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,247 bhp,112 mph,,144 g/km
+lexus,ES 300h,29891.0,2019,2.5L,"10,425 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,103 g/km
+lexus,UX,19640.0,2019,1987cc,"47,596 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,NX,26990.0,2019,2.5L,"43,763 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,UX 250h,27935.0,2021,2L,"9,500 miles",Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,128 g/km
+lexus,NX,38400.0,2021,2.5L,"15,349 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,
+lexus,NX,30985.0,2019,2494cc,"21,316 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,42490.0,2023,2487cc,190 miles,Petrol Hybrid,Automatic,Red,SUV,4X2,5.0,5.0,239 bhp,124 mph,,130 g/km
+lexus,NX,57990.0,2023,2487cc,"1,000 miles",Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,239 bhp,124 mph,,
+lexus,RX,64990.0,2023,2487cc,50 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,247 bhp,112 mph,,
+lexus,NX,56990.0,2023,2487cc,50 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X2,5.0,5.0,239 bhp,124 mph,,
+lexus,RX,67990.0,2023,2393cc,250 miles,Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,366 bhp,130 mph,,
+lexus,RX,53490.0,2023,2487cc,50 miles,Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,112 mph,,
+lexus,NX,26990.0,2019,2494cc,"30,951 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX 300h,29890.0,2020,2494cc,"15,547 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,194 bhp,112 mph,,161 g/km
+lexus,NX,24989.0,2020,2494cc,"51,886 miles",Other,Automatic,BLACK,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,UX 250h,26250.0,2020,2L,"26,653 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,107 bhp,110 mph,8.7 seconds,136 g/km
+lexus,CT,16849.0,2019,1798cc,"28,227 miles",Hybrid,,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,RX,68995.0,2023,2.4L,"2,703 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,366 bhp,130 mph,,184 g/km
+lexus,NX,31655.0,2020,2.5L,"26,421 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,52259.0,2022,2.5L,"11,150 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,143 g/km
+lexus,NX,47914.0,2023,2.5L,"17,309 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,22 g/km
+lexus,NX,43000.0,2023,2.5L,"11,031 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,UX 250h,32650.0,2022,2L,"12,068 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,RX 450h,42448.0,2022,3.5L,"4,791 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,CT 200h,14990.0,2018,1798cc,"52,000 miles",Petrol Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,101 g/km
+lexus,RX,71990.0,2023,2393cc,"2,921 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,366 bhp,130 mph,,
+lexus,CT 200h,16260.0,2018,1798cc,"44,963 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,101 g/km
+lexus,RX,64990.0,2023,2.4L,"5,255 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,366 bhp,130 mph,,183 g/km
+lexus,IS,14995.0,2015,2494cc,"45,609 miles",Other,Other,Mesa Red,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,101 g/km
+lexus,UX 250h,23580.0,2021,1987cc,"7,233 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,IS,13450.0,2017,2494cc,"91,000 miles",Other,Automatic,Silver,Saloon,4X2,4.0,5.0,178 bhp,125 mph,,107 g/km
+lexus,NX,51995.0,2022,2487cc,"8,728 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,239 bhp,124 mph,,
+lexus,NX,53495.0,2022,2487cc,"12,474 miles",Petrol Plugin Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,25 g/km
+lexus,UX 250h,24991.0,2021,1987cc,"12,660 miles",Other,Automatic,Grey,Estate,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,121 g/km
+lexus,RX 450h,27000.0,2018,3.5L,"30,631 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,259 bhp,124 mph,,127 g/km
+lexus,RX,3970.0,2007,3456cc,"181,000 miles",Other,Automatic,Blue,Estate,4X4,5.0,5.0,208 bhp,124 mph,7.6 seconds,192 g/km
+lexus,IS,4500.0,2000,1988cc,"157,150 miles",Petrol,Manual,GREY MET,Saloon,4X2,4.0,5.0,153 bhp,134 mph,9.5 seconds,0 g/km
+lexus,GS,9995.0,2011,3456cc,"72,000 miles",Petrol,Automatic,Grey,Saloon,4X2,4.0,5.0,342 bhp,155 mph,5.9 seconds,179 g/km
+lexus,NX,30450.0,2019,2.5L,"12,039 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RC,28950.0,2019,2.5L,"27,485 miles",Hybrid,Automatic,Black,Coupe,4X2,2.0,4.0,220 bhp,118 mph,8.6 seconds,114 g/km
+lexus,UX 250h,30867.0,2020,2L,"9,496 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,107 bhp,110 mph,8.7 seconds,137 g/km
+lexus,IS,15100.0,2019,2.5L,"78,000 miles",Other,Automatic,Black,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,104 g/km
+lexus,RX 450h,39990.0,2020,3456cc,"11,489 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,RX 450h,27997.0,2017,3.46L,"57,783 miles",Hybrid,Automatic,Red,4X4,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,IS,16495.0,2016,2494cc,"57,464 miles",Other,Automatic,White,Saloon,4X2,4.0,5.0,178 bhp,125 mph,,101 g/km
+lexus,NX,21458.0,2016,2.5L,"62,000 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,RX 450h L,43392.0,2021,3.5L,"24,000 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,7.0,308 bhp,112 mph,,187 g/km
+lexus,NX,33959.0,2021,2.5L,"11,134 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,RX 450h,48000.0,2022,3456cc,"13,674 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,180 g/km
+lexus,UX 250h,29690.0,2021,1987cc,"10,408 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,NX 300h,31770.0,2021,2494cc,"29,944 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX 300h,31990.0,2020,2494cc,"15,250 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,UX 250h,25990.0,2021,1987cc,"24,002 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,NX 300h,31770.0,2020,2494cc,"19,439 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX 300h,32220.0,2019,2494cc,"34,999 miles",Petrol Hybrid,Automatic,Grey,SUV,,,,,,,
+lexus,UX 250h,28990.0,2021,1987cc,"6,217 miles",Petrol Hybrid,Automatic,White,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,UX 250h,24485.0,2021,1987cc,"15,979 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,NX,34485.0,2021,2494cc,"12,325 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,177 g/km
+lexus,NX,30450.0,2020,2.5L,"18,011 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,26301.0,2020,2.5L,"50,358 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,NX,27115.0,2020,2.5L,"41,677 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,RX 450h,59980.0,2023,2.5L,"9,630 miles",Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX,32395.0,2021,2.5L,"26,801 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX,25995.0,2020,2.5L,"47,335 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,UX 250h,27999.0,2022,2L,"11,020 miles",Hybrid,Automatic,White,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,ES 300h,28600.0,2020,2.5L,"17,765 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,UX 250h,27000.0,2022,2L,"8,979 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,NX,31495.0,2020,2.5L,"18,010 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,UX 250h,24650.0,2020,2L,"26,181 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,NX,26999.0,2018,2.5L,"26,289 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,ES 300h,34990.0,2023,2487cc,"4,653 miles",Petrol Hybrid,Automatic,Silver,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,RX 450h,68990.0,2023,2487cc,"3,001 miles",Petrol Plugin Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,304 bhp,112 mph,,
+lexus,RX,67990.0,2023,2393cc,"2,843 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,366 bhp,130 mph,,
+lexus,NX,56990.0,2023,2487cc,250 miles,Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,239 bhp,124 mph,,144 g/km
+lexus,NX 300h,20900.0,2018,2494cc,"42,177 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,RX 450h,35990.0,2020,3.5L,"45,970 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,CT,18990.0,2018,1.8L,"23,200 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,101 g/km
+lexus,NX,29990.0,2021,2.5L,"23,578 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,
+lexus,CT,20055.0,2018,1.8L,"36,893 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,94 g/km
+lexus,NX,32655.0,2021,2.5L,"19,109 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX 350h,41990.0,2023,2487cc,"13,530 miles",Petrol Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,239 bhp,124 mph,,136 g/km
+lexus,NX,54950.0,2023,2.5L,100 miles,Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,25 g/km
+lexus,NX,49950.0,2023,2.5L,100 miles,Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,22 g/km
+lexus,RX,69950.0,2023,2.4L,100 miles,Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,366 bhp,130 mph,,182 g/km
+lexus,NX,53950.0,2023,2.5L,100 miles,Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,22 g/km
+lexus,UX 250h,39950.0,2023,2L,100 miles,Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,NX,59950.0,2023,2.5L,100 miles,Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,25 g/km
+lexus,RX,73390.0,2023,2.4L,"4,134 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,366 bhp,130 mph,,184 g/km
+lexus,NX,32255.0,2021,2.5L,"14,239 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,UX 250h,27044.0,2020,2L,"9,032 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,LC 500,69495.0,2020,4969cc,"17,718 miles",Petrol,Automatic,Silver,Coupe,4X2,2.0,4.0,470 bhp,168 mph,,262 g/km
+lexus,ES 300h,43185.0,2023,2487cc,12 miles,Petrol Hybrid,Automatic,Unknown,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,
+lexus,ES 300h,33495.0,2022,2487cc,"10,965 miles",Petrol Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,RX 450h,73452.0,2023,2487cc,"3,841 miles",Petrol Plugin Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX,57656.0,2023,2487cc,"4,246 miles",Petrol Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,239 bhp,124 mph,,145 g/km
+lexus,NX,59136.0,2023,2487cc,"2,035 miles",Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,239 bhp,124 mph,,
+lexus,ES 300h,34995.0,2023,2487cc,"5,304 miles",Petrol Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,UX 250h,33305.0,2023,1987cc,"3,599 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,GS,16950.0,2016,2494cc,"62,850 miles",Petrol,Automatic,Red,Saloon,4X2,4.0,5.0,178 bhp,118 mph,9.0 seconds,104 g/km
+lexus,IS,15890.0,2016,2494cc,"40,115 miles",Other,Automatic,BLACK,Saloon,4X2,4.0,5.0,178 bhp,125 mph,8.4 seconds,107 g/km
+lexus,NX,27740.0,2020,2494cc,"28,981 miles",Other,Automatic,Black,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,RX 450h,32980.0,2018,3456cc,"44,000 miles",Petrol,Automatic,Metallic Grey,Estate,4X4,5.0,7.0,308 bhp,124 mph,,138 g/km
+lexus,NX,21994.0,2019,2.5L,"69,883 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,ES 300h,36990.0,2023,2.5L,"7,400 miles",Hybrid,Automatic,Grey,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,122 g/km
+lexus,UX 300e,51690.0,2023,"1,000 miles",Electric,Automatic,Orange,SUV,0.1 mpg,4X2,5.0,5.0,201 bhp,100 mph,,0 g/km
+lexus,CT,9750.0,2014,1798cc,"94,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,NX,27995.0,2021,2494cc,"25,448 miles",Other,Other,Red,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,175 g/km
+lexus,IS,18999.0,2018,2494cc,"44,062 miles",Hybrid,,Black,Saloon,4X2,4.0,5.0,220 bhp,125 mph,,104 g/km
+lexus,UX 250h,44495.0,2023,1987cc,362 miles,Petrol Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,RX 450h,64379.0,2023,2487cc,23 miles,Petrol Plugin Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,RX 450h,28770.0,2017,3456cc,"50,164 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,259 bhp,124 mph,7.7 seconds,127 g/km
+lexus,UX 250h,29490.0,2022,1987cc,"13,110 miles",Petrol Hybrid,Automatic,Orange,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,128 g/km
+lexus,ES 300h,28990.0,2020,2487cc,"11,986 miles",Petrol Hybrid,Automatic,Silver,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,RX,75990.0,2023,2393cc,250 miles,Petrol Hybrid,Automatic,Unknown,SUV,4X4,5.0,5.0,366 bhp,130 mph,,
+lexus,ES 300h,47990.0,2023,2487cc,50 miles,Petrol Hybrid,Automatic,Unknown,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,
+lexus,IS 250,8695.0,2009,2499cc,"54,000 miles",Petrol,Automatic,Silver,Saloon,4X2,4.0,5.0,204 bhp,141 mph,8.4 seconds,214 g/km
+lexus,CT,18790.0,2020,1.8L,"37,453 miles",Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,119 g/km
+lexus,CT,10495.0,2013,1798cc,"86,872 miles",Other,Automatic,WHITE,Hatchback,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,RX,60290.0,2023,2.5L,50 miles,Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,247 bhp,112 mph,,143 g/km
+lexus,RX,63990.0,2023,2.5L,50 miles,Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,247 bhp,112 mph,,143 g/km
+lexus,NX,20495.0,2016,2.5L,"36,437 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,ES 300h,43395.0,2023,2.5L,273 miles,Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,RX,35999.0,2021,3456cc,"26,683 miles",Petrol/Electric Hybrid,Automatic,Blue,Estate,4X4,5.0,7.0,308 bhp,112 mph,,186 g/km
+lexus,RX 450h,40995.0,2021,3.5L,"17,829 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,178 g/km
+lexus,ES 300h,36495.0,2022,2.5L,"22,469 miles",Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,NX,32000.0,2019,2.5L,"21,467 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,UX 250h,18300.0,2020,1987cc,"46,202 miles",Petrol Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,97 g/km
+lexus,UX 250h,23990.0,2020,1987cc,"39,500 miles",Petrol Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,NX 300h,31990.0,2021,2494cc,"17,944 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX 300h,33990.0,2021,2494cc,"18,111 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX 300h,36440.0,2021,2494cc,"5,477 miles",Petrol Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX,30990.0,2020,2494cc,"15,981 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,IS,15489.0,2019,2494cc,"66,000 miles",Petrol,Automatic,BLACK,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,109 g/km
+lexus,IS,12995.0,2013,2494cc,"89,558 miles",Petrol,Automatic,Black,Saloon,4X2,4.0,5.0,220 bhp,125 mph,8.4 seconds,103 g/km
+lexus,IS,12499.0,2014,2500cc,"44,341 miles",Petrol,Automatic,White,Saloon,4X2,4.0,5.0,204 bhp,140 mph,8.1 seconds,199 g/km
+lexus,CT,8299.0,2011,1798cc,"92,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,CT,15995.0,2018,1798cc,"62,155 miles",Petrol,Automatic,Silver,Hatchback,,,,,,,
+lexus,CT,8795.0,2012,1798cc,"88,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,CT,9495.0,2012,1800cc,"66,000 miles",Other,Automatic,Grey,Other,4X2,5.0,5.0,135 bhp,113 mph,10.3 seconds,94 g/km
+lexus,CT,17275.0,2018,1.8L,"37,847 miles",Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,94 g/km
+lexus,CT,16950.0,2019,1.8L,"45,069 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,IS,17750.0,2018,2.5L,"62,646 miles",Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,178 bhp,125 mph,,101 g/km
+lexus,NX,22998.0,2020,2.5L,"33,998 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,NX,24498.0,2019,2.5L,"36,506 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,RC,24000.0,2017,2.5L,"31,622 miles",Hybrid,Automatic,Red,Coupe,4X2,2.0,4.0,178 bhp,118 mph,8.6 seconds,116 g/km
+lexus,RC,24199.0,2019,2.5L,"50,850 miles",Hybrid,Automatic,White,Coupe,4X2,2.0,4.0,220 bhp,118 mph,8.6 seconds,114 g/km
+lexus,UX 250h,31999.0,2023,2L,"4,101 miles",Hybrid,Automatic,Silver,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,ES 300h,33950.0,2022,2.5L,"13,940 miles",Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,ES 300h,37500.0,2023,2.5L,"10,549 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,122 g/km
+lexus,NX,21000.0,2018,2.5L,"51,697 miles",Hybrid,Automatic,White,SUV,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,NX,31000.0,2020,2.5L,"13,932 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,RX 450h,32995.0,2018,3.5L,"29,155 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,,134 g/km
+lexus,NX,34000.0,2021,2.5L,"18,609 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,174 g/km
+lexus,NX,44000.0,2023,2.5L,"6,971 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,239 bhp,124 mph,,137 g/km
+lexus,UX 250h,28600.0,2021,2L,"14,506 miles",Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,ES 300h,34000.0,2022,2.5L,"16,130 miles",Hybrid,Automatic,Black,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,127 g/km
+lexus,NX,25980.0,2019,2.5L,"45,399 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,CT,12940.0,2015,1.8L,"36,000 miles",Other,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,UX 250h,21700.0,2020,1987cc,"26,033 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,126 g/km
+lexus,NX,50995.0,2022,2487cc,"10,447 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,239 bhp,124 mph,,146 g/km
+lexus,UX 250h,31995.0,2023,1987cc,"11,267 miles",Petrol Hybrid,Automatic,Green,SUV,4X2,5.0,5.0,181 bhp,110 mph,,126 g/km
+lexus,ES 300h,34490.0,2023,2487cc,"9,470 miles",Petrol Hybrid,Automatic,White,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,121 g/km
+lexus,UX 250h,28990.0,2021,1987cc,"5,263 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,107 bhp,110 mph,8.7 seconds,135 g/km
+lexus,CT,15690.0,2016,1798cc,"31,487 miles",Petrol Hybrid,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,94 g/km
+lexus,LC 500,109995.0,2023,4969cc,"1,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,457 bhp,168 mph,,275 g/km
+lexus,RX 450h,37770.0,2019,3456cc,"25,010 miles",Petrol Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,134 g/km
+lexus,CT 200h,15000.0,2019,1798cc,"73,652 miles",Petrol Hybrid,Automatic,Orange,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,101 g/km
+lexus,RC,15495.0,2016,2494cc,"115,000 miles",Other,Automatic,White,Coupe,,,,,,,
+lexus,NX,24950.0,2019,2.5L,"58,246 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,135 g/km
+lexus,NX,58999.0,2023,2.5L,945 miles,Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,25 g/km
+lexus,UX 250h,20499.0,2021,2L,"28,433 miles",Hybrid,Automatic,Grey,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,124 g/km
+lexus,CT,19850.0,2020,1.8L,"16,194 miles",Hybrid,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,10.3 seconds,119 g/km
+lexus,ES 300h,38650.0,2021,2.5L,"6,303 miles",Hybrid,Automatic,Silver,Saloon,4X2,4.0,5.0,214 bhp,112 mph,8.9 seconds,126 g/km
+lexus,NX,19999.0,2017,2.5L,"44,671 miles",Hybrid,Automatic,Silver,SUV,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,NX,56995.0,2023,2.5L,"7,335 miles",Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,302 bhp,124 mph,6.3 seconds,25 g/km
+lexus,NX,23990.0,2020,2494cc,"45,736 miles",Petrol,Automatic,Red,Estate,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,173 g/km
+lexus,NX,15995.0,2015,2494cc,"98,500 miles",Other,Automatic,GREY,Estate,4X4,5.0,5.0,153 bhp,112 mph,9.2 seconds,121 g/km
+lexus,LC 500,76500.0,2021,4969cc,"7,756 miles",Petrol,Automatic,White,Convertible,4X2,2.0,4.0,457 bhp,168 mph,,275 g/km
+lexus,RX 450h,43495.0,2022,3456cc,"27,233 miles",Petrol Hybrid,Automatic,White,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,180 g/km
+lexus,RC,64995.0,2021,4969cc,"20,305 miles",Petrol,Automatic,White,Coupe,4X2,2.0,4.0,471 bhp,168 mph,,268 g/km
+lexus,UX 250h,24990.0,2021,1987cc,"29,050 miles",Petrol Hybrid,Automatic,Black,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,127 g/km
+lexus,RX 450h,41985.0,2021,3456cc,"20,196 miles",Petrol Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,179 g/km
+lexus,NX,33495.0,2021,2487cc,"11,934 miles",Petrol Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,CT 200h,14600.0,2018,1798cc,"43,961 miles",Petrol Hybrid,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,112 mph,,101 g/km
+lexus,RX 450h,36990.0,2020,3.5L,"23,414 miles",Hybrid,Automatic,Red,SUV,4X4,5.0,5.0,308 bhp,124 mph,7.7 seconds,178 g/km
+lexus,NX,34350.0,2020,2.5L,"19,810 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,172 g/km
+lexus,NX,22490.0,2018,2.5L,"34,721 miles",Hybrid,Automatic,Blue,SUV,4X4,5.0,5.0,194 bhp,112 mph,,121 g/km
+lexus,RX,3990.0,2007,3311cc,"95,000 miles",Petrol,Automatic,Other,SUV,,,,,,,
+lexus,UX 250h,23995.0,2020,2L,"16,311 miles",Hybrid,Automatic,Blue,SUV,4X2,5.0,5.0,107 bhp,110 mph,8.5 seconds,125 g/km
+lexus,RX 450h,65000.0,2023,2.5L,"5,316 miles",Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,304 bhp,112 mph,,25 g/km
+lexus,NX 300h,23490.0,2020,2494cc,"42,047 miles",Petrol Hybrid,Automatic,Grey,SUV,4X4,5.0,5.0,194 bhp,112 mph,9.2 seconds,137 g/km
+lexus,GS 300,19999.0,2014,2494cc,"40,088 miles",Petrol Hybrid,Automatic,Grey,Saloon,,,,,,,
+lexus,RX,11995.0,2010,3456cc,"79,078 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,245 bhp,124 mph,7.9 seconds,148 g/km

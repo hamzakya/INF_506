@@ -1,0 +1,1489 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+skoda,Fabia,6990.0,2013,1197cc,"41,600 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Karoq,15450.0,2020,1498cc,"44,838 miles",Petrol,Automatic,BLUE,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,120 g/km
+skoda,Karoq,17399.0,2019,1498cc,"20,693 miles",Petrol,Automatic,GREEN,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Citigo,8450.0,2019,999cc,"29,000 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Kamiq,14899.0,2020,1L,"16,132 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Kamiq,16950.0,2020,1L,"15,498 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,113 g/km
+skoda,Kodiaq,27500.0,2022,1.5L,"17,899 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,128 mph,,158 g/km
+skoda,Fabia,12850.0,2020,1L,"15,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Fabia,17450.0,2023,1L,"3,871 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,116 g/km
+skoda,Superb,22980.0,2022,1.5L,"3,496 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,141 g/km
+skoda,Karoq,26750.0,2023,1.5L,"8,142 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,130 mph,,148 g/km
+skoda,Karoq,20990.0,2023,1L,"8,088 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,118 mph,,133 g/km
+skoda,Fabia,12350.0,2020,1L,"18,367 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,109 bhp,123 mph,,106 g/km
+skoda,Octavia,17395.0,2019,1.5L,"29,481 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.8 seconds,118 g/km
+skoda,Karoq,19995.0,2020,150cc,"15,071 miles",Petrol,Manual,Petrol Blue,Estate,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,123 g/km
+skoda,Octavia,2500.0,2010,1984cc,"140,300 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,197 bhp,149 mph,7.3 seconds,175 g/km
+skoda,Karoq,14995.0,2019,1.5L,"28,604 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,124 g/km
+skoda,Scala,14890.0,2020,1L,"13,522 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,129 g/km
+skoda,Scala,18991.0,2023,1.5L,"4,623 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,132 g/km
+skoda,Kamiq,17491.0,2022,1L,"2,700 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Kamiq,15391.0,2022,1L,"7,346 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+skoda,Kamiq,18999.0,2021,1L,"11,892 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,123 mph,,129 g/km
+skoda,Fabia,12500.0,2019,1L,"19,382 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Kamiq,12800.0,2021,1L,"25,356 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,94 bhp,113 mph,,128 g/km
+skoda,Octavia,1750.0,2006,2000cc,"153,133 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,200 bhp,149 mph,7.3 seconds,187 g/km
+skoda,Octavia,12999.0,2020,1.5L,"51,537 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Octavia,21499.0,2020,2L,"30,225 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,241 bhp,151 mph,,144 g/km
+skoda,Citigo,7800.0,2019,1L,"31,298 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Fabia,8790.0,2018,1000cc,"46,943 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,,111 g/km
+skoda,Fabia,11990.0,2020,1000cc,"4,011 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,124 g/km
+skoda,Fabia,8990.0,2019,1000cc,"55,238 miles",Petrol,Manual,Brill Silver,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Fabia,11290.0,2020,1000cc,"33,125 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,110 g/km
+skoda,Octavia,16490.0,2020,1000cc,"20,080 miles",Petrol,Manual,Brilliant Silver,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,114 g/km
+skoda,Kodiaq,19990.0,2020,2000cc,"83,589 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,7.0,147 bhp,123 mph,,156 g/km
+skoda,Superb,14990.0,2016,2000cc,"68,588 miles",Diesel,Automatic,Silver,Estate,4X2,5.0,5.0,188 bhp,145 mph,7.8 seconds,120 g/km
+skoda,Fabia,10795.0,2019,999cc,"12,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Octavia,3290.0,2012,1968cc,"111,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,131 mph,9.5 seconds,126 g/km
+skoda,Fabia,18349.0,2022,999cc,565 miles,Petrol,,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Kodiaq,17949.0,2017,1395cc,"61,814 miles",Petrol,,Blue,SUV,4X4,5.0,7.0,147 bhp,121 mph,,156 g/km
+skoda,Fabia,12150.0,2019,999cc,"7,031 miles",Petrol,Manual,White,Hatchback,,,,,,,
+skoda,Karoq,19299.0,2021,1598cc,"42,009 miles",Diesel,Automatic,Grey,Estate,,,,,,,
+skoda,Octavia,12399.0,2020,1498cc,"49,140 miles",Petrol,Manual,Blue,Hatchback,,,,,,,
+skoda,Yeti Outdoor,12123.0,2014,1197cc,"39,028 miles",Petrol,Automatic,Silver,Estate,,,,,,,
+skoda,Octavia,22495.0,2021,1.5L,"17,398 miles",Hybrid,Semiauto,Blue,Estate,,,,,,,
+skoda,Fabia,10795.0,2020,1L,"38,015 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+skoda,Scala,14995.0,2020,1.5L,"18,111 miles",Petrol,Manual,White,Hatchback,,,,,,,
+skoda,Fabia,8990.0,2018,1L,"44,767 miles",Petrol,Manual,Green,Hatchback,,,,,,,
+skoda,Karoq,23000.0,2023,2L,"5,158 miles",Diesel,Manual,Grey,SUV,,,,,,,
+skoda,Karoq,22894.0,2023,1.5L,"2,965 miles",Petrol,Manual,White,SUV,,,,,,,
+skoda,Karoq,24872.0,2023,1.5L,"6,506 miles",Petrol,Manual,White,SUV,,,,,,,
+skoda,Kamiq,14995.0,2020,1L,"32,556 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,,135 g/km
+skoda,Karoq,30450.0,2022,2L,"2,014 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,188 bhp,137 mph,,173 g/km
+skoda,Karoq,14750.0,2019,2L,"89,850 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Citigo,6742.0,2016,1L,"58,291 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,96 g/km
+skoda,Karoq,32280.0,2023,2L,"3,412 miles",Petrol,Automatic,White,SUV,4X4,5.0,5.0,188 bhp,137 mph,,179 g/km
+skoda,Yeti Outdoor,14699.0,2017,1.2L,"41,108 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Karoq,22795.0,2019,1968cc,"29,711 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,144 g/km
+skoda,Kodiaq,15950.0,2017,1968cc,"55,000 miles",Diesel,Manual,BLACK,Estate,4X4,5.0,5.0,147 bhp,122 mph,9.7 seconds,141 g/km
+skoda,Scala,15999.0,2021,1L,"3,900 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,129 g/km
+skoda,Superb,14100.0,2016,1968cc,"62,057 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,188 bhp,145 mph,7.8 seconds,120 g/km
+skoda,Superb,13890.0,2016,1.4L,"44,051 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,8.8 seconds,118 g/km
+skoda,Karoq,25400.0,2022,1.5L,"11,504 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,147 bhp,130 mph,,147 g/km
+skoda,Fabia,13450.0,2021,1L,"8,083 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Kamiq,15950.0,2020,1.5L,"33,115 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,132 mph,,139 g/km
+skoda,Kamiq,20490.0,2023,1.5L,"3,335 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,134 mph,,132 g/km
+skoda,Fabia,18990.0,2022,1L,"4,358 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,128 g/km
+skoda,Karoq,19950.0,2020,1.5L,"14,948 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Octavia,21250.0,2023,1L,"4,608 miles",Hybrid,Semiauto,Blue,Estate,4X2,5.0,5.0,109 bhp,125 mph,,118 g/km
+skoda,Fabia,17700.0,2022,1L,"3,423 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,128 g/km
+skoda,Kamiq,13390.0,2020,1.5L,"55,627 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,132 mph,,134 g/km
+skoda,Yeti,9800.0,2015,1968cc,"95,859 miles",Diesel,Manual,Brilliant Silver Metallic,Hatchback,4X4,5.0,5.0,147 bhp,121 mph,9.1 seconds,134 g/km
+skoda,Octavia,13995.0,2019,1598cc,"20,149 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,113 bhp,127 mph,10.3 seconds,107 g/km
+skoda,Fabia,11995.0,2019,999cc,"27,937 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,9.6 seconds,107 g/km
+skoda,Yeti,5790.0,2011,1798cc,"99,750 miles",Petrol,Manual,Brown,4x4,4X4,5.0,5.0,158 bhp,124 mph,8.4 seconds,189 g/km
+skoda,Karoq,19300.0,2000,1498cc,"20,794 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Kodiaq,26495.0,2019,1968cc,"40,056 miles",Diesel,Automatic,PETROL BLUE,SUV,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,147 g/km
+skoda,Fabia,10995.0,2020,999cc,"4,891 miles",Petrol,Manual,Energy Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Yeti,4295.0,2013,1968cc,"155,000 miles",Diesel,Manual,White,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,152 g/km
+skoda,Octavia,13495.0,2016,1968cc,"49,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,181 bhp,144 mph,8.1 seconds,115 g/km
+skoda,Octavia,5795.0,2014,1598cc,"96,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,121 mph,10.8 seconds,99 g/km
+skoda,Rapid,3499.0,2014,1598cc,"124,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.4 seconds,114 g/km
+skoda,Fabia,9995.0,2015,1197cc,"18,066 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Roomster,4995.0,2009,1598cc,"75,000 miles",Petrol,Automatic,BLUE,MPV,4X2,5.0,5.0,103 bhp,114 mph,12.1 seconds,180 g/km
+skoda,Octavia,13999.0,2016,1968cc,"73,092 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,181 bhp,143 mph,8.2 seconds,117 g/km
+skoda,Citigo,5999.0,2016,999cc,"75,107 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,74 bhp,107 mph,13.2 seconds,98 g/km
+skoda,Octavia,7990.0,2014,1968cc,"93,000 miles",Diesel,Manual,BEIGE,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,106 g/km
+skoda,Fabia,3495.0,2010,1598cc,"84,431 miles",Diesel,Manual,GREEN,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,12.6 seconds,109 g/km
+skoda,Superb,19495.0,2019,1968cc,"64,500 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,188 bhp,145 mph,,119 g/km
+skoda,Superb,16434.0,2017,1968cc,"73,059 miles",Diesel,Manual,WHITE,Estate,4X4,5.0,5.0,147 bhp,132 mph,9.1 seconds,123 g/km
+skoda,Superb,25000.0,2019,1984cc,"31,000 miles",Petrol,Automatic,BLUE,Estate,4X4,5.0,5.0,268 bhp,150 mph,5.6 seconds,162 g/km
+skoda,Octavia,14450.0,2016,1395cc,"26,898 miles",Petrol,Automatic,SILVER,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,114 g/km
+skoda,Kodiaq,13990.0,2017,1395cc,"68,914 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,5.0,123 bhp,118 mph,,139 g/km
+skoda,Karoq,12499.0,2018,1598cc,"63,659 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.0 seconds,120 g/km
+skoda,Fabia,7590.0,2016,1197cc,"82,380 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Superb,12156.0,2018,1598cc,"82,125 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,118 bhp,128 mph,,102 g/km
+skoda,Fabia,5499.0,2012,1198cc,"59,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,14.9 seconds,128 g/km
+skoda,Karoq,19182.0,2020,1598cc,"51,895 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,153 g/km
+skoda,Karoq,14549.0,2019,1598cc,"64,124 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.2 seconds,125 g/km
+skoda,Citigo,7899.0,2018,999cc,"48,290 miles",Petrol,,Silver,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Karoq,18649.0,2020,999cc,"14,060 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,118 mph,,147 g/km
+skoda,Fabia,15749.0,2021,999cc,"15,508 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,134 g/km
+skoda,Yeti,14499.0,2016,1395cc,"64,820 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,147 bhp,121 mph,8.7 seconds,147 g/km
+skoda,Octavia,4985.0,2015,1598cc,"140,368 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,109 bhp,127 mph,10.7 seconds,85 g/km
+skoda,Citigo,7495.0,2013,999cc,"32,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,15.3 seconds,103 g/km
+skoda,Karoq,19499.0,2021,1498cc,"15,405 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,129 mph,,148 g/km
+skoda,Fabia,10995.0,2020,999cc,"18,059 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,,125 g/km
+skoda,Fabia,7995.0,2015,999cc,"27,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.7 seconds,108 g/km
+skoda,Octavia,10800.0,2019,999cc,"73,760 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,114 g/km
+skoda,Citigo,5975.0,2015,999cc,"69,257 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,24695.0,2023,1498cc,"5,089 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,120 g/km
+skoda,Citigo,7995.0,2017,999cc,"20,574 miles",Petrol,Manual,Tornado Red Gloss,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Karoq,22266.0,2020,1498cc,"26,035 miles",Petrol,Automatic,Grey,Other,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Karoq,22574.0,2020,1498cc,"23,049 miles",Petrol,Automatic,Grey,Other,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Kodiaq,17850.0,2019,1968cc,"42,111 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,123 mph,9.8 seconds,131 g/km
+skoda,Karoq,18850.0,2020,1.5L,"18,852 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,150 g/km
+skoda,Karoq,18999.0,2020,1.5L,"17,271 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,150 g/km
+skoda,Kamiq,24995.0,2023,1.5L,"5,849 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,134 mph,,136 g/km
+skoda,Kamiq,21470.0,2021,1L,"14,198 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,123 mph,,138 g/km
+skoda,Karoq,15330.0,2018,1L,"31,435 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,115 mph,10.7 seconds,120 g/km
+skoda,Karoq,13533.0,2020,1L,"44,328 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,117 g/km
+skoda,Karoq,15999.0,2018,1.6L,"29,405 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Kodiaq,24999.0,2021,1.5L,"21,408 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,125 mph,,165 g/km
+skoda,Karoq,13999.0,2020,1L,"23,518 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Karoq,17999.0,2020,1.5L,"14,683 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,120 g/km
+skoda,Kodiaq,27999.0,2022,1.5L,"5,544 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,127 mph,,164 g/km
+skoda,Superb,19999.0,2019,1.5L,"19,429 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.9 seconds,123 g/km
+skoda,Fabia,10102.0,2017,1L,"36,056 miles",Petrol,Manual,Blue,Hatchback,,,,,,,
+skoda,Kamiq,16817.0,2020,1.5L,"31,003 miles",Petrol,Manual,Grey,SUV,,,,,,,
+skoda,Kamiq,17677.0,2021,1L,"9,348 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,120 mph,,128 g/km
+skoda,Superb,22791.0,2020,2L,"24,675 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,168 g/km
+skoda,Yeti Outdoor,12983.0,2016,2L,"55,647 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,147 bhp,121 mph,9.1 seconds,134 g/km
+skoda,Fabia,16995.0,2022,1L,"14,000 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,127 g/km
+skoda,Karoq,20500.0,2020,2L,"54,166 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,5.0,188 bhp,134 mph,,191 g/km
+skoda,Octavia,21450.0,2020,1.5L,"30,288 miles",Diesel,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,137 mph,,123 g/km
+skoda,Fabia,14900.0,2021,1L,"2,212 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,94 bhp,117 mph,,121 g/km
+skoda,Karoq,16975.0,2019,1.5L,"26,750 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,128 g/km
+skoda,Karoq,31490.0,2023,2L,"2,962 miles",Petrol,Automatic,Orange,SUV,4X4,5.0,5.0,188 bhp,137 mph,,179 g/km
+skoda,Kodiaq,38990.0,2023,2L,"5,221 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,197 bhp,133 mph,,174 g/km
+skoda,Scala,19290.0,2023,1.5L,"5,738 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,131 g/km
+skoda,Fabia,17990.0,2023,1L,"5,391 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Fabia,8290.0,2016,1.2L,"38,992 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Fabia,10799.0,2017,1.2L,"43,001 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,124 mph,9.6 seconds,110 g/km
+skoda,Fabia,11495.0,2017,1.2L,"33,613 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,88 bhp,115 mph,11.0 seconds,107 g/km
+skoda,Karoq,17390.0,2022,1L,"25,071 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,117 mph,,133 g/km
+skoda,Fabia,10200.0,2018,1L,"27,484 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Superb,31666.0,2023,2L,"2,607 miles",Diesel,Semiauto,Black,Hatchback,4X2,5.0,5.0,197 bhp,151 mph,,141 g/km
+skoda,Karoq,23995.0,2021,1.5L,"24,723 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,129 mph,,151 g/km
+skoda,Fabia,16995.0,2021,1L,"4,256 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,94 bhp,117 mph,,133 g/km
+skoda,Karoq,29995.0,2023,1.5L,948 miles,Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,130 mph,,141 g/km
+skoda,Kodiaq,23491.0,2020,1.5L,"27,845 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,123 mph,,172 g/km
+skoda,Kamiq,24513.0,2023,1L,"3,016 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Fabia,10167.0,2019,1L,"26,879 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Karoq,14028.0,2019,1L,"37,801 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Fabia,13044.0,2021,1L,"11,471 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Karoq,13954.0,2019,1L,"34,852 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Kamiq,14920.0,2020,1.5L,"42,415 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,131 mph,,116 g/km
+skoda,Scala,14990.0,2020,1L,"28,565 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,128 g/km
+skoda,Karoq,20000.0,2021,1.5L,"23,519 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,129 mph,,151 g/km
+skoda,Karoq,19500.0,2021,2L,"31,365 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,129 mph,,150 g/km
+skoda,Kamiq,16895.0,2021,1L,"13,500 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,120 mph,,123 g/km
+skoda,Karoq,14795.0,2019,1L,"23,388 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Kamiq,13295.0,2020,1L,"46,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,134 g/km
+skoda,Kodiaq,22295.0,2020,1.5L,"22,000 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Fabia,7990.0,2016,1197cc,"64,888 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Octavia,11990.0,2019,1968cc,"50,910 miles",Diesel,Manual,Grey,Saloon,4X2,5.0,5.0,147 bhp,138 mph,8.5 seconds,111 g/km
+skoda,Kamiq,18895.0,2021,999cc,"7,349 miles",Petrol,Manual,Quartz Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,128 g/km
+skoda,Superb,16990.0,2020,1395cc,"94,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,215 bhp,138 mph,,34 g/km
+skoda,Karoq,11950.0,2020,1598cc,"96,306 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,114 g/km
+skoda,Citigo,4995.0,2013,999cc,"76,385 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,8690.0,2020,999cc,"108,992 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,111 g/km
+skoda,Octavia,5450.0,2014,1598cc,"132,600 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,127 mph,10.7 seconds,85 g/km
+skoda,Octavia,2995.0,2012,1390cc,"110,050 miles",Petrol,Manual,Maroon,Hatchback,4X2,5.0,5.0,121 bhp,126 mph,9.7 seconds,148 g/km
+skoda,Fabia,3350.0,2006,1390cc,"47,415 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,74 bhp,103 mph,17.0 seconds,182 g/km
+skoda,Fabia,4885.0,2011,1197cc,"84,406 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Octavia,15290.0,2019,1598cc,"34,877 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,126 mph,10.3 seconds,111 g/km
+skoda,Octavia,3000.0,2012,2000cc,"159,877 miles",Diesel,Manual,Grey,Other,4X4,5.0,5.0,138 bhp,124 mph,10.1 seconds,155 g/km
+skoda,Fabia,4495.0,2012,1198cc,"58,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,68 bhp,95 mph,16.5 seconds,128 g/km
+skoda,Citigo,8399.0,2019,999cc,"31,185 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Karoq,14388.0,2019,1598cc,"62,366 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Octavia,14995.0,2021,999cc,"66,000 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,109 bhp,129 mph,,115 g/km
+skoda,Octavia,8490.0,2018,1598cc,"124,000 miles",Diesel,Automatic,GREY,Hatchback,4X2,5.0,5.0,113 bhp,127 mph,10.4 seconds,103 g/km
+skoda,Octavia,17989.0,2018,1984cc,"36,446 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,241 bhp,153 mph,,156 g/km
+skoda,Fabia,9500.0,2016,1197cc,"14,855 miles",Petrol,Manual,BEIGE,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Octavia,2000.0,2006,1968cc,"142,243 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.6 seconds,149 g/km
+skoda,Octavia,14100.0,2017,1968cc,"65,398 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,181 bhp,143 mph,8.2 seconds,117 g/km
+skoda,Roomster,6795.0,2012,1197cc,"29,500 miles",Petrol,Manual,BLUE,MPV,4X2,5.0,5.0,84 bhp,107 mph,12.6 seconds,134 g/km
+skoda,Fabia,8990.0,2017,1197cc,"38,991 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Yeti,9400.0,2017,1197cc,"99,173 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Karoq,14400.0,2020,1598cc,"84,677 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,142 g/km
+skoda,Kodiaq,41394.0,2022,1498cc,"8,585 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,7.0,147 bhp,126 mph,,164 g/km
+skoda,Octavia,11990.0,2019,999cc,"42,245 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,128 mph,9.9 seconds,111 g/km
+skoda,Fabia,4990.0,2012,1199cc,"66,160 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,89 g/km
+skoda,Yeti,9500.0,2016,1968cc,"77,424 miles",Diesel,Manual,BLACK,Hatchback,4X4,5.0,5.0,109 bhp,109 mph,12.2 seconds,137 g/km
+skoda,Kodiaq,32990.0,2021,2L,"14,555 miles",Petrol,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,133 mph,,186 g/km
+skoda,Kodiaq,38990.0,2023,2L,"12,793 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,197 bhp,133 mph,,176 g/km
+skoda,Kamiq,17999.0,2021,1L,"18,370 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Scala,23500.0,2023,1.5L,"2,056 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,130 g/km
+skoda,Karoq,22995.0,2020,1.5L,"16,896 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,147 bhp,128 mph,,151 g/km
+skoda,Kamiq,16049.0,2020,999cc,"26,544 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,,137 g/km
+skoda,Octavia,14249.0,2016,1968cc,"55,149 miles",Diesel,,Black,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,117 g/km
+skoda,Octavia,16011.0,2019,2L,"10,454 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,188 bhp,147 mph,7.3 seconds,133 g/km
+skoda,Fabia,10842.0,2019,1L,"31,379 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Kamiq,17899.0,2021,1L,"15,998 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,119 mph,,137 g/km
+skoda,Citigo,7499.0,2016,1L,"62,901 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,13.2 seconds,98 g/km
+skoda,Superb,14970.0,2015,2L,"39,839 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,8.8 seconds,109 g/km
+skoda,Octavia,9999.0,2018,2L,"65,823 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.4 seconds,113 g/km
+skoda,Fabia,9495.0,2016,1.2L,"43,659 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,88 bhp,115 mph,11.0 seconds,107 g/km
+skoda,Karoq,14979.0,2017,1498cc,"39,200 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,125 g/km
+skoda,Octavia,13000.0,2021,1968cc,"107,250 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,127 mph,,111 g/km
+skoda,Fabia,9400.0,2019,999cc,"29,010 miles",Petrol,Manual,Candy White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Octavia,16115.0,2019,1498cc,"23,571 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.8 seconds,118 g/km
+skoda,Octavia,15389.0,2021,1498cc,"44,096 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,139 mph,,130 g/km
+skoda,Kodiaq,21490.0,2019,1968cc,"46,965 miles",Diesel,Auto,Grey,SUV,4X4,5.0,5.0,147 bhp,120 mph,,144 g/km
+skoda,Fabia,4995.0,2013,1598cc,"83,215 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.9 seconds,109 g/km
+skoda,Octavia,24900.0,2023,1968cc,190 miles,Diesel,Manual,Silver,Saloon,4X2,5.0,5.0,114 bhp,133 mph,,110 g/km
+skoda,Citigo,4990.0,2014,999cc,"73,334 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Fabia,11795.0,2020,999cc,"20,448 miles",Petrol,Manual,Candy White/Black,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,125 g/km
+skoda,Fabia,8790.0,2020,1000cc,"33,102 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,121 g/km
+skoda,Kamiq,17995.0,2021,999cc,"14,438 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,,137 g/km
+skoda,Fabia,5495.0,2011,1390cc,"43,500 miles",Petrol,Semi Automatic,Green,Hatchback,4X2,5.0,5.0,177 bhp,139 mph,7.3 seconds,148 g/km
+skoda,Fabia,12349.0,2019,999cc,"21,504 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Kamiq,17799.0,2021,999cc,"14,975 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Fabia,16199.0,2022,999cc,"10,273 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,116 g/km
+skoda,Karoq,20950.0,2019,2L,"33,022 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,144 g/km
+skoda,Superb,29695.0,2020,1.4L,"25,877 miles",Hybrid,Semiauto,Red,Estate,4X2,5.0,5.0,215 bhp,138 mph,,36 g/km
+skoda,Karoq,25380.0,2023,2L,"3,157 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,,135 g/km
+skoda,Kamiq,13995.0,2019,1L,"27,998 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,116 g/km
+skoda,Superb,21690.0,2020,2L,"46,875 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,168 g/km
+skoda,Octavia,29690.0,2023,2L,"6,259 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,158 g/km
+skoda,Fabia,12290.0,2020,1L,"10,100 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Superb,28790.0,2021,1.4L,"19,542 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,215 bhp,138 mph,,34 g/km
+skoda,Superb,26990.0,2020,2L,"30,282 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,188 bhp,142 mph,7.7 seconds,141 g/km
+skoda,Kodiaq,28990.0,2021,2L,"14,010 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,7.0,147 bhp,126 mph,,
+skoda,Kamiq,20490.0,2022,1.5L,"8,160 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,135 mph,,135 g/km
+skoda,Kodiaq,27290.0,2020,1.5L,"17,846 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,172 g/km
+skoda,Kamiq,21690.0,2022,1.5L,"8,492 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,136 mph,,133 g/km
+skoda,Kamiq,16895.0,2020,1L,"19,845 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Karoq,29950.0,2023,2L,"7,476 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,126 mph,,157 g/km
+skoda,Octavia,22059.0,2022,2L,"34,375 miles",Diesel,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,139 mph,,118 g/km
+skoda,Karoq,19980.0,2021,1.5L,"37,778 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Fabia,10980.0,2019,1L,"26,627 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Kamiq,18695.0,2021,1L,"3,860 miles",Petrol,Manual,Blue,SUV,,,,,,,
+skoda,Fabia,17995.0,2023,1L,"4,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,118 mph,,118 g/km
+skoda,Kamiq,16500.0,2020,1L,"18,136 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,116 g/km
+skoda,Kamiq,23500.0,2023,1L,"4,000 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,138 g/km
+skoda,Scala,17995.0,2023,1.5L,"5,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,128 g/km
+skoda,Superb,33495.0,2023,2L,"4,000 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,188 bhp,150 mph,,159 g/km
+skoda,Karoq,27995.0,2023,2L,"5,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Kamiq,18290.0,2021,1L,"22,913 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,123 mph,,131 g/km
+skoda,Karoq,27890.0,2022,1.5L,"9,194 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Fabia,13299.0,2020,1L,"11,127 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Kamiq,17884.0,2021,1L,"16,855 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,119 mph,,133 g/km
+skoda,Octavia,18892.0,2020,1.5L,"30,848 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.8 seconds,144 g/km
+skoda,Kamiq,16312.0,2020,1L,"29,239 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,137 g/km
+skoda,Fabia,16795.0,2022,1L,"6,073 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,116 g/km
+skoda,Octavia,21350.0,2022,1.5L,"10,697 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,121 g/km
+skoda,Octavia,33950.0,2023,2L,"1,127 miles",Petrol,Semiauto,Silver,Estate,4X4,5.0,5.0,197 bhp,149 mph,,159 g/km
+skoda,Fabia,18950.0,2023,1L,"1,625 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,127 g/km
+skoda,Fabia,20350.0,2022,1.5L,"11,281 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,136 g/km
+skoda,Karoq,23440.0,2022,1.5L,"11,140 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Octavia,27450.0,2021,1.4L,"36,160 miles",Hybrid,Semiauto,White,Estate,4X2,5.0,5.0,241 bhp,139 mph,,27 g/km
+skoda,Kamiq,14500.0,2020,1L,"28,317 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,120 mph,,124 g/km
+skoda,Fabia,9990.0,2018,1L,"30,812 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Karoq,25250.0,2022,1.5L,"16,659 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Karoq,24990.0,2023,1.5L,"7,381 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Octavia,29750.0,2023,1.5L,"1,100 miles",Hybrid,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,141 mph,,129 g/km
+skoda,Octavia,12990.0,2017,2L,"65,074 miles",Diesel,Semiauto,Beige,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,119 g/km
+skoda,Octavia,11849.0,2019,1.5L,"53,488 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,148 bhp,136 mph,8.7 seconds,115 g/km
+skoda,Yeti Outdoor,11500.0,2015,2L,"70,664 miles",Diesel,Semiauto,Silver,SUV,4X4,5.0,5.0,168 bhp,122 mph,8.6 seconds,164 g/km
+skoda,Kamiq,17899.0,2020,1.5L,"31,030 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Kamiq,15199.0,2020,1L,"39,689 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Superb,26999.0,2023,1.5L,"7,282 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,,146 g/km
+skoda,Scala,17099.0,2020,1L,"11,564 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,123 mph,9.9 seconds,137 g/km
+skoda,Fabia,10099.0,2019,1L,"42,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Karoq,18699.0,2020,1.5L,"23,145 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,127 mph,,145 g/km
+skoda,Superb,20699.0,2020,1.5L,"36,561 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,147 bhp,131 mph,9.3 seconds,125 g/km
+skoda,Karoq,16999.0,2020,1.5L,"26,142 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,144 g/km
+skoda,Yeti,8995.0,2014,2L,"62,700 miles",Diesel,Manual,Brown,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,134 g/km
+skoda,Karoq,20995.0,2020,1.5L,"18,389 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,153 g/km
+skoda,Kamiq,15498.0,2022,1L,"8,502 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+skoda,Superb,15150.0,2018,1498cc,"40,252 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,147 bhp,130 mph,8.8 seconds,125 g/km
+skoda,Kodiaq,26999.0,2019,1968cc,"40,000 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,147 g/km
+skoda,Fabia,8980.0,2006,1896cc,"44,076 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,129 bhp,128 mph,9.5 seconds,143 g/km
+skoda,Yeti,12990.0,2017,1197cc,"66,779 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Fabia,4995.0,2013,1198cc,"21,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,95 mph,16.5 seconds,128 g/km
+skoda,Octavia,34699.0,2023,2L,6 miles,Diesel,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,141 mph,,118 g/km
+skoda,Octavia,35799.0,2023,2L,6 miles,Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Kodiaq,20780.0,2018,2L,"61,795 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,151 g/km
+skoda,Octavia,17690.0,2021,1.5L,"32,700 miles",Petrol,Manual,Brown,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,127 g/km
+skoda,Fabia,18480.0,2023,999cc,"7,300 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Octavia,19280.0,2023,999cc,"9,000 miles",Petrol,Manual,Petrol Blue,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,117 g/km
+skoda,Octavia,19480.0,2023,999cc,"4,500 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,117 g/km
+skoda,Kodiaq,37980.0,2022,1984cc,"18,300 miles",Petrol,Semi Auto,Race Blue,Estate,4X4,5.0,7.0,188 bhp,133 mph,,188 g/km
+skoda,Octavia,20980.0,2023,999cc,"3,500 miles",Petrol,Manual,Race Blue,Estate,4X2,5.0,5.0,109 bhp,125 mph,,119 g/km
+skoda,Superb,27480.0,2023,1498cc,"2,100 miles",Petrol,Semi Auto,Graphite Grey,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,147 g/km
+skoda,Octavia,21480.0,2023,999cc,"5,500 miles",Petrol/MHEV,Semi Auto,Graphite Grey,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,115 g/km
+skoda,Octavia,20980.0,2023,999cc,"4,800 miles",Petrol/MHEV,Semi Auto,Graphite Grey,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,115 g/km
+skoda,Karoq,23980.0,2022,1498cc,"7,800 miles",Petrol,Semi Auto,Brilliant Silver,Estate,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Kamiq,21280.0,2022,999cc,"7,900 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Kamiq,19995.0,2021,999cc,"13,403 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,129 g/km
+skoda,Kamiq,13500.0,2021,999cc,"51,470 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,120 mph,,124 g/km
+skoda,Karoq,15000.0,2019,1498cc,"73,298 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Superb,12790.0,2016,1984cc,"70,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,217 bhp,152 mph,7.0 seconds,143 g/km
+skoda,Fabia,12399.0,2019,999cc,"20,558 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Karoq,18149.0,2020,1598cc,"30,999 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,114 mph,11.2 seconds,125 g/km
+skoda,Octavia,15500.0,2018,1.6L,"22,144 miles",Diesel,Semiauto,Red,Hatchback,4X2,5.0,5.0,113 bhp,127 mph,10.4 seconds,105 g/km
+skoda,Kodiaq,15290.0,2017,1.4L,"53,669 miles",Petrol,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,122 mph,,155 g/km
+skoda,Fabia,14705.0,2020,1L,"5,174 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,122 mph,,128 g/km
+skoda,Yeti Outdoor,14995.0,2015,1968cc,"28,900 miles",Diesel,Manual,Silver,Estate,4X4,5.0,5.0,168 bhp,125 mph,8.4 seconds,149 g/km
+skoda,Octavia,9995.0,2019,1598cc,"98,959 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,113 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Octavia,9995.0,2019,1598cc,"92,586 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,113 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Fabia,11000.0,2017,1L,"17,000 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,103 g/km
+skoda,Superb,26995.0,2021,1984cc,"7,087 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,188 bhp,149 mph,,158 g/km
+skoda,Fabia,19900.0,2023,1L,"2,897 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,126 g/km
+skoda,Superb,24995.0,2022,2L,"9,982 miles",Diesel,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,128 g/km
+skoda,Karoq,18995.0,2020,1.5L,"51,817 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Octavia,12535.0,2017,1.4L,"48,028 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,114 g/km
+skoda,Fabia,14370.0,2021,999cc,"51,090 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,124 g/km
+skoda,Octavia,8450.0,2016,1968cc,"128,850 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,181 bhp,144 mph,8.1 seconds,115 g/km
+skoda,Kodiaq,22400.0,2018,1498cc,"38,000 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,147 bhp,123 mph,,139 g/km
+skoda,Superb,18990.0,2018,1984cc,"35,053 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,217 bhp,152 mph,,147 g/km
+skoda,Superb,14699.0,2017,1600cc,"28,781 miles",Diesel,Manual,BRILLIANT SILVER METALLIC,Estate,,,,,,,
+skoda,Fabia,12495.0,2020,999cc,"17,587 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Karoq,15253.0,2019,999cc,"46,482 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Citigo,7250.0,2015,999cc,"46,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,95 g/km
+skoda,Scala,15895.0,2021,1498cc,"10,858 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,124 g/km
+skoda,Octavia,10690.0,2015,1395cc,"37,450 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,8.1 seconds,118 g/km
+skoda,Karoq,15099.0,2020,999cc,"21,944 miles",Petrol,,Black,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,148 g/km
+skoda,Fabia,11349.0,2018,999cc,"39,067 miles",Petrol,,White,Estate,4X2,5.0,5.0,109 bhp,123 mph,,103 g/km
+skoda,Karoq,26900.0,2023,2L,"3,489 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Fabia,12750.0,2021,1L,"14,703 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Octavia,30690.0,2021,1.4L,"21,094 miles",Hybrid,Semiauto,Black,Estate,4X2,5.0,5.0,241 bhp,139 mph,,28 g/km
+skoda,Fabia,12990.0,2021,1L,"21,811 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,123 g/km
+skoda,Kamiq,23950.0,2023,1L,"1,000 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Karoq,24650.0,2023,2L,"2,000 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Octavia,27450.0,2023,2L,"1,000 miles",Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Scala,21290.0,2023,1L,"1,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,124 g/km
+skoda,Octavia,26450.0,2023,2L,"4,000 miles",Diesel,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Karoq,23990.0,2023,2L,"3,500 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Fabia,16790.0,2022,1L,"4,779 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,116 g/km
+skoda,Kamiq,21150.0,2021,1.5L,"15,308 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,133 mph,,140 g/km
+skoda,Fabia,14124.0,2020,1L,"12,708 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,125 g/km
+skoda,Fabia,10561.0,2019,1L,"33,517 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Octavia,10000.0,2018,1598cc,"54,386 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,10.3 seconds,106 g/km
+skoda,Fabia,11995.0,2021,1L,"23,472 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,126 g/km
+skoda,Kamiq,23490.0,2023,1L,"4,122 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Karoq,17470.0,2020,1.5L,"44,758 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Octavia,17980.0,2019,1.5L,"7,338 miles",Petrol,Manual,Brown,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,115 g/km
+skoda,Karoq,21061.0,2021,1.5L,"24,133 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,151 g/km
+skoda,Superb,28990.0,2021,1.4L,"15,759 miles",Hybrid,Semiauto,Red,Hatchback,4X2,5.0,5.0,215 bhp,140 mph,,28 g/km
+skoda,Fabia,22699.0,2023,1L,"1,569 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,118 g/km
+skoda,Karoq,24450.0,2023,2L,"3,500 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Karoq,24450.0,2023,2L,"4,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Superb,32399.0,2021,1.4L,"13,910 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,215 bhp,140 mph,7.7 seconds,25 g/km
+skoda,Kamiq,20667.0,2023,1L,3 miles,Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,123 mph,,124 g/km
+skoda,Kamiq,16350.0,2021,1L,"14,111 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Octavia,28995.0,2023,2L,10 miles,Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Karoq,26990.0,2023,2L,"1,564 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Octavia,17100.0,2020,1.5L,"16,441 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.8 seconds,116 g/km
+skoda,Superb,16779.0,2019,2L,"85,223 miles",Diesel,Semiauto,Red,Hatchback,4X4,5.0,5.0,188 bhp,142 mph,,135 g/km
+skoda,Kamiq,15849.0,2020,1.5L,"22,176 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,132 mph,,113 g/km
+skoda,Karoq,30300.0,2022,2L,"13,162 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,188 bhp,137 mph,,178 g/km
+skoda,Fabia,12000.0,2020,1L,"16,954 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Octavia,17640.0,2022,999cc,"60,323 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,129 mph,,115 g/km
+skoda,Rapid,7995.0,2018,999cc,"71,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,,109 g/km
+skoda,Octavia,12133.0,2016,1598cc,"42,000 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.8 seconds,99 g/km
+skoda,Octavia,11750.0,2017,1598cc,"28,274 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,10.6 seconds,100 g/km
+skoda,Octavia,10449.0,2016,1598cc,"46,139 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,10.6 seconds,99 g/km
+skoda,Fabia,9695.0,2017,1.2L,"40,175 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Karoq,16495.0,2021,999cc,"24,295 miles",Petrol,Manual,Energy Blue,Estate,4X2,5.0,5.0,109 bhp,116 mph,,134 g/km
+skoda,Karoq,17600.0,2021,1L,"30,602 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,116 mph,,141 g/km
+skoda,Fabia,9964.0,2018,1L,"34,116 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Octavia,26950.0,2023,2L,"8,151 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,157 g/km
+skoda,Fabia,12350.0,2021,1L,"7,893 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,129 g/km
+skoda,Karoq,16495.0,2019,1.5L,"25,086 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,123 g/km
+skoda,Kodiaq,15970.0,2017,1.4L,"65,617 miles",Petrol,Manual,Black,Estate,4X4,5.0,5.0,147 bhp,122 mph,,155 g/km
+skoda,Superb,11000.0,2019,1498cc,"92,340 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.7 seconds,122 g/km
+skoda,Octavia,8400.0,2019,999cc,"114,970 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,111 g/km
+skoda,Superb,14500.0,2017,1984cc,"47,370 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,217 bhp,152 mph,7.0 seconds,143 g/km
+skoda,Octavia,18790.0,2019,2L,"40,959 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,142 g/km
+skoda,Octavia,16650.0,2019,1.5L,"22,094 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,115 g/km
+skoda,Superb,32400.0,2023,1.5L,"2,060 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,147 bhp,133 mph,,156 g/km
+skoda,Karoq,27490.0,2023,2L,"4,604 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,126 mph,,151 g/km
+skoda,Scala,24290.0,2023,1.5L,"1,000 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,130 g/km
+skoda,Fabia,8300.0,2017,1.2L,"31,699 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Karoq,19949.0,2021,1.5L,"31,231 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Karoq,24995.0,2022,1.5L,"5,393 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Superb,42999.0,2023,1.4L,100 miles,Hybrid,Semiauto,Black,Hatchback,4X2,5.0,5.0,215 bhp,139 mph,,26 g/km
+skoda,Octavia,35999.0,2023,2L,100 miles,Diesel,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,139 mph,,120 g/km
+skoda,Superb,13679.0,2016,1600cc,"27,500 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,118 bhp,130 mph,11.0 seconds,95 g/km
+skoda,Octavia,5995.0,2012,1.39L,"48,250 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,121 bhp,126 mph,9.7 seconds,148 g/km
+skoda,Yeti,9499.0,2012,1390cc,"53,454 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,121 bhp,115 mph,10.5 seconds,159 g/km
+skoda,Karoq,17160.0,2019,1598cc,"67,408 miles",Diesel,Automatic,GREY,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Octavia,9290.0,2014,1968cc,"53,428 miles",Diesel,Manual,BEIGE,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,106 g/km
+skoda,Fabia,13450.0,2019,999cc,"17,000 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,106 g/km
+skoda,Scala,12999.0,2020,1500cc,"25,377 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,147 bhp,136 mph,,130 g/km
+skoda,Yeti,15995.0,2016,1968cc,"26,000 miles",Diesel,Automatic,Brown,SUV,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,144 g/km
+skoda,Karoq,19250.0,2022,1498cc,"28,000 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Fabia,2495.0,2007,1390cc,"90,000 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,84 bhp,108 mph,12.3 seconds,155 g/km
+skoda,Octavia,9995.0,2019,999cc,"64,861 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,9.9 seconds,107 g/km
+skoda,Kodiaq,16990.0,2017,1968cc,"88,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,151 g/km
+skoda,Karoq,23999.0,2020,1498cc,"37,575 miles",Petrol,Automatic,BLACK,Estate,4X2,5.0,5.0,147 bhp,128 mph,,145 g/km
+skoda,Octavia,10990.0,2016,1395cc,"45,803 miles",Petrol,Automatic,SILVER,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,8.1 seconds,112 g/km
+skoda,Octavia,13899.0,2019,1598cc,"55,096 miles",Diesel,,Grey,Estate,4X2,5.0,5.0,113 bhp,123 mph,10.5 seconds,107 g/km
+skoda,Karoq,22749.0,2020,1498cc,"22,896 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,154 g/km
+skoda,Citigo,7649.0,2018,999cc,"19,709 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Kamiq,16295.0,2020,1.5L,"21,404 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,131 mph,,144 g/km
+skoda,Kamiq,18790.0,2022,1L,"3,079 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Octavia,20599.0,2021,1.5L,"13,721 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,121 g/km
+skoda,Kamiq,17953.0,2022,1L,"10,156 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Fabia,10896.0,2020,1L,"50,184 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+skoda,Karoq,15194.0,2021,1L,"30,151 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,117 mph,,133 g/km
+skoda,Kamiq,24495.0,2022,1.5L,"1,072 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,147 bhp,135 mph,,140 g/km
+skoda,Kodiaq,34495.0,2022,2L,"8,119 miles",Petrol,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,132 mph,,188 g/km
+skoda,Superb,21500.0,2019,2L,"19,150 miles",Diesel,Semiauto,Silver,Hatchback,4X2,5.0,5.0,188 bhp,145 mph,8.3 seconds,119 g/km
+skoda,Fabia,18690.0,2023,1L,"1,193 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,126 g/km
+skoda,Kodiaq,22990.0,2021,1.5L,"41,214 miles",Petrol,Automatic,Grey,SUV,,,,,,,
+skoda,Kodiaq,30000.0,2023,1.5L,"2,388 miles",Petrol,Manual,Black,SUV,4X2,5.0,7.0,147 bhp,128 mph,,158 g/km
+skoda,Karoq,15450.0,2021,1L,"38,951 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,117 mph,,133 g/km
+skoda,Kodiaq,28490.0,2020,2L,"37,500 miles",Diesel,Automatic,White,SUV,,,,,,,
+skoda,Kamiq,15047.0,2020,1L,"31,810 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,94 bhp,112 mph,11.1 seconds,116 g/km
+skoda,Kamiq,18617.0,2023,1L,"4,210 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,116 mph,,123 g/km
+skoda,Fabia,18790.0,2023,1L,"2,333 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,126 g/km
+skoda,Octavia,33800.0,2023,2L,"6,647 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,197 bhp,152 mph,,160 g/km
+skoda,Kamiq,14900.0,2020,1L,"26,397 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,131 g/km
+skoda,Kodiaq,22495.0,2019,1.5L,"48,372 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,139 g/km
+skoda,Kamiq,14695.0,2021,1L,"26,904 miles",Petrol,Manual,Blue,SUV,,,,,,,
+skoda,Octavia,13950.0,2020,1L,"35,926 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+skoda,Fabia,5150.0,2012,1197cc,"57,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.1 seconds,124 g/km
+skoda,Yeti,12995.0,2013,1197cc,"21,541 miles",Petrol,Automatic,Beige,SUV,4X2,5.0,5.0,103 bhp,108 mph,12.0 seconds,142 g/km
+skoda,Superb,16950.0,2017,2L,"64,769 miles",Diesel,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.3 seconds,119 g/km
+skoda,Octavia,15490.0,2020,2L,"43,336 miles",Diesel,Semiauto,Grey,Hatchback,,,,,,,
+skoda,Karoq,16165.0,2019,1.5L,"43,383 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,124 g/km
+skoda,Kodiaq,29490.0,2019,2L,"21,660 miles",Diesel,Automatic,Red,SUV,4X4,5.0,7.0,147 bhp,119 mph,10.0 seconds,145 g/km
+skoda,Citigo,8990.0,2019,1L,"18,336 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,13.5 seconds,97 g/km
+skoda,Kodiaq,22530.0,2019,2L,"31,794 miles",Petrol,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,130 mph,7.7 seconds,162 g/km
+skoda,Kamiq,15195.0,2020,1L,"8,629 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,113 g/km
+skoda,Karoq,21990.0,2023,2L,"10,614 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Kamiq,22597.0,2023,1L,"2,045 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,123 mph,,130 g/km
+skoda,Octavia,8990.0,2019,1.6L,"99,950 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,124 mph,10.1 seconds,109 g/km
+skoda,Octavia,16390.0,2019,1968cc,"35,894 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.0 seconds,115 g/km
+skoda,Citigo,7498.0,2018,1L,"39,943 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Superb,23990.0,2021,1395cc,"40,651 miles",Other,Automatic,Green,Estate,4X2,5.0,5.0,215 bhp,140 mph,,27 g/km
+skoda,Octavia,11480.0,2018,999cc,"40,618 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,,108 g/km
+skoda,Fabia,13679.0,2021,999cc,"42,575 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,121 g/km
+skoda,Octavia,10932.0,2020,1968cc,"108,233 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.6 seconds,114 g/km
+skoda,Citigo,8290.0,2019,999cc,"24,764 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Fabia,4950.0,2011,1197cc,"51,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.7 seconds,121 g/km
+skoda,Superb,23450.0,2020,1968cc,"52,000 miles",Diesel,Automatic,Grey,Saloon,4X2,5.0,5.0,147 bhp,136 mph,9.1 seconds,140 g/km
+skoda,Fabia,11500.0,2017,1197.0cc,"22,690 miles",Petrol,Automatic,Metallic Paint,Estate,4X2,5.0,5.0,109 bhp,124 mph,9.6 seconds,110 g/km
+skoda,Fabia,10149.0,2016,1197cc,"43,144 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Karoq,17999.0,2020,999cc,"19,248 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,114 bhp,118 mph,,147 g/km
+skoda,Scala,12450.0,2021,1L,"33,946 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,118 mph,,120 g/km
+skoda,Kodiaq,30130.0,2020,2L,"24,294 miles",Diesel,Automatic,White,SUV,,,,,,,
+skoda,Fabia,12490.0,2020,1L,"21,203 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Kamiq,16990.0,2020,1.5L,"15,710 miles",Petrol,Manual,Blue,SUV,,,,,,,
+skoda,Fabia,12290.0,2020,1L,"11,601 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,126 g/km
+skoda,Octavia,18450.0,2019,2L,"26,058 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,154 g/km
+skoda,Fabia,10995.0,2020,999cc,"39,214 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Karoq,14995.0,2020,999cc,"47,389 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Karoq,17700.0,2020,1.5L,"12,060 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,145 g/km
+skoda,Fabia,11360.0,2019,1L,"21,003 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Fabia,17250.0,2023,1L,"5,486 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,116 g/km
+skoda,Fabia,15999.0,2023,1L,"2,153 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,79 bhp,109 mph,,117 g/km
+skoda,Karoq,14382.0,2019,1L,"26,699 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Octavia,13733.0,2020,1.5L,"57,324 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,140 g/km
+skoda,Kamiq,22450.0,2022,1L,"9,194 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Fabia,9995.0,2019,999cc,"35,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Citigo,8300.0,2014,999cc,"12,265 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,15.3 seconds,103 g/km
+skoda,Karoq,19400.0,2020,1.5L,"16,566 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,127 mph,,145 g/km
+skoda,Octavia,33500.0,2023,2L,"2,976 miles",Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,197 bhp,152 mph,,159 g/km
+skoda,Kamiq,17000.0,2021,1L,"8,292 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Superb,18500.0,2021,1.4L,"44,941 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,215 bhp,140 mph,,23 g/km
+skoda,Kodiaq,29450.0,2021,2L,"26,662 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,147 bhp,121 mph,,163 g/km
+skoda,Karoq,13850.0,2021,1L,"38,038 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,118 mph,,141 g/km
+skoda,Kamiq,15289.0,2021,1L,"15,947 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,117 mph,,128 g/km
+skoda,Superb,24499.0,2021,2L,"12,578 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,188 bhp,149 mph,,159 g/km
+skoda,Fabia,11650.0,2020,1L,"34,520 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Kamiq,18000.0,2020,1.5L,"22,092 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Kamiq,16831.0,2021,1L,"9,985 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,120 mph,,131 g/km
+skoda,Octavia,11995.0,2017,1L,"19,801 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,,110 g/km
+skoda,Karoq,12950.0,2018,999cc,"45,328 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,116 mph,,121 g/km
+skoda,Kamiq,23995.0,2023,1498cc,"5,022 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,,140 g/km
+skoda,Fabia,14495.0,2021,999cc,"5,263 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,124 g/km
+skoda,Octavia,7925.0,2016,1197cc,"59,410 miles",Petrol,Manual,Beige,Saloon,4X2,5.0,5.0,109 bhp,124 mph,10.2 seconds,114 g/km
+skoda,Superb,18699.0,2021,1598cc,"15,000 miles",Diesel,Automatic,Silver,Hatchback,4X2,5.0,5.0,118 bhp,127 mph,11.1 seconds,146 g/km
+skoda,Kodiaq,20995.0,2020,1498cc,"27,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,123 mph,9.8 seconds,135 g/km
+skoda,Superb,21500.0,2021,1968cc,"41,500 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,125 g/km
+skoda,Yeti,15590.0,2016,1197cc,"19,491 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Octavia,25995.0,2021,1984cc,"38,097 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,158 g/km
+skoda,Octavia,15750.0,2020,1598cc,"53,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Fabia,7795.0,2013,1390cc,"81,366 miles",Petrol,Automatic,Green,Hatchback,4X2,5.0,5.0,177 bhp,139 mph,7.3 seconds,148 g/km
+skoda,Kodiaq,22888.0,2019,1968cc,"50,000 miles",Diesel,Automatic,Black,Estate,,,,,,,
+skoda,Scala,13998.0,2019,999cc,"28,399 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,113 g/km
+skoda,Fabia,8049.0,2017,999cc,"44,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,,111 g/km
+skoda,Karoq,15490.0,2019,1968cc,"68,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Scala,16495.0,2021,999cc,"23,481 miles",Petrol,Manual,Brilliant Silver,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,124 g/km
+skoda,Octavia,14995.0,2020,1598cc,"32,384 miles",Diesel,Manual,Quartz Grey,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,10.3 seconds,108 g/km
+skoda,Karoq,23995.0,2023,999cc,"3,193 miles",Petrol,Manual,Brilliant Silver,Estate,4X2,5.0,5.0,109 bhp,118 mph,,133 g/km
+skoda,Karoq,28495.0,2023,1968cc,"6,570 miles",Diesel,Automatic,Pheonix Orange,Estate,4X2,5.0,5.0,114 bhp,119 mph,,131 g/km
+skoda,Octavia,14595.0,2020,999cc,"24,621 miles",Petrol,Manual,Candy White,Hatchback,4X2,5.0,5.0,114 bhp,128 mph,9.9 seconds,108 g/km
+skoda,Kamiq,14495.0,2021,999cc,"21,918 miles",Petrol,Manual,Moon White,Hatchback,4X2,5.0,5.0,94 bhp,113 mph,,128 g/km
+skoda,Scala,26390.0,2023,0L,5 miles,Petrol,Other,Brilliant Silver,Hatchback,,,,,,,
+skoda,Octavia,34870.0,2023,0L,3 miles,Petrol,Other,Moon White,Hatchback,,,,,,,
+skoda,Kamiq,20995.0,2023,999cc,"2,730 miles",Petrol,Manual,Graphite Grey,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,,124 g/km
+skoda,Karoq,27995.0,2023,1498cc,"4,686 miles",Petrol,Manual,Midnight Black,Estate,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Rapid,7777.0,2019,999cc,"55,360 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,,109 g/km
+skoda,Yeti,10995.0,2014,1968cc,"37,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,134 g/km
+skoda,Fabia,10995.0,2020,999cc,"23,099 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,125 g/km
+skoda,Octavia,11995.0,2017,1968cc,"104,883 miles",Diesel,Manual,GUNMETAL GREY,Estate,4X2,5.0,5.0,181 bhp,143 mph,,119 g/km
+skoda,Octavia,11995.0,2015,1968cc,"70,673 miles",Diesel,Manual,IBUS WHITE,Saloon,4X2,5.0,5.0,181 bhp,144 mph,8.1 seconds,119 g/km
+skoda,Octavia,6295.0,2012,1598cc,"51,000 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,103 bhp,117 mph,11.9 seconds,119 g/km
+skoda,Fabia,6695.0,2012,1199cc,"23,000 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,89 g/km
+skoda,Fabia,4750.0,2013,1197cc,"73,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,10.1 seconds,124 g/km
+skoda,Superb,37990.0,2023,1400cc,"1,100 miles",Other,Automatic,Graphite Grey Metallic,Estate,4X2,5.0,5.0,215 bhp,139 mph,7.7 seconds,26 g/km
+skoda,Octavia,17495.0,2020,1000cc,"17,415 miles",Petrol,Manual,Moon White,Hatchback,4X2,5.0,5.0,109 bhp,129 mph,,118 g/km
+skoda,Fabia,14495.0,2021,1000cc,"5,897 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Octavia,28495.0,2023,2000cc,"1,894 miles",Diesel,Automatic,Race Blue,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Superb,12995.0,2016,1395cc,"70,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,8.8 seconds,117 g/km
+skoda,Octavia,13995.0,2019,1598cc,"50,822 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,10.3 seconds,109 g/km
+skoda,Superb,13200.0,2016,1968cc,"97,000 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,147 bhp,135 mph,8.9 seconds,109 g/km
+skoda,Superb,18995.0,2019,1968cc,"49,670 miles",Diesel,Automatic,QUARTZ GREY,Saloon,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,114 g/km
+skoda,Fabia,19199.0,2022,999cc,"7,506 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,94 bhp,117 mph,,129 g/km
+skoda,Fabia,6995.0,2015,1422cc,"65,789 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,88 bhp,114 mph,11.3 seconds,89 g/km
+skoda,Octavia,10495.0,2016,1968cc,"36,117 miles",Diesel,Manual,Black,Saloon,4X2,5.0,5.0,147 bhp,135 mph,8.4 seconds,106 g/km
+skoda,Karoq,15995.0,2020,999cc,"5,124 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Kodiaq,20440.0,2017,1968cc,"56,166 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,151 g/km
+skoda,Kodiaq,24800.0,2019,2L,"51,529 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,147 g/km
+skoda,Kamiq,14250.0,2021,1L,"31,502 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,94 bhp,113 mph,,128 g/km
+skoda,Scala,17450.0,2021,1L,"14,101 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Octavia,15676.0,2020,1.5L,"32,695 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,140 g/km
+skoda,Octavia,15995.0,2021,999cc,"12,427 miles",Petrol,Manual,Quartz Grey,Saloon,4X2,5.0,5.0,109 bhp,129 mph,,118 g/km
+skoda,Karoq,18495.0,2022,1498cc,"16,923 miles",Petrol,Manual,Velvet Red,Estate,4X2,5.0,5.0,147 bhp,129 mph,,143 g/km
+skoda,Octavia,12995.0,2015,1968cc,"85,000 miles",Diesel,Automatic,White,Saloon,4X2,5.0,5.0,181 bhp,143 mph,8.2 seconds,129 g/km
+skoda,Scala,11985.0,2020,999cc,"45,314 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,128 g/km
+skoda,Octavia,12785.0,2020,1968cc,"74,444 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.6 seconds,135 g/km
+skoda,Fabia,11485.0,2020,999cc,"25,439 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,110 g/km
+skoda,Kodiaq,25980.0,2019,1968cc,"56,407 miles",Diesel,Automatic,Black,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,147 g/km
+skoda,Karoq,16790.0,2020,1598cc,"42,410 miles",Diesel,Automatic,Silver,Estate,4X2,5.0,5.0,114 bhp,114 mph,11.2 seconds,155 g/km
+skoda,Octavia,6450.0,2013,1598cc,"75,762 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,99 g/km
+skoda,Kodiaq,26900.0,2020,1968cc,"49,000 miles",Diesel,Manual,Grey,Estate,4X4,5.0,7.0,147 bhp,121 mph,9.9 seconds,172 g/km
+skoda,Karoq,16900.0,2018,1598cc,"26,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.2 seconds,117 g/km
+skoda,Octavia,6250.0,2014,2L,"100,800 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,106 g/km
+skoda,Octavia,18995.0,2021,1498cc,"18,047 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,124 g/km
+skoda,Octavia,18995.0,2021,1498cc,"21,534 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,124 g/km
+skoda,Octavia,18995.0,2021,1498cc,"20,903 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,124 g/km
+skoda,Superb,28995.0,2022,1968cc,"18,755 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,133 g/km
+skoda,Scala,19995.0,2021,999cc,"9,430 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,133 g/km
+skoda,Fabia,13995.0,2019,999cc,"14,621 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,121 mph,9.6 seconds,107 g/km
+skoda,Fabia,9495.0,2020,999cc,"39,900 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Karoq,13995.0,2018,1968cc,"128,000 miles",Diesel,Manual,Grey,Estate,4X4,5.0,5.0,147 bhp,121 mph,9.0 seconds,132 g/km
+skoda,Octavia,17990.0,2019,1968cc,"46,751 miles",Diesel,Automatic,Corrida Red,Hatchback,4X2,5.0,5.0,181 bhp,145 mph,8.1 seconds,116 g/km
+skoda,Superb,13300.0,2018,1968cc,"127,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.3 seconds,119 g/km
+skoda,Karoq,13499.0,2018,999cc,"33,031 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,119 g/km
+skoda,Kodiaq,20949.0,2017,1968cc,"69,800 miles",Diesel,Manual,Petrol Blue,SUV,4X4,5.0,7.0,147 bhp,121 mph,9.9 seconds,144 g/km
+skoda,Kodiaq,19895.0,2017,1968cc,"95,000 miles",Diesel,Automatic,Pure White,SUV,4X4,5.0,5.0,147 bhp,120 mph,9.8 seconds,149 g/km
+skoda,Rapid,5995.0,2014,1598cc,"99,017 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.3 seconds,114 g/km
+skoda,Fabia,15675.0,2022,1L,"6,330 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,94 bhp,117 mph,,124 g/km
+skoda,Kamiq,16495.0,2020,1.5L,"32,986 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,132 mph,,139 g/km
+skoda,Superb,26295.0,2022,2L,"23,500 miles",Diesel,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,133 mph,,
+skoda,Octavia,11950.0,2019,1L,"35,876 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,9.9 seconds,107 g/km
+skoda,Octavia,21588.0,2019,1968cc,"73,000 miles",Diesel,Automatic,GREY,Estate,4X2,5.0,5.0,181 bhp,140 mph,8.2 seconds,116 g/km
+skoda,Octavia,15489.0,2018,1395cc,"8,059 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,114 g/km
+skoda,Citigo,6495.0,2018,1000cc,"62,000 miles",Petrol,Manual,Silver,Other,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Superb,35280.0,2023,0L,3 miles,Petrol,Other,Moon White,Hatchback,,,,,,,
+skoda,Karoq,20495.0,2020,1498cc,"26,500 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,,150 g/km
+skoda,Octavia,10149.0,2014,1968cc,"103,714 miles",Diesel,Automatic,BLUE,Estate,4X2,5.0,5.0,181 bhp,142 mph,8.3 seconds,129 g/km
+skoda,Octavia,13995.0,2020,999cc,"43,790 miles",Petrol,Manual,Energy Blue,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,127 g/km
+skoda,Superb,13740.0,2019,1.5L,"68,956 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,8.9 seconds,123 g/km
+skoda,Fabia,10499.0,2020,1L,"30,004 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,124 g/km
+skoda,Scala,16980.0,2020,1.5L,"20,390 miles",Petrol,Semi Automatic,Green,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,143 g/km
+skoda,Fabia,14999.0,2022,1L,"6,938 miles",Petrol,Semi Automatic,Blue,Estate,4X2,5.0,5.0,94 bhp,117 mph,,129 g/km
+skoda,Yeti Outdoor,7995.0,2014,2000cc,"83,102 miles",Diesel,Manual,SILVER,MPV,,,,,,,
+skoda,Octavia,20990.0,2019,1968cc,"47,643 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,181 bhp,140 mph,8.2 seconds,118 g/km
+skoda,Karoq,19495.0,2019,1498cc,"28,713 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Kodiaq,30000.0,2019,1968cc,"27,567 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,236 bhp,136 mph,7.0 seconds,169 g/km
+skoda,Octavia,17200.0,2022,999cc,"24,256 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,109 bhp,125 mph,,119 g/km
+skoda,Kamiq,16695.0,2021,1L,"19,407 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Kamiq,16595.0,2020,1L,"27,194 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,141 g/km
+skoda,Octavia,20000.0,2019,2L,"31,089 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,142 g/km
+skoda,Scala,14490.0,2019,1L,"23,065 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,113 g/km
+skoda,Kodiaq,28790.0,2021,2L,"28,992 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,147 bhp,121 mph,,163 g/km
+skoda,Kamiq,17495.0,2021,1L,"16,596 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Kodiaq,32399.0,2022,2L,"15,862 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,7.0,188 bhp,132 mph,,186 g/km
+skoda,Fabia,11899.0,2020,1L,"11,824 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Octavia,24595.0,2021,1.4L,"9,378 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,201 bhp,136 mph,,22 g/km
+skoda,Scala,16495.0,2020,1.5L,"18,724 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,134 g/km
+skoda,Octavia,16995.0,2021,2L,"54,216 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,127 mph,,112 g/km
+skoda,Scala,12995.0,2020,1L,"42,098 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,114 bhp,123 mph,9.9 seconds,116 g/km
+skoda,Karoq,15950.0,2019,1598cc,"62,000 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Octavia,3495.0,2009,1896cc,"138,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,119 mph,11.9 seconds,135 g/km
+skoda,Citigo,9495.0,2019,999cc,"5,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Octavia,17995.0,2018,1984cc,"33,742 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,154 g/km
+skoda,Yeti,5470.0,2013,1968cc,"104,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,157 g/km
+skoda,Karoq,18795.0,2018,1600cc,"6,100 miles",Diesel,Automatic,Blue,Other,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Superb,24234.0,2020,1968cc,"41,850 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,147 bhp,131 mph,9.2 seconds,136 g/km
+skoda,Yeti,7470.0,2010,1968cc,"48,575 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,140 g/km
+skoda,Karoq,15679.0,2019,1498cc,"14,509 miles",Petrol,Manual,BLUE,Estate,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,123 g/km
+skoda,Roomster,4599.0,2015,1197cc,"88,000 miles",Petrol,Manual,BLACK,MPV,4X2,5.0,5.0,84 bhp,107 mph,12.6 seconds,134 g/km
+skoda,Scala,24300.0,2022,1498cc,"5,773 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,128 g/km
+skoda,Octavia,22188.0,2022,999cc,"11,326 miles",Other,Automatic,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,115 g/km
+skoda,Fabia,12500.0,2018,999cc,"7,415 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,94 bhp,116 mph,,101 g/km
+skoda,Fabia,6990.0,2017,1197cc,"106,346 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Octavia,7875.0,2016,1598cc,"104,020 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.8 seconds,99 g/km
+skoda,Karoq,14790.0,2018,1598cc,"61,300 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Citigo,9399.0,2017,999cc,"13,154 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Kamiq,15249.0,2020,1598cc,"63,003 miles",Diesel,,White,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.4 seconds,142 g/km
+skoda,Karoq,14199.0,2019,1498cc,"52,007 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,124 g/km
+skoda,Karoq,17200.0,2019,1.5L,"58,653 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Kamiq,24299.0,2023,1L,900 miles,Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Fabia,16499.0,2023,1L,"5,442 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Kodiaq,19999.0,2019,1.5L,"27,784 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,121 mph,9.9 seconds,155 g/km
+skoda,Kodiaq,25750.0,2019,1968cc,"29,613 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,7.0,147 bhp,123 mph,10.0 seconds,131 g/km
+skoda,Fabia,11750.0,2020,999cc,"17,380 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,123 g/km
+skoda,Fabia,13944.0,2021,1L,"8,780 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,123 g/km
+skoda,Kamiq,15733.0,2020,1.5L,"18,708 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,132 mph,,134 g/km
+skoda,Citigo,5490.0,2016,999cc,"57,473 miles",Petrol,Manual,Metallic Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Fabia,11599.0,2017,1L,"10,189 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,94 bhp,116 mph,,101 g/km
+skoda,Yeti Outdoor,17995.0,2017,1197cc,"21,600 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Superb,15000.0,2019,1984cc,"101,400 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,140 g/km
+skoda,Yeti,8295.0,2012,1197cc,"67,065 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,103 bhp,109 mph,11.8 seconds,149 g/km
+skoda,Fabia,18995.0,2022,1L,"3,375 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,128 g/km
+skoda,Kodiaq,36000.0,2022,2L,"2,756 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,124 mph,,163 g/km
+skoda,Fabia,9590.0,2018,1L,"40,585 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Kamiq,16980.0,2021,1.5L,"17,605 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,133 mph,,133 g/km
+skoda,Octavia,7995.0,2014,1598cc,"75,000 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,104 g/km
+skoda,Octavia,5990.0,2010,1984cc,"96,050 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,197 bhp,149 mph,7.3 seconds,175 g/km
+skoda,Superb,16395.0,2020,1968cc,"73,111 miles",Diesel,Automatic,Energy Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,9.1 seconds,132 g/km
+skoda,Fabia,10890.0,2021,1000cc,"18,975 miles",Petrol,Manual,Energy Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,127 g/km
+skoda,Fabia,9645.0,2020,999cc,"19,247 miles",Petrol,Manual,Energy Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Octavia,6450.0,2012,1390cc,"35,500 miles",Petrol,Manual,Maroon,Hatchback,4X2,5.0,5.0,121 bhp,126 mph,9.7 seconds,148 g/km
+skoda,Fabia,6999.0,2015,999cc,"40,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,59 bhp,99 mph,15.7 seconds,106 g/km
+skoda,Octavia,11990.0,2019,1498cc,"65,000 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,148 bhp,133 mph,8.8 seconds,116 g/km
+skoda,Octavia,9995.0,2016,1598cc,"74,649 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.8 seconds,101 g/km
+skoda,Kodiaq,18250.0,2017,1968cc,"83,993 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,151 g/km
+skoda,Octavia,15250.0,2019,1498cc,"44,000 miles",Petrol,Manual,BLACK,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,115 g/km
+skoda,Octavia,12750.0,2019,1598cc,"30,000 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,10.3 seconds,109 g/km
+skoda,Octavia,6795.0,2013,1395cc,"77,954 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,138 bhp,134 mph,8.4 seconds,121 g/km
+skoda,Citigo,4995.0,2013,999cc,"46,401 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Superb,28788.0,2020,1395cc,"26,000 miles",Other,Automatic,GREY,Estate,4X2,5.0,5.0,215 bhp,138 mph,,33 g/km
+skoda,Octavia,12995.0,2017,1968cc,"105,431 miles",Diesel,Automatic,BLACK,Estate,4X2,5.0,5.0,181 bhp,142 mph,,129 g/km
+skoda,Yeti,9295.0,2015,1968cc,"90,000 miles",Diesel,Manual,BLACK,Hatchback,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,152 g/km
+skoda,Yeti,7995.0,2014,1968cc,"77,697 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,134 g/km
+skoda,Octavia,11980.0,2015,1968cc,"68,300 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,181 bhp,144 mph,8.1 seconds,119 g/km
+skoda,Octavia,14779.0,2018,1968cc,"80,675 miles",Diesel,Automatic,WHITE,Hatchback,4X4,5.0,5.0,181 bhp,142 mph,,136 g/km
+skoda,Fabia,13195.0,2018,999cc,"10,820 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,106 g/km
+skoda,Octavia,6995.0,2012,1968cc,"140,954 miles",Diesel,Automatic,GREY,Estate,4X2,5.0,5.0,168 bhp,138 mph,8.5 seconds,159 g/km
+skoda,Superb,7995.0,2015,1598cc,"70,473 miles",Diesel,Manual,Black,Estate,,,,,,,
+skoda,Octavia,11990.0,2018,1598cc,"59,334 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,114 bhp,125 mph,10.4 seconds,109 g/km
+skoda,Karoq,26312.0,2020,1498cc,"40,439 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,154 g/km
+skoda,Kamiq,16995.0,2020,999cc,"3,526 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,128 g/km
+skoda,Fabia,13999.0,2019,999cc,"10,376 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,109 bhp,121 mph,,110 g/km
+skoda,Karoq,19099.0,2020,1.5L,"24,600 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,152 g/km
+skoda,Fabia,11980.0,2019,999cc,"20,600 miles",Petrol,Manual,Quartz Grey,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,106 g/km
+skoda,Fabia,11495.0,2021,1L,"5,810 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,127 g/km
+skoda,Yeti Outdoor,12595.0,2015,1395cc,"55,000 miles",Petrol,Manual,White,Hatchback,4X4,5.0,5.0,147 bhp,121 mph,8.7 seconds,147 g/km
+skoda,Kodiaq,25995.0,2019,1.5L,"27,229 miles",Petrol,Automatic,Red,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,143 g/km
+skoda,Kodiaq,21995.0,2019,1.5L,"33,605 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,124 mph,,134 g/km
+skoda,Superb,16800.0,2018,2L,"46,306 miles",Diesel,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.3 seconds,119 g/km
+skoda,Fabia,15980.0,2022,1L,"13,334 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Fabia,9289.0,2019,999cc,"18,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,,111 g/km
+skoda,Octavia,8485.0,2015,1197cc,"29,327 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,103 bhp,122 mph,10.3 seconds,114 g/km
+skoda,Karoq,17495.0,2020,1598cc,"25,708 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,152 g/km
+skoda,Karoq,28395.0,2023,1968cc,"8,162 miles",Diesel,Manual,Meteor Grey,Estate,4X2,5.0,5.0,147 bhp,130 mph,,132 g/km
+skoda,Octavia,6495.0,2011,1968cc,"103,979 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,168 bhp,139 mph,8.4 seconds,159 g/km
+skoda,Yeti,4770.0,2011,1798cc,"139,000 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,158 bhp,124 mph,8.4 seconds,189 g/km
+skoda,Fabia,5985.0,2011,1197cc,"60,866 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Yeti,10495.0,2014,1197cc,"63,000 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,11.7 seconds,142 g/km
+skoda,Fabia,10495.0,2018,999cc,"19,246 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Octavia,24980.0,2023,1498cc,"9,800 miles",Petrol/MHEV,Semi Auto,Graphite Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,120 g/km
+skoda,Octavia,18995.0,2014,1984cc,"18,000 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,217 bhp,150 mph,7.1 seconds,149 g/km
+skoda,Karoq,18900.0,2018,1498cc,"17,522 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Roomster,4295.0,2012,1197cc,"113,064 miles",Petrol,Manual,Green,MPV,4X2,5.0,5.0,84 bhp,107 mph,12.6 seconds,134 g/km
+skoda,Fabia,3650.0,2012,1197cc,"82,820 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.7 seconds,121 g/km
+skoda,Rapid,9000.0,2015,1390cc,"35,603 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,121 bhp,128 mph,9.5 seconds,134 g/km
+skoda,Octavia,15249.0,2020,1598cc,"47,310 miles",Diesel,,White,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,137 g/km
+skoda,Citigo,7549.0,2016,999cc,"35,476 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Fabia,11049.0,2020,999cc,"43,785 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Fabia,9649.0,2016,1197cc,"60,662 miles",Petrol,,Red,Estate,4X2,5.0,5.0,109 bhp,124 mph,9.6 seconds,110 g/km
+skoda,Karoq,17995.0,2020,1.5L,"11,073 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,143 g/km
+skoda,Kodiaq,16200.0,2017,1.4L,"68,552 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,123 mph,,143 g/km
+skoda,Kamiq,16500.0,2020,1.5L,"24,071 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,131 mph,,116 g/km
+skoda,Kamiq,13990.0,2020,1.5L,"44,675 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,132 mph,,134 g/km
+skoda,Karoq,13017.0,2018,1.6L,"71,628 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Superb,17951.0,2019,2L,"19,255 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,9.2 seconds,113 g/km
+skoda,Kodiaq,18740.0,2017,1.4L,"45,307 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,122 mph,,143 g/km
+skoda,Karoq,23750.0,2023,2L,"5,139 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Kodiaq,33750.0,2023,1.5L,"5,164 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,,164 g/km
+skoda,Fabia,14880.0,2020,1L,"15,210 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,126 g/km
+skoda,Kodiaq,24850.0,2020,1.5L,"18,804 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,123 mph,,171 g/km
+skoda,Fabia,20990.0,2023,1.5L,"2,139 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,129 g/km
+skoda,Kodiaq,27390.0,2022,1.5L,"10,979 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,123 mph,,159 g/km
+skoda,Kodiaq,22990.0,2020,2L,"40,223 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,7.0,188 bhp,130 mph,7.7 seconds,160 g/km
+skoda,Karoq,22950.0,2022,1.5L,"10,196 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Kodiaq,28490.0,2023,1.5L,"7,001 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,,159 g/km
+skoda,Kodiaq,29990.0,2022,1.5L,"26,505 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,7.0,147 bhp,127 mph,,164 g/km
+skoda,Fabia,11990.0,2020,1L,"18,946 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,126 g/km
+skoda,Fabia,20980.0,2022,1.5L,"5,404 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,129 g/km
+skoda,Karoq,22800.0,2023,2L,"8,949 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Fabia,18590.0,2023,1L,"3,219 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,126 g/km
+skoda,Fabia,19777.0,2023,1L,"3,972 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,128 g/km
+skoda,Kamiq,14950.0,2021,1L,"29,883 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Kodiaq,31990.0,2022,1.5L,"7,878 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,147 bhp,127 mph,,164 g/km
+skoda,Kamiq,24490.0,2023,1.5L,"3,451 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,147 bhp,133 mph,,136 g/km
+skoda,Scala,19490.0,2021,1.5L,"17,671 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,133 g/km
+skoda,Octavia,19843.0,2022,1.4L,"49,838 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,201 bhp,136 mph,,23 g/km
+skoda,Octavia,20490.0,2021,1.5L,"19,105 miles",Hybrid,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,121 g/km
+skoda,Karoq,16990.0,2018,1.5L,"35,405 miles",Petrol,Automatic,Beige,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Scala,18350.0,2023,1L,"2,252 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,121 g/km
+skoda,Karoq,24695.0,2020,1.5L,"17,646 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,155 g/km
+skoda,Karoq,16999.0,2020,1L,"13,341 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,118 mph,,141 g/km
+skoda,Fabia,17926.0,2023,1L,"6,022 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Octavia,34595.0,2023,2L,"3,095 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,241 bhp,155 mph,,135 g/km
+skoda,Octavia,28995.0,2023,2L,10 miles,Diesel,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Fabia,11250.0,2020,1L,"14,813 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,,125 g/km
+skoda,Karoq,19850.0,2019,1.5L,"38,692 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,123 g/km
+skoda,Karoq,25900.0,2023,2L,"6,500 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,129 g/km
+skoda,Superb,44800.0,2023,2L,"7,000 miles",Petrol,Semiauto,Red,Estate,4X4,5.0,5.0,276 bhp,155 mph,,195 g/km
+skoda,Karoq,24900.0,2023,2L,"6,500 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Kamiq,18900.0,2022,1L,"6,500 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Fabia,14900.0,2022,1L,"7,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,79 bhp,110 mph,,116 g/km
+skoda,Octavia,27800.0,2023,2L,"6,630 miles",Diesel,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,139 mph,,118 g/km
+skoda,Karoq,27600.0,2023,2L,"6,500 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Fabia,17900.0,2023,1L,"4,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Octavia,31800.0,2023,2L,"6,500 miles",Diesel,Manual,Green,Estate,4X2,5.0,5.0,241 bhp,155 mph,,133 g/km
+skoda,Fabia,16700.0,2022,1L,"5,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Fabia,19800.0,2023,1L,"3,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,118 g/km
+skoda,Superb,37900.0,2023,2L,"3,500 miles",Diesel,Semiauto,Grey,Estate,4X4,5.0,5.0,197 bhp,141 mph,,145 g/km
+skoda,Karoq,27600.0,2023,2L,"6,500 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Karoq,27600.0,2023,2L,"4,500 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Fabia,17900.0,2023,1L,"6,500 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Fabia,16800.0,2023,1L,"6,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Karoq,22700.0,2023,1L,"4,670 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,118 mph,,132 g/km
+skoda,Fabia,16800.0,2023,1L,"6,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Fabia,16900.0,2023,1L,"5,500 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,79 bhp,110 mph,,117 g/km
+skoda,Kamiq,25400.0,2023,1L,"3,500 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,138 g/km
+skoda,Octavia,27900.0,2023,2L,"4,500 miles",Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,144 mph,,116 g/km
+skoda,Fabia,23800.0,2023,1.5L,"3,500 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,131 g/km
+skoda,Kodiaq,40900.0,2023,2L,"3,500 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,147 bhp,123 mph,,163 g/km
+skoda,Kamiq,21750.0,2023,999cc,"2,544 miles",Petrol,Automatic,Race Blue Metallic,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Superb,10750.0,2017,1598cc,"77,088 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,130 mph,,96 g/km
+skoda,Citigo,9995.0,2019,999cc,"26,850 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Yeti,10975.0,2016,1197cc,"61,814 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,10.9 seconds,128 g/km
+skoda,Superb,13500.0,2018,1.6L,"76,942 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,118 bhp,127 mph,11.1 seconds,112 g/km
+skoda,Octavia,13500.0,2019,1968cc,"70,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.6 seconds,114 g/km
+skoda,Octavia,18500.0,2020,1968cc,"34,710 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,131 mph,,114 g/km
+skoda,Superb,22490.0,2022,2L,"5,227 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,125 g/km
+skoda,Karoq,27500.0,2023,1.5L,"13,408 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,130 mph,,143 g/km
+skoda,Fabia,18190.0,2022,1L,"8,619 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,128 g/km
+skoda,Superb,27950.0,2023,2L,500 miles,Diesel,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,128 g/km
+skoda,Octavia,32790.0,2023,2L,"2,543 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,197 bhp,152 mph,,159 g/km
+skoda,Superb,37795.0,2023,2L,10 miles,Diesel,Semiauto,Grey,Estate,4X4,5.0,5.0,197 bhp,141 mph,,156 g/km
+skoda,Citigo,8885.0,0L,"11,388 miles",Petrol,Automatic,RED,Hatchback,64.2 mpg,4X2,5.0,4.0,59 bhp,99 mph,15.3 seconds,103 g/km
+skoda,Karoq,19370.0,2018,1.5L,"35,629 miles",Petrol,Automatic,Red,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Karoq,15490.0,2020,1.5L,"25,950 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,144 g/km
+skoda,Karoq,23750.0,2020,1.5L,"10,997 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Scala,20990.0,2023,1.5L,996 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,132 g/km
+skoda,Fabia,11350.0,2020,999cc,"44,351 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Yeti,2990.0,2010,1968cc,"151,000 miles",Diesel,Manual,Brown,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,140 g/km
+skoda,Kodiaq,23995.0,2018,1395cc,"15,845 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,119 mph,,163 g/km
+skoda,Superb,11495.0,2014,1968cc,"67,000 miles",Diesel,Automatic,Silver,Estate,4X4,5.0,5.0,168 bhp,135 mph,8.5 seconds,149 g/km
+skoda,Octavia,14795.0,2020,1.5L,"39,688 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Superb,20599.0,2020,1.5L,"27,594 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,147 bhp,132 mph,,145 g/km
+skoda,Kamiq,15523.0,2020,1L,"37,917 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,116 g/km
+skoda,Fabia,15889.0,2022,1L,"7,399 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Scala,19200.0,2023,1L,"3,000 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,131 g/km
+skoda,Kamiq,16995.0,2020,1L,"14,629 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Fabia,13495.0,2020,1L,"22,098 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Kodiaq,16995.0,2017,1395cc,"27,501 miles",Petrol,Manual,Petrol Blue,Estate,4X2,5.0,5.0,123 bhp,118 mph,,139 g/km
+skoda,Karoq,12995.0,2018,1968cc,"58,000 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Octavia,14450.0,2019,1598cc,"31,608 miles",Diesel,Manual,Grey,Saloon,4X2,5.0,5.0,113 bhp,127 mph,10.3 seconds,107 g/km
+skoda,Superb,5895.0,2013,1598cc,"94,800 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,103 bhp,121 mph,12.3 seconds,113 g/km
+skoda,Octavia,4995.0,2012,1598cc,"112,430 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,103 bhp,117 mph,12.1 seconds,123 g/km
+skoda,Octavia,14995.0,2020,1498cc,"38,206 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,113 g/km
+skoda,Fabia,10849.0,2019,999cc,"40,018 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Octavia,11749.0,2019,999cc,"42,251 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,9.9 seconds,107 g/km
+skoda,Citigo,8849.0,2017,999cc,"9,269 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Octavia,19298.0,2022,1.4L,"49,244 miles",Hybrid,Semiauto,Black,Estate,4X2,5.0,5.0,201 bhp,136 mph,,23 g/km
+skoda,Octavia,26595.0,2022,2L,"15,988 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,157 g/km
+skoda,Karoq,28990.0,2023,1.5L,"3,227 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,130 mph,,144 g/km
+skoda,Octavia,21500.0,2022,2L,"10,782 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,133 mph,,109 g/km
+skoda,Fabia,12695.0,2020,1L,"24,411 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,126 g/km
+skoda,Karoq,23250.0,2022,2L,"3,203 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,135 mph,,140 g/km
+skoda,Kamiq,19500.0,2021,1.5L,"14,563 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,135 mph,,134 g/km
+skoda,Octavia,14490.0,2020,1.6L,"42,748 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,136 g/km
+skoda,Fabia,15228.0,2022,1L,"3,437 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Kodiaq,31800.0,2023,1.5L,"9,359 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,,164 g/km
+skoda,Karoq,12495.0,2018,1.5L,"74,233 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,125 g/km
+skoda,Fabia,10350.0,2018,1L,"27,124 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,101 g/km
+skoda,Octavia,21494.0,2021,1.4L,"31,497 miles",Hybrid,Semiauto,Black,Estate,4X2,5.0,5.0,201 bhp,136 mph,,23 g/km
+skoda,Octavia,28990.0,2023,2L,"2,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,159 g/km
+skoda,Scala,17302.0,2021,1L,"18,031 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,133 g/km
+skoda,Kodiaq,33590.0,2022,2L,"11,460 miles",Diesel,Automatic,Red,SUV,4X4,5.0,7.0,147 bhp,124 mph,,162 g/km
+skoda,Kamiq,14499.0,2021,1L,"41,287 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,119 mph,,133 g/km
+skoda,Fabia,8190.0,2017,999cc,"38,717 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,,111 g/km
+skoda,Kamiq,15499.0,2019,1.5L,"18,117 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,131 mph,,116 g/km
+skoda,Karoq,20290.0,2021,1.5L,"24,559 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,143 g/km
+skoda,Kamiq,14995.0,2020,1L,"16,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,131 g/km
+skoda,Kodiaq,29000.0,2021,2L,"30,059 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,197 bhp,131 mph,,177 g/km
+skoda,Octavia,24490.0,2023,1.5L,"5,062 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,138 mph,,125 g/km
+skoda,Superb,31290.0,2023,2L,"3,545 miles",Diesel,Semiauto,Black,Hatchback,4X2,5.0,5.0,197 bhp,151 mph,,141 g/km
+skoda,Karoq,24390.0,2021,1.5L,"23,709 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Octavia,26449.0,2021,1.4L,"9,493 miles",Hybrid,Semiauto,White,Estate,4X2,5.0,5.0,201 bhp,136 mph,7.9 seconds,24 g/km
+skoda,Kamiq,19450.0,2022,1L,"8,179 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Karoq,14688.0,2018,1.6L,"33,341 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Octavia,10499.0,2019,1L,"46,738 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,9.9 seconds,107 g/km
+skoda,Superb,8490.0,2014,1968cc,"92,012 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,5.0,168 bhp,135 mph,8.8 seconds,149 g/km
+skoda,Kamiq,13995.0,2020,999cc,"26,104 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,116 g/km
+skoda,Octavia,13995.0,2019,1498cc,"36,000 miles",Petrol,Manual,Quartz Grey,Hatchback,4X2,5.0,5.0,148 bhp,139 mph,8.7 seconds,112 g/km
+skoda,Octavia,33555.0,2023,1984cc,5 miles,Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,
+skoda,Fabia,21750.0,2023,1.5L,"9,364 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,129 g/km
+skoda,Fabia,15825.0,2023,1L,"13,600 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Karoq,23150.0,2020,1.5L,"33,976 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Octavia,11880.0,2020,1L,"42,792 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,128 mph,9.9 seconds,108 g/km
+skoda,Kamiq,21495.0,2023,1L,"4,250 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Rapid,5999.0,2016,1422cc,"91,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,88 bhp,114 mph,11.6 seconds,94 g/km
+skoda,Octavia,22990.0,2021,2000cc,"3,819 miles",Diesel,Manual,Quartz Grey,Estate,4X2,5.0,5.0,147 bhp,139 mph,,113 g/km
+skoda,Karoq,11990.0,2018,999cc,"89,943 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,115 mph,10.7 seconds,
+skoda,Fabia,9380.0,2017,1197cc,"39,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Citigo,3689.0,2014,999cc,"93,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,95 g/km
+skoda,Superb,17649.0,2020,1968cc,"66,815 miles",Diesel,,Grey,Estate,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+skoda,Superb,17600.0,2019,1.5L,"22,854 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,,122 g/km
+skoda,Karoq,27290.0,2021,1.5L,"7,320 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Octavia,31470.0,2023,2L,"4,500 miles",Diesel,Semiauto,Grey,Estate,4X2,5.0,5.0,147 bhp,141 mph,,118 g/km
+skoda,Octavia,26950.0,2023,1.5L,"9,425 miles",Hybrid,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,141 mph,,126 g/km
+skoda,Octavia,35500.0,2023,2L,"7,013 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,241 bhp,155 mph,,136 g/km
+skoda,Karoq,17499.0,2020,2L,"13,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,128 mph,,142 g/km
+skoda,Yeti,12700.0,2016,1197cc,"42,392 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Octavia,24990.0,2023,1498cc,10 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,
+skoda,Kamiq,17790.0,2022,999cc,"30,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Octavia,10350.0,2019,999cc,"70,600 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,126 mph,9.9 seconds,109 g/km
+skoda,Octavia,8400.0,2019,999cc,"98,600 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,124 mph,10.1 seconds,109 g/km
+skoda,Octavia,15495.0,2017,1598cc,"14,730 miles",Diesel,Automatic,Beige,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.9 seconds,102 g/km
+skoda,Kamiq,20995.0,2022,999cc,"1,800 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,109 bhp,123 mph,,133 g/km
+skoda,Fabia,12495.0,2020,999cc,"27,017 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Superb,17007.0,2018,1984cc,"37,538 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,217 bhp,152 mph,,147 g/km
+skoda,Karoq,24590.0,2023,2L,"2,998 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Scala,22250.0,2023,1.5L,"3,998 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,131 g/km
+skoda,Karoq,19290.0,2020,1.5L,"24,956 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,128 mph,,145 g/km
+skoda,Kamiq,14590.0,2021,1L,"19,181 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,120 mph,,124 g/km
+skoda,Karoq,21590.0,2021,1.5L,"17,555 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Karoq,22690.0,2022,1.5L,"3,042 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,131 mph,,139 g/km
+skoda,Kamiq,17599.0,2022,1L,"4,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,123 mph,,
+skoda,Superb,26890.0,2022,2L,"10,369 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,134 mph,,132 g/km
+skoda,Kamiq,19650.0,2023,1L,"4,535 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Kodiaq,29495.0,2022,1.5L,"14,411 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,127 mph,,164 g/km
+skoda,Citigo,7549.0,2017,999cc,"19,771 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Octavia,12899.0,2019,1598cc,"54,599 miles",Diesel,,Grey,Estate,4X2,5.0,5.0,113 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Kamiq,24450.0,2023,1.5L,"3,727 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,147 bhp,133 mph,,136 g/km
+skoda,Karoq,32790.0,2023,2L,"4,852 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,126 mph,,157 g/km
+skoda,Scala,16690.0,2023,1L,"14,786 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,129 g/km
+skoda,Octavia,12980.0,2017,2L,"94,000 miles",Diesel,Semiauto,Grey,Estate,4X2,5.0,5.0,181 bhp,142 mph,,129 g/km
+skoda,Octavia,13419.0,2018,1495cc,"39,284 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,148 bhp,136 mph,8.7 seconds,115 g/km
+skoda,Karoq,19250.0,2018,1498cc,"30,982 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Citigo,4795.0,2012,1L,"60,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,95 g/km
+skoda,Fabia,7880.0,2018,999cc,"84,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Karoq,27490.0,2022,1968cc,"9,304 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,130 mph,,134 g/km
+skoda,Kamiq,18490.0,2021,1498cc,"14,569 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,133 mph,,132 g/km
+skoda,Kamiq,17990.0,2020,1598cc,"33,558 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,119 mph,10.4 seconds,142 g/km
+skoda,Kamiq,25990.0,2023,1498cc,10 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,
+skoda,Fabia,16990.0,2023,999cc,999 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,79 bhp,109 mph,,
+skoda,Superb,26490.0,2020,1984cc,"18,166 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,168 g/km
+skoda,Fabia,16995.0,2023,999cc,"3,510 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,116 g/km
+skoda,Fabia,16995.0,2023,1L,"3,200 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Scala,21690.0,2023,1.5L,"3,564 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,131 g/km
+skoda,Karoq,31990.0,2023,2L,"2,500 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,188 bhp,137 mph,,180 g/km
+skoda,Kodiaq,32750.0,2023,2L,"2,300 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,124 mph,,157 g/km
+skoda,Octavia,26500.0,2023,1.5L,"8,733 miles",Hybrid,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,141 mph,,127 g/km
+skoda,Kodiaq,36990.0,2023,2L,"3,878 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,7.0,188 bhp,132 mph,,187 g/km
+skoda,Karoq,18790.0,2021,1.5L,"46,868 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,151 g/km
+skoda,Fabia,15224.0,2022,1L,"8,450 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Kamiq,24990.0,2023,1.5L,"7,000 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,147 bhp,133 mph,,136 g/km
+skoda,Superb,7250.0,2013,1968cc,"70,331 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,168 bhp,137 mph,8.5 seconds,149 g/km
+skoda,Octavia,8495.0,2015,1598cc,"49,499 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,99 g/km
+skoda,Yeti,7500.0,2014,1968cc,"130,000 miles",Diesel,Manual,Blue,Hatchback,4X4,5.0,5.0,168 bhp,125 mph,8.4 seconds,149 g/km
+skoda,Octavia,10490.0,2017,1598cc,"57,330 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,10.3 seconds,109 g/km
+skoda,Superb,15595.0,2019,1968cc,"83,000 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,117 g/km
+skoda,Superb,11950.0,2014,1968cc,"64,000 miles",Diesel,Automatic,Silver,Estate,4X2,5.0,5.0,168 bhp,137 mph,8.7 seconds,138 g/km
+skoda,Octavia,17927.0,2021,999cc,"26,905 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,129 mph,,117 g/km
+skoda,Superb,13250.0,2016,1968cc,"90,000 miles",Diesel,Automatic,Brilliant Silver,Estate,4X2,5.0,5.0,147 bhp,134 mph,9.0 seconds,122 g/km
+skoda,Karoq,15850.0,2018,1498cc,"19,002 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,124 g/km
+skoda,Octavia,8990.0,2019,1598cc,"96,003 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,113 bhp,127 mph,10.3 seconds,107 g/km
+skoda,Yeti Outdoor,14549.0,2016,1197cc,"24,147 miles",Petrol,,Silver,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Octavia,8950.0,2016,1598cc,"86,800 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.9 seconds,99 g/km
+skoda,Fabia,11695.0,2020,999cc,"26,411 miles",Petrol,Manual,Titan Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,125 g/km
+skoda,Fabia,6295.0,2012,1197cc,"46,285 miles",Petrol,Automatic,Beige,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Kamiq,19990.0,2023,1500cc,"4,852 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,127 g/km
+skoda,Kamiq,15995.0,2020,999cc,"16,215 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,113 g/km
+skoda,Fabia,11000.0,2019,"23,608 miles",Petrol,Manual,Blue,Hatchback,51.4 mpg,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Octavia,12395.0,2018,1495cc,"65,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,148 bhp,136 mph,8.8 seconds,116 g/km
+skoda,Rapid,6995.0,2017,1422cc,Diesel,Manual,Silver,Hatchback,74.3 mpg,4X2,5.0,5.0,88 bhp,114 mph,,101 g/km
+skoda,Kodiaq,19372.0,2019,1498cc,"39,863 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,139 g/km
+skoda,Superb,13599.0,2016,1968cc,"80,072 miles",Diesel,Automatic,White,Estate,4X4,5.0,5.0,188 bhp,142 mph,7.7 seconds,135 g/km
+skoda,Yeti Outdoor,10649.0,2016,1968cc,"68,891 miles",Diesel,,Grey,SUV,4X2,5.0,5.0,109 bhp,112 mph,11.6 seconds,118 g/km
+skoda,Fabia,10249.0,2017,999cc,"32,701 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,101 g/km
+skoda,Karoq,14798.0,2018,1.6L,"36,722 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Fabia,9000.0,2018,1L,"59,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,123 mph,,103 g/km
+skoda,Kodiaq,19710.0,2018,2L,"66,074 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,151 g/km
+skoda,Karoq,18595.0,2018,2L,"34,300 miles",Diesel,Automatic,Red,SUV,4X4,5.0,5.0,147 bhp,121 mph,9.2 seconds,138 g/km
+skoda,Superb,21995.0,2021,1.5L,"16,845 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,147 g/km
+skoda,Octavia,29999.0,2023,2L,"2,925 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,157 g/km
+skoda,Kamiq,21299.0,2022,1L,"13,711 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,123 mph,,137 g/km
+skoda,Kamiq,22250.0,2022,1L,"6,614 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Superb,23950.0,2023,1.5L,"3,741 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,141 g/km
+skoda,Superb,22750.0,2023,1.5L,"3,673 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,136 g/km
+skoda,Fabia,12149.0,2020,1L,"28,077 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,125 g/km
+skoda,Fabia,14795.0,2019,1L,"9,480 miles",Petrol,Semiauto,Green,Estate,4X2,5.0,5.0,109 bhp,121 mph,,110 g/km
+skoda,Kodiaq,32495.0,2022,1968cc,"8,061 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,197 bhp,133 mph,,176 g/km
+skoda,Citigo,4999.0,2014,999cc,"65,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,12300.0,2020,1498cc,"37,643 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,108 g/km
+skoda,Octavia,12500.0,2019,1598cc,"41,288 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,10.3 seconds,109 g/km
+skoda,Octavia,16995.0,2019,1.5L,"22,800 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,148 bhp,133 mph,8.8 seconds,119 g/km
+skoda,Fabia,1295.0,2009,1896cc,"169,000 miles",Diesel,Manual,Metalic,Estate,4X2,5.0,5.0,103 bhp,119 mph,11.0 seconds,129 g/km
+skoda,Yeti,9500.0,2014,1598cc,"59,000 miles",Diesel,Manual,GREEN,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,12.1 seconds,119 g/km
+skoda,Octavia,6595.0,2011,1984cc,"70,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,197 bhp,149 mph,7.3 seconds,175 g/km
+skoda,Octavia,11000.0,2018,1.6L,"65,141 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,125 mph,10.4 seconds,106 g/km
+skoda,Fabia,13290.0,2021,1L,"10,584 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Karoq,21000.0,2019,2L,"29,115 miles",Diesel,Automatic,Black,SUV,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,142 g/km
+skoda,Karoq,20699.0,2020,1.5L,"12,481 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,156 g/km
+skoda,Octavia,25500.0,2022,1.4L,"12,987 miles",Hybrid,Semiauto,Black,Estate,4X2,5.0,5.0,201 bhp,136 mph,,23 g/km
+skoda,Kodiaq,41999.0,2019,2L,"9,136 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,295 bhp,111 mph,,0 g/km
+skoda,Yeti,15495.0,2016,1.2L,"34,924 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Fabia,10990.0,2018,1L,"21,840 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,103 g/km
+skoda,Kamiq,17450.0,2020,1.5L,"34,035 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,132 mph,,139 g/km
+skoda,Fabia,13350.0,2021,1L,"32,234 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Karoq,27900.0,2000,1500cc,828 miles,Petrol,Automatic,Energy Blue,Estate,4X2,5.0,5.0,147 bhp,130 mph,,146 g/km
+skoda,Karoq,12995.0,2020,999cc,"54,249 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,114 bhp,118 mph,,141 g/km
+skoda,Kamiq,14990.0,2021,999cc,"13,584 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,124 g/km
+skoda,Yeti,14995.0,2016,1968cc,"63,100 miles",Diesel,Automatic,Mato Grey,Other,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,144 g/km
+skoda,Octavia,16990.0,2021,2000cc,"37,627 miles",Diesel,Manual,Quartz Grey,Hatchback,4X2,5.0,5.0,114 bhp,131 mph,,113 g/km
+skoda,Yeti,10390.0,2014,1968cc,"82,373 miles",Diesel,Automatic,Beige,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.2 seconds,164 g/km
+skoda,Yeti,12995.0,2017,1968cc,"63,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,112 mph,,118 g/km
+skoda,Superb,19990.0,2021,1395cc,"67,000 miles",Other,Automatic,SILVER,Estate,4X2,5.0,5.0,215 bhp,138 mph,,33 g/km
+skoda,Karoq,19000.0,2022,1L,"4,200 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,117 mph,,134 g/km
+skoda,Fabia,11200.0,2020,1L,"36,202 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Kamiq,21750.0,2022,1L,"2,234 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,109 bhp,119 mph,,137 g/km
+skoda,Kamiq,16750.0,2021,1L,"15,438 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,119 mph,,133 g/km
+skoda,Fabia,15500.0,2021,1L,"9,356 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,126 g/km
+skoda,Fabia,14750.0,2022,1L,"12,525 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Fabia,12100.0,2021,1L,"18,170 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,123 g/km
+skoda,Kamiq,14990.0,2019,1L,"19,129 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,113 g/km
+skoda,Fabia,12290.0,2020,1L,"18,400 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Karoq,14404.0,2019,1.6L,"39,877 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Scala,15143.0,2022,1.5L,"13,287 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,124 g/km
+skoda,Fabia,22480.0,2023,1498cc,"1,600 miles",Petrol,Semi Auto,Race Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,129 g/km
+skoda,Fabia,10995.0,2019,999cc,"40,715 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Octavia,14995.0,2019,999cc,"31,278 miles",Petrol,Semi Auto,Race Blue,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.3 seconds,112 g/km
+skoda,Scala,12495.0,2019,999cc,"25,738 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,113 g/km
+skoda,Scala,19490.0,2022,1.5L,"23,041 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,133 g/km
+skoda,Fabia,9495.0,2015,1197cc,"21,212 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Superb,17500.0,2017,2L,"35,341 miles",Diesel,Semiauto,Red,Hatchback,4X2,5.0,5.0,188 bhp,146 mph,7.7 seconds,119 g/km
+skoda,Superb,30680.0,2022,2L,"10,130 miles",Petrol,Semiauto,White,Estate,4X2,5.0,5.0,188 bhp,144 mph,,163 g/km
+skoda,Scala,16250.0,2022,1498cc,"16,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,124 g/km
+skoda,Yeti,16995.0,2016,1395cc,"30,000 miles",Petrol,Manual,Brown,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.7 seconds,147 g/km
+skoda,Yeti,8995.0,2014,1598cc,"73,382 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,12.1 seconds,119 g/km
+skoda,Fabia,18480.0,2023,999cc,"3,900 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,117 g/km
+skoda,Yeti,8495.0,2012,1.2L,"70,600 miles",Petrol,Semi Automatic,Black,Hatchback,4X2,5.0,5.0,103 bhp,108 mph,12.0 seconds,149 g/km
+skoda,Superb,10995.0,2015,2L,"58,150 miles",Diesel,Semi Automatic,Black,Hatchback,4X2,5.0,5.0,168 bhp,138 mph,8.6 seconds,138 g/km
+skoda,Superb,9595.0,2013,1968cc,"65,046 miles",Diesel,Automatic,Mauve/Purple,Estate,4X2,5.0,5.0,168 bhp,136 mph,8.9 seconds,159 g/km
+skoda,Karoq,22800.0,2021,1.5L,"39,266 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Karoq,17900.0,2021,1.5L,"46,902 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,129 mph,,150 g/km
+skoda,Kamiq,15600.0,2021,1L,"14,017 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,94 bhp,117 mph,,128 g/km
+skoda,Yeti Outdoor,17900.0,2017,1.2L,"25,804 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Fabia,8498.0,2019,1L,"60,301 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Superb,25998.0,2022,2L,"10,780 miles",Diesel,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,133 g/km
+skoda,Scala,14990.0,2021,1L,"6,270 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,120 g/km
+skoda,Fabia,12290.0,2020,1L,"33,505 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Scala,15290.0,2021,1L,"9,346 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,120 g/km
+skoda,Karoq,27490.0,2022,1.5L,"7,041 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,130 mph,,146 g/km
+skoda,Karoq,15890.0,2018,1.6L,"32,954 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Fabia,17790.0,2022,1L,"6,180 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,94 bhp,117 mph,,133 g/km
+skoda,Octavia,15995.0,2015,2L,"39,369 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,181 bhp,143 mph,8.2 seconds,117 g/km
+skoda,Fabia,8499.0,2017,1.2L,"38,901 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Octavia,26750.0,2023,1.5L,"6,124 miles",Hybrid,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,141 mph,,126 g/km
+skoda,Kodiaq,33990.0,2022,2L,"24,913 miles",Petrol,Automatic,White,SUV,4X4,5.0,7.0,188 bhp,132 mph,,188 g/km
+skoda,Kodiaq,27450.0,2022,1.5L,"14,230 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,128 mph,,158 g/km
+skoda,Fabia,18650.0,2023,1L,"3,373 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,127 g/km
+skoda,Octavia,19900.0,2022,2L,"23,340 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,128 mph,,111 g/km
+skoda,Superb,27990.0,2023,2L,"2,000 miles",Diesel,Semiauto,White,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,128 g/km
+skoda,Karoq,28990.0,2023,1.5L,"2,000 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,131 mph,,145 g/km
+skoda,Kamiq,21290.0,2023,1L,"1,016 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,122 mph,,134 g/km
+skoda,Karoq,25390.0,2023,2L,"3,263 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Fabia,10960.0,2020,1L,"21,357 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,125 g/km
+skoda,Octavia,18000.0,2022,1.5L,"10,925 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,121 g/km
+skoda,Kodiaq,24995.0,2020,1.5L,"25,097 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,125 mph,,166 g/km
+skoda,Karoq,24572.0,2021,1.5L,"7,793 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Karoq,17949.0,2019,1.5L,"63,472 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Kamiq,24400.0,2022,1.5L,"1,225 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,136 mph,,133 g/km
+skoda,Kamiq,15700.0,2020,1L,"12,795 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,120 mph,,131 g/km
+skoda,Karoq,27700.0,2022,1.5L,"4,615 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,130 mph,,145 g/km
+skoda,Kamiq,17400.0,2021,1L,"5,775 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,120 mph,,131 g/km
+skoda,Scala,19995.0,2023,1.5L,"2,512 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,132 g/km
+skoda,Kamiq,17495.0,2020,1L,"21,996 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,142 g/km
+skoda,Karoq,16995.0,2020,1.5L,"51,804 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Fabia,8999.0,2016,1.2L,"24,568 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Kodiaq,27495.0,2019,2L,"64,679 miles",Diesel,Automatic,Blue,Estate,4X4,5.0,7.0,236 bhp,136 mph,7.0 seconds,167 g/km
+skoda,Superb,13995.0,2015,2L,"38,800 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,8.8 seconds,109 g/km
+skoda,Fabia,11000.0,2017,1L,"26,626 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,109 bhp,123 mph,,103 g/km
+skoda,Fabia,8595.0,2015,1197cc,"37,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Roomster,6980.0,2015,1197cc,"30,393 miles",Petrol,Manual,Black,MPV,4X2,5.0,5.0,84 bhp,107 mph,12.6 seconds,134 g/km
+skoda,Karoq,13900.0,2019,1598cc,"41,559 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Octavia,3895.0,2011,1968cc,"130,000 miles",Diesel,Auto,Red,Hatchback,4X2,5.0,5.0,168 bhp,139 mph,8.4 seconds,159 g/km
+skoda,Karoq,17490.0,2019,1.5L,"15,759 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Yeti Outdoor,11795.0,2015,2L,"55,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,152 g/km
+skoda,Karoq,30500.0,2023,2L,"3,952 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,126 mph,,157 g/km
+skoda,Karoq,13899.0,2018,1L,"28,307 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,116 mph,,121 g/km
+skoda,Fabia,18590.0,2023,1L,"6,726 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,128 g/km
+skoda,Karoq,15855.0,2020,1L,"10,340 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Kamiq,16295.0,2021,1L,"15,397 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Superb,29900.0,2022,2L,"2,320 miles",Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,188 bhp,144 mph,,157 g/km
+skoda,Kamiq,21800.0,2022,1L,"10,373 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,119 mph,,137 g/km
+skoda,Kodiaq,23950.0,2019,1.5L,"19,969 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,139 g/km
+skoda,Superb,19999.0,2019,1968cc,"59,279 miles",Diesel,,Black,Estate,4X2,5.0,5.0,188 bhp,139 mph,,121 g/km
+skoda,Citigo,8049.0,2016,999cc,"22,472 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Yeti,13049.0,2016,1197cc,"47,539 miles",Petrol,,Red,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Kamiq,21190.0,2022,1.5L,"6,614 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,147 bhp,135 mph,,140 g/km
+skoda,Karoq,24790.0,2021,1.5L,"21,695 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Fabia,12490.0,2018,1L,"26,351 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,106 g/km
+skoda,Kamiq,17295.0,2021,998cc,"23,194 miles",Petrol,Manual,Moon White Metallic,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Kodiaq,18799.0,2017,2L,"42,345 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,7.0,177 bhp,127 mph,,170 g/km
+skoda,Superb,25999.0,2021,1.4L,"16,045 miles",Hybrid,Semiauto,Red,Hatchback,4X2,5.0,5.0,215 bhp,140 mph,,28 g/km
+skoda,Fabia,18450.0,2023,1L,"3,637 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,126 g/km
+skoda,Karoq,28250.0,2022,1.5L,"6,676 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,130 mph,,143 g/km
+skoda,Kamiq,19950.0,2023,1L,"3,390 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Karoq,22980.0,2020,1.5L,"23,326 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,151 g/km
+skoda,Octavia,14500.0,2017,2L,"14,928 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,113 g/km
+skoda,Kamiq,15995.0,2020,1L,"18,042 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,111 g/km
+skoda,Citigo,8299.0,2019,1L,"50,189 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Kodiaq,15595.0,2017,1395cc,"45,713 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,123 bhp,118 mph,,139 g/km
+skoda,Karoq,16475.0,2020,1.5L,"39,213 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,153 g/km
+skoda,Octavia,29995.0,2023,2L,"7,552 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,158 g/km
+skoda,Fabia,17990.0,2022,1L,"7,487 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,127 mph,,128 g/km
+skoda,Karoq,16695.0,2019,2L,"46,827 miles",Diesel,Manual,Green,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Fabia,11790.0,2020,1L,"19,071 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,125 g/km
+skoda,Superb,29900.0,2020,1.4L,"18,879 miles",Hybrid,Semiauto,Silver,Estate,4X2,5.0,5.0,215 bhp,138 mph,,38 g/km
+skoda,Karoq,29995.0,2022,2L,"5,619 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,188 bhp,137 mph,,178 g/km
+skoda,Kamiq,18990.0,2022,1L,"9,057 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+skoda,Kodiaq,32250.0,2023,2L,"8,420 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,7.0,147 bhp,126 mph,,148 g/km
+skoda,Fabia,12990.0,2019,1L,"26,635 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,122 mph,9.7 seconds,107 g/km
+skoda,Kodiaq,33890.0,2022,2L,"16,822 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,7.0,188 bhp,133 mph,,187 g/km
+skoda,Scala,18450.0,2022,1L,"17,295 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,132 g/km
+skoda,Fabia,16100.0,2022,1L,"13,125 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,117 g/km
+skoda,Kodiaq,33490.0,2022,1.5L,"9,418 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,126 mph,,164 g/km
+skoda,Karoq,24790.0,2023,1.5L,"5,996 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Scala,11750.0,2019,1L,"33,564 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,113 g/km
+skoda,Karoq,13199.0,2020,1L,"35,932 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Karoq,14995.0,2018,1.6L,"54,427 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,11.2 seconds,117 g/km
+skoda,Fabia,10971.0,2021,1L,"47,088 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,126 g/km
+skoda,Karoq,19999.0,2019,1968cc,"25,739 miles",Diesel,Manual,Blue,Estate,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Kodiaq,25699.0,2020,1498cc,"24,700 miles",Petrol,Manual,Blue,Estate,4X2,5.0,7.0,147 bhp,124 mph,9.9 seconds,170 g/km
+skoda,Octavia,19990.0,2019,2L,"18,460 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,154 g/km
+skoda,Citigo,8750.0,0L,"16,777 miles",Petrol,Manual,WHITE,Hatchback,67.3 mpg,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Kamiq,16700.0,0L,"4,705 miles",Petrol,Manual,SILVER,SUV,52.3 mpg,4X2,5.0,5.0,109 bhp,123 mph,,124 g/km
+skoda,Kamiq,21490.0,2023,1.5L,"8,026 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,134 mph,,137 g/km
+skoda,Kodiaq,21900.0,2019,1.5L,"47,150 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,123 mph,,143 g/km
+skoda,Karoq,23595.0,2020,1.5L,"26,825 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,152 g/km
+skoda,Octavia,17990.0,2020,1.5L,"6,656 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Karoq,16990.0,2019,1L,"30,901 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Superb,26790.0,2020,1.4L,"17,464 miles",Hybrid,Semiauto,Grey,Hatchback,4X2,5.0,5.0,215 bhp,138 mph,,30 g/km
+skoda,Superb,26980.0,2022,1968cc,"21,700 miles",Diesel,Semi Auto,Petrol Blue,Estate,4X2,5.0,5.0,147 bhp,133 mph,,136 g/km
+skoda,Superb,26480.0,2023,1984cc,"6,600 miles",Petrol,Semi Auto,Petrol Blue,Hatchback,4X2,5.0,5.0,188 bhp,150 mph,,153 g/km
+skoda,Superb,30980.0,2023,1968cc,"4,800 miles",Diesel,Semi Auto,Black Magic,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,137 g/km
+skoda,Superb,29980.0,2023,1498cc,"4,300 miles",Petrol,Semi Auto,Race Blue,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,152 g/km
+skoda,Superb,25480.0,2023,1498cc,"4,600 miles",Petrol,Manual,Moon White,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,141 g/km
+skoda,Superb,25780.0,2023,1498cc,300 miles,Petrol,Manual,Petrol Blue,Hatchback,4X2,5.0,5.0,147 bhp,138 mph,,141 g/km
+skoda,Scala,22850.0,2023,1.5L,105 miles,Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,130 g/km
+skoda,Fabia,9995.0,2019,999cc,"4,289 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Yeti,11495.0,2015,1395cc,"96,988 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,147 bhp,121 mph,8.7 seconds,147 g/km
+skoda,Fabia,6500.0,2012,1197cc,"35,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.7 seconds,121 g/km
+skoda,Karoq,23690.0,2020,1968cc,"21,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,119 mph,9.2 seconds,175 g/km
+skoda,Kamiq,21490.0,2021,1498cc,"14,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,133 mph,,133 g/km
+skoda,Fabia,5450.0,2015,1197cc,"98,112 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Karoq,13680.0,2018,1598cc,"74,748 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,116 mph,11.0 seconds,120 g/km
+skoda,Octavia,12750.0,2019,1498cc,"39,000 miles",Petrol,Manual,Blue,Saloon,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,108 g/km
+skoda,Citigo,5695.0,2013,999cc,"55,600 miles",Petrol,Manual,GREEN,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,95 g/km
+skoda,Superb,14295.0,2017,1968cc,"79,924 miles",Diesel,Automatic,Silver,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,118 g/km
+skoda,Citigo,6995.0,2018,999cc,"58,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Fabia,10445.0,2020,999cc,"9,945 miles",Petrol,Manual,Energy Blue,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Citigo,7995.0,2017,999cc,"32,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,,96 g/km
+skoda,Octavia,11000.0,2014,1598cc,"36,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,104 g/km
+skoda,Octavia,8795.0,2014,1600cc,"64,000 miles",Diesel,Other,Brown,Other,4X2,5.0,5.0,103 bhp,119 mph,10.7 seconds,104 g/km
+skoda,Superb,16499.0,2019,1598cc,"60,000 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,118 bhp,122 mph,11.3 seconds,113 g/km
+skoda,Yeti,7970.0,2012,1968cc,"64,000 miles",Diesel,Manual,Silver,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,157 g/km
+skoda,Fabia,7995.0,2013,1197cc,"28,854 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.1 seconds,124 g/km
+skoda,Karoq,13995.0,2019,1000cc,"27,425 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,120 g/km
+skoda,Octavia,16995.0,2015,1968cc,"19,961 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,181 bhp,144 mph,8.1 seconds,119 g/km
+skoda,Octavia,14695.0,2019,1598cc,"50,000 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Superb,8999.0,2013,1598cc,"34,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,103 bhp,118 mph,12.6 seconds,114 g/km
+skoda,Scala,9700.0,2000,1598cc,"104,688 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,124 mph,10.1 seconds,132 g/km
+skoda,Fabia,15599.0,2021,999cc,"6,438 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,122 g/km
+skoda,Yeti,18490.0,2017,1197cc,"8,450 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Superb,16750.0,2019,1968cc,"64,948 miles",Diesel,Automatic,Black,Saloon,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,114 g/km
+skoda,Fabia,11450.0,2015,1197cc,"20,191 miles",Petrol,Automatic,Race Blue Metallic,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,109 g/km
+skoda,Yeti,12995.0,2015,1197cc,"39,690 miles",Petrol,Manual,Business Grey Metallic,Hatchback,4X2,5.0,5.0,109 bhp,111 mph,10.9 seconds,128 g/km
+skoda,Karoq,14295.0,2018,1498cc,"39,522 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,123 g/km
+skoda,Yeti,7989.0,2017,1968.0cc,"101,278 miles",Diesel,Manual,Metallic Paint,Estate,4X2,5.0,5.0,109 bhp,112 mph,11.6 seconds,118 g/km
+skoda,Karoq,31290.0,2023,2L,"7,707 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,126 mph,,158 g/km
+skoda,Superb,22150.0,2020,1.4L,"58,203 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,215 bhp,138 mph,,34 g/km
+skoda,Octavia,16499.0,2019,2L,"42,912 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,154 g/km
+skoda,Kodiaq,24499.0,2018,1.5L,"5,088 miles",Petrol,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,123 mph,,143 g/km
+skoda,Superb,14995.0,2018,1968cc,"98,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.3 seconds,117 g/km
+skoda,Superb,17450.0,2020,1968cc,"75,059 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.2 seconds,103 g/km
+skoda,Citigo,5800.0,2016,1000cc,"72,990 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Superb,17649.0,2019,1968cc,"50,979 miles",Diesel,,Grey,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,114 g/km
+skoda,Octavia,11749.0,2019,1598cc,"69,601 miles",Diesel,,White,Estate,4X2,5.0,5.0,113 bhp,123 mph,10.4 seconds,109 g/km
+skoda,Kamiq,15149.0,2020,1598cc,"59,079 miles",Diesel,,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.4 seconds,144 g/km
+skoda,Fabia,9649.0,2018,999cc,"39,036 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Superb,12399.0,2016,1395cc,"47,124 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,8.8 seconds,117 g/km
+skoda,Rapid,9999.0,2017,1197cc,"32,464 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,109 bhp,124 mph,9.8 seconds,110 g/km
+skoda,Citigo,8599.0,2019,999cc,"30,510 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Fabia,8598.0,2017,1L,"58,383 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,101 g/km
+skoda,Karoq,27290.0,2023,2L,"2,255 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Karoq,31490.0,2023,2L,"6,612 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,147 bhp,126 mph,,158 g/km
+skoda,Octavia,30999.0,2023,2L,"2,958 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,158 g/km
+skoda,Superb,22999.0,2022,1.5L,"22,430 miles",Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,132 mph,,146 g/km
+skoda,Octavia,28799.0,2022,2L,"8,031 miles",Petrol,Semiauto,Green,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,158 g/km
+skoda,Kamiq,19990.0,2022,1L,"5,455 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Karoq,13877.0,2018,1.5L,"49,950 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,125 g/km
+skoda,Superb,13495.0,2017,2L,"81,000 miles",Diesel,Semi Automatic,Beige,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,118 g/km
+skoda,Octavia,12700.0,2020,1498cc,"39,593 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,122 g/km
+skoda,Kamiq,18495.0,2020,1498cc,"16,934 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Octavia,17495.0,2019,1968cc,"66,200 miles",Diesel,Automatic,White,Estate,4X2,5.0,5.0,181 bhp,140 mph,8.2 seconds,118 g/km
+skoda,Kamiq,15495.0,0L,"18,062 miles",Petrol,Manual,GREY,SUV,47.1 mpg,4X2,5.0,5.0,147 bhp,132 mph,,134 g/km
+skoda,Octavia,18260.0,2021,1.5L,"14,493 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Octavia,15450.0,2020,1L,"12,902 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,129 mph,,117 g/km
+skoda,Kamiq,18790.0,2021,1L,"12,050 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,120 mph,,129 g/km
+skoda,Fabia,8295.0,2016,1422cc,"43,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,11.1 seconds,93 g/km
+skoda,Fabia,2495.0,2008,1198cc,"81,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,14.9 seconds,140 g/km
+skoda,Fabia,8695.0,2015,1197cc,"58,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,109 g/km
+skoda,Karoq,22990.0,2020,1498cc,"29,414 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Octavia,6250.0,2014,1598cc,"105,000 miles",Diesel,Manual,BEIGE,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,99 g/km
+skoda,Octavia,11499.0,2017,1395cc,"63,000 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,147 bhp,134 mph,,117 g/km
+skoda,Yeti,1800.0,2012,1598cc,"180,356 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,12.1 seconds,119 g/km
+skoda,Karoq,17399.0,2018,999cc,"17,224 miles",Petrol,,White,SUV,4X2,5.0,5.0,114 bhp,115 mph,10.7 seconds,120 g/km
+skoda,Karoq,17349.0,2020,999cc,"26,728 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,114 bhp,118 mph,,147 g/km
+skoda,Octavia,12549.0,2019,1598cc,"47,752 miles",Diesel,,Blue,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,10.3 seconds,108 g/km
+skoda,Octavia,18700.0,2021,1.4L,"42,032 miles",Hybrid,Semiauto,Silver,Hatchback,4X2,5.0,5.0,201 bhp,136 mph,,22 g/km
+skoda,Karoq,20990.0,2022,1L,"12,195 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,117 mph,,143 g/km
+skoda,Fabia,13995.0,2018,1L,"13,136 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,106 g/km
+skoda,Fabia,9495.0,2018,1L,"31,189 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,101 g/km
+skoda,Karoq,17960.0,2018,1.5L,"29,089 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Kamiq,18995.0,2022,1.5L,"9,189 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,147 bhp,135 mph,,135 g/km
+skoda,Karoq,17990.0,2018,1.5L,"30,000 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Fabia,8695.0,2020,1L,"38,171 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Scala,18480.0,2023,999cc,"2,600 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,123 g/km
+skoda,Karoq,25980.0,2022,1498cc,"16,100 miles",Petrol,Semi Auto,Brilliant Silver,Estate,4X2,5.0,5.0,147 bhp,130 mph,,147 g/km
+skoda,Kodiaq,25980.0,2022,1968cc,"38,500 miles",Diesel,Semi Auto,Graphite Grey,Estate,4X2,5.0,7.0,147 bhp,126 mph,,147 g/km
+skoda,Scala,17980.0,2023,1498cc,"11,500 miles",Petrol,Manual,Brilliant Silver,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,,127 g/km
+skoda,Superb,19995.0,2019,1968cc,"29,743 miles",Diesel,Semi Auto,Black Magic,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,114 g/km
+skoda,Karoq,16995.0,2019,1498cc,"29,737 miles",Petrol,Manual,Quartz Grey,Estate,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,124 g/km
+skoda,Kamiq,18999.0,2023,1498cc,"2,500 miles",Petrol,Manual,Candy White,Hatchback,4X2,5.0,5.0,147 bhp,134 mph,,136 g/km
+skoda,Citigo,4495.0,2013,999cc,"80,775 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,74 bhp,107 mph,13.2 seconds,98 g/km
+skoda,Superb,13995.0,2015,1968cc,"51,000 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,168 bhp,137 mph,8.7 seconds,138 g/km
+skoda,Fabia,8000.0,2017,1L,"58,435 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,103 g/km
+skoda,Octavia,17970.0,2019,2L,"34,367 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,,152 g/km
+skoda,Yeti,8795.0,2013,1.6L,"18,500 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,103 bhp,109 mph,12.1 seconds,119 g/km
+skoda,Kodiaq,24790.0,2019,2L,"48,000 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,147 bhp,119 mph,10.0 seconds,145 g/km
+skoda,Fabia,20125.0,2023,1L,"5,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,118 g/km
+skoda,Kodiaq,19495.0,2018,2L,"71,365 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,123 mph,10.0 seconds,131 g/km
+skoda,Fabia,21980.0,2023,1L,"1,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,118 g/km
+skoda,Karoq,31980.0,2023,2L,"1,500 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Kamiq,28950.0,2023,1L,10 miles,Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,122 mph,,137 g/km
+skoda,Karoq,19400.0,2020,2L,"28,383 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,151 g/km
+skoda,Karoq,16500.0,2018,1.5L,"52,531 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Kodiaq,34995.0,2023,1.5L,"2,857 miles",Petrol,Automatic,Grey,SUV,,,,,,,
+skoda,Superb,20543.0,2019,2L,"58,709 miles",Diesel,Semiauto,Grey,Hatchback,4X2,5.0,5.0,188 bhp,145 mph,,119 g/km
+skoda,Superb,32990.0,2023,2L,"1,000 miles",Diesel,Semiauto,Grey,Estate,4X2,5.0,5.0,147 bhp,133 mph,,135 g/km
+skoda,Kamiq,15488.0,2021,1L,"32,910 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,120 mph,,122 g/km
+skoda,Karoq,12995.0,2018,1L,"28,453 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,119 g/km
+skoda,Kodiaq,37990.0,2023,2L,"5,112 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,197 bhp,133 mph,,175 g/km
+skoda,Superb,25990.0,2023,1.5L,"10,108 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,147 bhp,133 mph,,146 g/km
+skoda,Superb,33990.0,2023,2L,"2,000 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,188 bhp,144 mph,,161 g/km
+skoda,Kamiq,23490.0,2023,1L,"2,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,123 mph,,129 g/km
+skoda,Karoq,29990.0,2023,2L,204 miles,Diesel,Automatic,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Scala,20990.0,2023,1L,"2,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,125 g/km
+skoda,Fabia,8250.0,2015,1.2L,"54,679 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,88 bhp,115 mph,11.0 seconds,107 g/km
+skoda,Kodiaq,24950.0,2021,2L,"22,517 miles",Diesel,Automatic,White,SUV,4X2,5.0,7.0,147 bhp,126 mph,,142 g/km
+skoda,Kamiq,15000.0,2019,999cc,"25,633 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,113 g/km
+skoda,Superb,10800.0,2017,1598cc,"103,870 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,118 bhp,128 mph,,102 g/km
+skoda,Kodiaq,45000.0,2023,2L,10 miles,Petrol,Automatic,White,SUV,4X4,5.0,7.0,241 bhp,144 mph,,197 g/km
+skoda,Karoq,30000.0,2023,1.5L,10 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,131 mph,,145 g/km
+skoda,Fabia,5795.0,2013,1198cc,"64,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,68 bhp,95 mph,16.5 seconds,128 g/km
+skoda,Citigo,5490.0,2015,999cc,"54,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Fabia,11900.0,2020,999cc,"38,249 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Karoq,14495.0,2019,1.5L,"62,719 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,123 g/km
+skoda,Karoq,17995.0,2020,1.5L,"14,531 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,127 mph,,145 g/km
+skoda,Karoq,13695.0,2020,1L,"27,144 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Octavia,15450.0,2021,1.5L,"34,114 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,147 bhp,139 mph,,130 g/km
+skoda,Octavia,14800.0,2020,1.5L,"22,959 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Kamiq,21595.0,2022,1.5L,"25,251 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,147 bhp,135 mph,,140 g/km
+skoda,Karoq,28995.0,2023,1.5L,"4,773 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,130 mph,,147 g/km
+skoda,Kodiaq,22995.0,2019,2L,"45,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,147 bhp,119 mph,10.0 seconds,145 g/km
+skoda,Superb,15000.0,2018,1.4L,"51,045 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,122 g/km
+skoda,Fabia,11300.0,2021,1L,"27,497 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,123 g/km
+skoda,Yeti,10750.0,2016,1.2L,"71,625 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,109 bhp,111 mph,11.4 seconds,128 g/km
+skoda,Scala,13995.0,2019,1L,"20,262 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.8 seconds,113 g/km
+skoda,Kodiaq,26500.0,2020,2L,"52,409 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,197 bhp,131 mph,,176 g/km
+skoda,Karoq,20795.0,2020,2L,"9,459 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,124 g/km
+skoda,Karoq,16900.0,2019,1.6L,"28,476 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,11.2 seconds,125 g/km
+skoda,Kodiaq,25800.0,2020,1.5L,"17,155 miles",Petrol,Automatic,Green,SUV,4X2,5.0,7.0,147 bhp,123 mph,9.9 seconds,171 g/km
+skoda,Octavia,17300.0,2020,1.5L,"25,213 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,139 mph,,130 g/km
+skoda,Kodiaq,27900.0,2019,2L,"35,678 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,119 mph,10.0 seconds,145 g/km
+skoda,Kodiaq,26420.0,2021,2L,"22,500 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,147 bhp,121 mph,,163 g/km
+skoda,Fabia,10750.0,2020,1L,"33,043 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Kodiaq,23295.0,2020,1.5L,"27,200 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,123 mph,,171 g/km
+skoda,Kodiaq,22995.0,2019,1498cc,"37,580 miles",Petrol,Automatic,Business Grey,SUV,4X2,5.0,5.0,147 bhp,123 mph,,143 g/km
+skoda,Fabia,5995.0,2016,1197cc,"82,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Octavia,11990.0,2020,1598cc,"74,500 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,103 g/km
+skoda,Fabia,2500.0,2008,1198cc,"90,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,14.9 seconds,140 g/km
+skoda,Karoq,14995.0,2019,1598cc,"36,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Superb,17695.0,2017,1395cc,"11,000 miles",Petrol,Automatic,Grey,Saloon,4X2,5.0,5.0,147 bhp,137 mph,,122 g/km
+skoda,Superb,7475.0,2012,1968cc,"56,790 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,168 bhp,137 mph,8.9 seconds,151 g/km
+skoda,Kodiaq,30995.0,2020,1968cc,"33,312 miles",Diesel,Automatic,Red,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,186 g/km
+skoda,Karoq,15995.0,2021,1500cc,"43,607 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,,142 g/km
+skoda,Fabia,9995.0,2021,1000cc,"24,977 miles",Petrol,Manual,Brillian Silver,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,127 g/km
+skoda,Rapid,7995.0,2016,1596cc,"87,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,114 bhp,123 mph,9.9 seconds,99 g/km
+skoda,Rapid,11450.0,2017,1000cc,"23,445 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,106 g/km
+skoda,Octavia,32995.0,2023,2000cc,681 miles,Diesel,Automatic,Hyper Green,Hatchback,4X2,5.0,5.0,197 bhp,155 mph,,132 g/km
+skoda,Superb,20695.0,2021,2000cc,"40,119 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,128 g/km
+skoda,Kodiaq,24600.0,2020,1968cc,"44,160 miles",Diesel,Automatic,Black,Estate,4X4,5.0,7.0,147 bhp,121 mph,,162 g/km
+skoda,Citigo,4495.0,2014,999cc,"80,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,17998.0,2017,1968cc,"62,499 miles",Diesel,Automatic,Red,Estate,4X2,5.0,5.0,181 bhp,142 mph,,129 g/km
+skoda,Karoq,15895.0,2019,"48,000 miles",Diesel,Manual,Grey,SUV,42.8 mpg,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Superb,12490.0,2015,1968cc,"70,731 miles",Diesel,Automatic,Maroon,Estate,4X4,5.0,5.0,168 bhp,135 mph,8.8 seconds,149 g/km
+skoda,Yeti,8495.0,2015,1968cc,"85,000 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,152 g/km
+skoda,Octavia,11995.0,2019,1498cc,"51,181 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,148 bhp,139 mph,8.7 seconds,112 g/km
+skoda,Octavia,4880.0,2013,1598cc,"103,000 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,103 bhp,121 mph,10.8 seconds,99 g/km
+skoda,Octavia,9495.0,2018,999cc,"90,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.9 seconds,110 g/km
+skoda,Kamiq,14950.0,2020,999cc,"56,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,141 g/km
+skoda,Octavia,4995.0,2009,1968cc,"64,200 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.6 seconds,145 g/km
+skoda,Superb,7790.0,2014,1968cc,"104,000 miles",Diesel,Automatic,Black,Estate,4X4,5.0,5.0,168 bhp,135 mph,8.8 seconds,149 g/km
+skoda,Octavia,16495.0,2020,1498cc,"26,700 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,127 g/km
+skoda,Rapid,5990.0,2013,1197cc,"56,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,84 bhp,114 mph,11.8 seconds,119 g/km
+skoda,Octavia,9799.0,2018,1968cc,"86,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.6 seconds,113 g/km
+skoda,Yeti,12500.0,2012,1798cc,"16,437 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,150 bhp,125 mph,8.4 seconds,189 g/km
+skoda,Citigo,5995.0,2013,999cc,"46,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,95 g/km
+skoda,Fabia,6495.0,2015,1197cc,"84,663 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Yeti,15000.0,2015,1968cc,"31,666 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,147 bhp,121 mph,9.1 seconds,134 g/km
+skoda,Fabia,5495.0,2013,1198cc,"42,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,95 mph,16.5 seconds,128 g/km
+skoda,Fabia,12295.0,2020,999cc,"13,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,124 g/km
+skoda,Octavia,4995.0,2011,1600cc,"92,477 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,103 bhp,117 mph,11.9 seconds,119 g/km
+skoda,Octavia,4995.0,2017,2000cc,"180,234 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,147 bhp,135 mph,8.5 seconds,113 g/km
+skoda,Yeti,9399.0,2015,1968cc,"104,000 miles",Diesel,Manual,RED,Hatchback,4X4,5.0,5.0,168 bhp,125 mph,8.4 seconds,149 g/km
+skoda,Octavia,14495.0,2019,1.5L,"24,025 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,148 bhp,136 mph,8.7 seconds,108 g/km
+skoda,Kodiaq,18495.0,2019,1.5L,"33,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,147 bhp,124 mph,9.8 seconds,147 g/km
+skoda,Octavia,17995.0,2021,1L,"20,241 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,109 bhp,124 mph,,118 g/km
+skoda,Karoq,30491.0,2022,2L,"4,333 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,188 bhp,137 mph,,173 g/km
+skoda,Karoq,22400.0,2019,2L,"22,500 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,147 bhp,121 mph,,144 g/km
+skoda,Kamiq,16991.0,2021,1L,"16,011 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,120 mph,,123 g/km
+skoda,Karoq,16491.0,2019,1L,"25,166 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Karoq,13495.0,2019,1.6L,"86,660 miles",Diesel,Automatic,Blue,SUV,4X2,5.0,5.0,114 bhp,115 mph,11.2 seconds,125 g/km
+skoda,Yeti,13799.0,2016,1.2L,"21,700 miles",Petrol,Manual,Green,SUV,4X2,5.0,5.0,109 bhp,111 mph,10.9 seconds,128 g/km
+skoda,Octavia,16999.0,2020,1.5L,"27,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,139 mph,,130 g/km
+skoda,Scala,12999.0,2020,1L,"24,080 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,120 g/km
+skoda,Octavia,16999.0,2020,1.5L,"18,000 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,133 mph,8.8 seconds,129 g/km
+skoda,Karoq,17494.0,2018,1.5L,"35,326 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,125 g/km
+skoda,Karoq,21499.0,2019,2L,"17,613 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Kamiq,14500.0,2019,1L,"24,393 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,116 g/km
+skoda,Superb,28990.0,2023,2L,"14,907 miles",Diesel,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,133 mph,,136 g/km
+skoda,Octavia,14995.0,2016,2L,"49,503 miles",Diesel,Semiauto,Red,Estate,4X4,5.0,5.0,181 bhp,136 mph,7.8 seconds,129 g/km
+skoda,Superb,15400.0,2019,1.5L,"56,626 miles",Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,147 bhp,130 mph,9.0 seconds,127 g/km
+skoda,Karoq,26968.0,2023,1.5L,"5,015 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,131 mph,,145 g/km
+skoda,Kodiaq,21349.0,2020,1.5L,"15,475 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,125 mph,,158 g/km
+skoda,Fabia,10691.0,2019,1L,"20,478 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,10.7 seconds,106 g/km
+skoda,Kodiaq,37990.0,2022,2L,"15,000 miles",Petrol,Automatic,Black,SUV,4X4,5.0,7.0,241 bhp,144 mph,,200 g/km
+skoda,Karoq,22410.0,2021,1.5L,"40,670 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,151 g/km
+skoda,Octavia,30000.0,2022,1.4L,"23,649 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,241 bhp,139 mph,,28 g/km
+skoda,Kodiaq,22690.0,2019,1.5L,"42,693 miles",Petrol,Automatic,Black,SUV,4X2,5.0,7.0,147 bhp,123 mph,,143 g/km
+skoda,Kodiaq,36500.0,2023,2L,"15,892 miles",Petrol,Automatic,Blue,SUV,4X4,5.0,7.0,188 bhp,132 mph,,187 g/km
+skoda,Karoq,27990.0,2023,2L,"2,892 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,130 mph,,132 g/km
+skoda,Octavia,27500.0,2023,2L,"6,815 miles",Diesel,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,139 mph,,118 g/km
+skoda,Fabia,9250.0,2016,1.2L,"34,503 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Fabia,10999.0,2018,999cc,"24,648 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,94 bhp,116 mph,,101 g/km
+skoda,Fabia,4995.0,2015,1198cc,"37,930 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,68 bhp,95 mph,16.5 seconds,128 g/km
+skoda,Yeti,8995.0,2016,1968cc,"82,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,112 mph,11.6 seconds,118 g/km
+skoda,Karoq,30950.0,2023,2L,"1,768 miles",Diesel,Automatic,Silver,SUV,4X4,5.0,5.0,147 bhp,126 mph,,157 g/km
+skoda,Scala,18750.0,2023,1.5L,"2,352 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,128 g/km
+skoda,Kamiq,19950.0,2023,1.5L,"3,504 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,134 mph,,132 g/km
+skoda,Octavia,12995.0,2018,1.6L,"34,928 miles",Diesel,Semiauto,Black,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,10.4 seconds,103 g/km
+skoda,Kamiq,19790.0,2023,1L,"1,070 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,,133 g/km
+skoda,Karoq,23490.0,2023,1.5L,"14,502 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Fabia,17190.0,2023,1L,"6,400 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,116 g/km
+skoda,Scala,21500.0,2023,1L,10 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,125 g/km
+skoda,Octavia,15000.0,2020,1498cc,"31,940 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Fabia,11295.0,2020,999cc,"14,544 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,126 g/km
+skoda,Octavia,17995.0,2020,1498cc,"25,410 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,127 g/km
+skoda,Fabia,6495.0,2015,999cc,"37,452 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,59 bhp,99 mph,15.7 seconds,106 g/km
+skoda,Kamiq,14395.0,2020,999cc,"18,252 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,120 mph,,130 g/km
+skoda,Octavia,12250.0,2017,1968cc,"52,950 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,106 g/km
+skoda,Octavia,17995.0,2020,1498cc,"36,932 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,147 bhp,139 mph,,129 g/km
+skoda,Superb,37695.0,2023,2L,100 miles,Petrol,Semiauto,White,Hatchback,4X4,5.0,5.0,276 bhp,155 mph,,185 g/km
+skoda,Kamiq,16790.0,2020,1L,"17,704 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,119 mph,,134 g/km
+skoda,Superb,13995.0,2016,2L,"30,366 miles",Diesel,Semiauto,Green,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,8.9 seconds,118 g/km
+skoda,Citigo,5695.0,2014,999cc,"47,310 miles",Petrol,Manual,Tornado Red Gloss,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,2990.0,2007,1968cc,"91,489 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,138 bhp,129 mph,9.6 seconds,149 g/km
+skoda,Octavia,9995.0,2018,1968cc,"84,384 miles",Diesel,Manual,Quartz Grey Metallic,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.6 seconds,113 g/km
+skoda,Octavia,10250.0,2016,1598cc,"41,156 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,121 mph,10.8 seconds,99 g/km
+skoda,Octavia,6881.0,2015,1598cc,"84,067 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,99 g/km
+skoda,Fabia,9979.0,2021,1000cc,"41,600 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,121 g/km
+skoda,Kodiaq,17994.0,2018,1.395L,"72,120 miles",Petrol,Automatic,Silver,Estate,4X4,5.0,5.0,147 bhp,120 mph,,163 g/km
+skoda,Fabia,12300.0,2020,999cc,"32,844 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,107 g/km
+skoda,Karoq,17550.0,2019,1968cc,"23,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,127 mph,9.0 seconds,123 g/km
+skoda,Fabia,8895.0,2019,999cc,"30,127 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Superb,15950.0,2020,1968cc,"88,026 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,9.1 seconds,136 g/km
+skoda,Karoq,16495.0,2020,1498cc,"65,001 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,156 g/km
+skoda,Octavia,19895.0,2021,1498cc,"14,524 miles",Petrol,Manual,Brilliant Silver,Hatchback,4X2,5.0,5.0,147 bhp,142 mph,,128 g/km
+skoda,Karoq,16995.0,2021,999cc,"19,547 miles",Petrol,Manual,Petrol Blue,Estate,4X2,5.0,5.0,109 bhp,117 mph,,133 g/km
+skoda,Karoq,13495.0,2020,999cc,"28,200 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,118 mph,,141 g/km
+skoda,Superb,13975.0,2019,1968cc,"67,981 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,9.3 seconds,115 g/km
+skoda,Kodiaq,18750.0,2018,1968cc,"55,900 miles",Diesel,Manual,Grey,SUV,4X4,5.0,7.0,147 bhp,121 mph,,146 g/km
+skoda,Octavia,16750.0,2018,1968cc,"59,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,181 bhp,143 mph,,119 g/km
+skoda,Octavia,6595.0,2011,1798cc,"72,000 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,158 bhp,138 mph,7.9 seconds,158 g/km
+skoda,Superb,15995.0,2017,1984cc,"96,000 miles",Petrol,Automatic,BLACK,Hatchback,4X4,5.0,5.0,276 bhp,155 mph,,160 g/km
+skoda,Karoq,18299.0,2019,1498cc,"60,539 miles",Petrol,,Black,SUV,4X4,5.0,5.0,147 bhp,121 mph,9.1 seconds,149 g/km
+skoda,Fabia,10999.0,2019,999cc,"26,106 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Fabia,10599.0,2021,999cc,"19,177 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,122 g/km
+skoda,Superb,18995.0,2019,1.5L,"25,334 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,123 g/km
+skoda,Kodiaq,15998.0,2019,2L,"94,495 miles",Diesel,Automatic,Silver,SUV,4X2,5.0,7.0,147 bhp,123 mph,10.0 seconds,131 g/km
+skoda,Superb,20995.0,2020,2L,"34,151 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,140 g/km
+skoda,Karoq,25995.0,2023,1.5L,"4,690 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Kamiq,15495.0,2020,1L,"20,109 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.0 seconds,113 g/km
+skoda,Fabia,10590.0,2021,1L,"20,816 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,127 g/km
+skoda,Octavia,10690.0,2017,1.4L,"74,185 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,116 g/km
+skoda,Karoq,16006.0,2018,1.5L,"27,854 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,126 mph,8.9 seconds,125 g/km
+skoda,Kamiq,21400.0,2022,1.5L,"18,181 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,147 bhp,135 mph,,135 g/km
+skoda,Superb,27248.0,2021,2L,"23,834 miles",Diesel,Semiauto,Silver,Estate,4X2,5.0,5.0,197 bhp,145 mph,,150 g/km
+skoda,Karoq,24990.0,2023,2L,"3,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,114 bhp,119 mph,,125 g/km
+skoda,Fabia,13128.0,2021,1L,"16,294 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,123 g/km
+skoda,Octavia,27000.0,2021,1.4L,"24,839 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,241 bhp,139 mph,,28 g/km
+skoda,Kodiaq,26995.0,2023,1.5L,"11,758 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,7.0,147 bhp,126 mph,,164 g/km
+skoda,Karoq,24990.0,2023,1.5L,"6,156 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,131 mph,,146 g/km
+skoda,Karoq,12991.0,2020,1L,"55,176 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Kamiq,15891.0,2020,1L,"11,008 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,114 bhp,120 mph,9.9 seconds,136 g/km
+skoda,Karoq,13499.0,2020,1L,"44,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,114 bhp,116 mph,,142 g/km
+skoda,Karoq,23190.0,2021,1.5L,"13,280 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Fabia,18980.0,2023,999cc,"5,800 miles",Petrol,Semi Auto,Graphite Grey,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,128 g/km
+skoda,Kodiaq,32980.0,2022,1984cc,"17,700 miles",Petrol,Semi Auto,Black Magic,Estate,4X4,5.0,7.0,188 bhp,133 mph,,188 g/km
+skoda,Octavia,21980.0,2023,999cc,"2,500 miles",Petrol/MHEV,Semi Auto,Graphite Grey,Estate,4X2,5.0,5.0,109 bhp,125 mph,,118 g/km
+skoda,Octavia,24980.0,2023,1498cc,"15,300 miles",Petrol,Semi Auto,Graphite Grey,Estate,4X2,5.0,5.0,147 bhp,141 mph,,123 g/km
+skoda,Octavia,21980.0,2023,999cc,"3,000 miles",Petrol/MHEV,Semi Auto,Brilliant Silver,Estate,4X2,5.0,5.0,109 bhp,125 mph,,118 g/km
+skoda,Scala,15980.0,2021,999cc,"5,500 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,124 g/km
+skoda,Scala,14980.0,2021,999cc,"32,800 miles",Petrol,Semi Auto,Brilliant Silver,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,133 g/km
+skoda,Fabia,15980.0,2022,999cc,"7,200 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Fabia,15980.0,2022,999cc,"7,700 miles",Petrol,Manual,Race Blue,Hatchback,4X2,5.0,5.0,94 bhp,119 mph,,115 g/km
+skoda,Fabia,12495.0,2018,999cc,"11,957 miles",Petrol,Semi Auto,Corrida Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,,106 g/km
+skoda,Superb,12900.0,2020,1498cc,"87,521 miles",Petrol,Semi Automatic,Grey,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,123 g/km
+skoda,Octavia,13995.0,2019,999cc,"6,895 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,114 bhp,127 mph,10.1 seconds,106 g/km
+skoda,Fabia,9299.0,2018,999cc,"27,323 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Karoq,14470.0,2018,2L,"89,000 miles",Diesel,Automatic,White,Other,4X4,5.0,5.0,147 bhp,121 mph,9.2 seconds,138 g/km
+skoda,Kamiq,12100.0,2020,1598cc,"45,297 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,119 mph,10.2 seconds,112 g/km
+skoda,Citigo,6990.0,2014,999cc,"23,392 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Citigo,8750.0,2019,999cc,"9,700 miles",Petrol,Manual,YELLOW,Hatchback,4X2,3.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Octavia,6995.0,2015,1598cc,"76,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,10.6 seconds,99 g/km
+skoda,Fabia,14790.0,2022,1L,"8,353 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,94 bhp,117 mph,,129 g/km
+skoda,Scala,18540.0,2023,1.5L,"2,522 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,128 g/km
+skoda,Karoq,25290.0,2023,2L,"5,199 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,130 g/km
+skoda,Fabia,9995.0,2019,1L,"45,612 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Yeti Outdoor,15495.0,2017,1.2L,"34,909 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,109 bhp,111 mph,,128 g/km
+skoda,Kamiq,23990.0,2022,1.5L,"7,500 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,147 bhp,135 mph,,141 g/km
+skoda,Karoq,27990.0,2023,1.5L,"15,461 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,147 bhp,130 mph,,143 g/km
+skoda,Karoq,23490.0,2023,1.5L,"13,122 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,130 mph,,139 g/km
+skoda,Karoq,21750.0,2023,1.5L,"13,941 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,147 bhp,131 mph,,138 g/km
+skoda,Karoq,29250.0,2023,1.5L,"2,796 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,147 bhp,130 mph,,143 g/km
+skoda,Fabia,8890.0,2016,1.2L,"35,848 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,10.9 seconds,107 g/km
+skoda,Octavia,15799.0,2020,1598cc,"31,982 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.4 seconds,135 g/km
+skoda,Octavia,9479.0,2014,2000cc,"92,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,181 bhp,143 mph,8.2 seconds,119 g/km
+skoda,Kodiaq,26995.0,2022,1498cc,"3,000 miles",Petrol,Automatic,Graphite Grey,SUV,4X2,5.0,7.0,147 bhp,126 mph,,159 g/km
+skoda,Kodiaq,21995.0,2018,1395cc,"40,000 miles",Petrol,Automatic,Magic Black,SUV,4X4,5.0,7.0,147 bhp,119 mph,,163 g/km
+skoda,Fabia,14990.0,2021,999cc,"29,000 miles",Petrol,Automatic,Quartz Grey,Estate,4X2,5.0,5.0,94 bhp,117 mph,,136 g/km
+skoda,Fabia,8695.0,2015,1422cc,"35,782 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,11.1 seconds,94 g/km
+skoda,Yeti,13495.0,2014,1968cc,"52,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,138 bhp,116 mph,10.2 seconds,164 g/km
+skoda,Karoq,17382.0,2018,999cc,"9,620 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,119 g/km
+skoda,Superb,15582.0,2019,1968cc,"80,864 miles",Diesel,Automatic,RED,Hatchback,4X2,5.0,5.0,147 bhp,135 mph,9.2 seconds,114 g/km
+skoda,Fabia,10542.0,2017,999cc,"56,555 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,101 g/km
+skoda,Superb,26600.0,2022,2L,"12,562 miles",Petrol,Semiauto,Red,Hatchback,4X4,5.0,5.0,276 bhp,155 mph,,
+skoda,Superb,17200.0,2020,1.4L,"48,516 miles",Hybrid,Semiauto,Grey,Estate,4X2,5.0,5.0,215 bhp,138 mph,,35 g/km
+skoda,Kodiaq,22150.0,2021,1.5L,"19,019 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,126 mph,,
+skoda,Fabia,13200.0,2021,1L,"19,520 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,129 g/km
+skoda,Superb,20800.0,2021,2L,"37,560 miles",Diesel,Semiauto,Blue,Estate,4X2,5.0,5.0,121 bhp,124 mph,,132 g/km
+skoda,Fabia,8949.0,2020,1L,"31,009 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,121 g/km
+skoda,Fabia,16922.0,2023,1L,"2,816 miles",Petrol,Manual,White,Hatchback,,,,,,,
+skoda,Scala,13234.0,2021,1L,"33,637 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,120 g/km
+skoda,Fabia,10950.0,2021,1L,"9,255 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,127 g/km
+skoda,Octavia,12950.0,2019,1L,"42,702 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,114 bhp,124 mph,10.1 seconds,114 g/km
+skoda,Karoq,18995.0,2018,1.5L,"33,423 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,127 g/km
+skoda,Karoq,19995.0,2018,2L,"47,461 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Octavia,27700.0,2021,2L,"15,237 miles",Petrol,Semiauto,Grey,Estate,4X2,5.0,5.0,241 bhp,155 mph,,160 g/km
+skoda,Fabia,12700.0,2020,1L,"28,825 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,109 bhp,123 mph,,128 g/km
+skoda,Fabia,11400.0,2016,1.2L,"38,123 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,109 bhp,124 mph,9.6 seconds,109 g/km
+skoda,Rapid,9900.0,2018,1L,"43,293 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,106 g/km
+skoda,Karoq,19395.0,2021,1.5L,"15,734 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,147 bhp,128 mph,,143 g/km
+skoda,Kodiaq,29495.0,2021,1.5L,"20,192 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,127 mph,,164 g/km
+skoda,Fabia,9995.0,2019,1L,"45,693 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,94 bhp,115 mph,10.8 seconds,105 g/km
+skoda,Kamiq,14395.0,2020,1L,"21,242 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,94 bhp,112 mph,11.1 seconds,129 g/km
+skoda,Kamiq,15895.0,2022,1L,"9,262 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,94 bhp,117 mph,,123 g/km
+skoda,Fabia,12195.0,2021,1L,"9,071 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,129 g/km
+skoda,Superb,29995.0,2023,2L,10 miles,Diesel,Semiauto,White,Estate,4X2,5.0,5.0,147 bhp,133 mph,,132 g/km
+skoda,Kodiaq,43995.0,2023,2L,"1,120 miles",Diesel,Automatic,White,SUV,4X4,5.0,7.0,197 bhp,133 mph,,176 g/km
+skoda,Octavia,13395.0,2019,1.5L,"29,929 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,147 bhp,139 mph,8.7 seconds,108 g/km
+skoda,Karoq,19000.0,2021,1.5L,"19,095 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,147 bhp,129 mph,,142 g/km
+skoda,Karoq,14295.0,2019,1L,"18,500 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,124 g/km
+skoda,Karoq,13495.0,2020,1L,"33,500 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,143 g/km
+skoda,Superb,20995.0,2018,2L,"28,000 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,217 bhp,151 mph,,148 g/km
+skoda,Kodiaq,22995.0,2020,1.5L,"18,753 miles",Petrol,Manual,White,SUV,4X2,5.0,7.0,147 bhp,124 mph,,170 g/km
+skoda,Kamiq,18250.0,2022,1L,"23,012 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,123 mph,,133 g/km
+skoda,Octavia,2695.0,2006,1896cc,"96,000 miles",Diesel,Manual,White,Estate,4X4,5.0,5.0,103 bhp,119 mph,11.9 seconds,159 g/km
+skoda,Fabia,7740.0,2015,1197cc,"73,029 miles",Petrol,Manual,Brown,Estate,4X2,5.0,5.0,109 bhp,124 mph,9.6 seconds,110 g/km
+skoda,Fabia,5195.0,2013,1197cc,"47,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,84 bhp,110 mph,11.7 seconds,121 g/km
+skoda,Octavia,6795.0,2013,1598cc,"83,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,103 bhp,119 mph,10.6 seconds,99 g/km
+skoda,Citigo,4995.0,2015,999cc,"88,305 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Fabia,6975.0,2018,999cc,"62,499 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,74 bhp,109 mph,,111 g/km
+skoda,Superb,19800.0,2021,1968cc,"54,000 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,121 bhp,129 mph,,127 g/km
+skoda,Superb,18950.0,2020,1968cc,"71,313 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,132 mph,,140 g/km
+skoda,Octavia,16950.0,2018,1968cc,"65,761 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,181 bhp,142 mph,,129 g/km
+skoda,Fabia,7500.0,2016,1422cc,"79,207 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,88 bhp,113 mph,11.1 seconds,93 g/km
+skoda,Karoq,11995.0,2019,1598cc,"47,187 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,114 bhp,115 mph,11.0 seconds,118 g/km
+skoda,Octavia,20999.0,2019,1984cc,"31,900 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,241 bhp,155 mph,6.7 seconds,139 g/km
+skoda,Yeti,6995.0,2012,1968cc,"89,611 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,138 bhp,118 mph,9.9 seconds,157 g/km
+skoda,Scala,16995.0,2021,1500cc,"14,814 miles",Petrol,Manual,Black Magic,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,128 g/km
+skoda,Yeti,7495.0,2012,1968cc,"49,600 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,110 mph,11.6 seconds,140 g/km
+skoda,Octavia,8495.0,2015,1968cc,"84,000 miles",Diesel,Manual,Deep Black,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.3 seconds,110 g/km
+skoda,Roomster,6495.0,2012,1197cc,"38,900 miles",Petrol,Manual,Silver,MPV,4X2,5.0,5.0,84 bhp,107 mph,12.6 seconds,134 g/km
+skoda,Citigo,7695.0,2017,999cc,"28,312 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,,101 g/km
+skoda,Octavia,2995.0,2009,1896cc,"97,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,103 bhp,119 mph,11.8 seconds,130 g/km
+skoda,Citigo,5995.0,2015,999cc,"54,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,59 bhp,99 mph,14.4 seconds,105 g/km
+skoda,Octavia,7850.0,2016,1968cc,"107,000 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,134 mph,8.5 seconds,106 g/km
+skoda,Octavia,6500.0,2017,1598cc,"124,668 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,125 mph,10.4 seconds,106 g/km
+skoda,Rapid,7985.0,2017,999cc,"61,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,94 bhp,114 mph,,103 g/km
+skoda,Octavia,16750.0,2020,1968cc,"71,370 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,147 bhp,137 mph,,122 g/km
+skoda,Fabia,3495.0,2013,1200cc,"103,452 miles",Diesel,Manual,Beige,Other,4X2,5.0,5.0,74 bhp,107 mph,14.3 seconds,89 g/km
+skoda,Fabia,6900.0,2017,1197cc,"74,951 miles",Petrol,Manual,SILVER,Estate,4X2,5.0,5.0,88 bhp,115 mph,11.0 seconds,107 g/km
+skoda,Octavia,12360.0,2018,1598cc,"74,000 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,114 bhp,125 mph,10.4 seconds,109 g/km
+skoda,Fabia,12600.0,2019,999cc,"65,523 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,103 g/km
+skoda,Citigo,7800.0,2019,999cc,"30,537 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,4.0,59 bhp,100 mph,14.4 seconds,96 g/km
+skoda,Scala,11999.0,2019,1L,"17,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,117 mph,10.9 seconds,114 g/km
+skoda,Scala,13499.0,2020,1L,"10,000 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,114 bhp,123 mph,9.9 seconds,136 g/km
+skoda,Fabia,12199.0,2019,1L,"4,100 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Fabia,15290.0,2021,1L,"9,008 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,,129 g/km
+skoda,Kodiaq,25990.0,2020,1.5L,"13,936 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,7.0,147 bhp,123 mph,,171 g/km
+skoda,Superb,32750.0,2023,2L,"6,383 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,188 bhp,144 mph,,162 g/km
+skoda,Kodiaq,22995.0,2020,1.5L,"14,371 miles",Petrol,Manual,Blue,SUV,4X2,5.0,7.0,147 bhp,124 mph,,170 g/km
+skoda,Karoq,17750.0,2020,1.5L,"37,413 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,147 bhp,128 mph,,149 g/km
+skoda,Fabia,11495.0,2020,1L,"16,578 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Fabia,17300.0,2023,1L,"1,950 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,116 g/km
+skoda,Scala,16450.0,2023,1L,"4,022 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,120 g/km
+skoda,Fabia,12995.0,2020,999cc,"11,921 miles",Petrol,Manual,Velvet Red,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,103 g/km
+skoda,Karoq,14995.0,2019,999cc,"41,459 miles",Petrol,Semi Auto,Energy Blue,Estate,4X2,5.0,5.0,114 bhp,115 mph,10.7 seconds,121 g/km
+skoda,Karoq,15495.0,2020,999cc,"31,071 miles",Petrol,Manual,Meteor Grey,Estate,4X2,5.0,5.0,114 bhp,116 mph,10.6 seconds,142 g/km
+skoda,Octavia,14995.0,2020,999cc,"26,416 miles",Petrol,Manual,Quartz Grey,Estate,4X2,5.0,5.0,114 bhp,123 mph,10.1 seconds,127 g/km
+skoda,Superb,13591.0,2016,2L,"78,158 miles",Petrol,Semi Automatic,Grey,Estate,4X2,5.0,5.0,217 bhp,151 mph,7.1 seconds,146 g/km
+skoda,Fabia,7999.0,2012,1.2L,"10,883 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Fabia,6490.0,2013,1.2L,"68,500 miles",Petrol,Semi Automatic,Grey,Estate,4X2,5.0,5.0,103 bhp,117 mph,10.2 seconds,124 g/km
+skoda,Fabia,8750.0,2018,1L,"34,897 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,74 bhp,104 mph,14.9 seconds,111 g/km
+skoda,Kodiaq,37290.0,2023,2L,"4,963 miles",Diesel,Automatic,Black,SUV,4X4,5.0,7.0,147 bhp,124 mph,,161 g/km
+skoda,Kamiq,23950.0,2023,1L,95 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,123 mph,,130 g/km
+skoda,Scala,20000.0,2023,1.5L,10 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,137 mph,,128 g/km
+skoda,Superb,11500.0,2019,1968cc,"90,420 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,9.2 seconds,113 g/km
+skoda,Karoq,17750.0,2021,1.5L,"22,995 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,143 g/km
+skoda,Octavia,16150.0,2022,1L,"11,073 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,125 mph,,117 g/km
+skoda,Fabia,10650.0,2020,1L,"18,519 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,125 g/km
+skoda,Scala,12300.0,2021,1L,"20,803 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,120 g/km
+skoda,Fabia,12695.0,2021,1L,"23,016 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,94 bhp,116 mph,10.8 seconds,121 g/km
+skoda,Karoq,21780.0,2021,1.5L,"21,123 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,147 bhp,128 mph,,150 g/km
+skoda,Karoq,32950.0,2023,2L,"4,222 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,126 mph,,158 g/km
+skoda,Karoq,26950.0,2023,2L,"2,427 miles",Diesel,Automatic,Black,SUV,4X2,5.0,5.0,114 bhp,119 mph,,129 g/km
+skoda,Octavia,23000.0,2022,1.4L,"27,057 miles",Hybrid,Semiauto,Silver,Estate,4X2,5.0,5.0,201 bhp,136 mph,,23 g/km
+skoda,Scala,24795.0,2023,1.5L,22 miles,Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,,130 g/km
+skoda,Fabia,13000.0,2021,1L,"9,969 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,115 mph,10.7 seconds,124 g/km
+skoda,Karoq,20500.0,2019,2L,"11,462 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,147 bhp,121 mph,8.9 seconds,134 g/km
+skoda,Kodiaq,34990.0,2022,1984cc,"1,800 miles",Petrol,Automatic,Blue,Estate,4X4,5.0,7.0,188 bhp,133 mph,,188 g/km
+skoda,Superb,16980.0,2017,1968cc,"53,782 miles",Diesel,Automatic,CORRIDA RED,Estate,4X2,5.0,5.0,147 bhp,134 mph,9.0 seconds,122 g/km
+skoda,Octavia,15950.0,2017,1984cc,"50,000 miles",Petrol,Automatic,Blue,Saloon,4X2,5.0,5.0,226 bhp,155 mph,,149 g/km
+skoda,Fabia,9995.0,2016,1197cc,"44,578 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.4 seconds,110 g/km
+skoda,Superb,5995.0,2016,1968cc,"205,000 miles",Diesel,Automatic,Black,Saloon,4X2,5.0,5.0,147 bhp,135 mph,8.9 seconds,119 g/km
+skoda,Fabia,5995.0,2015,999cc,"72,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,74 bhp,107 mph,14.7 seconds,108 g/km
+skoda,Kodiaq,28490.0,2019,1968cc,"27,594 miles",Diesel,Automatic,Grey,Estate,4X4,5.0,7.0,188 bhp,129 mph,8.6 seconds,147 g/km
+skoda,Kamiq,15650.0,2020,1598cc,"39,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,114 bhp,119 mph,10.2 seconds,112 g/km
+skoda,Fabia,12990.0,2020,1000cc,"18,458 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,108 g/km
+skoda,Citigo,6999.0,2014,999cc,"55,296 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,59 bhp,99 mph,15.3 seconds,103 g/km
+skoda,Kodiaq,18998.0,2017,1968cc,"65,359 miles",Diesel,Automatic,Blue,SUV,4X4,5.0,7.0,147 bhp,119 mph,10.0 seconds,149 g/km
+skoda,Superb,22500.0,2020,"31,915 miles",Petrol,Automatic,White,Hatchback,38.2 mpg,4X2,5.0,5.0,188 bhp,148 mph,7.7 seconds,168 g/km
+skoda,Octavia,8990.0,2016,1395cc,"56,982 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,147 bhp,136 mph,8.1 seconds,118 g/km
+skoda,Rapid,4995.0,2015,1598cc,"99,831 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,103 bhp,118 mph,10.4 seconds,114 g/km
+skoda,Fabia,10995.0,2020,999cc,"18,121 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,59 bhp,98 mph,16.4 seconds,122 g/km
+skoda,Fabia,1595.0,2008,1400cc,"121,000 miles",Diesel,Manual,Black,Other,4X2,5.0,5.0,79 bhp,105 mph,13.2 seconds,109 g/km
+skoda,Superb,10750.0,2016,1968cc,"112,810 miles",Diesel,Automatic,SILVER,Estate,4X2,5.0,5.0,188 bhp,145 mph,7.8 seconds,120 g/km
+skoda,Karoq,22890.0,2020,1.5L,"22,070 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,147 bhp,126 mph,9.0 seconds,154 g/km
+skoda,Scala,14999.0,2021,999cc,"12,821 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,126 mph,,119 g/km

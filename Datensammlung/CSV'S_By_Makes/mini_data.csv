@@ -1,0 +1,1035 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+mini,Hatch,8380.0,2015,1198cc,"48,150 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,13500.0,2020,1499cc,"56,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,One,4499.0,2010,1598cc,"68,500 miles",Petrol,Manual,RED,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Clubman,3995.0,2012,1600cc,"119,802 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,90 bhp,113 mph,11.8 seconds,103 g/km
+mini,Clubman,21998.0,2020,2L,"12,451 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,155 g/km
+mini,Hatch,14260.0,2019,1.5L,"17,170 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,115 g/km
+mini,Countryman,9999.0,2015,1.6L,"44,838 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,122 bhp,118 mph,10.5 seconds,137 g/km
+mini,Hatch,21215.0,2020,1998cc,"17,212 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,151 g/km
+mini,Countryman,19975.0,2019,1499cc,"26,710 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,8595.0,2017,1496cc,"68,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,97 g/km
+mini,Clubman,8979.0,2018,2000cc,"98,000 miles",Diesel,Manual,Pure Burgundy,Estate,4X2,5.0,5.0,147 bhp,132 mph,,112 g/km
+mini,Hatch,7950.0,2017,1496cc,"73,305 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,2495.0,2011,1598cc,"103,000 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Cooper,3490.0,2007,1598cc,"84,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,118 bhp,113 mph,11.2 seconds,182 g/km
+mini,Hatch,10000.0,2015,1496cc,"56,000 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.5 seconds,102 g/km
+mini,Cooper,2990.0,2009,1598cc,"101,466 miles",Petrol,Manual,Yellow,Convertible,4X2,2.0,4.0,121 bhp,123 mph,9.8 seconds,137 g/km
+mini,Countryman,15990.0,2019,1995cc,"71,552 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,147 bhp,129 mph,9.1 seconds,111 g/km
+mini,Clubman,4495.0,2010,1600cc,"105,518 miles",Petrol,Manual,Silver,Other,4X2,5.0,5.0,122 bhp,125 mph,9.8 seconds,129 g/km
+mini,Hatch,3495.0,2007,1598cc,"80,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,173 bhp,140 mph,7.1 seconds,164 g/km
+mini,Countryman,19995.0,2018,1998cc,"27,009 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,189 bhp,140 mph,,141 g/km
+mini,Clubman,16250.0,2016,1998cc,"43,000 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,137 g/km
+mini,Clubman,11250.0,2016,1998cc,"70,000 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,147 g/km
+mini,Hatch,18450.0,2020,1499cc,"23,000 miles",Petrol,Automatic,BLUE/BLACK,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Clubman,23340.0,2019,1998cc,"34,000 miles",Petrol,Automatic,SILVER,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,133 g/km
+mini,Countryman,18950.0,2018,1995cc,"28,000 miles",Diesel,Automatic,BLUE,Hatchback,4X4,5.0,5.0,147 bhp,127 mph,,130 g/km
+mini,Coupe,9390.0,2014,1598cc,"59,220 miles",Petrol,Manual,BLACK,Coupe,4X2,2.0,2.0,209 bhp,149 mph,6.4 seconds,153 g/km
+mini,Hatch,13749.0,2020,1499cc,"42,354 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,13699.0,2019,1499cc,"39,014 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,117 g/km
+mini,Hatch,18449.0,2020,1499cc,"43,137 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,138 g/km
+mini,Hatch,13499.0,2017,1499cc,"43,634 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,112 g/km
+mini,Hatch,18349.0,2020,1998cc,"25,114 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,150 g/km
+mini,Hatch,17599.0,2019,1499cc,"11,761 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Clubman,10599.0,2016,1496cc,"48,892 miles",Diesel,,Blue,Estate,4X2,5.0,5.0,114 bhp,119 mph,10.4 seconds,102 g/km
+mini,Countryman,21049.0,2019,1998cc,"40,484 miles",Petrol,,Blue,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,130 g/km
+mini,Hatch,22590.0,2023,1.5L,"11,354 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,133 g/km
+mini,Cooper S,20390.0,2018,2L,"17,748 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,126 g/km
+mini,Cooper S,14590.0,2019,1.5L,"32,383 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.8 seconds,128 g/km
+mini,Countryman,23870.0,2022,1.5L,"3,939 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,134 bhp,127 mph,,144 g/km
+mini,Countryman,17995.0,2019,1.5L,"23,500 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,132 g/km
+mini,Cooper,8240.0,2017,1.5L,"95,824 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Clubman,16500.0,2020,1499cc,"15,273 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,143 g/km
+mini,Hatch,13975.0,2018,1499cc,"36,168 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,125 g/km
+mini,Hatch,14975.0,2020,1499cc,"12,277 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.6 seconds,134 g/km
+mini,Hatch,12975.0,2018,1499cc,"38,750 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,117 g/km
+mini,Cooper,10500.0,2016,1499cc,"52,470 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Hatch,22495.0,2022,1.5L,"8,150 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,132 g/km
+mini,Clubman,18290.0,2021,1.5L,"28,129 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,135 g/km
+mini,Hatch,20790.0,2021,1.5L,"22,089 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Hatch,9499.0,2016,1.5L,"49,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Cooper S,24500.0,2022,2L,"9,214 miles",Petrol,Semiauto,Yellow,Convertible,4X2,3.0,4.0,176 bhp,143 mph,,145 g/km
+mini,Clubman,20340.0,2020,1.5L,"16,193 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,120 g/km
+mini,Hatch,13480.0,2020,1.5L,"18,950 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,10.3 seconds,129 g/km
+mini,Countryman,18000.0,2017,2L,"24,848 miles",Petrol,Manual,Blue,SUV,4X4,5.0,5.0,189 bhp,138 mph,,159 g/km
+mini,Clubman,13851.0,2017,2L,"42,561 miles",Diesel,Semiauto,Silver,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.5 seconds,113 g/km
+mini,Hatch,15850.0,2020,1499cc,"23,993 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,2500.0,2005,1.598L,"101,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,114 bhp,124 mph,9.1 seconds,166 g/km
+mini,Hatch,14900.0,2020,1500cc,"32,001 miles",Petrol,Automatic,Midnight Black,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.6 seconds,137 g/km
+mini,Countryman,16300.0,2000,1995cc,"11,769 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,147 bhp,129 mph,,119 g/km
+mini,Hatch,6995.0,2014,1995cc,"73,415 miles",Diesel,Automatic,Brown,Convertible,4X2,2.0,4.0,142 bhp,126 mph,8.9 seconds,143 g/km
+mini,Hatch,7495.0,2014,1598cc,"55,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Hatch,3750.0,2008,1598cc,"98,158 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,169 bhp,134 mph,7.4 seconds,199 g/km
+mini,Hatch,19995.0,2019,1998cc,"31,014 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,127 g/km
+mini,Hatch,9250.0,2016,1995cc,"87,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,168 bhp,141 mph,7.3 seconds,106 g/km
+mini,Hatch,8990.0,2016,1198cc,"49,773 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Countryman,5995.0,2013,1598cc,"87,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,106 mph,12.9 seconds,115 g/km
+mini,Clubman,12000.0,2017,1995cc,"58,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,188 bhp,140 mph,7.4 seconds,122 g/km
+mini,Hatch,8495.0,2014,1499cc,"60,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Countryman,5495.0,2012,1598cc,"116,827 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Hatch,10250.0,2015,1995cc,"66,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,168 bhp,141 mph,7.3 seconds,109 g/km
+mini,Hatch,5985.0,2013,1598cc,"118,178 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,11790.0,2015,1998cc,"46,360 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Paceman,8790.0,2015,1995cc,"69,229 miles",Diesel,Automatic,Green,SUV,4X2,3.0,4.0,113 bhp,113 mph,11.2 seconds,148 g/km
+mini,Coupe,8980.0,2014,1995cc,"49,850 miles",Diesel,Automatic,Silver,Coupe,4X2,2.0,2.0,142 bhp,128 mph,8.2 seconds,139 g/km
+mini,One,5495.0,2013,1598cc,"89,664 miles",Petrol,Manual,SILVER,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Hatch,3295.0,2009,1397cc,"96,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Hatch,6975.0,2012,1598cc,"33,049 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Clubman,16995.0,2020,1499cc,"24,000 miles",Petrol,Manual,WHITE,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,146 g/km
+mini,Hatch,7299.0,2011,1995cc,"64,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,3.0,4.0,142 bhp,134 mph,8.1 seconds,114 g/km
+mini,Hatch,16995.0,2020,1L,"22,656 miles",Other,Automatic,SILVER,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,8000.0,2016,1499cc,"74,515 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,3695.0,2008,1560cc,"66,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,3.0,4.0,107 bhp,121 mph,9.9 seconds,104 g/km
+mini,Hatch,13830.0,2018,1499cc,"11,213 miles",Petrol,Automatic,GREY,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,,117 g/km
+mini,Hatch,19789.0,2020,1L,"16,005 miles",Other,Automatic,GREY,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,7695.0,2014,1198cc,"56,477 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,3995.0,2007,1560cc,"81,000 miles",Diesel,Manual,WHITE,Hatchback,,,,,,,
+mini,Clubman,12000.0,2016,1995cc,"66,000 miles",Diesel,Manual,BLUE,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,9899.0,2017,1499cc,"61,782 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Countryman,22899.0,2019,1998cc,"25,329 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,130 g/km
+mini,Hatch,14349.0,2017,1998cc,"53,004 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,125 g/km
+mini,Hatch,18499.0,2020,1499cc,"18,693 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Countryman,19749.0,2019,1499cc,"31,742 miles",Hybrid,,Blue,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,43 g/km
+mini,Countryman,24990.0,1499cc,974 miles,Petrol,Manual,Grey,,44.8 mpg,4X2,5.0,5.0,134 bhp,127 mph,,144 g/km
+mini,Clubman,18250.0,2021,1499cc,"21,086 miles",Petrol,Manual,GREY,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,138 g/km
+mini,Hatch,8995.0,2015,1198cc,"35,859 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,One,9888.0,2016,1.2L,"26,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Cooper,28000.0,2021,1998cc,"19,091 miles",Petrol,Automatic,Black,Convertible,4X2,3.0,4.0,228 bhp,150 mph,,156 g/km
+mini,Hatch,23990.0,2021,1499cc,"5,500 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,129 g/km
+mini,Hatch,14990.0,2020,1499cc,"15,547 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,17475.0,2019,1998cc,"49,239 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,148 g/km
+mini,Countryman,20692.0,2019,1499cc,"4,408 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,13500.0,2020,1499cc,"25,708 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,16300.0,2018,1998cc,"23,286 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,,123 g/km
+mini,5 Door Hatch,10745.0,0L,"39,000 miles",Petrol,Manual,GREY,Hatchback,60.1 mpg,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Cooper,17995.0,2019,1499cc,"14,000 miles",Petrol,Automatic,Turquoise,Convertible,4X2,2.0,4.0,134 bhp,127 mph,8.7 seconds,123 g/km
+mini,Cooper,9695.0,2012,1.598L,"28,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,185 bhp,140 mph,7.3 seconds,139 g/km
+mini,Hatch,8850.0,2014,1500cc,"55,117 miles",Petrol,Manual,Midnight Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Clubman,18250.0,2019,1500cc,"13,909 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,130 g/km
+mini,Cooper S,26950.0,2022,2L,"6,650 miles",Petrol,Semiauto,Silver,Convertible,4X2,3.0,4.0,176 bhp,143 mph,,143 g/km
+mini,Countryman,26430.0,2020,2L,"11,858 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,176 bhp,140 mph,,149 g/km
+mini,Hatch,12399.0,2017,1.5L,"17,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Countryman,20499.0,2018,2L,"29,197 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,189 bhp,138 mph,,146 g/km
+mini,Hatch,14199.0,2019,1.5L,"27,040 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,124 g/km
+mini,Hatch,18650.0,2020,2L,"14,000 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,140 g/km
+mini,Clubman,30850.0,2022,2L,"6,373 miles",Petrol,Semiauto,Grey,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,178 g/km
+mini,Hatch,27450.0,2023,2L,"2,852 miles",Petrol,Semiauto,Other,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,137 g/km
+mini,Hatch,23940.0,2021,2L,"22,068 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,142 g/km
+mini,Hatch,13450.0,2019,1.5L,"18,251 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Clubman,22995.0,2020,1.5L,"6,000 miles",Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,122 g/km
+mini,Paceman,14031.0,2015,1.6L,"19,991 miles",Petrol,Semiauto,Black,Coupe,4X4,3.0,4.0,185 bhp,129 mph,8.2 seconds,170 g/km
+mini,Clubman,15000.0,2019,1.5L,"29,596 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,127 g/km
+mini,Hatch,15538.0,2020,1.5L,"7,130 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,131 g/km
+mini,Countryman,27999.0,2023,1.5L,541 miles,Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,134 bhp,127 mph,,145 g/km
+mini,Hatch,16950.0,2020,1499cc,"26,800 miles",Petrol,Manual,Silver,Hatchback,,,,,,,
+mini,Hatch,16995.0,2020,1000cc,"22,656 miles",Other,Automatic,Silver,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,9950.0,2016,1499cc,"32,000 miles",Petrol,Manual,Pepper White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,7490.0,2014,1998cc,"98,250 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,14693.0,2018,1998cc,"25,202 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,138 g/km
+mini,Countryman,14985.0,2020,1998cc,"47,870 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.6 seconds,143 g/km
+mini,Cooper S,13985.0,2018,1998cc,"24,700 miles",Petrol,Manual,Black,Convertible,4X2,2.0,4.0,189 bhp,143 mph,,145 g/km
+mini,Hatch,4495.0,2010,1598cc,"73,828 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Countryman,10695.0,2012,1598cc,"53,000 miles",Petrol,Automatic,Silver,SUV,4X4,5.0,5.0,185 bhp,127 mph,8.3 seconds,180 g/km
+mini,Hatch,11395.0,2016,1998cc,"63,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Clubman,11990.0,2016,1499cc,"71,998 miles",Petrol,Automatic,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,121 g/km
+mini,Countryman,16490.0,2019,1998cc,"31,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,189 bhp,140 mph,7.6 seconds,149 g/km
+mini,Hatch,15995.0,2020,1499cc,"43,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,137 g/km
+mini,Hatch,5995.0,2014,1496cc,"69,000 miles",Diesel,Manual,WHITE,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Convertible,17989.0,2018,1998cc,"53,244 miles",Petrol,Automatic,BLUE,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,126 g/km
+mini,Clubman,7999.0,2011,1600cc,"53,000 miles",Petrol,Automatic,BROWN,Estate,4X2,5.0,5.0,122 bhp,121 mph,10.9 seconds,152 g/km
+mini,Hatch,8490.0,2013,1995cc,"69,932 miles",Diesel,Automatic,GREY,Coupe,4X2,3.0,4.0,113 bhp,113 mph,11.2 seconds,149 g/km
+mini,Hatch,5190.0,2011,1600cc,"86,000 miles",Diesel,Manual,SILVER,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Clubman,15995.0,2016,1998cc,"56,000 miles",Petrol,Automatic,GREY,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.1 seconds,137 g/km
+mini,Hatch,14160.0,2020,1499cc,"52,122 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Clubman,13495.0,2018,1995cc,"77,402 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.9 seconds,112 g/km
+mini,Hatch,8775.0,2016,1198cc,"54,149 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,9390.0,2015,1496cc,"79,563 miles",Diesel,Automatic,SILVER,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.5 seconds,99 g/km
+mini,Hatch,7495.0,2017,1496cc,"61,832 miles",Diesel,Manual,GREY,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Coupe,3800.0,2011,1995cc,"120,101 miles",Diesel,Manual,SILVER,Coupe,4X2,2.0,2.0,142 bhp,134 mph,7.9 seconds,114 g/km
+mini,Hatch,3295.0,2012,1598cc,"119,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,7940.0,2012,1598cc,"49,500 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,14998.0,2020,1.5L,"36,579 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,15698.0,2019,2L,"31,323 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,147 g/km
+mini,Cooper,18999.0,2020,1.5L,"34,566 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,4.0,134 bhp,127 mph,8.7 seconds,143 g/km
+mini,Countryman,21599.0,2017,1998cc,"22,912 miles",Petrol,,Black,SUV,4X4,5.0,5.0,228 bhp,145 mph,,169 g/km
+mini,Hatch,16749.0,2019,1998cc,"29,607 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,147 g/km
+mini,Hatch,11449.0,2018,1499cc,"40,648 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,,111 g/km
+mini,Clubman,13495.0,2016,1995cc,"17,583 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,24899.0,2023,1.5L,"3,566 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,133 g/km
+mini,Cooper,9991.0,2015,1.6L,"21,276 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,122 bhp,123 mph,9.8 seconds,133 g/km
+mini,Cooper,15999.0,2018,1.5L,"11,633 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,119 g/km
+mini,Countryman,15000.0,2017,1499cc,"50,454 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,134 bhp,124 mph,,126 g/km
+mini,Cooper,18490.0,2020,1499cc,"2,540 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.8 seconds,152 g/km
+mini,Hatch,17990.0,2017,1998cc,"31,129 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,147 g/km
+mini,Hatch,22649.0,2021,1998cc,"23,382 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,139 g/km
+mini,Clubman,21290.0,2021,1499cc,"12,511 miles",Petrol,Automatic,Green,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,135 g/km
+mini,Hatch,17112.0,2018,1998cc,"49,455 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,129 g/km
+mini,Hatch,20552.0,2022,1499cc,"7,079 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,128 g/km
+mini,Clubman,25253.0,2023,1499cc,"2,341 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,136 g/km
+mini,Countryman,24990.0,2018,2L,"30,500 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,228 bhp,145 mph,,158 g/km
+mini,Hatch,15300.0,2019,1998cc,"38,889 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,129 g/km
+mini,Clubman,18863.0,2020,1499cc,"14,472 miles",Petrol,Automatic,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,120 g/km
+mini,Countryman,31748.0,2020,1998cc,"12,491 miles",Petrol,Automatic,Grey,SUV,4X4,5.0,5.0,302 bhp,155 mph,5.1 seconds,196 g/km
+mini,Hatch,23893.0,2023,1499cc,"4,407 miles",Petrol,Automatic,Yellow,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,130 g/km
+mini,Hatch,15990.0,2018,1998cc,"39,223 miles",Petrol,Auto,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,119 g/km
+mini,Hatch,16990.0,2018,1499cc,"41,491 miles",Petrol,Auto,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Countryman,5999.0,2011,1598cc,"63,990 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,Clubman,17300.0,2020,1499cc,"20,339 miles",Petrol,Manual,Indian Summer Red Metallic,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,143 g/km
+mini,Hatch,14300.0,2019,1500cc,"23,034 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,115 g/km
+mini,Countryman,18000.0,2000,1499cc,"53,799 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,10480.0,2000,1499cc,"64,490 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,11480.0,2000,1499cc,"44,209 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,11250.0,2000,1998cc,"95,000 miles",Petrol,Automatic,BLACK,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,126 g/km
+mini,Hatch,7932.0,2018,1499cc,"29,696 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Cooper,19995.0,2020,1499cc,"17,000 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,4.0,134 bhp,127 mph,8.7 seconds,123 g/km
+mini,Hatch,9995.0,2017,1200cc,"55,880 miles",Petrol,Manual,Salsa Red,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,109 g/km
+mini,Hatch,4295.0,2009,1598cc,"61,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,4.0,121 bhp,123 mph,9.8 seconds,137 g/km
+mini,Hatch,11495.0,2017,1499cc,"30,638 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,8495.0,2015,1995cc,"84,000 miles",Diesel,Manual,Silver,Hatchback,4X2,3.0,4.0,168 bhp,141 mph,7.3 seconds,109 g/km
+mini,Hatch,15249.0,2019,1499cc,"42,674 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Hatch,10399.0,2017,1499cc,"56,717 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,10899.0,2017,1998cc,"66,769 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Hatch,18049.0,2020,1499cc,"14,974 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,14249.0,2020,1499cc,"34,051 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,117 g/km
+mini,Countryman,17599.0,2018,1499cc,"39,412 miles",Petrol,,White,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,132 g/km
+mini,Clubman,15999.0,2020,1499cc,"33,916 miles",Petrol,,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,143 g/km
+mini,Hatch,13899.0,2017,1998cc,"48,395 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,126 g/km
+mini,Hatch,15349.0,2017,1995cc,"32,902 miles",Diesel,,Blue,Hatchback,4X2,3.0,4.0,168 bhp,140 mph,7.2 seconds,107 g/km
+mini,Clubman,16490.0,2017,1998cc,"62,000 miles",Petrol,Manual,Grey,Estate,4X4,5.0,5.0,228 bhp,148 mph,,168 g/km
+mini,Hatch,15990.0,2021,1.5L,"13,384 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,129 g/km
+mini,Hatch,22850.0,2023,1.5L,"7,497 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,132 g/km
+mini,Hatch,11959.0,2018,1.5L,"60,651 miles",Petrol,Semiauto,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,117 g/km
+mini,Paceman,13993.0,2016,1598cc,"32,000 miles",Petrol,Manual,Black With Full Heated Carbon Black Gravity Leathe,Coupe,4X4,3.0,4.0,214 bhp,140 mph,6.9 seconds,169 g/km
+mini,Countryman,16250.0,2018,1499cc,"54,221 miles",Other,Automatic,Grey,Other,4X4,5.0,5.0,221 bhp,123 mph,,56 g/km
+mini,Hatch,10000.0,2015,1499cc,"30,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,5590.0,2012,1598cc,"82,435 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,121 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,9389.0,2014,1500cc,"39,416 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Cooper S,8495.0,2008,1598cc,"52,000 miles",Petrol,Manual,Green,Convertible,4X2,2.0,4.0,169 bhp,134 mph,7.4 seconds,199 g/km
+mini,One,9495.0,2013,1598cc,"35,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Cooper S,10995.0,2012,1598cc,"38,000 miles",Petrol,Manual,Green,Convertible,4X2,2.0,4.0,185 bhp,140 mph,7.3 seconds,139 g/km
+mini,Hatch,16000.0,2019,1499cc,"19,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,124 g/km
+mini,Hatch,1957.0,2005,1598cc,"118,457 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,114 bhp,124 mph,9.1 seconds,166 g/km
+mini,Hatch,3595.0,2009,1397cc,"94,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Hatch,10295.0,2016,1499cc,"41,556 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,18936.0,2020,1998cc,"23,417 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,149 g/km
+mini,Hatch,22996.0,2022,1499cc,"4,871 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,128 g/km
+mini,Hatch,28567.0,2023,1998cc,"3,102 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,155 g/km
+mini,One,5995.0,2012,1.6L,"63,838 miles",Petrol,Manual,Black,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Countryman,7995.0,2015,1598cc,"96,000 miles",Diesel,Manual,Grey,Hatchback,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,123 g/km
+mini,Hatch,8495.0,2016,1995cc,"94,750 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,168 bhp,140 mph,7.4 seconds,112 g/km
+mini,Cooper S,6995.0,2014,1598cc,"91,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,4.0,185 bhp,140 mph,7.3 seconds,139 g/km
+mini,Hatch,4995.0,2011,1598cc,"80,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,6995.0,2011,1598cc,"38,400 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,17649.0,2020,1499cc,"28,995 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,119 g/km
+mini,Hatch,16299.0,2020,1.5L,"15,783 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,13999.0,2021,1.5L,"8,018 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,129 g/km
+mini,Hatch,13974.0,2020,1.5L,"19,037 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,115 g/km
+mini,Cooper S,20790.0,2020,2L,"16,020 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,123 g/km
+mini,Hatch,14855.0,2021,2L,"30,125 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,6.8 seconds,144 g/km
+mini,Cooper,12489.0,2018,1.5L,"25,196 miles",Petrol,Manual,Other,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Hatch,7990.0,2014,1598cc,"65,000 miles",Diesel,Manual,Silver,Convertible,4X2,2.0,4.0,110 bhp,121 mph,10.3 seconds,
+mini,Cooper D,5990.0,2010,1598cc,"40,000 miles",Diesel,Manual,White,Convertible,4X2,2.0,4.0,113 bhp,121 mph,10.3 seconds,105 g/km
+mini,Cooper S,8910.0,2007,1598cc,"24,009 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,114 bhp,113 mph,11.2 seconds,182 g/km
+mini,Countryman,9499.0,2014,2L,"40,766 miles",Diesel,Automatic,Green,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,11.3 seconds,149 g/km
+mini,Hatch,9779.0,2018,1500cc,"91,000 miles",Petrol,Automatic,Moonwalk Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,109 g/km
+mini,Hatch,20750.0,2022,1.5L,"4,577 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Hatch,16491.0,2017,1998cc,"38,000 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,,126 g/km
+mini,Paceman,7199.0,2013,1598cc,"75,385 miles",Petrol,Manual,WHITE,Coupe,4X2,3.0,4.0,122 bhp,119 mph,10.4 seconds,140 g/km
+mini,Hatch,12490.0,2016,1499cc,"36,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Countryman,14995.0,2018,1499cc,"37,282 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,,134 g/km
+mini,Hatch,8299.0,2016,1496cc,"65,242 miles",Diesel,Manual,WHITE,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,95 g/km
+mini,Hatch,11295.0,2015,1998cc,"104,608 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Hatch,22699.0,2018,1998cc,"5,000 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,,126 g/km
+mini,Countryman,4299.0,2012,1598cc,"116,586 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,Hatch,5995.0,2011,1600cc,"53,230 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,10299.0,2017,1.5L,"35,314 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,13999.0,2019,1.5L,"41,232 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Hatch,24999.0,2023,2L,"7,258 miles",Petrol,Semiauto,Black,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,136 g/km
+mini,Hatch,21999.0,2021,2L,"7,566 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,144 g/km
+mini,One,6890.0,2013,1598cc,"63,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Countryman,10999.0,2016,2L,"71,141 miles",Diesel,Automatic,Green,Hatchback,,,,,,,
+mini,Cooper,9699.0,2015,1.5L,"34,540 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Cooper,19592.0,2021,1499cc,"19,423 miles",Petrol,Automatic,Grey,Convertible,4X2,3.0,4.0,134 bhp,127 mph,,136 g/km
+mini,Clubman,26995.0,2020,2L,"15,773 miles",Petrol,Semiauto,Blue,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,192 g/km
+mini,Hatch,10295.0,2015,1.5L,"53,393 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Countryman,37950.0,2023,2L,101 miles,Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,176 bhp,140 mph,,151 g/km
+mini,Clubman,34950.0,2023,2L,101 miles,Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,176 bhp,142 mph,7.2 seconds,152 g/km
+mini,Hatch,24950.0,2023,1.5L,101 miles,Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Hatch,30950.0,2023,2L,101 miles,Petrol,Semiauto,Black,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,141 g/km
+mini,Clubman,32950.0,2023,2L,101 miles,Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,176 bhp,142 mph,7.2 seconds,147 g/km
+mini,Hatch,26950.0,2023,2L,101 miles,Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,136 g/km
+mini,Hatch,27850.0,2023,1.5L,101 miles,Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,134 g/km
+mini,Hatch,19850.0,2018,2L,"24,794 miles",Petrol,Semiauto,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,127 g/km
+mini,Hatch,19250.0,2020,2L,"32,947 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,144 g/km
+mini,Countryman,17950.0,2019,1.5L,"27,174 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Hatch,26132.0,2021,2L,"11,721 miles",Petrol,Semiauto,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,155 g/km
+mini,Countryman,33000.0,2021,2L,"9,891 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,302 bhp,155 mph,,174 g/km
+mini,Hatch,14500.0,2017,1998cc,"26,571 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,126 g/km
+mini,Hatch,18600.0,2021,1500cc,"24,070 miles",Petrol,Manual,Chili Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Hatch,14200.0,2020,1500cc,"29,991 miles",Petrol,Manual,Midnight Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Countryman,15000.0,2017,1995cc,"46,000 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,,113 g/km
+mini,Hatch,10995.0,2016,1499cc,"42,000 miles",Petrol,Manual,Turquoise,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Hatch,13995.0,2017,1500cc,"34,305 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,102 bhp,121 mph,,114 g/km
+mini,Hatch,2995.0,2010,1598cc,"100,353 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,8995.0,2016,1496cc,"52,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Countryman,7995.0,2011,1995cc,"82,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,11.3 seconds,149 g/km
+mini,Hatch,2295.0,2008,1397cc,"105,705 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Cooper S,4295.0,2005,1598cc,"90,000 miles",Petrol,Manual,RED,Convertible,4X2,2.0,2.0,169 bhp,134 mph,7.4 seconds,211 g/km
+mini,Hatch,20388.0,2020,1L,"28,000 miles",Other,Automatic,GREEN,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,20388.0,2021,1L,"15,000 miles",Other,Automatic,SILVER,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Clubman,14990.0,2019,1998cc,"27,000 miles",Petrol,Automatic,Blue,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,125 g/km
+mini,Hatch,13599.0,2020,1499cc,"28,041 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,13199.0,2018,1499cc,"14,255 miles",Petrol,,Green,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,123 g/km
+mini,Hatch,19790.0,2021,1.5L,"19,246 miles",Petrol,Semiauto,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Countryman,27899.0,2019,2L,"10,316 miles",Petrol,Semiauto,White,SUV,4X4,5.0,5.0,302 bhp,155 mph,5.1 seconds,156 g/km
+mini,Cooper S,15990.0,2019,1998cc,"27,000 miles",Petrol,Manual,Starlight Blue Metallic,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,145 g/km
+mini,Clubman,20846.0,2020,1499cc,"27,049 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,138 g/km
+mini,Hatch,14700.0,2019,1499cc,"25,788 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,125 g/km
+mini,Countryman,15054.0,2019,1.5L,"57,374 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,31999.0,2020,2L,"5,289 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,2.0,302 bhp,165 mph,,189 g/km
+mini,Countryman,6495.0,2013,1995cc,"85,405 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,142 bhp,123 mph,9.3 seconds,122 g/km
+mini,Hatch,16250.0,2017,1500cc,"11,693 miles",Petrol,Automatic,Midnight Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,112 g/km
+mini,Hatch,18300.0,2019,1998cc,"34,676 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,129 g/km
+mini,Clubvan,6475.0,2013,1598cc,"134,300 miles",Diesel,Manual,White,Van,4X2,,,110 bhp,122 mph,10.2 seconds,
+mini,Hatch,20495.0,2018,1998cc,"27,000 miles",Petrol,Automatic,Black,Hatchback,,,,,,,
+mini,Hatch,5699.0,2010,1598cc,"62,060 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Countryman,4995.0,2010,1598cc,"113,000 miles",Diesel,Manual,BLACK,Hatchback,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,129 g/km
+mini,Hatch,8750.0,2013,1995cc,"32,000 miles",Diesel,Automatic,SILVER,Hatchback,4X2,3.0,4.0,110 bhp,119 mph,10.1 seconds,135 g/km
+mini,Clubman,15987.0,2020,2000cc,"69,288 miles",Petrol,Automatic,Grey,Other,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,151 g/km
+mini,Hatch,8995.0,2014,1496cc,"24,600 miles",Diesel,Manual,SILVER,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Hatch,9990.0,2016,1499cc,"37,800 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,12490.0,2017,1998cc,"33,606 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Countryman,13995.0,2017,1995cc,"64,000 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,147 bhp,129 mph,,
+mini,Clubman,11490.0,2017,1995cc,"71,660 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,12489.0,2015,1998cc,"57,664 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,129 g/km
+mini,Hatch,14899.0,2019,1499cc,"29,403 miles",Petrol,,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Countryman,24459.0,2020,2L,"14,533 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,189 bhp,138 mph,7.2 seconds,144 g/km
+mini,Hatch,12950.0,2015,1.5L,"53,375 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Hatch,14999.0,2020,1499cc,"24,370 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,117 g/km
+mini,Clubman,5990.0,2012,1995cc,"91,000 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,110 bhp,119 mph,10.6 seconds,138 g/km
+mini,Coupe,8799.0,2015,1.6L,"17,291 miles",Petrol,Manual,Grey,Coupe,4X2,2.0,2.0,121 bhp,127 mph,9.0 seconds,127 g/km
+mini,Hatch,14300.0,2018,1499cc,"18,210 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,117 g/km
+mini,Hatch,25640.0,2023,2L,"6,384 miles",Petrol,Semiauto,Red,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,136 g/km
+mini,Hatch,15650.0,2021,1.5L,"22,190 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Clubman,12777.0,0L,"42,508 miles",Petrol,Manual,BLACK,Estate,55.4 mpg,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,123 g/km
+mini,Hatch,9679.0,2018,1500cc,"74,200 miles",Petrol,Manual,Electric Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,15795.0,2019,1.5L,"28,700 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,12489.0,2018,1998.0cc,"35,271 miles",Petrol,Automatic,Metallic Paint,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,125 g/km
+mini,Hatch,10181.0,2016,1499cc,"51,785 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Clubman,21350.0,2019,2000cc,"11,126 miles",Petrol,Automatic,Chili Red,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,133 g/km
+mini,Hatch,18500.0,2021,1500cc,"22,605 miles",Petrol,Manual,Chili Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Hatch,11495.0,2014,1499cc,"29,000 miles",Petrol,Automatic,Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,109 g/km
+mini,Hatch,15995.0,2020,1499cc,"4,757 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,134 g/km
+mini,Countryman,10980.0,2014,1598cc,"20,163 miles",Petrol,Automatic,Black,Hatchback,4X4,5.0,5.0,121 bhp,113 mph,11.7 seconds,175 g/km
+mini,Countryman,6000.0,2012,1598cc,"98,047 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Hatch,6000.0,2004,1598cc,"79,000 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,5.0,161 bhp,135 mph,7.4 seconds,202 g/km
+mini,Hatch,4495.0,2012,1598cc,"77,275 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,4995.0,2010,1598cc,"89,669 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,2695.0,2007,1560cc,"119,736 miles",Diesel,Manual,WHITE,Hatchback,,,,,,,
+mini,Hatch,16550.0,2021,1499cc,"21,500 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,,128 g/km
+mini,Hatch,20394.0,2020,1L,"33,317 miles",Other,Automatic,GREY,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,6495.0,2013,1598cc,"68,768 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Paceman,7490.0,2014,1598cc,"72,000 miles",Petrol,Manual,Black,SUV,4X4,3.0,4.0,185 bhp,132 mph,7.8 seconds,157 g/km
+mini,Hatch,8495.0,2012,1598cc,"50,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,122 bhp,122 mph,10.4 seconds,150 g/km
+mini,Hatch,13890.0,2017,1.5L,"25,125 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Countryman,19950.0,2019,1.5L,"24,852 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,132 g/km
+mini,Hatch,22950.0,2023,1.5L,"2,091 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Hatch,13393.0,2018,1.5L,"13,911 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Countryman,15995.0,2017,1499cc,"43,038 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,,126 g/km
+mini,Countryman,17999.0,2019,1998cc,"24,833 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,189 bhp,140 mph,,148 g/km
+mini,Hatch,18400.0,2019,1998cc,"26,681 miles",Petrol,Automatic,Green,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,127 g/km
+mini,Countryman,16880.0,2019,1499cc,"48,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,132 g/km
+mini,Hatch,16333.0,2021,1499cc,"21,376 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Paceman,9290.0,2013,1598cc,"67,000 miles",Petrol,Automatic,BLACK,Coupe,4X2,3.0,4.0,122 bhp,114 mph,11.5 seconds,168 g/km
+mini,Clubman,20950.0,2019,1998cc,"33,508 miles",Petrol,Automatic,Grey,Estate,,,,,,,
+mini,Hatch,17100.0,2019,1.5L,"9,885 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,14700.0,2019,1.5L,"9,411 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Hatch,17220.0,2017,2L,"23,061 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,147 g/km
+mini,Hatch,14610.0,2020,1.5L,"17,979 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,18750.0,2017,1998cc,"30,196 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Hatch,6995.0,2014,1499cc,"90,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,19790.0,2020,2L,"21,062 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,153 g/km
+mini,Countryman,18830.0,2018,2L,"18,795 miles",Diesel,Semiauto,Silver,SUV,,,,,,,
+mini,Hatch,15599.0,2022,1.5L,"29,785 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Clubman,13500.0,2018,1.5L,"19,942 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,101 bhp,115 mph,,131 g/km
+mini,Hatch,13400.0,2016,1998cc,"62,300 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,147 g/km
+mini,Hatch,10999.0,2015,1998cc,"76,164 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,125 g/km
+mini,Hatch,8990.0,2016,1198cc,"49,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,2395.0,2003,1598cc,"103,444 miles",Petrol,Automatic,BLACK,Hatchback,,,,,,,
+mini,Hatch,16995.0,2020,1499cc,"32,431 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,135 g/km
+mini,Hatch,4890.0,2012,1598cc,"75,617 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Cooper,12499.0,2016,1499cc,"20,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Hatch,12950.0,2018,1499cc,"27,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,102 bhp,121 mph,,114 g/km
+mini,Countryman,7490.0,2013,1598cc,"56,340 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,One,3000.0,2006,1598cc,"85,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,88 bhp,109 mph,11.8 seconds,173 g/km
+mini,Cooper D,11999.0,2016,1496cc,"39,000 miles",Diesel,Manual,Black,Convertible,4X2,2.0,4.0,114 bhp,121 mph,9.9 seconds,105 g/km
+mini,Cooper S,15750.0,2017,1998cc,"39,000 miles",Petrol,Automatic,White Silver Metallic,Convertible,4X2,2.0,4.0,189 bhp,142 mph,7.1 seconds,134 g/km
+mini,Hatch,3995.0,2011,1600cc,"78,000 miles",Diesel,Manual,WHITE,Hatchback,4X2,3.0,4.0,113 bhp,122 mph,9.7 seconds,99 g/km
+mini,Hatch,9250.0,2016,1496cc,"59,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,17988.0,2020,1L,"19,000 miles",Other,Automatic,SILVER,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,8967.0,2015,1500cc,"45,536 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,11000.0,2016,1496cc,"59,000 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.5 seconds,99 g/km
+mini,Hatch,7295.0,2016,1496cc,"85,700 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Hatch,17500.0,2021,1499cc,"12,800 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,,128 g/km
+mini,Hatch,5695.0,2013,1598cc,"61,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Hatch,18995.0,2015,1998cc,"48,500 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,155 g/km
+mini,Hatch,21000.0,2022,1L,"9,632 miles",Other,Automatic,BLACK,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,4900.0,2012,1598cc,"69,990 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,17499.0,2020,1.5L,"11,383 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Roadster,8395.0,2015,1.6L,"53,000 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,2.0,182 bhp,141 mph,7.0 seconds,139 g/km
+mini,Clubman,16399.0,2020,1.5L,"15,470 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,145 g/km
+mini,Hatch,15980.0,2020,1.5L,"9,988 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,7790.0,2016,1496cc,"68,096 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,95 g/km
+mini,Hatch,8875.0,2017,1499cc,"85,715 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Countryman,5750.0,2014,1598cc,"106,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,113 bhp,115 mph,10.9 seconds,115 g/km
+mini,Hatch,18995.0,2020,1499cc,"12,725 miles",Petrol,Automatic,Midnight Black,Hatchback,,,,,,,
+mini,Hatch,14995.0,2017,1995cc,"42,100 miles",Diesel,Automatic,Thunder Grey,Hatchback,4X2,3.0,4.0,168 bhp,140 mph,7.2 seconds,107 g/km
+mini,Hatch,3995.0,2011,1598cc,"90,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Countryman,3950.0,2012,1598cc,"126,000 miles",Diesel,Manual,Silver,Hatchback,,,,,,,
+mini,Hatch,6990.0,2014,1496cc,"62,512 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,14950.0,2019,1499cc,"22,969 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.6 seconds,122 g/km
+mini,Hatch,10450.0,2017,1499cc,"64,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,13745.0,2020,1499cc,"23,441 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,130 g/km
+mini,Clubman,9450.0,2016,1995cc,"90,628 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Coupe,5990.0,2012,1598cc,"52,260 miles",Petrol,Manual,White,Coupe,4X2,2.0,2.0,121 bhp,127 mph,9.0 seconds,127 g/km
+mini,Hatch,7995.0,2014,1496cc,"84,000 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,114 bhp,125 mph,9.5 seconds,99 g/km
+mini,Cooper S,9750.0,2013,1995cc,"36,667 miles",Diesel,Automatic,BLUE,Convertible,4X2,2.0,4.0,142 bhp,126 mph,8.9 seconds,143 g/km
+mini,Countryman,12995.0,2014,1598cc,"59,400 miles",Petrol,Manual,Red,SUV,4X4,5.0,5.0,216 bhp,140 mph,7.0 seconds,172 g/km
+mini,Countryman,15500.0,2019,1499cc,"65,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,137 g/km
+mini,Hatch,17995.0,2020,1998cc,"47,406 miles",Petrol,Manual,Moonwalk Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,150 g/km
+mini,Hatch,3495.0,2011,1598cc,"111,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,10000.0,2018,1499cc,"53,285 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,13490.0,2020,1499cc,"64,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,3795.0,2013,1598cc,"119,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Countryman,8998.0,2012,1598cc,"47,000 miles",Petrol,Automatic,Pure Red,Hatchback,4X2,5.0,5.0,185 bhp,130 mph,7.9 seconds,166 g/km
+mini,Hatch,8499.0,2014,1598cc,"58,900 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,4.0,182 bhp,140 mph,7.3 seconds,139 g/km
+mini,Hatch,14000.0,2017,1998cc,"42,500 miles",Petrol,Automatic,BLUE,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,126 g/km
+mini,Countryman,6995.0,2013,1995cc,"122,000 miles",Diesel,Manual,Grey,Hatchback,4X4,5.0,5.0,142 bhp,121 mph,9.4 seconds,130 g/km
+mini,Countryman,16200.0,2017,1499cc,"36,808 miles",Petrol,Automatic,Green,SUV,4X2,5.0,5.0,134 bhp,124 mph,,128 g/km
+mini,Hatch,13000.0,2020,1499cc,"38,132 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,19990.0,2020,1998cc,"18,573 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,151 g/km
+mini,Hatch,16975.0,2019,1499cc,"30,546 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Hatch,23996.0,2021,1998cc,"10,338 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,140 g/km
+mini,Hatch,21232.0,2021,1499cc,"20,552 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,133 g/km
+mini,Cooper,15999.0,2018,1499cc,"16,821 miles",Petrol,Automatic,Green,Convertible,4X2,2.0,4.0,134 bhp,127 mph,,125 g/km
+mini,Hatch,7895.0,2015,1198cc,"62,134 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,15650.0,2019,1.5L,"12,853 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.6 seconds,114 g/km
+mini,Hatch,14490.0,2020,1.5L,"50,063 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,144 g/km
+mini,Countryman,21900.0,2020,1.5L,"30,955 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,43 g/km
+mini,Hatch,15950.0,2020,2L,"13,860 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,139 g/km
+mini,Hatch,17450.0,2020,1.5L,"18,813 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Clubman,26740.0,2023,1.5L,"1,549 miles",Petrol,Semiauto,Other,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,139 g/km
+mini,Hatch,3495.0,2011,1598cc,"36,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,98 bhp,112 mph,11.3 seconds,133 g/km
+mini,Hatch,9995.0,2016,1499cc,"26,750 miles",Petrol,Manual,White,Hatchback,,,,,,,
+mini,Hatch,17995.0,2017,1998cc,"42,890 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,147 g/km
+mini,Clubman,2495.0,2007,1598cc,"73,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,118 bhp,125 mph,9.8 seconds,132 g/km
+mini,Hatch,6995.0,2017,1496cc,"97,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,95 g/km
+mini,Hatch,8450.0,2015,1198cc,"65,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Clubman,11395.0,2017,1560cc,"64,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,103 g/km
+mini,Hatch,14995.0,2016,1998cc,"32,664 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,189 bhp,145 mph,6.7 seconds,126 g/km
+mini,Countryman,6590.0,2013,2000cc,"101,000 miles",Diesel,Manual,Blue,Other,4X4,5.0,5.0,142 bhp,121 mph,9.4 seconds,130 g/km
+mini,Hatch,14950.0,2020,1L,"31,550 miles",Other,Automatic,GREY,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,5544.0,2015,1198cc,"58,000 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,4400.0,2012,1598cc,"89,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Paceman,7300.0,2014,1598cc,"63,476 miles",Petrol,Manual,BLUE,Coupe,4X2,3.0,4.0,122 bhp,119 mph,10.4 seconds,137 g/km
+mini,Countryman,7380.0,2014,1598cc,"71,500 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,134 g/km
+mini,Hatch,10000.0,2012,1598cc,"72,089 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,209 bhp,148 mph,6.5 seconds,153 g/km
+mini,Countryman,25546.0,2019,1499cc,"41,767 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,43 g/km
+mini,Hatch,27490.0,2022,1998cc,"16,758 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,156 g/km
+mini,Countryman,17499.0,2020,1499cc,"18,848 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Hatch,15449.0,2018,1998cc,"52,786 miles",Petrol,,Silver,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,150 g/km
+mini,Hatch,13849.0,2020,1499cc,"23,083 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,10.3 seconds,131 g/km
+mini,Hatch,15998.0,2020,1.5L,"20,000 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Cooper S,14399.0,2016,2L,"31,414 miles",Petrol,Manual,Red,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Clubman,15490.0,2018,2L,"28,015 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,144 g/km
+mini,Clubman,13990.0,2018,2L,"22,209 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,132 mph,,112 g/km
+mini,Hatch,3990.0,2009,1598cc,"100,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,176 bhp,138 mph,7.4 seconds,153 g/km
+mini,Clubman,13299.0,2017,1.5L,"23,242 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,121 g/km
+mini,Hatch,7995.0,2013,1598cc,"28,640 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,20950.0,2022,1.5L,"4,000 miles",Petrol,Automatic,MOONWALK GREY METALLIC,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,128 g/km
+mini,Hatch,21139.0,2021,1499cc,"6,252 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Clubman,28922.0,2020,1998cc,"17,722 miles",Petrol,Automatic,Silver,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,183 g/km
+mini,Hatch,16000.0,2020,1499cc,"23,318 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,13490.0,2017,1499cc,"49,000 miles",Petrol,Auto,Blue,Hatchback,,,,,,,
+mini,Cooper,16030.0,2020,1.5L,"48,153 miles",Petrol,Manual,Other,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.8 seconds,146 g/km
+mini,Hatch,13890.0,2020,1.5L,"31,681 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,14990.0,2021,1.5L,"38,626 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Hatch,13740.0,2020,1.5L,"34,328 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Countryman,24500.0,2020,1.5L,"42,351 miles",Hybrid,Semiauto,Silver,SUV,4X4,5.0,5.0,221 bhp,122 mph,,41 g/km
+mini,Hatch,21500.0,2021,1.5L,"12,900 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Hatch,24850.0,2021,2L,"6,169 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,141 g/km
+mini,Hatch,20290.0,2019,2L,"15,126 miles",Petrol,Semiauto,Green,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,127 g/km
+mini,Hatch,9995.0,2017,1499cc,"41,700 miles",Petrol,Manual,Moonwalk Grey Semi-Metallic,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,5995.0,2014,1499cc,"90,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,4795.0,2014,1499cc,"107,296 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,9990.0,2016,1496cc,"28,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,5395.0,2010,1598cc,"39,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Countryman,8995.0,2014,1995cc,"89,000 miles",Diesel,Automatic,Blue,Other,4X4,5.0,5.0,142 bhp,120 mph,9.5 seconds,161 g/km
+mini,Hatch,4995.0,2012,1598cc,"48,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,6795.0,2014,1499cc,"75,444 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Cooper,11995.0,2016,1500cc,"15,739 miles",Petrol,Manual,Turquoise,Other,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,114 g/km
+mini,Hatch,15295.0,2019,1998cc,"17,481 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,139 g/km
+mini,Countryman,11499.0,2015,1995cc,"48,315 miles",Diesel,Manual,BLACK,Hatchback,4X4,5.0,4.0,142 bhp,121 mph,9.4 seconds,131 g/km
+mini,Hatch,5475.0,2012,1598cc,"69,644 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,121 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,7495.0,2016,1496cc,"77,028 miles",Diesel,Manual,GREEN,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,11.4 seconds,92 g/km
+mini,Hatch,12499.0,2015,1995cc,"40,000 miles",Diesel,Automatic,GREEN,Coupe,4X4,3.0,4.0,143 bhp,121 mph,9.4 seconds,161 g/km
+mini,Hatch,14995.0,2018,1499cc,"36,000 miles",Petrol,Automatic,ORANGE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,114 g/km
+mini,Hatch,9490.0,2017,1499cc,"63,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Countryman,7299.0,2013,1995cc,"66,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,142 bhp,123 mph,9.3 seconds,122 g/km
+mini,Hatch,6295.0,2012,1598cc,"66,221 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,121 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,12600.0,2021,1499cc,"99,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,133 g/km
+mini,Hatch,13690.0,2019,1499cc,"47,351 miles",Petrol,Automatic,ORANGE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,111 g/km
+mini,Hatch,15980.0,2021,1499cc,"20,531 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Countryman,16995.0,2019,1499cc,"19,209 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Hatch,15585.0,2018,2L,"14,068 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,147 g/km
+mini,Countryman,15991.0,2013,1.6L,"42,619 miles",Petrol,Automatic,White,Hatchback,4X4,5.0,5.0,216 bhp,139 mph,7.0 seconds,184 g/km
+mini,Cooper,16995.0,2019,1.5L,"19,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,111 g/km
+mini,Hatch,18990.0,2020,1499cc,"14,216 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,116 g/km
+mini,Hatch,11350.0,2016,1998cc,"50,100 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Hatch,16495.0,2018,1499cc,"26,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,112 g/km
+mini,Countryman,14200.0,2017,1998cc,"52,832 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,189 bhp,140 mph,,141 g/km
+mini,Countryman,18500.0,2019,2L,"18,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.6 seconds,143 g/km
+mini,Clubman,12690.0,2016,1995cc,"63,500 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,188 bhp,140 mph,7.4 seconds,117 g/km
+mini,Hatch,3995.0,2010,1598cc,"103,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,113 bhp,122 mph,9.7 seconds,99 g/km
+mini,Hatch,8995.0,2015,1198cc,"35,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Clubman,15994.0,2020,1499cc,"31,549 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,136 g/km
+mini,Hatch,16795.0,2020,1499cc,"41,501 miles",Petrol,Manual,White Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Hatch,9645.0,2019,"85,197 miles",Petrol,Manual,Black,Hatchback,44.8 mpg,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,8995.0,2016,1499cc,"61,313 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Countryman,6999.0,2012,1598cc,"89,525 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Countryman,7999.0,2013,1598cc,"66,127 miles",Diesel,Manual,WHITE,Hatchback,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,129 g/km
+mini,Hatch,9989.0,2017,1496cc,"40,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,95 g/km
+mini,Cooper S,13565.0,2018,1998cc,"43,139 miles",Petrol,Manual,TURQUOISE,Convertible,4X2,2.0,4.0,189 bhp,143 mph,,145 g/km
+mini,Countryman,6990.0,2011,2000cc,"72,425 miles",Diesel,Automatic,SILVER,Hatchback,4X4,5.0,5.0,110 bhp,109 mph,11.8 seconds,158 g/km
+mini,Hatch,13995.0,2015,1499cc,"24,000 miles",Petrol,Automatic,RED,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,109 g/km
+mini,Hatch,6490.0,2013,1598cc,"59,850 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,96 bhp,116 mph,10.5 seconds,127 g/km
+mini,Clubman,22600.0,2018,1998cc,"31,278 miles",Petrol,Automatic,WHITE,Estate,4X4,5.0,5.0,228 bhp,148 mph,,154 g/km
+mini,Hatch,9995.0,2011,1598cc,"68,000 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,212 bhp,148 mph,6.5 seconds,165 g/km
+mini,Cooper,11995.0,2018,2L,"92,100 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,168 bhp,139 mph,,109 g/km
+mini,Clubman,6995.0,2010,1598cc,"83,748 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,113 bhp,122 mph,10.2 seconds,103 g/km
+mini,Convertible,5495.0,2010,1598cc,"70,850 miles",Diesel,Manual,White,Convertible,4X2,2.0,4.0,113 bhp,121 mph,10.3 seconds,105 g/km
+mini,Countryman,28140.0,2019,1998cc,"33,000 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,133 g/km
+mini,Countryman,14950.0,2016,1598cc,"41,000 miles",Petrol,Automatic,SILVER,Hatchback,4X4,5.0,5.0,121 bhp,114 mph,11.7 seconds,169 g/km
+mini,Countryman,13950.0,2017,1499cc,"66,000 miles",Petrol,Manual,BLUE,Hatchback,4X4,5.0,5.0,134 bhp,122 mph,,139 g/km
+mini,Hatch,18750.0,2018,1998cc,"15,000 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,128 g/km
+mini,Hatch,17950.0,2018,1998cc,"54,000 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,127 g/km
+mini,Hatch,14450.0,2015,1998cc,"64,000 miles",Petrol,Automatic,RED,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Cooper,7190.0,2010,1598cc,"61,972 miles",Petrol,Automatic,YELLOW,Convertible,4X2,2.0,4.0,122 bhp,119 mph,11.1 seconds,154 g/km
+mini,Hatch,17699.0,2019,1499cc,"7,199 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Hatch,19999.0,2019,1998cc,"18,555 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,127 g/km
+mini,Hatch,14499.0,2017,1499cc,"29,580 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,114 g/km
+mini,Countryman,15495.0,2015,1.6L,"48,000 miles",Petrol,Manual,Red,Hatchback,4X4,5.0,5.0,216 bhp,140 mph,7.0 seconds,165 g/km
+mini,Hatch,12790.0,2019,1.5L,"25,987 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,124 g/km
+mini,Clubman,9801.0,2017,1.5L,"72,699 miles",Petrol,Manual,Other,Estate,4X2,5.0,5.0,134 bhp,127 mph,,121 g/km
+mini,Hatch,11100.0,2018,1.5L,"41,704 miles",Petrol,Manual,Blue,Hatchback,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,116 g/km
+mini,Hatch,17999.0,2020,1.5L,"11,810 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,133 g/km
+mini,Hatch,15999.0,2022,1.5L,"29,490 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,16690.0,2019,1.5L,"20,780 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,120 g/km
+mini,Hatch,14090.0,2020,1.5L,"23,524 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Clubman,17090.0,2020,1.5L,"14,220 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,127 g/km
+mini,Clubman,19440.0,2019,1.5L,"29,598 miles",Petrol,Semiauto,Black,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,130 g/km
+mini,Clubman,31950.0,2022,2L,"20,719 miles",Petrol,Semiauto,Silver,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,173 g/km
+mini,Hatch,25950.0,2021,2L,"18,190 miles",Petrol,Semiauto,Silver,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,141 g/km
+mini,Hatch,21950.0,2023,1.5L,"11,650 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,128 g/km
+mini,Hatch,24450.0,2021,2L,"19,124 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,140 g/km
+mini,Hatch,24940.0,2021,2L,"11,787 miles",Petrol,Semiauto,Black,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,138 g/km
+mini,Hatch,13242.0,2018,1.5L,"23,121 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,123 g/km
+mini,Hatch,14750.0,2018,1998cc,"21,543 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,,150 g/km
+mini,Hatch,7510.0,2010,1598cc,"31,514 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,98 bhp,112 mph,12.3 seconds,150 g/km
+mini,Countryman,6740.0,2014,1.6L,"85,603 miles",Diesel,Manual,White,Hatchback,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,129 g/km
+mini,Cooper S,23090.0,2021,2L,"17,561 miles",Petrol,Semiauto,Blue,Convertible,4X2,3.0,4.0,176 bhp,143 mph,,143 g/km
+mini,Hatch,22850.0,2023,1.5L,"4,950 miles",Petrol,Semiauto,Other,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,132 g/km
+mini,Hatch,9102.0,2017,1.5L,"60,199 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,13999.0,2018,1.5L,"15,911 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,117 g/km
+mini,Countryman,14499.0,2018,1.5L,"45,101 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,134 bhp,124 mph,,134 g/km
+mini,Hatch,20290.0,2021,1.5L,"10,809 miles",Petrol,Semiauto,Other,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,131 g/km
+mini,Hatch,18490.0,2022,1.5L,"3,703 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Countryman,9995.0,2013,1598cc,"20,023 miles",Petrol,Automatic,Silver,SUV,4X2,5.0,5.0,122 bhp,113 mph,11.6 seconds,168 g/km
+mini,Countryman,10750.0,2014,1995cc,"82,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,142 bhp,121 mph,9.5 seconds,150 g/km
+mini,Hatch,12890.0,2020,1.5L,"39,885 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Hatch,2995.0,2005,1598cc,"107,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,114 bhp,124 mph,9.1 seconds,166 g/km
+mini,Hatch,7990.0,2016,1496cc,"68,902 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,95 g/km
+mini,Countryman,20649.0,2018,1995cc,"48,000 miles",Diesel,Automatic,Black,SUV,,,,,,,
+mini,Hatch,10500.0,2018,1499cc,"70,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,117 g/km
+mini,Hatch,2695.0,2004,1598cc,"77,871 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,114 bhp,124 mph,9.2 seconds,165 g/km
+mini,Countryman,17495.0,2020,1499cc,"24,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,134 bhp,127 mph,,143 g/km
+mini,Hatch,14649.0,2020,1499cc,"20,166 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,14049.0,2020,1499cc,"33,110 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Countryman,16699.0,2019,1499cc,"57,648 miles",Hybrid,,Silver,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,43 g/km
+mini,Cooper,17599.0,2020,1499cc,"20,495 miles",Petrol,,White,Convertible,4X2,2.0,4.0,134 bhp,127 mph,8.7 seconds,143 g/km
+mini,Countryman,24495.0,2018,2L,"9,079 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,228 bhp,145 mph,,158 g/km
+mini,Hatch,15299.0,2020,1.5L,"16,783 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Countryman,18950.0,2020,1.5L,"34,450 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,134 bhp,127 mph,,147 g/km
+mini,Hatch,11398.0,2017,1.5L,"60,607 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Hatch,16111.0,2019,1.5L,"21,587 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,124 g/km
+mini,Hatch,11777.0,2016,2L,"32,707 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Countryman,16250.0,2019,1.5L,"23,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,134 g/km
+mini,Paceman,9250.0,2016,1.6L,"49,318 miles",Petrol,Manual,Black,Coupe,4X2,3.0,4.0,122 bhp,119 mph,10.4 seconds,137 g/km
+mini,Countryman,17450.0,2018,1500cc,"15,240 miles",Petrol,Manual,Midnight Black,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,,134 g/km
+mini,Hatch,15999.0,2022,1.5L,"24,909 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,15549.0,2019,1.5L,"29,262 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Countryman,35048.0,2022,2L,"16,617 miles",Petrol,Semiauto,Green,SUV,4X4,5.0,5.0,302 bhp,155 mph,,175 g/km
+mini,Hatch,21490.0,2023,1.5L,"4,659 miles",Petrol,Semiauto,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Countryman,21340.0,2019,1.5L,"28,238 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,134 g/km
+mini,Hatch,17920.0,2020,1.5L,"11,722 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Cooper,12500.0,2017,1.5L,"15,370 miles",Petrol,Manual,Other,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,114 g/km
+mini,Hatch,14990.0,2020,1.5L,"22,960 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,19000.0,2020,2L,"12,015 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,142 g/km
+mini,Hatch,16350.0,2020,1499cc,"27,805 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,112 g/km
+mini,Countryman,26090.0,2020,1499cc,"27,188 miles",Other,Automatic,Red,Other,4X4,5.0,5.0,221 bhp,122 mph,,41 g/km
+mini,Countryman,18990.0,2017,1499cc,"30,000 miles",Petrol,Automatic,Melting Silver,SUV,4X4,5.0,5.0,134 bhp,122 mph,,136 g/km
+mini,unassigned,7790.0,2015,1198cc,"51,000 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,9950.0,2011,1598cc,"56,500 miles",Petrol,Manual,Eclipse Grey Metallic,Hatchback,4X2,3.0,4.0,212 bhp,148 mph,6.5 seconds,165 g/km
+mini,Countryman,7295.0,2013,1598cc,"86,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,185 bhp,134 mph,7.6 seconds,143 g/km
+mini,Countryman,18998.0,2018,2L,"30,991 miles",Petrol,Semiauto,Black,SUV,4X4,5.0,5.0,189 bhp,138 mph,,146 g/km
+mini,Hatch,16498.0,2016,2L,"40,738 miles",Petrol,Semiauto,Red,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Cooper,16995.0,2015,1598cc,"18,000 miles",Petrol,Manual,Red,Convertible,4X2,2.0,4.0,209 bhp,146 mph,6.9 seconds,157 g/km
+mini,Hatch,7495.0,2015,1198cc,"62,000 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,7995.0,2016,1499cc,"83,869 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,4295.0,2012,1598cc,"93,137 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,11495.0,2016,1500cc,"14,000 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+mini,Countryman,4750.0,2013,1598cc,"116,000 miles",Petrol,Manual,Brown,SUV,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,Countryman,9250.0,2014,1598cc,"35,083 miles",Petrol,Manual,Metallic Black,Hatchback,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,Countryman,9932.0,2015,1598cc,"58,018 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,185 bhp,134 mph,7.6 seconds,144 g/km
+mini,Countryman,18299.0,2019,1499cc,"26,570 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Hatch,12599.0,2019,1499cc,"40,310 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Countryman,17299.0,2017,1499cc,"33,974 miles",Petrol,,Black,SUV,4X4,5.0,5.0,134 bhp,122 mph,,140 g/km
+mini,Cooper S,23590.0,2022,2L,"19,941 miles",Petrol,Semiauto,Grey,Convertible,4X2,2.0,4.0,176 bhp,143 mph,7.1 seconds,143 g/km
+mini,Hatch,3695.0,2010,1397cc,"108,300 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Cooper,16999.0,2019,2L,"47,000 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,129 g/km
+mini,Cooper,17990.0,2018,1499cc,"18,000 miles",Petrol,Automatic,Black,Convertible,4X2,2.0,4.0,134 bhp,127 mph,,122 g/km
+mini,Hatch,25828.0,2022,1998cc,"2,200 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,135 g/km
+mini,Clubman,29533.0,2020,1998cc,"2,729 miles",Petrol,Automatic,Red,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,192 g/km
+mini,Clubman,16475.0,2019,1499cc,"29,608 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,131 g/km
+mini,Paceman,14299.0,2014,1598cc,"19,880 miles",Petrol,Automatic,Grey,Coupe,4X4,3.0,4.0,185 bhp,129 mph,8.2 seconds,170 g/km
+mini,Hatch,10479.0,2019,1500cc,"67,300 miles",Petrol,Manual,Lapisluxury Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,16000.0,2015,1998cc,"54,240 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,14950.0,2018,1998cc,"29,698 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,145 g/km
+mini,Hatch,2995.0,2007,1598cc,"133,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,118 bhp,126 mph,9.1 seconds,129 g/km
+mini,Hatch,15995.0,2017,1499cc,"23,254 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,114 g/km
+mini,Clubman,10998.0,2016,2L,"62,803 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,19049.0,2017,1998cc,"24,375 miles",Petrol,,Blue,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Hatch,12990.0,2019,1.5L,"30,514 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Hatch,15990.0,2021,1.5L,"9,051 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,,126 g/km
+mini,Hatch,13129.0,2020,1.5L,"38,145 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,117 g/km
+mini,Hatch,21145.0,2022,1.5L,"5,626 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Hatch,22420.0,2023,1.5L,861 miles,Petrol,Semiauto,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Hatch,15500.0,2018,1500cc,"14,467 miles",Petrol,Automatic,Lapisluxury Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,110 g/km
+mini,Clubman,15849.0,2017,1998cc,"20,424 miles",Petrol,,Red,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,147 g/km
+mini,Clubman,12499.0,2018,1499cc,"54,163 miles",Petrol,,Black,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,131 g/km
+mini,Hatch,18099.0,2020,1499cc,"31,258 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,137 g/km
+mini,Hatch,14349.0,2017,1998cc,"57,446 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,128 g/km
+mini,Cooper S,20999.0,2019,2L,"12,906 miles",Petrol,Semiauto,Black,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,129 g/km
+mini,One,4499.0,2010,1.6L,"106,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Hatch,17480.0,2020,1499cc,"8,000 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,111 g/km
+mini,Hatch,19993.0,2020,1499cc,"9,481 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,116 g/km
+mini,Hatch,23874.0,2021,1998cc,"13,618 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,137 g/km
+mini,Clubman,5695.0,2010,1598cc,"93,000 miles",Petrol,Manual,Black,Estate,4X2,5.0,5.0,185 bhp,141 mph,7.5 seconds,137 g/km
+mini,Hatch,14982.0,2020,2L,"25,923 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,141 g/km
+mini,Hatch,20995.0,2020,2L,"20,074 miles",Petrol,Semiauto,Silver,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,120 g/km
+mini,Countryman,16950.0,2017,2L,"16,615 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,189 bhp,140 mph,,141 g/km
+mini,Hatch,17990.0,2018,2L,"23,337 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,,129 g/km
+mini,Countryman,30990.0,2020,2L,"14,325 miles",Petrol,Semiauto,Red,SUV,4X4,5.0,5.0,302 bhp,155 mph,,187 g/km
+mini,Countryman,16995.0,2017,1499cc,"55,505 miles",Petrol,Automatic,Moonwalk Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,,126 g/km
+mini,Hatch,6875.0,2015,1496cc,"83,781 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,94 bhp,116 mph,11.4 seconds,92 g/km
+mini,Cooper,5995.0,2013,1598cc,"73,700 miles",Petrol,Manual,Green,Convertible,4X2,2.0,4.0,122 bhp,123 mph,9.8 seconds,133 g/km
+mini,Hatch,12900.0,2020,1499cc,"37,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.6 seconds,134 g/km
+mini,Countryman,7495.0,2010,1598cc,"75,000 miles",Petrol,Automatic,Red,Other,4X4,5.0,4.0,185 bhp,127 mph,8.3 seconds,180 g/km
+mini,Hatch,8995.0,2014,1499cc,"55,864 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,11995.0,2018,1499cc,"50,407 miles",Petrol,Manual,Melting Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,122 g/km
+mini,Hatch,3495.0,2008,1598cc,"73,000 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,118 bhp,122 mph,10.4 seconds,156 g/km
+mini,Clubman,16999.0,2018,1499cc,"16,084 miles",Petrol,Automatic,BLACK,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,121 g/km
+mini,Hatch,14622.0,2020,1499cc,"48,048 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Hatch,13450.0,2019,1499cc,"36,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,10.3 seconds,117 g/km
+mini,Hatch,14100.0,2015,1998cc,"33,411 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,155 g/km
+mini,Hatch,12350.0,2019,1499cc,"20,724 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,1995.0,2002,1.598L,"99,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,5.0,88 bhp,115 mph,10.9 seconds,158 g/km
+mini,Hatch,19300.0,2022,2000cc,"19,550 miles",Petrol,Automatic,Moonwalk Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,14049.0,2019,1499cc,"37,247 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Hatch,15449.0,2019,1499cc,"30,784 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Clubvan,5750.0,2013,1598cc,"176,687 miles",Diesel,Manual,White,Van,4X2,,,110 bhp,122 mph,10.2 seconds,
+mini,Countryman,18495.0,2019,1499cc,"29,271 miles",Petrol,Manual,Chili Red,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,137 g/km
+mini,Hatch,9995.0,2016,1198cc,"43,926 miles",Petrol,Manual,Melting Silver,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,109 g/km
+mini,Hatch,19995.0,2016,1998cc,"19,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,133 g/km
+mini,Hatch,12495.0,2017,1998cc,"48,900 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Cooper S,17995.0,2018,1998cc,"5,000 miles",Petrol,Manual,Blue,Convertible,4X2,2.0,4.0,189 bhp,143 mph,,145 g/km
+mini,Hatch,10049.0,2017,1499cc,"46,191 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,9000.0,2016,1.5L,"71,449 miles",Diesel,Manual,Silver,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Hatch,12712.0,2019,1.5L,"26,209 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,16999.0,2022,1.5L,"25,570 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,15799.0,2020,1.5L,"25,258 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,135 g/km
+mini,Countryman,15450.0,2017,1.5L,"44,716 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,126 mph,,126 g/km
+mini,Countryman,37950.0,2023,1.5L,"3,778 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,221 bhp,122 mph,,42 g/km
+mini,Clubman,25950.0,2021,2L,"12,810 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,176 bhp,142 mph,7.3 seconds,155 g/km
+mini,Hatch,24440.0,2021,2L,"24,883 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,6.8 seconds,140 g/km
+mini,Cooper,12490.0,2016,2L,"68,680 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,128 g/km
+mini,Clubman,6440.0,2014,1.6L,"75,965 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,98 bhp,115 mph,11.1 seconds,129 g/km
+mini,Cooper S,15750.0,2017,1998cc,"44,114 miles",Petrol,Automatic,White,Convertible,4X2,2.0,4.0,189 bhp,142 mph,7.1 seconds,134 g/km
+mini,Cooper S,22475.0,2020,1998cc,"18,829 miles",Petrol,Automatic,Silver,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,149 g/km
+mini,Hatch,19368.0,2020,1499cc,"21,491 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,134 g/km
+mini,Hatch,8995.0,2015,1198cc,"44,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Countryman,17400.0,2021,1499cc,"25,752 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,134 bhp,127 mph,,143 g/km
+mini,Cooper S,26340.0,2022,1998cc,"7,254 miles",Petrol,Automatic,Black,Convertible,4X2,3.0,4.0,176 bhp,143 mph,,145 g/km
+mini,Hatch,5910.0,2011,1598cc,"76,305 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,4.0,122 bhp,122 mph,10.4 seconds,150 g/km
+mini,Countryman,18295.0,2019,1.5L,"20,601 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,137 g/km
+mini,Clubman,17300.0,2020,1.5L,"26,651 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,127 g/km
+mini,Cooper S,14990.0,2019,2L,"54,122 miles",Petrol,Semiauto,Grey,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,132 g/km
+mini,Hatch,9795.0,2015,1499cc,"37,548 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Countryman,14990.0,2014,1598cc,"57,350 miles",Petrol,Automatic,Grey,Other,4X4,5.0,5.0,216 bhp,139 mph,7.0 seconds,179 g/km
+mini,Countryman,7995.0,2015,1598cc,"90,000 miles",Diesel,Manual,Red,Hatchback,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,123 g/km
+mini,Countryman,7495.0,2011,1598cc,"69,000 miles",Petrol,Manual,Black,Other,4X4,5.0,4.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Countryman,16495.0,2018,1499cc,"9,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,134 bhp,126 mph,,126 g/km
+mini,Hatch,3495.0,1970,1598cc,"90,108 miles",Petrol,Manual,Beige,Hatchback,4X2,3.0,4.0,75 bhp,109 mph,13.2 seconds,127 g/km
+mini,Cooper S,5995.0,2011,1995cc,"93,000 miles",Diesel,Automatic,Black,Convertible,4X2,2.0,4.0,142 bhp,126 mph,8.9 seconds,143 g/km
+mini,Hatch,16495.0,2019,1998cc,"26,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,145 g/km
+mini,Hatch,6295.0,2012,1598cc,"78,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,12995.0,2017,1499cc,"37,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,6295.0,2014,1600cc,"108,000 miles",Diesel,Manual,Red,Coupe,,,,,,,
+mini,Hatch,12400.0,2020,1.5L,"41,787 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,134 g/km
+mini,Countryman,27050.0,2022,1.5L,"9,673 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,134 bhp,127 mph,,149 g/km
+mini,Clubman,25800.0,2022,1.5L,"4,119 miles",Petrol,Semiauto,Other,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,138 g/km
+mini,Hatch,14990.0,2020,1.5L,"18,574 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Countryman,19499.0,2019,1.5L,"24,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,134 g/km
+mini,Hatch,29990.0,2023,2L,"6,150 miles",Petrol,Semiauto,Green,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,156 g/km
+mini,Hatch,12511.0,2018,1.5L,"17,065 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,122 g/km
+mini,Cooper,3995.0,2011,1.6L,"122,923 miles",Diesel,Manual,Blue,Estate,4X2,5.0,5.0,113 bhp,122 mph,10.2 seconds,103 g/km
+mini,Hatch,6695.0,2014,1499cc,"75,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Countryman,9295.0,2014,1598cc,"49,398 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,122 bhp,118 mph,10.5 seconds,140 g/km
+mini,Cooper S,18995.0,2018,1998cc,"40,060 miles",Petrol,Automatic,Starlight Blue,Convertible,,,,,,,
+mini,Roadster,7990.0,2014,1995cc,"49,000 miles",Diesel,Manual,BLACK,Convertible,4X2,2.0,2.0,142 bhp,132 mph,8.1 seconds,118 g/km
+mini,Clubman,16999.0,2020,1.5L,"28,936 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,145 g/km
+mini,Hatch,15827.0,2019,1.5L,"14,985 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,16490.0,2021,1499cc,"10,055 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,,125 g/km
+mini,Hatch,8795.0,2014,1998cc,"85,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Cooper,15750.0,2017,1.5L,"16,969 miles",Petrol,Semiauto,Silver,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.7 seconds,123 g/km
+mini,Hatch,20495.0,2021,1.5L,"16,994 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Countryman,18995.0,2018,1.5L,"22,154 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,134 bhp,124 mph,,132 g/km
+mini,Hatch,15899.0,2022,1.5L,"25,933 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,13990.0,2020,1.5L,"26,015 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Hatch,17800.0,2020,2L,"27,280 miles",Petrol,Manual,Other,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,148 g/km
+mini,Countryman,19250.0,2020,1.5L,"35,813 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,153 g/km
+mini,Hatch,16400.0,2018,1.5L,"16,500 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,125 g/km
+mini,Hatch,9900.0,2018,1499cc,"58,886 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,123 g/km
+mini,Hatch,23377.0,2023,1499cc,"4,184 miles",Petrol,Automatic,Yellow,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,127 g/km
+mini,Cooper S,18900.0,2020,1998cc,"18,975 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,152 g/km
+mini,3 Door Hatch,17250.0,0L,"9,600 miles",Petrol,Manual,RED,Hatchback,42.8 mpg,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,147 g/km
+mini,Hatch,20250.0,2020,2L,"13,048 miles",Petrol,Semiauto,White,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,127 g/km
+mini,Clubman,10799.0,2017,1995cc,"67,232 miles",Diesel,,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Countryman,23880.0,2020,1.5L,"11,358 miles",Petrol,Semiauto,Other,SUV,4X2,5.0,5.0,134 bhp,127 mph,,148 g/km
+mini,Cooper,16499.0,2020,1.5L,"17,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,25490.0,2023,1499cc,"2,931 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,131 g/km
+mini,Hatch,11800.0,2019,1499cc,"90,960 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,114 g/km
+mini,Hatch,9779.0,2018,1500cc,"90,000 miles",Diesel,Automatic,British Racing Green,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,,103 g/km
+mini,Countryman,16605.0,2019,1.5L,"33,001 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Hatch,19650.0,2020,2L,"2,583 miles",Petrol,Semiauto,Silver,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,141 g/km
+mini,Hatch,20250.0,2020,2L,"37,471 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,161 g/km
+mini,Cooper S,18990.0,2021,1.5L,"8,387 miles",Petrol,Manual,Yellow,Convertible,4X2,3.0,4.0,134 bhp,128 mph,,135 g/km
+mini,Cooper,5000.0,2011,1.6L,"71,611 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,21999.0,2022,1499cc,"5,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Cooper S,11990.0,2016,1998cc,"50,000 miles",Petrol,Manual,Turquoise,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Hatch,12750.0,2017,1499cc,"19,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,18995.0,2019,1998cc,"30,760 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,157 g/km
+mini,Cooper S,12290.0,2016,1998cc,"57,836 miles",Petrol,Manual,TURQUOISE,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Hatch,8495.0,2014,1499cc,"53,632 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Clubman,14995.0,2018,1499cc,"16,854 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,101 bhp,115 mph,,131 g/km
+mini,Hatch,3490.0,2012,1598cc,"98,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,7990.0,2015,1198cc,"46,750 miles",Petrol,Manual,ORANGE,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,7495.0,2010,1598cc,"72,170 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,212 bhp,148 mph,6.5 seconds,165 g/km
+mini,Countryman,8950.0,2012,1598cc,"100,000 miles",Petrol,Automatic,Black,Hatchback,4X4,5.0,5.0,216 bhp,139 mph,7.0 seconds,184 g/km
+mini,Hatch,18495.0,2019,1998cc,"25,617 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,129 g/km
+mini,Countryman,20495.0,2019,1499cc,"31,000 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,134 g/km
+mini,unassigned,2190.0,2007,1598cc,"83,000 miles",Petrol,Manual,RED,Convertible,4X2,2.0,4.0,114 bhp,120 mph,9.8 seconds,174 g/km
+mini,Countryman,9295.0,2016,1598cc,"67,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,122 bhp,118 mph,10.5 seconds,137 g/km
+mini,Countryman,23296.0,2020,1998cc,"62,191 miles",Petrol,Automatic,BLUE/BLACK,Hatchback,4X4,5.0,5.0,302 bhp,155 mph,5.1 seconds,166 g/km
+mini,Hatch,5500.0,2012,1600cc,"115,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,3999.0,2012,1598cc,"99,000 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,121 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,13495.0,2020,1499cc,"43,439 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,117 g/km
+mini,Clubman,9499.0,2013,1598cc,"40,759 miles",Diesel,Manual,WHITE,Estate,4X2,5.0,5.0,113 bhp,122 mph,10.2 seconds,103 g/km
+mini,Hatch,13695.0,2016,1499cc,"31,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Clubman,9895.0,2017,1995cc,"83,757 miles",Diesel,Manual,SILVER,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,12495.0,2016,1998cc,"35,732 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Hatch,15750.0,2018,1998cc,"29,945 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,,150 g/km
+mini,Countryman,20950.0,2019,1998cc,"58,900 miles",Petrol,Automatic,Thunder Grey Metallic,SUV,4X4,5.0,5.0,189 bhp,138 mph,7.2 seconds,150 g/km
+mini,Cooper S,19999.0,2018,1998cc,"27,000 miles",Petrol,Automatic,Blue,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,126 g/km
+mini,Cooper,12999.0,2017,1499cc,"21,900 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Cooper,6750.0,2013,1598cc,"88,564 miles",Petrol,Manual,Brown,Convertible,4X2,2.0,4.0,121 bhp,123 mph,9.8 seconds,133 g/km
+mini,Hatch,10550.0,2016,1499cc,"35,762 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,7995.0,2016,1496cc,"68,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,95 g/km
+mini,Hatch,11897.0,2018,1499cc,"38,987 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Paceman,10950.0,2013,1598cc,"52,800 miles",Petrol,Manual,Black,Coupe,4X4,3.0,4.0,214 bhp,140 mph,6.9 seconds,172 g/km
+mini,Clubman,11770.0,2015,1998cc,"69,895 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,147 g/km
+mini,Clubman,2995.0,2010,1598cc,"124,986 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,122 bhp,125 mph,9.8 seconds,129 g/km
+mini,Hatch,12695.0,2017,1998cc,"38,057 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Hatch,17990.0,2017,1998cc,"19,000 miles",Petrol,Automatic,MOONWALK GREY,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,,128 g/km
+mini,Countryman,9995.0,2011,1598cc,"70,190 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,185 bhp,127 mph,8.3 seconds,180 g/km
+mini,Hatch,18390.0,2021,1.5L,"13,649 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,129 g/km
+mini,Coupe,9290.0,2014,1995cc,"29,000 miles",Diesel,Manual,Blue,Coupe,4X2,2.0,2.0,142 bhp,134 mph,7.9 seconds,114 g/km
+mini,Hatch,10199.0,2017,1499cc,"39,304 miles",Petrol,,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,16049.0,2019,1499cc,"28,959 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,114 g/km
+mini,Countryman,17749.0,2019,1998cc,"42,407 miles",Petrol,,White,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,136 g/km
+mini,Hatch,8490.0,2015,1.5L,"36,724 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Cooper S,22490.0,2021,1.5L,"7,926 miles",Petrol,Semiauto,White,Convertible,4X2,3.0,4.0,134 bhp,127 mph,,139 g/km
+mini,Clubman,25790.0,2023,1.5L,"5,579 miles",Petrol,Semiauto,Blue,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,139 g/km
+mini,Countryman,21499.0,2019,2L,"23,500 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,138 g/km
+mini,Hatch,2150.0,2003,1598cc,"84,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,114 bhp,124 mph,9.2 seconds,163 g/km
+mini,Hatch,16322.0,2021,1.5L,"12,500 miles",Petrol,Semiauto,Other,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,10.3 seconds,130 g/km
+mini,Hatch,14495.0,2018,1499cc,"20,660 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.1 seconds,111 g/km
+mini,Hatch,16990.0,2016,1998cc,"33,257 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,147 g/km
+mini,Hatch,18590.0,2020,1998cc,"38,147 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.7 seconds,143 g/km
+mini,Hatch,4995.0,2008,1600cc,"56,046 miles",Petrol,Manual,Grey,Other,4X2,3.0,4.0,173 bhp,140 mph,7.1 seconds,149 g/km
+mini,Clubman,3695.0,2009,1600cc,"70,000 miles",Diesel,Manual,Brown,Other,4X2,5.0,5.0,107 bhp,120 mph,10.4 seconds,109 g/km
+mini,Hatch,12999.0,2015,1499cc,"26,062 miles",Petrol,Automatic,WHITE,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,112 g/km
+mini,Hatch,5999.0,2010,1598cc,"57,206 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,12500.0,2017,1499cc,"38,775 miles",Petrol,Automatic,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,112 g/km
+mini,Hatch,20049.0,2019,1998cc,"43,808 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,137 g/km
+mini,Hatch,17199.0,2019,1998cc,"25,741 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,150 g/km
+mini,Hatch,16799.0,2020,1998cc,"21,023 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.9 seconds,147 g/km
+mini,Hatch,17299.0,2021,1499cc,"15,397 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Hatch,14299.0,2017,1998cc,"51,174 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,6.8 seconds,125 g/km
+mini,Countryman,24890.0,2022,1.5L,"13,563 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,134 bhp,127 mph,,147 g/km
+mini,Hatch,16090.0,2019,1.5L,"17,310 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,125 g/km
+mini,Hatch,17790.0,2022,1.5L,"17,290 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Hatch,14490.0,1995cc,"41,810 miles",Diesel,Automatic,Silver,Hatchback,70.6 mpg,4X2,3.0,4.0,168 bhp,140 mph,7.2 seconds,104 g/km
+mini,Hatch,16500.0,2020,2L,"40,986 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,152 g/km
+mini,Hatch,15999.0,2021,1.5L,"13,986 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,126 g/km
+mini,Countryman,26495.0,2022,1499cc,"10,486 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,134 bhp,127 mph,,150 g/km
+mini,Countryman,21495.0,2019,1499cc,"21,620 miles",Petrol,Automatic,Midnight Black,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,4957.0,2008,1598cc,"83,606 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,173 bhp,140 mph,7.1 seconds,149 g/km
+mini,Clubman,11999.0,2018,1499cc,"46,252 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,118 g/km
+mini,Cooper D,6250.0,2012,1.6L,"59,799 miles",Diesel,Manual,Silver,Convertible,4X2,2.0,4.0,110 bhp,121 mph,10.3 seconds,105 g/km
+mini,Cooper,11995.0,2017,2L,"54,800 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Cooper,17995.0,2019,1499cc,"18,597 miles",Petrol,Automatic,Turquoise,Convertible,4X2,2.0,4.0,134 bhp,127 mph,8.7 seconds,125 g/km
+mini,Hatch,17450.0,2018,2L,"36,843 miles",Petrol,Semiauto,Grey,Hatchback,,,,,,,
+mini,Hatch,15861.0,2019,1.5L,"15,278 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,125 g/km
+mini,Hatch,15066.0,2020,1.5L,"27,439 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,133 g/km
+mini,Clubman,15918.0,2019,1.5L,"28,037 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,127 g/km
+mini,Hatch,18725.0,2021,1.5L,"19,992 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,128 g/km
+mini,Hatch,15540.0,2020,1.5L,"16,974 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Hatch,18995.0,2019,2L,"34,795 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,127 g/km
+mini,Hatch,18290.0,2019,2L,"3,301 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,147 g/km
+mini,Hatch,10980.0,2016,2L,"50,908 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,189 bhp,144 mph,6.9 seconds,139 g/km
+mini,Hatch,14984.0,2021,1.5L,"20,315 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,129 g/km
+mini,Hatch,22790.0,2023,1.5L,"10,986 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,133 g/km
+mini,Hatch,17350.0,2019,1.5L,"11,757 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Countryman,17100.0,2020,1499cc,"63,033 miles",Petrol Plug-in Hybrid,Automatic,Green,SUV,4X4,5.0,5.0,221 bhp,122 mph,,40 g/km
+mini,Countryman,26975.0,2021,1998cc,"18,569 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,176 bhp,140 mph,,154 g/km
+mini,Hatch,19975.0,2022,1499cc,"14,986 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Cooper,12995.0,2017,1.5L,"16,870 miles",Petrol,Semiauto,Black,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.7 seconds,123 g/km
+mini,Clubman,13990.0,2016,2L,"37,907 miles",Diesel,Manual,Silver,Estate,4X2,5.0,5.0,188 bhp,140 mph,7.4 seconds,122 g/km
+mini,Hatch,11500.0,2016,2L,"30,172 miles",Diesel,Manual,Orange,Hatchback,4X2,5.0,5.0,168 bhp,140 mph,7.4 seconds,112 g/km
+mini,Hatch,20495.0,2020,2L,"5,769 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,156 g/km
+mini,Countryman,20200.0,2020,1.5L,"24,813 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,153 g/km
+mini,Hatch,4895.0,2013,1598cc,"79,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Clubman,35995.0,2023,1998cc,"3,000 miles",Petrol,Automatic,Rooftop Grey,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,173 g/km
+mini,Hatch,19790.0,2021,1.5L,"10,200 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Countryman,20290.0,2021,1.5L,"11,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,134 bhp,127 mph,,143 g/km
+mini,Countryman,22059.0,2019,1.5L,"18,464 miles",Hybrid,Semiauto,Blue,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,56 g/km
+mini,Countryman,16998.0,2018,1.5L,"36,039 miles",Hybrid,Semiauto,Grey,SUV,4X4,5.0,5.0,221 bhp,123 mph,,55 g/km
+mini,Hatch,9398.0,2016,1.2L,"49,134 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,109 g/km
+mini,Countryman,8200.0,2013,1598cc,"66,900 miles",Petrol,Manual,Blue,SUV,4X4,5.0,5.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Countryman,7200.0,2012,1598cc,"71,704 miles",Petrol,Manual,Yellow,SUV,4X4,5.0,5.0,185 bhp,130 mph,7.9 seconds,157 g/km
+mini,Cooper S,3200.0,2005,1598cc,"97,750 miles",Petrol,Manual,Red,Convertible,4X2,2.0,2.0,169 bhp,134 mph,7.4 seconds,211 g/km
+mini,Hatch,3000.0,2008,1598cc,"83,197 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,118 bhp,126 mph,9.1 seconds,129 g/km
+mini,Countryman,8100.0,2014,1598cc,"76,585 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,129 g/km
+mini,Countryman,18449.0,2018,1998cc,"21,591 miles",Petrol,,Green,SUV,4X2,5.0,5.0,189 bhp,140 mph,,149 g/km
+mini,Clubman,20099.0,2021,1499cc,"21,190 miles",Petrol,,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,139 g/km
+mini,Hatch,11999.0,2017,1496cc,"14,651 miles",Diesel,,Silver,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,97 g/km
+mini,Countryman,15299.0,2018,1995cc,"51,463 miles",Diesel,,Red,SUV,4X2,5.0,5.0,147 bhp,129 mph,,120 g/km
+mini,Hatch,3495.0,2009,1598cc,"97,409 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,173 bhp,140 mph,7.1 seconds,149 g/km
+mini,Countryman,4495.0,2012,1598cc,"125,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,113 bhp,115 mph,10.9 seconds,115 g/km
+mini,Hatch,8450.0,2016,1496cc,"55,389 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Hatch,10995.0,2018,1499cc,"56,295 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,17744.0,2020,1499cc,"21,610 miles",Petrol,Automatic,Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,133 g/km
+mini,Hatch,7995.0,2016,1499cc,"57,788 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Countryman,31450.0,2023,1499cc,"9,491 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,134 bhp,127 mph,,151 g/km
+mini,Hatch,8795.0,2012,1598cc,"31,595 miles",Diesel,Manual,Pepper White,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Hatch,13995.0,2018,1499cc,"34,055 miles",Petrol,Manual,Chili Red,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,122 g/km
+mini,Clubman,12495.0,2016,1499cc,"50,432 miles",Petrol,Manual,British Racing Green,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,121 g/km
+mini,Hatch,15995.0,2020,1000cc,"14,220 miles",Other,Automatic,White Silver,Hatchback,4X2,3.0,4.0,181 bhp,93 mph,,0 g/km
+mini,Hatch,5690.0,2012,1598cc,"84,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Clubman,19250.0,2019,1998cc,"44,000 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,189 bhp,142 mph,7.2 seconds,125 g/km
+mini,Hatch,17750.0,2020,1499cc,"9,547 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,136 g/km
+mini,Hatch,5295.0,2011,1598cc,"57,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,12495.0,2012,1598cc,"38,602 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,212 bhp,148 mph,6.5 seconds,165 g/km
+mini,Hatch,20000.0,2018,1998cc,"25,000 miles",Petrol,Automatic,Thunder Grey,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.1 seconds,130 g/km
+mini,Hatch,21490.0,2019,1998cc,"31,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,139 g/km
+mini,Hatch,6879.0,2015,1496cc,"78,327 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,2000.0,2006,1598cc,"130,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,114 bhp,124 mph,9.1 seconds,166 g/km
+mini,Cooper,10648.0,2016,1499cc,"45,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,114 g/km
+mini,Hatch,9163.0,2017,1499cc,"57,550 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,9995.0,2017,1198cc,"29,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Countryman,10990.0,2014,1598cc,"76,000 miles",Petrol,Manual,White,SUV,4X4,5.0,5.0,216 bhp,140 mph,7.0 seconds,172 g/km
+mini,Hatch,11299.0,2017,1198cc,"25,308 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Hatch,8250.0,2017,1496cc,"105,000 miles",Diesel,Automatic,Grey,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,98 g/km
+mini,Hatch,7990.0,2014,1998cc,"96,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Countryman,18950.0,2019,1499cc,"29,000 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,122 g/km
+mini,Hatch,10990.0,2018,1496cc,"68,000 miles",Diesel,Manual,Silver,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,102 g/km
+mini,Hatch,10490.0,2017,1499cc,"50,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,7995.0,2014,1499cc,"50,000 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,8495.0,2017,1496cc,"67,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,,99 g/km
+mini,Clubman,7994.0,2018,1995cc,"104,000 miles",Diesel,Manual,White,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Clubman,3994.0,2011,1598cc,"111,000 miles",Diesel,Manual,Brown,Estate,4X2,5.0,5.0,113 bhp,122 mph,10.2 seconds,103 g/km
+mini,Countryman,6994.0,2011,1995cc,"65,000 miles",Diesel,Automatic,White,SUV,4X4,5.0,5.0,110 bhp,109 mph,11.8 seconds,158 g/km
+mini,Clubman,13995.0,2016,1995cc,"60,000 miles",Diesel,Automatic,Blue,Estate,4X2,5.0,5.0,188 bhp,140 mph,7.4 seconds,117 g/km
+mini,Hatch,8995.0,2015,1198cc,"35,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,10.1 seconds,112 g/km
+mini,Countryman,16000.0,2019,2L,"47,012 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.6 seconds,149 g/km
+mini,Countryman,17999.0,2018,1.5L,"32,777 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,134 bhp,124 mph,,126 g/km
+mini,Hatch,14399.0,2020,1.5L,"17,375 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,101 bhp,120 mph,10.3 seconds,131 g/km
+mini,Hatch,25599.0,2023,2L,"5,013 miles",Petrol,Semiauto,Blue,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,136 g/km
+mini,Hatch,22999.0,2021,2L,"10,700 miles",Petrol,Semiauto,Silver,Hatchback,4X2,3.0,4.0,176 bhp,146 mph,,135 g/km
+mini,Clubman,22999.0,2021,1.5L,"27,110 miles",Petrol,Manual,White,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,145 g/km
+mini,Hatch,11298.0,2016,1.5L,"25,706 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,21498.0,2021,1.5L,"4,736 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,130 g/km
+mini,Hatch,9000.0,2017,1.5L,"68,219 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,28995.0,2022,2L,"10,369 miles",Petrol,Semiauto,Green,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,,155 g/km
+mini,Hatch,18950.0,2017,2L,"18,982 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,189 bhp,143 mph,,128 g/km
+mini,Hatch,18990.0,2020,2L,"34,520 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,153 g/km
+mini,Hatch,24190.0,2023,1.5L,"2,705 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,132 g/km
+mini,Countryman,30490.0,2023,1.5L,"6,787 miles",Petrol,Semiauto,Green,SUV,4X2,5.0,5.0,134 bhp,127 mph,,152 g/km
+mini,Hatch,3690.0,2011,1598cc,"81,725 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,15399.0,2020,1499cc,"30,047 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,1995.0,2007,1598cc,"87,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,118 bhp,126 mph,9.1 seconds,129 g/km
+mini,Hatch,8495.0,2011,1598cc,"71,500 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,212 bhp,148 mph,6.5 seconds,165 g/km
+mini,Hatch,7499.0,2014,1198cc,"45,128 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,101 bhp,121 mph,9.9 seconds,108 g/km
+mini,Hatch,5499.0,2012,1598cc,"65,156 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Countryman,16991.0,2019,1.5L,"39,420 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,137 g/km
+mini,Countryman,26155.0,2021,1.5L,"26,067 miles",Petrol,Semiauto,Other,SUV,4X4,5.0,5.0,134 bhp,126 mph,,162 g/km
+mini,Countryman,16159.0,2019,1.5L,"42,096 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,128 g/km
+mini,Countryman,25439.0,2020,1.5L,"28,215 miles",Hybrid,Semiauto,Silver,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,41 g/km
+mini,Hatch,15993.0,2019,2L,"18,478 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,147 g/km
+mini,Clubman,24790.0,2023,1.5L,"4,131 miles",Petrol,Semiauto,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,139 g/km
+mini,Hatch,15495.0,2018,2L,"43,789 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,,123 g/km
+mini,Cooper,5890.0,2014,1.5L,"85,300 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Hatch,32995.0,2020,1998cc,"12,787 miles",Petrol,Automatic,Grey,Hatchback,4X2,3.0,2.0,302 bhp,165 mph,,189 g/km
+mini,Hatch,9500.0,2017,1995cc,"60,799 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,168 bhp,140 mph,7.4 seconds,109 g/km
+mini,Hatch,14736.0,2020,1499cc,"18,737 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,132 g/km
+mini,Hatch,10595.0,2017,1499cc,"39,397 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,15600.0,2019,1499cc,"33,890 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,119 g/km
+mini,Hatch,1995.0,2007,1560cc,"83,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,107 bhp,121 mph,9.9 seconds,104 g/km
+mini,Hatch,2250.0,2010,1397cc,"94,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Hatch,11998.0,2017,2L,"45,205 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Clubman,28990.0,2020,1998cc,"15,000 miles",Petrol,Automatic,White Silver,Estate,4X4,5.0,5.0,302 bhp,155 mph,4.9 seconds,192 g/km
+mini,Hatch,11490.0,2018,1499cc,"38,000 miles",Petrol,Manual,Pepper White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,116 g/km
+mini,Hatch,8995.0,2015,1499cc,"45,742 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,unassigned,10995.0,2017,1499cc,"22,000 miles",Petrol,Manual,Turquoise,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,114 g/km
+mini,Hatch,5750.0,2015,1496cc,"97,099 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Countryman,27500.0,2022,1499cc,"33,460 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,4X4,5.0,5.0,221 bhp,122 mph,,41 g/km
+mini,Hatch,11300.0,2017,1500cc,"30,471 miles",Petrol,Manual,Electric Blue Metallic,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,15300.0,2021,1499cc,"17,337 miles",Petrol,Manual,White Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,131 g/km
+mini,Hatch,3695.0,2011,1598cc,"90,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,90 bhp,114 mph,11.4 seconds,99 g/km
+mini,Hatch,18539.0,2020,1499cc,"25,493 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,138 g/km
+mini,Clubman,3495.0,2008,1598cc,"100,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,173 bhp,139 mph,7.6 seconds,150 g/km
+mini,Clubman,7990.0,2013,1598cc,"93,000 miles",Diesel,Manual,OLD ENGLISH WHITE,Hatchback,4X2,,,110 bhp,122 mph,10.2 seconds,103 g/km
+mini,Hatch,16900.0,2021,1499cc,"10,125 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,119 mph,,126 g/km
+mini,Countryman,7250.0,2016,1598cc,"71,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,134 g/km
+mini,Hatch,3500.0,2007,1397cc,"78,000 miles",Petrol,Manual,Yellow,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Hatch,2995.0,2003,1598cc,"48,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,114 bhp,124 mph,9.2 seconds,163 g/km
+mini,Countryman,9000.0,2011,1995cc,"55,000 miles",Diesel,Automatic,Pure Silver Metallic,Other,4X4,5.0,5.0,110 bhp,109 mph,11.8 seconds,158 g/km
+mini,Hatch,10690.0,2018,1499cc,"26,573 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,18990.0,2019,1998cc,"16,500 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,189 bhp,146 mph,6.8 seconds,129 g/km
+mini,Clubman,20250.0,2018,1998.0cc,"21,402 miles",Petrol,Manual,Grey,Estate,4X4,5.0,5.0,228 bhp,148 mph,,168 g/km
+mini,Hatch,9489.0,2018,1496.0cc,"48,801 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,97 g/km
+mini,Cooper S,12499.0,2016,1998cc,"49,017 miles",Petrol,,Grey,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Hatch,16299.0,2019,1499cc,"31,685 miles",Petrol,,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Clubman,18599.0,2018,1998cc,"12,095 miles",Petrol,,White,Estate,4X2,5.0,5.0,189 bhp,142 mph,,133 g/km
+mini,Hatch,16649.0,2018,1499cc,"12,471 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,114 g/km
+mini,Clubman,23950.0,2021,1.5L,"13,218 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,141 g/km
+mini,Countryman,27850.0,2019,2L,"23,523 miles",Petrol,Semiauto,Black,SUV,,,,,,,
+mini,Countryman,17058.0,2019,1.5L,"86,700 miles",Hybrid,Semiauto,Red,SUV,4X4,5.0,5.0,221 bhp,123 mph,6.8 seconds,56 g/km
+mini,Hatch,20999.0,2022,1.5L,"8,472 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,131 g/km
+mini,Clubman,22950.0,2021,1.5L,"23,949 miles",Petrol,Manual,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,141 g/km
+mini,Cooper S,12990.0,2017,2L,"24,673 miles",Petrol,Manual,Red,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Clubman,19490.0,2019,2L,"25,859 miles",Diesel,Semiauto,Blue,Estate,4X2,5.0,5.0,147 bhp,132 mph,8.6 seconds,113 g/km
+mini,Hatch,22990.0,2021,2L,"11,904 miles",Petrol,Semiauto,Silver,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,6.8 seconds,143 g/km
+mini,Hatch,14990.0,2020,1.5L,"9,536 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,131 g/km
+mini,Clubman,14490.0,2017,1.5L,"34,907 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.1 seconds,121 g/km
+mini,Countryman,20490.0,2019,1.5L,"15,635 miles",Petrol,Semiauto,Silver,SUV,,,,,,,
+mini,Cooper S,18995.0,2019,2L,"7,593 miles",Petrol,Semiauto,Silver,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.1 seconds,132 g/km
+mini,Convertible,11495.0,2016,1499cc,"32,000 miles",Petrol,Manual,White,Convertible,4X2,2.0,4.0,134 bhp,129 mph,8.8 seconds,118 g/km
+mini,Hatch,3295.0,2008,1397cc,"71,000 miles",Petrol,Manual,Green,Hatchback,4X2,3.0,4.0,94 bhp,115 mph,10.9 seconds,128 g/km
+mini,Hatch,9995.0,2010,1598cc,"14,912 miles",Petrol,Automatic,RED,Hatchback,,,,,,,
+mini,Hatch,6995.0,2010,1598cc,"47,234 miles",Petrol,Automatic,BROWN,Hatchback,,,,,,,
+mini,Cooper,10999.0,2016,2L,"47,765 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Cooper S,13925.0,2017,2L,"29,700 miles",Petrol,Manual,Grey,Convertible,4X2,2.0,4.0,189 bhp,143 mph,7.2 seconds,142 g/km
+mini,Cooper,5450.0,2013,1.6L,"82,444 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Cooper,7899.0,2016,1.5L,"67,039 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,114 bhp,126 mph,9.4 seconds,95 g/km
+mini,Hatch,17900.0,2019,1499cc,"18,793 miles",Petrol,Automatic,Green,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,116 g/km
+mini,Hatch,22000.0,2022,1998cc,"13,416 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,140 g/km
+mini,Countryman,21990.0,2020,1499cc,"44,379 miles",Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,134 bhp,124 mph,9.7 seconds,162 g/km
+mini,Hatch,11990.0,2018,1499cc,"38,956 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,124 g/km
+mini,Clubman,27990.0,2023,1499cc,"3,108 miles",Petrol,Automatic,Black,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,139 g/km
+mini,Hatch,5995.0,2010,1598cc,"59,584 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,26363.0,2022,1998cc,"8,809 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,,137 g/km
+mini,Hatch,16170.0,2020,1499cc,"32,017 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,144 g/km
+mini,Countryman,22491.0,2018,1995cc,"27,286 miles",Diesel,Automatic,Grey,SUV,,,,,,,
+mini,Clubman,20975.0,2020,1499cc,"35,337 miles",Petrol,Automatic,Silver,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,122 g/km
+mini,Hatch,10595.0,2019,1499cc,"62,217 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Hatch,15490.0,2018,1.5L,"17,513 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,119 g/km
+mini,Hatch,13000.0,2018,1.5L,"62,731 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,125 g/km
+mini,Hatch,16000.0,2021,1.5L,"35,267 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,133 g/km
+mini,Countryman,26950.0,2020,2L,"7,420 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,176 bhp,140 mph,,149 g/km
+mini,Clubman,29500.0,2023,2L,994 miles,Petrol,Semiauto,Red,Estate,4X2,5.0,5.0,176 bhp,142 mph,7.2 seconds,147 g/km
+mini,Hatch,17633.0,2019,1.5L,"32,164 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,122 g/km
+mini,Hatch,15667.0,2021,1.5L,"36,812 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,127 g/km
+mini,Countryman,23400.0,2021,1.5L,"16,649 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,134 bhp,127 mph,,145 g/km
+mini,Hatch,15995.0,2018,1998cc,"47,000 miles",Petrol,Manual,Silver,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,150 g/km
+mini,Countryman,7993.0,2011,1598cc,"51,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,185 bhp,134 mph,7.6 seconds,143 g/km
+mini,Hatch,24850.0,2021,1998cc,"2,800 miles",Petrol,Automatic,Thunder Grey,Hatchback,4X2,5.0,5.0,176 bhp,146 mph,6.8 seconds,143 g/km
+mini,Countryman,20000.0,2020,2L,"22,316 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,189 bhp,140 mph,7.5 seconds,158 g/km
+mini,Hatch,10690.0,2015,2L,"55,708 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,9495.0,2000,1499cc,"53,431 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,105 g/km
+mini,Hatch,9295.0,2017,1499cc,"42,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,109 g/km
+mini,Hatch,10990.0,2017,1499cc,"46,012 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.2 seconds,111 g/km
+mini,Hatch,2300.0,2005,1598cc,"65,553 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,88 bhp,112 mph,10.9 seconds,164 g/km
+mini,Hatch,9375.0,2016,1499cc,"43,897 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,12750.0,2018,1496cc,"67,500 miles",Diesel,Manual,Red,Hatchback,,,,,,,
+mini,Paceman,5950.0,2013,1598cc,"69,430 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,122 bhp,119 mph,10.4 seconds,140 g/km
+mini,Hatch,9889.0,2017,1496cc,"22,000 miles",Diesel,Manual,Pepper White,Hatchback,4X2,3.0,4.0,94 bhp,118 mph,11.0 seconds,89 g/km
+mini,Hatch,12995.0,2018,1998cc,"43,400 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,17450.0,2018,1998cc,"41,500 miles",Petrol,Manual,Silver,Hatchback,,,,,,,
+mini,Hatch,11950.0,2014,1998cc,"31,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,20995.0,2013,1598cc,"32,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,2.0,218 bhp,150 mph,6.3 seconds,165 g/km
+mini,Hatch,6995.0,2014,1598cc,"66,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,4.0,110 bhp,122 mph,9.7 seconds,99 g/km
+mini,Cooper D,8495.0,2014,1598cc,"39,000 miles",Diesel,Manual,Midnight Black,Convertible,4X2,2.0,4.0,113 bhp,121 mph,10.3 seconds,105 g/km
+mini,Clubman,3999.0,2010,1598cc,"86,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,118 bhp,125 mph,9.8 seconds,132 g/km
+mini,Hatch,3495.0,2010,1598cc,"122,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,113 bhp,122 mph,9.7 seconds,99 g/km
+mini,Countryman,6995.0,2013,1598cc,"76,000 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,98 bhp,107 mph,11.9 seconds,139 g/km
+mini,Hatch,12995.0,2016,1499cc,"13,942 miles",Petrol,Automatic,Absolute,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.8 seconds,109 g/km
+mini,Hatch,11650.0,2019,1499cc,"48,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,8.3 seconds,123 g/km
+mini,Hatch,5000.0,2013,1598cc,"73,994 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,113 bhp,122 mph,9.7 seconds,99 g/km
+mini,Hatch,5990.0,2011,1598cc,"70,470 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,185 bhp,142 mph,7.0 seconds,136 g/km
+mini,Hatch,12995.0,2018,1499cc,"28,400 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,134 bhp,129 mph,,119 g/km
+mini,Hatch,12499.0,2018,1499cc,"41,425 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,124 g/km
+mini,Countryman,4249.0,2012,1598cc,"119,249 miles",Diesel,Manual,Blue,SUV,4X4,5.0,5.0,113 bhp,112 mph,11.6 seconds,129 g/km
+mini,Countryman,5995.0,2012,1598cc,"82,365 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,122 bhp,118 mph,10.5 seconds,140 g/km
+mini,Countryman,6499.0,2013,1598cc,"93,465 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,185 bhp,134 mph,7.6 seconds,143 g/km
+mini,Countryman,7349.0,2015,1995cc,"102,000 miles",Diesel,Automatic,White,SUV,4X2,5.0,5.0,110 bhp,112 mph,11.3 seconds,148 g/km
+mini,Hatch,4495.0,2013,1598cc,"51,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,75 bhp,109 mph,13.2 seconds,127 g/km
+mini,Cooper S,6495.0,2011,1598cc,"70,000 miles",Petrol,Manual,Black,Convertible,4X2,2.0,4.0,185 bhp,140 mph,7.3 seconds,139 g/km
+mini,Hatch,12495.0,2016,1998cc,"37,000 miles",Petrol,Manual,Orange,Hatchback,,,,,,,
+mini,Hatch,2750.0,2009,1598cc,"65,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,118 bhp,126 mph,9.1 seconds,129 g/km
+mini,Hatch,5795.0,2012,1598cc,"70,801 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,122 bhp,126 mph,9.1 seconds,127 g/km
+mini,Hatch,16990.0,2019,1998cc,"47,268 miles",Petrol,Automatic,BLACK,Hatchback,,,,,,,
+mini,Hatch,9400.0,2019,1499cc,"84,478 miles",Petrol,Manual,BLACK,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,117 g/km
+mini,Hatch,15498.0,2021,1.5L,"24,914 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,,125 g/km
+mini,Hatch,10300.0,2016,2L,"62,621 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Hatch,14801.0,2020,1.5L,"30,044 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,144 g/km
+mini,Clubman,16550.0,2020,1.5L,"18,382 miles",Petrol,Manual,Grey,Estate,4X2,5.0,5.0,134 bhp,127 mph,9.2 seconds,143 g/km
+mini,Countryman,9995.0,2016,1995cc,"48,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,110 bhp,112 mph,11.3 seconds,148 g/km
+mini,Hatch,11920.0,2017,2L,"41,981 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,189 bhp,146 mph,6.8 seconds,136 g/km
+mini,Cooper,11495.0,2017,1.5L,"25,707 miles",Petrol,Manual,Volcanic Orange,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,7.9 seconds,107 g/km
+mini,Hatch,26490.0,2021,1998cc,"9,498 miles",Petrol,Automatic,Grey,Hatchback,,,,,,,
+mini,Hatch,4450.0,2012,1598cc,"90,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km
+mini,Hatch,14801.0,2020,1.5L,"7,935 miles",Petrol,Manual,White,Hatchback,,,,,,,
+mini,Hatch,9980.0,2015,1496cc,"44,950 miles",Diesel,Manual,WHITE SILVER METALLIC,Hatchback,4X2,3.0,4.0,114 bhp,127 mph,9.2 seconds,92 g/km
+mini,Cooper,14295.0,2019,1499cc,"21,000 miles",Petrol,Manual,Silver,Convertible,4X2,2.0,4.0,134 bhp,128 mph,8.8 seconds,130 g/km
+mini,Hatch,2900.0,2012,1598cc,"113,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,4.0,113 bhp,122 mph,9.7 seconds,99 g/km
+mini,Hatch,1795.0,2006,1598cc,"93,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,169 bhp,138 mph,7.2 seconds,207 g/km
+mini,Countryman,18450.0,2018,1995cc,"34,632 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,147 bhp,127 mph,,127 g/km
+mini,Hatch,19298.0,2018,1998cc,"18,005 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,228 bhp,153 mph,6.3 seconds,150 g/km
+mini,Countryman,15650.0,2018,"28,000 miles",Petrol,Manual,British Racing Green Metallic,SUV,51.4 mpg,4X2,5.0,5.0,134 bhp,126 mph,,126 g/km
+mini,Countryman,5299.0,2011,1598cc,"79,900 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,90 bhp,106 mph,12.9 seconds,115 g/km
+mini,Hatch,3395.0,2007,1598cc,"89,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,118 bhp,126 mph,9.1 seconds,129 g/km
+mini,Hatch,16990.0,2019,1.5L,"20,960 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,134 bhp,130 mph,8.0 seconds,122 g/km
+mini,Cooper,27995.0,2022,"6,723 miles",Petrol,Automatic,BLACK,Other,41.5 mpg,4X2,3.0,4.0,228 bhp,150 mph,,162 g/km
+mini,Hatch,4995.0,2011,1600cc,"56,901 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,98 bhp,116 mph,10.5 seconds,127 g/km

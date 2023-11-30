@@ -1,0 +1,1443 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+citroen,C4 Cactus,8490.0,2015,1200cc,"60,400 miles",Petrol,Automatic,BLACK,Hatchback,4X2,5.0,5.0,80 bhp,107 mph,15.0 seconds,100 g/km
+citroen,Grand C4 Picasso,8799.0,2014,1560cc,"60,000 miles",Diesel,Manual,GREY,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,DS3,4695.0,2013,1560cc,"79,100 miles",Diesel,Manual,WHITE,Hatchback,4X2,3.0,5.0,113 bhp,118 mph,10.8 seconds,99 g/km
+citroen,C5 Aircross,16499.0,2020,1499cc,"51,500 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,139 g/km
+citroen,C3,6495.0,2016,1.2L,"53,200 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,C3,2000.0,2009,1560cc,"110,900 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,119 g/km
+citroen,C4 Cactus,11990.0,1199cc,"23,168 miles",Petrol,Manual,Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,DS4,4800.0,2014,1997cc,"96,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,161 bhp,132 mph,8.6 seconds,130 g/km
+citroen,Berlingo,22995.0,2023,1.2L,50 miles,Petrol,Manual,Grey,van,4X2,,,109 bhp,107 mph,,
+citroen,C3,12495.0,2020,1.2L,"13,040 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C1,8495.0,2020,1L,"22,415 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,109 g/km
+citroen,C5 Aircross,13695.0,2019,1.2L,"33,200 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C5 Aircross,15795.0,2019,1.2L,"23,157 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,Grand C4 Picasso,12874.0,2017,1.2L,"33,958 miles",Petrol,Manual,Black,MPV,4X2,5.0,7.0,129 bhp,125 mph,10.1 seconds,116 g/km
+citroen,C4,16495.0,2019,1.5L,"33,865 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,109 g/km
+citroen,C3,20941.0,2023,1.2L,10 miles,Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+citroen,C3,15621.0,2023,1.2L,10 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,124 g/km
+citroen,C4,24128.0,2023,1.2L,10 miles,Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,130 g/km
+citroen,C4,12200.0,2018,1499cc,"57,158 miles",Diesel,Manual,Blue,Estate,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,106 g/km
+citroen,C3,11601.0,2020,1.2L,"41,742 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C3,11587.0,2020,1.2L,"14,287 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,16278.0,2022,1.2L,"10,777 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C3,17500.0,2023,1.2L,805 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,16974.0,2023,1.2L,2 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,C5 Aircross,26285.0,2023,1.2L,1 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,C5,33330.0,2023,1.6L,40 miles,Hybrid,Semiauto,Grey,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,30 g/km
+citroen,C5,26654.0,2022,1.6L,68 miles,Petrol,Semiauto,Blue,Saloon,4X2,4.0,5.0,178 bhp,143 mph,,147 g/km
+citroen,C3,17807.0,2023,1.2L,33 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,C5 Aircross,23633.0,2022,1.2L,10 miles,Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C5 Aircross,26626.0,2023,1.2L,193 miles,Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,143 g/km
+citroen,C3,17372.0,2022,1.2L,"2,500 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,136 g/km
+citroen,Berlingo,19490.0,2023,1500cc,10 miles,Diesel,Manual,Black,Other,4X2,,,101 bhp,102 mph,,
+citroen,C4 Cactus,7495.0,2016,1560cc,"84,391 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.6 seconds,95 g/km
+citroen,C3,9995.0,2018,1199cc,"14,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C4 Cactus,10950.0,2019,1199cc,"21,925 miles",Petrol,Manual,Blue,Hatchback,,,,,,,
+citroen,C3,11995.0,2020,1199cc,"21,014 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+citroen,C4 Picasso,2495.0,2008,1560cc,"81,400 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,107 bhp,112 mph,12.5 seconds,155 g/km
+citroen,C3,3495.0,2012,1560cc,"77,061 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,91 bhp,108 mph,21.7 seconds,112 g/km
+citroen,Grand C4 Picasso,7700.0,2015,1560cc,"94,000 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.6 seconds,105 g/km
+citroen,C4,17049.0,2020,1199cc,"42,415 miles",Petrol,,Grey,MPV,4X2,5.0,7.0,129 bhp,124 mph,,145 g/km
+citroen,C4,16899.0,2021,1199cc,"17,877 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C5 Aircross,20049.0,2021,1199cc,"21,267 miles",Petrol,,Red,SUV,4X2,5.0,5.0,128 bhp,122 mph,,150 g/km
+citroen,C3,12649.0,2018,1560cc,"33,178 miles",Diesel,,Black,SUV,4X2,5.0,5.0,118 bhp,114 mph,,107 g/km
+citroen,C3,13049.0,2021,1199cc,"23,725 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,9749.0,2017,1199cc,"39,136 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,C3,10549.0,2016,1199cc,"15,307 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,C4 Cactus,14899.0,2020,1199cc,"22,558 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,129 bhp,129 mph,8.6 seconds,138 g/km
+citroen,Berlingo,8995.0,2016,1.6L,"63,481 miles",Diesel,Manual,White,van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C3,14500.0,2020,1.2L,"12,505 miles",Petrol,Automatic,ORANGE,Hatchback,,,,,,,
+citroen,C5,32570.0,2023,1.6L,108 miles,Hybrid,Semiauto,Grey,Saloon,,,,,,,
+citroen,Grand C4 Picasso,12495.0,2015,1997cc,"49,501 miles",Diesel,Automatic,Silver,Estate,,,,,,,
+citroen,C5 Aircross,20890.0,2020,2L,"9,618 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,175 bhp,131 mph,8.6 seconds,123 g/km
+citroen,C3,13250.0,2019,1.2L,"29,800 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,120 g/km
+citroen,C3,15995.0,2021,1.2L,"12,300 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C3,13650.0,2020,1.2L,"35,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C4,15995.0,2019,1.5L,"17,593 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,109 g/km
+citroen,C3,9795.0,2017,1560cc,"32,000 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,100 g/km
+citroen,Berlingo,21590.0,2020,1.5L,"36,348 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,21590.0,2020,1.5L,"27,858 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,31990.0,2022,1199cc,250 miles,Petrol,Automatic,White,MPV,4X2,5.0,5.0,129 bhp,124 mph,,154 g/km
+citroen,C1,10290.0,2021,998cc,"14,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,14490.0,2018,1199cc,"7,000 miles",Petrol,Automatic,Beige,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,120 g/km
+citroen,C3,9500.0,2020,1199cc,"55,090 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4 Cactus,6900.0,2017,1560cc,"91,400 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,Grand C4 Picasso,4995.0,2015,1560cc,"176,000 miles",Diesel,Automatic,Blue,MPV,,,,,,,
+citroen,C1,8300.0,2019,1L,"16,243 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,Berlingo,22788.0,2021,1.5L,"45,714 miles",Diesel,Automatic,Grey,van,4X2,,,129 bhp,114 mph,,
+citroen,Berlingo,16794.0,2020,1.5L,"40,516 miles",Diesel,Manual,Grey,van,4X2,,,101 bhp,107 mph,,
+citroen,C1,5595.0,2016,1L,"52,750 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,15313.0,2022,1.2L,"4,052 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,125 g/km
+citroen,C3,15359.0,2022,1.2L,"3,535 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,125 g/km
+citroen,C3,14579.0,2022,1.2L,"12,200 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,125 g/km
+citroen,C3,11269.0,2021,1.2L,"20,424 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C5 Aircross,16127.0,2020,1.5L,"37,860 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,137 g/km
+citroen,C4,22065.0,2023,1.2L,10 miles,Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,131 g/km
+citroen,C5 Aircross,26013.0,2023,1.2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,Berlingo,6194.0,2017,1560cc,"100,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C5,12995.0,2020,1199cc,"93,000 miles",Petrol,Manual,Pearlescent  White,Hatchback,4X2,5.0,5.0,128 bhp,117 mph,,119 g/km
+citroen,C3,3495.0,2010,1598cc,"90,000 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,121 bhp,117 mph,13.9 seconds,159 g/km
+citroen,C1,4695.0,2014,0.998L,"72,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Berlingo,7995.0,2018,1560cc,"71,177 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C4 Picasso,9699.0,2015,1560cc,"61,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,Berlingo,7999.0,2014,1560cc,"48,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,91 bhp,102 mph,14.3 seconds,135 g/km
+citroen,C3,8990.0,2017,1200cc,"36,700 miles",Petrol,Manual,Arctic Steel/ Sport Red,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C4,5995.0,2014,1560cc,"103,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C3,5995.0,2013,1598cc,"62,000 miles",Petrol,Automatic,Black,MPV,4X2,5.0,5.0,121 bhp,117 mph,12.7 seconds,137 g/km
+citroen,C3,9995.0,2019,1199cc,"41,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,13.2 seconds,98 g/km
+citroen,Grand C4 Picasso,8000.0,2017,1600cc,"109,000 miles",Diesel,Automatic,Grey,Other,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,106 g/km
+citroen,C1,3000.0,2011,1000cc,"57,200 miles",Petrol,Manual,White,Other,4X2,5.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,DS3,3995.0,2014,1600cc,"80,500 miles",Petrol,Manual,White,Other,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,129 g/km
+citroen,Berlingo,8895.0,2013,1560cc,"55,000 miles",Diesel,Automatic,SILVER,MPV,4X2,5.0,5.0,91 bhp,103 mph,15.5 seconds,120 g/km
+citroen,DS3,3995.0,2014,1598cc,"88,480 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,132 g/km
+citroen,C4,4495.0,2011,1598cc,"69,000 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,10.8 seconds,146 g/km
+citroen,C3,8299.0,2015,1560cc,"35,000 miles",Diesel,Manual,WHITE,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,DS5,8995.0,2013,1997cc,"42,047 miles",Diesel,Automatic,WHITE,Hatchback,4X2,5.0,5.0,162 bhp,132 mph,10.1 seconds,158 g/km
+citroen,C1,1995.0,2011,998cc,"103,173 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C4,13975.0,2020,1200cc,"66,763 miles",Petrol,Manual,BLUE,MPV,4X2,5.0,7.0,129 bhp,124 mph,,114 g/km
+citroen,C4 Picasso,9495.0,2013,1560cc,"11,803 miles",Diesel,Manual,SILVER,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,DS3,5290.0,2012,1598cc,"43,775 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,DS3,3000.0,2013,1560cc,"113,086 miles",Diesel,Manual,BLUE,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,C3,9990.0,2019,1199cc,"42,000 miles",Petrol,Manual,BEIGE,MPV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C4 Picasso,8995.0,2016,1560cc,"35,000 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,DS3,5995.0,2014,1598cc,"62,000 miles",Petrol,Manual,WHITE,Convertible,4X2,3.0,5.0,118 bhp,118 mph,9.9 seconds,129 g/km
+citroen,C1,3999.0,2013,998cc,"64,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C4 Cactus,8500.0,2017,1560cc,"51,158 miles",Diesel,Manual,SILVER,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,95 g/km
+citroen,C3,12490.0,2020,1500cc,"26,000 miles",Diesel,Manual,GREY,MPV,4X2,5.0,5.0,101 bhp,109 mph,,125 g/km
+citroen,C4,22890.0,2023,1L,"2,565 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+citroen,Berlingo,15990.0,2020,1500cc,"8,000 miles",Diesel,Manual,WHITE,MPV,4X2,5.0,5.0,101 bhp,107 mph,,141 g/km
+citroen,Grand C4 Picasso,6750.0,2015,1560cc,"74,749 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C1,8500.0,2019,998cc,"29,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,Grand C4 Picasso,12599.0,2017,1560cc,"59,824 miles",Diesel,,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,Grand C4 Picasso,11249.0,2017,1560cc,"52,963 miles",Diesel,,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,DS3,5699.0,2015,1560cc,"62,000 miles",Diesel,Manual,BLUE,Hatchback,4X2,3.0,5.0,91 bhp,113 mph,11.3 seconds,95 g/km
+citroen,DS3,6599.0,2015,1199cc,"43,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,107 g/km
+citroen,C5 Aircross,25999.0,2023,1.5L,"2,400 miles",Diesel,Automatic,Blue,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,146 g/km
+citroen,C3,9999.0,2019,1.2L,"17,485 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C5 Aircross,15200.0,2020,1499cc,"17,554 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,140 g/km
+citroen,Berlingo,3995.0,2009,1360cc,"65,000 miles",Petrol,Manual,Blue,Estate,4X2,5.0,5.0,74 bhp,93 mph,14.5 seconds,175 g/km
+citroen,Berlingo 625 ENTERPRISE L1 HDI,6500.0,2014,1.6L,"76,230 miles",Diesel,Manual,POLAR WHITE,Panel Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Berlingo 625 ENTERPRISE L1 HDI,6500.0,2014,1.6L,"76,230 miles",Diesel,Manual,POLAR WHITE,Panel Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,C4,14995.0,1199cc,"20,958 miles",Petrol,Manual,Grey,MPV,42.8 mpg,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,DS3,2500.0,2011,1560cc,"56,400 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,11.3 seconds,107 g/km
+citroen,Dispatch MWB L2H1 1000kg Enterprise Pro Bluehdi Air Con Sensors Cruise EURO 6 National Delivery Available,18994.0,2021,1499cc,"18,074 miles",Diesel,Manual,White,van,4X2,,,101 bhp,90 mph,,
+citroen,Dispatch MWB L1H1 1400kg Driver Alloys Air Con Sensors Cruise EURO 6 National Delivery Available,18994.0,2021,1997cc,"45,763 miles",Diesel,Manual,Grey,van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,C4 Cactus,7790.0,2017,1560cc,"65,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,95 g/km
+citroen,Berlingo,16495.0,2019,1499cc,"24,050 miles",Diesel,Manual,Nera Black Pearl,MPV,4X2,5.0,5.0,129 bhp,116 mph,10.3 seconds,114 g/km
+citroen,C4 Picasso,5495.0,2014,1560cc,"101,000 miles",Diesel,Manual,METALLIC RED,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,Relay,32394.0,2022,2.2L,"7,323 miles",Diesel,Manual,White,van,4X2,,,138 bhp,99 mph,,
+citroen,Relay,44400.0,2023,2.2L,200 miles,Diesel,Manual,White,van,4X2,,,138 bhp,99 mph,,
+citroen,Berlingo,17393.0,2020,1.5L,"27,986 miles",Diesel,Manual,White,van,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,22995.0,2023,1.2L,50 miles,Petrol,Manual,Grey,van,4X2,,,109 bhp,107 mph,,
+citroen,C5 Aircross,18500.0,2020,1.2L,"27,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,151 g/km
+citroen,C3,14206.0,2021,1.2L,"13,115 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,137 g/km
+citroen,C5,24250.0,2022,1.2L,"11,440 miles",Petrol,Semiauto,Blue,Saloon,4X2,4.0,5.0,129 bhp,130 mph,,136 g/km
+citroen,C3,10910.0,2020,1.2L,"31,882 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,15295.0,2019,1.2L,"15,095 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,109 bhp,114 mph,,131 g/km
+citroen,C4 Cactus,9990.0,2017,1.6L,"25,780 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,98 bhp,114 mph,11.2 seconds,89 g/km
+citroen,C3,12450.0,2019,1.5L,"46,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,101 bhp,109 mph,10.8 seconds,105 g/km
+citroen,C1,9650.0,2019,1L,"19,462 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,19990.0,2023,1.2L,"2,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C4,23950.0,2023,1.2L,10 miles,Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,130 g/km
+citroen,C4,16495.0,2020,1.2L,"31,803 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,129 bhp,124 mph,,144 g/km
+citroen,Berlingo,10991.0,2016,1.6L,"70,727 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,118 bhp,108 mph,11.4 seconds,113 g/km
+citroen,C4 Picasso,8958.0,2017,1.6L,"53,950 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,98 bhp,109 mph,12.7 seconds,99 g/km
+citroen,C3,7395.0,2017,1.6L,"71,210 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,115 mph,,95 g/km
+citroen,C4,16380.0,2021,1.2L,"10,175 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,123 g/km
+citroen,C4 Cactus,10877.0,2019,1.2L,"27,314 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,C3,15376.0,2023,1.2L,2 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,124 g/km
+citroen,C4,22208.0,2023,1.2L,2 miles,Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,119 g/km
+citroen,C4,22293.0,2023,1.2L,2 miles,Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,131 g/km
+citroen,C5 Aircross,20495.0,2021,1.2L,"22,667 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,C3,13295.0,2020,1.5L,"29,800 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,101 bhp,109 mph,,125 g/km
+citroen,C3,10495.0,2019,1.2L,"31,183 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C5 Aircross,15995.0,2020,1.5L,"28,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C5 Aircross,28995.0,2023,1.5L,"6,000 miles",Diesel,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,,145 g/km
+citroen,C3,15495.0,2023,1.2L,"4,752 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,124 g/km
+citroen,C3,18995.0,2023,1.2L,"5,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C5 Aircross,36995.0,2023,1.6L,"5,000 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,33 g/km
+citroen,Grand C4 Picasso,13420.0,2017,1.2L,"40,873 miles",Petrol,Manual,Blue,MPV,4X2,5.0,7.0,129 bhp,125 mph,10.1 seconds,116 g/km
+citroen,C3,17995.0,2023,1.2L,50 miles,Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,11495.0,2020,1.2L,"22,430 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,C4,16990.0,2021,1.2L,"14,393 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C3,15990.0,2019,1.2L,"16,369 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,114 g/km
+citroen,C5 Aircross,20990.0,2022,1.2L,"12,039 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,,140 g/km
+citroen,C4,20990.0,2020,2L,"24,980 miles",Diesel,Semiauto,Grey,MPV,4X2,5.0,7.0,161 bhp,130 mph,,124 g/km
+citroen,C3,13990.0,2019,1.2L,"10,426 miles",Petrol,Semiauto,Orange,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,120 g/km
+citroen,C4,18990.0,2021,1.2L,"14,691 miles",Petrol,Semiauto,Red,Hatchback,4X2,5.0,5.0,153 bhp,129 mph,,134 g/km
+citroen,C3,16990.0,2021,1.2L,"8,558 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C3,16990.0,2020,1.2L,"7,989 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,C5 Aircross,18990.0,2021,1.2L,"2,528 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,117 mph,,147 g/km
+citroen,C5 Aircross,16590.0,2019,1.2L,"14,852 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C3,15990.0,2021,1.2L,"4,076 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C3,11987.0,2021,1.2L,"15,106 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Relay,7990.0,2014,2198cc,"107,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.7 seconds,
+citroen,Berlingo,8749.0,2016,1560cc,"79,736 miles",Diesel,Manual,Black,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Dispatch,11950.0,2019,1997cc,"103,620 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Dispatch,10495.0,2019,1997cc,"100,909 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Dispatch,13495.0,2017,1560cc,"20,788 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,17274.0,2020,1500cc,"29,985 miles",Diesel,Manual,WHITE,Other,4X2,,,75 bhp,94 mph,,
+citroen,Relay,19787.0,2021,2200cc,"45,000 miles",Diesel,Manual,BLACK,Other,4X2,,,138 bhp,87 mph,,
+citroen,Dispatch,11994.0,2020,1500cc,"108,559 miles",Diesel,Manual,WHITE,Other,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,C1,5490.0,2015,1199cc,"55,313 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,DS4,8495.0,2015,1600cc,"47,976 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,113 bhp,118 mph,11.3 seconds,113 g/km
+citroen,C5,23990.0,2022,1499cc,"15,334 miles",Diesel,Automatic,Eclipse Blue,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,136 g/km
+citroen,C1,9995.0,2020,998cc,"13,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C1,4995.0,2013,998cc,"40,400 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C4 Picasso,3995.0,2014,1560cc,"149,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,DS3,4795.0,2012,1560cc,"90,000 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,DS3,4689.0,2015,1199cc,"74,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,104 g/km
+citroen,C1,4499.0,2013,1000cc,"39,869 miles",Petrol,Manual,Blue,Other,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,9990.0,2021,998cc,"4,100 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4,20940.0,2022,1L,"25,000 miles",Other,Automatic,BLACK,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+citroen,C4 Cactus,6990.0,2015,1560cc,"43,520 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,90 g/km
+citroen,C5,11449.0,2014,1997cc,"29,635 miles",Diesel,Manual,GREY,Estate,4X2,5.0,5.0,161 bhp,130 mph,9.3 seconds,133 g/km
+citroen,C3,11990.0,2020,1200cc,"20,000 miles",Petrol,Manual,BLUE,MPV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,140 g/km
+citroen,C4 Cactus,10999.0,2020,1500cc,"30,250 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,10.0 seconds,92 g/km
+citroen,Berlingo,7790.0,2013,1560cc,"70,000 miles",Diesel,Automatic,GREY,MPV,4X2,5.0,5.0,91 bhp,103 mph,15.5 seconds,120 g/km
+citroen,DS3,5880.0,2014,1598cc,"34,781 miles",Petrol,Manual,PURPLE,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,132 g/km
+citroen,C4,11350.0,2019,1200cc,"62,952 miles",Petrol,Manual,GREY,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C3,8495.0,2018,1200cc,"63,676 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,DS3,4481.0,2013,1560cc,"82,915 miles",Diesel,Manual,SILVER,Hatchback,4X2,3.0,5.0,115 bhp,118 mph,10.8 seconds,99 g/km
+citroen,Grand C4 Picasso,11495.0,2015,1560cc,"46,000 miles",Diesel,Automatic,BLUE,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,105 g/km
+citroen,Grand C4 Picasso,6195.0,2015,1560cc,"120,300 miles",Diesel,Manual,RED,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C5,5650.0,2016,1997cc,"69,740 miles",Diesel,Manual,WHITE,Saloon,4X2,4.0,5.0,147 bhp,134 mph,9.4 seconds,111 g/km
+citroen,C3,3850.0,2013,1560cc,"79,000 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,5.0,91 bhp,108 mph,21.7 seconds,107 g/km
+citroen,C1,7000.0,2016,1200cc,"35,285 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C5,3600.0,2010,1749cc,"46,000 miles",Petrol,Manual,Red,Estate,4X2,5.0,5.0,127 bhp,122 mph,12.2 seconds,192 g/km
+citroen,C3,13250.0,2019,1.2L,"35,859 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,131 g/km
+citroen,Berlingo,14758.0,2020,1.5L,"51,639 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,C4,16995.0,2019,1.2L,"22,673 miles",Petrol,Semiauto,Grey,MPV,4X2,5.0,5.0,128 bhp,124 mph,,117 g/km
+citroen,C3,12790.0,2021,1.2L,"1,113 miles",Petrol,Manual,Black,Hatchback,,,,,,,
+citroen,C1,9995.0,2021,1L,"14,860 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4,21995.0,2023,1.2L,"4,436 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,131 g/km
+citroen,C1,8549.0,2019,998cc,"36,294 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C1,9849.0,2021,998cc,"13,434 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,11649.0,2020,1199cc,"18,903 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,15049.0,2019,1499cc,"50,535 miles",Diesel,,White,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,109 g/km
+citroen,Grand C4 Picasso,14799.0,2017,1560cc,"36,298 miles",Diesel,,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,Dispatch 1000 1.6 BlueHDi 115 Van Enterprise,15900.0,2018,1600cc,"32,936 miles",Diesel,Manual,Silver,Van,4X2,,,114 bhp,99 mph,12.9 seconds,
+citroen,Relay,31975.0,2023,2.2L,"1,500 miles",Diesel,Manual,White,van,4X2,,,138 bhp,99 mph,,
+citroen,C5 Aircross,16495.0,2021,1.2L,"24,040 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,128 bhp,117 mph,,146 g/km
+citroen,C3,6795.0,2017,1200cc,"75,720 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C5 Aircross,14999.0,2020,1.5L,"20,131 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C4 Cactus,8990.0,2017,1199cc,"43,210 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,C3,23990.0,2023,1199cc,"2,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,147 g/km
+citroen,C5 Aircross,15490.0,2019,1199cc,"33,990 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C1,8999.0,2019,998cc,"20,967 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C1,5795.0,2015,998cc,"67,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,88 g/km
+citroen,Berlingo,16995.0,2021,1500cc,"15,500 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,20290.0,2023,1499cc,10 miles,Diesel,Manual,Polar White,Other,,,,,,,
+citroen,Berlingo,8750.0,2019,1560cc,"94,757 miles",Diesel,Manual,Black,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,11995.0,2017,1997cc,"60,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,Nemo,4995.0,2016,1248cc,"57,500 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,15.6 seconds,
+citroen,Relay,13188.0,2017,1997cc,"75,900 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Berlingo,9918.0,2019,1560cc,"97,236 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,19995.0,2018,1997cc,"49,000 miles",Diesel,Manual,BLUE,Other,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,Relay,14988.0,2018,1997cc,"67,539 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,Relay,23999.0,2021,2200cc,"25,000 miles",Diesel,Manual,WHITE,Other,4X2,,,138 bhp,87 mph,,
+citroen,Dispatch,9234.0,2017,1997cc,"148,000 miles",Diesel,Manual,WHITE,Other,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,C4,13800.0,2000,1199cc,"37,895 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,Grand C4 Picasso,7995.0,2015,1560cc,"93,080 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C4,14995.0,2019,1199cc,"36,000 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C3,8750.0,2018,1200cc,"51,896 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,12695.0,2019,1500cc,"31,950 miles",Diesel,Manual,Special Metallic - Cumulus Grey,Hatchback,4X2,5.0,5.0,101 bhp,109 mph,10.8 seconds,105 g/km
+citroen,C1,8195.0,2018,998cc,"8,800 miles",Petrol,Manual,Lipizzan White,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Berlingo,18000.0,2020,1.5L,"22,416 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,Berlingo,19200.0,2019,1.6L,"29,033 miles",Diesel,Manual,Grey,van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Berlingo,20400.0,2021,1.5L,"11,039 miles",Diesel,Manual,White,van,4X2,,,101 bhp,101 mph,,
+citroen,C1,7399.0,2018,998cc,"29,636 miles",Petrol,,Black,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C3,10849.0,2020,1199cc,"23,099 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C3,18233.0,2022,1.2L,"11,318 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,C3,13616.0,2023,1.2L,10 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,123 g/km
+citroen,C3,9475.0,2019,1.2L,"34,250 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C3,13995.0,2020,1.2L,"13,528 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,11328.0,2021,1.2L,"24,376 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C5 Aircross,22625.0,2021,1.6L,"20,609 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,11121.0,2020,1.2L,"17,732 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,C3,16495.0,2022,1.2L,"11,841 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,135 g/km
+citroen,C3,9907.0,2019,1.2L,"25,779 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C3,13900.0,2019,1.2L,"45,174 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,131 g/km
+citroen,C3,11999.0,2022,1.2L,"8,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,22570.0,2023,1.2L,10 miles,Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,131 g/km
+citroen,C3,23283.0,2023,1.2L,21 miles,Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,146 g/km
+citroen,C4 Cactus,8495.0,2016,1.2L,"54,700 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C3,10490.0,2018,1199cc,"16,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,Grand C4 Picasso,12995.0,2018,1.6L,"44,854 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,98 bhp,109 mph,,100 g/km
+citroen,C3,15176.0,2021,1199cc,"6,213 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,C3,13250.0,2019,1.2L,"38,761 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,131 g/km
+citroen,C4 Cactus,12690.0,1199cc,"15,473 miles",Petrol,Manual,Black,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,131 g/km
+citroen,C4 Cactus,9750.0,2018,1.2L,"47,700 miles",Petrol,Manual,Purple,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,Dispatch,20000.0,2022,1499cc,"9,200 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,90 mph,,
+citroen,Dispatch,11940.0,2019,1560cc,"95,679 miles",Diesel,Manual,WHITE,Other,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,Relay,9990.0,2019,2179cc,"138,846 miles",Diesel,Manual,White,Van,4X2,,,138 bhp,87 mph,,
+citroen,Dispatch,13489.0,2020,1499cc,"84,352 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,DS3,5195.0,2013,1560cc,"68,500 miles",Diesel,Manual,RED,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C1,11495.0,2021,998cc,"2,005 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4 Cactus,7490.0,2018,1200cc,"66,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,105 g/km
+citroen,Grand C4 Picasso,5995.0,2013,1560cc,"91,800 miles",Diesel,Automatic,White,MPV,4X2,5.0,7.0,110 bhp,113 mph,13.5 seconds,132 g/km
+citroen,C3,9995.0,2018,1199cc,"21,000 miles",Petrol,Manual,WHITE/RED,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,
+citroen,C3,12995.0,2019,1200cc,"23,780 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,110 g/km
+citroen,C1,4300.0,2012,998cc,"45,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C3,19990.0,2023,1199cc,"2,723 miles",Petrol,Automatic,WHITE,MPV,4X2,5.0,5.0,129 bhp,121 mph,,146 g/km
+citroen,Berlingo,11695.0,2017,1.6L,"47,000 miles",Diesel,Semiauto,Brown,MPV,4X2,5.0,5.0,98 bhp,106 mph,14.3 seconds,109 g/km
+citroen,C4 Cactus,6890.0,2015,1560cc,"62,572 miles",Diesel,Manual,Metallic Red,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,Berlingo,19990.0,2020,1499cc,"20,000 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,101 bhp,109 mph,12.3 seconds,155 g/km
+citroen,C3,14499.0,2022,1.2L,"9,865 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,Relay,31794.0,2023,2179cc,200 miles,Diesel,Manual,WHITE,Other,4X2,,,138 bhp,99 mph,,
+citroen,Relay,31794.0,2023,2179cc,200 miles,Diesel,Manual,WHITE,Other,4X2,,,138 bhp,99 mph,,
+citroen,C1,2890.0,2012,998cc,"61,600 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C3,8670.0,2017,1200cc,"42,161 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C4 Picasso,5990.0,2013,1560cc,"49,000 miles",Diesel,Manual,RED,MPV,4X2,5.0,5.0,91 bhp,108 mph,12.9 seconds,110 g/km
+citroen,DS4,2295.0,2013,1997cc,"130,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,162 bhp,132 mph,8.6 seconds,134 g/km
+citroen,C1,6495.0,2015,1200cc,"69,796 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,17199.0,2019,1199cc,"26,572 miles",Petrol,,Red,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C3,10349.0,2019,1199cc,"27,075 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,98 g/km
+citroen,C3,11249.0,2020,1199cc,"30,213 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4,18049.0,2019,1199cc,"10,639 miles",Petrol,,Black,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C3,9649.0,2017,1199cc,"35,592 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,Grand C4 Picasso,8995.0,2015,1.6L,"83,000 miles",Diesel,Semiauto,Silver,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.6 seconds,104 g/km
+citroen,C5 Aircross,26995.0,2023,1.2L,5 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,143 g/km
+citroen,C5,29995.0,2023,1.6L,"5,000 miles",Hybrid,Semiauto,Grey,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,30 g/km
+citroen,C3,18695.0,2023,1.2L,"5,000 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+citroen,C1,10990.0,2020,1L,"8,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,SpaceTourer,26995.0,2019,2L,"30,552 miles",Diesel,Automatic,Beige,MPV,4X2,5.0,8.0,175 bhp,100 mph,,143 g/km
+citroen,C4,14995.0,2018,1.2L,"39,103 miles",Petrol,Manual,Grey,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C1,7499.0,2017,1.2L,"33,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,11895.0,2021,1.2L,"19,225 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C4,17523.0,2021,1.5L,"10,129 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,113 g/km
+citroen,C5 Aircross,34490.0,2023,1598cc,"3,974 miles",Other,Automatic,Platinum Grey,SUV,4X2,5.0,5.0,178 bhp,140 mph,,29 g/km
+citroen,C3,7700.0,2018,1.2L,"72,755 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C4,15490.0,2021,1199cc,"18,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,Berlingo,15000.0,2020,1499cc,"57,560 miles",Diesel,Manual,Green,MPV,4X2,5.0,5.0,101 bhp,107 mph,,143 g/km
+citroen,C3,8400.0,2020,1199cc,"61,137 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C1,8190.0,2018,1L,"31,804 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,
+citroen,C5 Aircross,26995.0,2022,1.6L,"10,000 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C5 Aircross,14213.0,2020,1.2L,"53,316 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,151 g/km
+citroen,C3,10840.0,2021,1.2L,"6,457 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C5 Aircross,13448.0,2019,1.2L,"34,767 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,119 g/km
+citroen,Berlingo,13176.0,2019,1500cc,"78,154 miles",Diesel,Manual,GREY,Other,4X2,,,101 bhp,101 mph,12.2 seconds,
+citroen,Relay,10000.0,2015,2198cc,"59,500 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,DS3,4495.0,2013,1598cc,"78,900 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,DS3,3395.0,2013,1560cc,"95,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,111 bhp,118 mph,10.8 seconds,99 g/km
+citroen,C3,4499.0,2013,1199cc,"69,537 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,DS3,3500.0,2011,1600cc,"93,457 miles",Diesel,Manual,Black,Other,4X2,3.0,5.0,110 bhp,118 mph,9.8 seconds,109 g/km
+citroen,C1,6495.0,2016,1199cc,"49,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,14985.0,2018,1997cc,"66,000 miles",Diesel,Automatic,Black,MPV,4X2,5.0,7.0,161 bhp,130 mph,9.2 seconds,127 g/km
+citroen,C4,20388.0,2021,1L,"15,000 miles",Other,Automatic,GREY,Hatchback,4X2,5.0,5.0,134 bhp,93 mph,,0 g/km
+citroen,DS3,4995.0,2012,1598cc,"87,359 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,157 bhp,130 mph,8.1 seconds,139 g/km
+citroen,C3,9495.0,2018,1199cc,"26,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,Berlingo,15795.0,2020,1500cc,"26,715 miles",Diesel,Manual,GREY,MPV,4X2,5.0,5.0,101 bhp,109 mph,12.3 seconds,107 g/km
+citroen,Berlingo,18588.0,2021,1.5L,"16,221 miles",Diesel,Manual,White,van,4X2,,,75 bhp,94 mph,,
+citroen,Dispatch,20994.0,2021,1.5L,"38,234 miles",Diesel,Manual,White,van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Relay,32394.0,2023,2.2L,10 miles,Diesel,Manual,White,van,4X2,,,138 bhp,96 mph,,
+citroen,Relay,32394.0,2023,2.2L,10 miles,Diesel,Manual,White,van,4X2,,,138 bhp,96 mph,,
+citroen,Relay,32394.0,2023,2.2L,10 miles,Diesel,Manual,White,van,4X2,,,138 bhp,96 mph,,
+citroen,Berlingo,24594.0,2023,1.5L,10 miles,Diesel,Automatic,White,van,4X2,,,129 bhp,114 mph,,
+citroen,C3,13352.0,2021,1.2L,"11,578 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C5 Aircross,26995.0,2022,1.6L,"15,000 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,13395.0,2020,1.2L,"23,331 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,10995.0,2020,1.2L,"25,409 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C5 Aircross,19790.0,2020,1.2L,"11,075 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,128 bhp,122 mph,,156 g/km
+citroen,C3,3499.0,2010,1560cc,"76,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,C5 Aircross,16990.0,2019,1499cc,"21,974 miles",Diesel,Manual,Platinum,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,110 g/km
+citroen,C3,12995.0,2019,1199cc,"23,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,Relay,32394.0,2023,2.2L,10 miles,Diesel,Manual,White,van,4X2,,,138 bhp,96 mph,,
+citroen,Relay,31194.0,2023,2.2L,2 miles,Diesel,Manual,White,van,4X2,,,138 bhp,99 mph,,
+citroen,Relay,33594.0,2023,2.2L,1 miles,Diesel,Manual,Grey,van,4X2,,,138 bhp,99 mph,,
+citroen,Berlingo,21990.0,2020,1499cc,"21,000 miles",Diesel,Automatic,Blue,MPV,4X2,5.0,5.0,129 bhp,114 mph,,147 g/km
+citroen,C3,14490.0,2022,1199cc,"11,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C4 Picasso,10995.0,2018,1.6L,"32,348 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C3,13495.0,2021,1.2L,"26,239 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C3,13995.0,2021,1.2L,"20,154 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,137 g/km
+citroen,C3,15095.0,2021,1.2L,"10,977 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C3,19950.0,2023,1.2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C1,9425.0,2019,1L,"6,119 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,17000.0,2023,1.2L,"1,169 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C1,9379.0,2021,1L,"10,704 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,8000.0,2017,1.2L,"50,539 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,15290.0,2020,1199cc,"8,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,138 g/km
+citroen,C3,16290.0,2020,1199cc,"23,000 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,Relay,10542.0,2018,1997cc,"135,229 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,93 mph,20.6 seconds,
+citroen,Relay,17995.0,2016,2198cc,"53,478 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,96 mph,21.7 seconds,
+citroen,Berlingo,8495.0,2018,1560cc,"97,000 miles",Diesel,Manual,Black,Van,4X2,,,118 bhp,108 mph,,
+citroen,Relay,15995.0,2020,2200cc,"84,998 miles",Diesel,Manual,White,Van,4X2,,,138 bhp,99 mph,,
+citroen,C4 Cactus,7990.0,2015,1199cc,"34,973 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,107 g/km
+citroen,C4 Cactus,4995.0,2016,1560cc,"120,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,90 g/km
+citroen,C3,1995.0,2009,1560cc,"101,090 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,125 g/km
+citroen,C3,3995.0,2003,1587cc,"77,000 miles",Petrol,Automatic,Orange,Convertible,4X2,3.0,5.0,107 bhp,117 mph,10.6 seconds,157 g/km
+citroen,C5,2750.0,2003,2946cc,"77,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,210 bhp,144 mph,9.8 seconds,241 g/km
+citroen,C5,15990.0,2020,1200cc,"33,500 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,128 bhp,122 mph,,154 g/km
+citroen,C3,9995.0,2019,1200cc,"46,009 miles",Petrol,Manual,Black,MPV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,109 g/km
+citroen,C1,5995.0,2016,998cc,"49,998 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,88 g/km
+citroen,C4 Picasso,3995.0,2014,1560cc,"119,527 miles",Diesel,Manual,RED,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C1,3695.0,2011,998cc,"36,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C4,13600.0,2000,1199cc,"35,718 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,Grand C4 Picasso,6800.0,2014,1560cc,"98,226 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,SpaceTourer,20490.0,2017,1560cc,"60,000 miles",Diesel,Manual,RED,MPV,,,,,,,
+citroen,C3,6495.0,2013,1598cc,"42,000 miles",Petrol,Automatic,White,MPV,4X2,5.0,5.0,121 bhp,117 mph,12.7 seconds,137 g/km
+citroen,DS3,3775.0,2012,1560cc,"81,504 miles",Diesel,Manual,YELLOW,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,DS3,4595.0,2012,1598cc,"53,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C3,11099.0,2019,1199cc,"17,059 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,C1,9699.0,2021,998cc,"19,764 miles",Petrol,,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,11299.0,2019,1199cc,"15,283 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C1,8810.0,2018,1L,"24,264 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,12.6 seconds,93 g/km
+citroen,Berlingo,15995.0,2018,1.6L,"36,193 miles",Diesel,Manual,Grey,van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,C3,10499.0,2020,1.2L,"27,337 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,Berlingo,24358.0,2023,1.5L,5 miles,Diesel,Manual,Grey,van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,24358.0,2023,1.5L,5 miles,Diesel,Manual,Grey,van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,24358.0,2023,1.5L,5 miles,Diesel,Manual,Grey,van,4X2,,,101 bhp,102 mph,,
+citroen,SpaceTourer 2.0 BlueHDi Feel M EAT8 Euro 6 (s/s) 5dr  180hp AUTO   8SEAT  OPTIONS,31990.0,2020,1997cc,"28,000 miles",Diesel,Automatic,Grey,van,4X2,5.0,8.0,175 bhp,100 mph,,
+citroen,C3,11573.0,2021,1.2L,"16,202 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,14590.0,2018,1.2L,"27,005 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C4,22000.0,2021,1.2L,"8,534 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,129 bhp,124 mph,,139 g/km
+citroen,C1,9000.0,2019,1L,"18,500 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C1,9794.0,2020,1L,"13,626 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C3,11320.0,2021,1.2L,"8,214 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C1,8908.0,2019,1L,"11,791 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,11200.0,2021,1199cc,"51,485 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Dispatch,14980.0,2019,1997cc,"63,518 miles",Diesel,Manual,SILVER,Other,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,9954.0,2019,1560cc,"114,000 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,5795.0,2013,1600cc,"113,975 miles",Diesel,Manual,White,Other,4X2,,,88 bhp,99 mph,13.5 seconds,
+citroen,Berlingo,12995.0,2020,1499cc,"54,356 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,15.9 seconds,
+citroen,Dispatch,9975.0,2020,1499cc,"103,370 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,12695.0,2021,1500cc,"52,000 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,C4 Picasso,9499.0,2015,1997cc,"50,297 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,147 bhp,130 mph,9.7 seconds,105 g/km
+citroen,DS3,4250.0,2011,1560cc,"81,000 miles",Diesel,Manual,WHITE,Hatchback,4X2,3.0,5.0,90 bhp,112 mph,11.3 seconds,107 g/km
+citroen,C1,5995.0,2016,1000cc,"44,506 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Dispatch,17500.0,2019,1500cc,0 miles,Diesel,Manual,BLACK,MPV,4X2,5.0,9.0,118 bhp,99 mph,12.0 seconds,128 g/km
+citroen,C1,5500.0,2014,998cc,"36,555 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,2975.0,2010,1560cc,"114,792 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,C3,5495.0,2015,1398cc,"66,655 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.5 seconds,99 g/km
+citroen,C4 Picasso,4495.0,2014,1560cc,"88,183 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,5.0,113 bhp,117 mph,11.8 seconds,105 g/km
+citroen,C3,8899.0,2018,1200cc,"51,498 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,6850.0,2017,1200cc,"87,822 miles",Petrol,Manual,RED,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,7995.0,2016,1560cc,"47,870 miles",Diesel,Manual,GREY,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,Grand C4 Picasso,7995.0,2016,1997cc,"100,000 miles",Diesel,Manual,RED,MPV,4X2,5.0,7.0,147 bhp,130 mph,9.8 seconds,111 g/km
+citroen,C3,9850.0,2019,1199cc,"32,030 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C4 Cactus,7195.0,2016,1560cc,"49,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,95 g/km
+citroen,C3,4700.0,2013,1398cc,"50,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.5 seconds,99 g/km
+citroen,C4,7400.0,2013,1560cc,"40,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,137 g/km
+citroen,C3,10999.0,2020,1199cc,"34,586 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,11949.0,2020,1499cc,"18,139 miles",Diesel,,White,Hatchback,4X2,5.0,5.0,101 bhp,117 mph,,118 g/km
+citroen,C3,21498.0,2023,1.2L,"3,006 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,137 g/km
+citroen,C3,12810.0,2021,1.2L,"21,432 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,9387.0,2018,1.2L,"21,585 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C3,10973.0,2019,1.2L,"14,674 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,98 g/km
+citroen,C3,13052.0,2021,1.2L,"13,595 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,10593.0,2020,1.2L,"11,697 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,15644.0,2021,1.2L,"13,239 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,
+citroen,C3,11373.0,2021,1.2L,"17,159 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,15774.0,2020,1.2L,"10,984 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C3,10603.0,2020,1.2L,"19,354 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,10790.0,2017,1.2L,"13,629 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,C3,9937.0,2019,1.2L,"28,164 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C3,10395.0,2018,1.2L,"45,659 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,80 bhp,103 mph,14.1 seconds,116 g/km
+citroen,C3,16999.0,2023,1199cc,"3,232 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,
+citroen,C3,17490.0,2020,1199cc,"11,115 miles",Petrol,Automatic,Black,SUV,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C3,7499.0,2015,1.6L,"36,616 miles",Diesel,Manual,Purple,MPV,4X2,5.0,5.0,98 bhp,111 mph,13.3 seconds,101 g/km
+citroen,C4 Cactus,10499.0,2018,1.2L,"30,443 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,Relay 35 HEAVY 2.0 BLUEHDI L4 X-LONG ENTERPRISE ( AIR CON / SAT NAV ),17989.0,2017,2L,"35,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,Berlingo L2 1.6 BLUEHDI 100 BHP 750KG LONG 6DR ( EURO 6 ),11989.0,2018,1.6L,"45,000 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,101 mph,12.3 seconds,
+citroen,Berlingo 1.6 1000 ENTERPRISE M BLUEHDI S/S 98 BHP,10000.0,2019,1.6L,"83,853 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,C3,13100.0,2019,1.2L,"22,983 miles",Petrol,Semiauto,Black,Hatchback,,,,,,,
+citroen,C3,13250.0,2021,1.2L,"9,144 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C3,13891.0,2022,1.2L,"5,501 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,124 g/km
+citroen,C5 Aircross,18922.0,2021,1.5L,"16,459 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C3,8855.0,2017,1.2L,"24,244 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,15562.0,2020,1.2L,"7,045 miles",Petrol,Semiauto,Orange,SUV,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C3,12250.0,2020,1.2L,"19,285 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,12995.0,2018,1.2L,"33,394 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,108 bhp,114 mph,,126 g/km
+citroen,C4 Cactus,14495.0,2020,1.2L,"34,434 miles",Petrol,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,129 mph,8.6 seconds,139 g/km
+citroen,C3,11995.0,2021,1.2L,"29,391 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,11395.0,2020,1.2L,"16,954 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4,12500.0,2019,1.2L,"43,394 miles",Petrol,Manual,Red,MPV,4X2,5.0,5.0,128 bhp,124 mph,,119 g/km
+citroen,C4 Cactus,11625.0,2016,1.2L,"15,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,80 bhp,107 mph,15.0 seconds,100 g/km
+citroen,Berlingo,9995.0,2018,1560cc,"34,898 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,101 mph,12.3 seconds,
+citroen,Berlingo,9980.0,2019,1560cc,"61,715 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Relay,8750.0,2019,1997cc,"134,658 miles",Diesel,Manual,White,Van,,,,,,,
+citroen,Berlingo,9694.0,2019,1560cc,"88,600 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Berlingo,9794.0,2019,1560cc,"77,350 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Berlingo,14340.0,2019,1L,"6,000 miles",Other,Automatic,WHITE,Other,4X2,,,66 bhp,68 mph,19.4 seconds,
+citroen,Berlingo,11995.0,2021,1499cc,"63,000 miles",Diesel,Manual,Grey,Van,4X2,,,75 bhp,94 mph,,
+citroen,DS3,5250.0,2013,1598cc,"70,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C4 Picasso,11750.0,2018,1600cc,"56,000 miles",Diesel,Manual,Grey,Other,4X2,5.0,7.0,98 bhp,109 mph,12.7 seconds,100 g/km
+citroen,C1,4990.0,2014,998cc,"49,600 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C3,11490.0,2020,1199cc,"25,250 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,C4,8795.0,2016,1560cc,"55,309 miles",Diesel,Automatic,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,11.1 seconds,98 g/km
+citroen,C3,12995.0,2020,1199cc,"9,277 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C1,3995.0,2012,998cc,"68,000 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,Grand C4 Picasso,9749.0,2014,1560cc,"49,989 miles",Diesel,Automatic,BRONZE,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.6 seconds,105 g/km
+citroen,SpaceTourer,28950.0,2019,1997cc,"57,322 miles",Diesel,Manual,BLACK,Other,4X2,5.0,8.0,148 bhp,100 mph,10.3 seconds,144 g/km
+citroen,C3,13849.0,2020,1199cc,"25,850 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,138 g/km
+citroen,C3,8949.0,2017,1199cc,"31,431 miles",Petrol,,Orange,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,12099.0,2020,1199cc,"17,217 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4,11699.0,2018,1560cc,"58,377 miles",Diesel,,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,,105 g/km
+citroen,C3,8400.0,2018,1.2L,"70,224 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,Berlingo 1.5 BHDi 850Kg Crew Van Enterprise 100ps (S/S),14498.0,2020,1499cc,"44,028 miles",Diesel,Manual,White,Combi Van,4X2,,,101 bhp,107 mph,,
+citroen,C3,9500.0,2016,1560cc,"51,064 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,C3,11995.0,2020,1199cc,"72,023 miles",Petrol,Automatic,RED,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,138 g/km
+citroen,C1,8795.0,2020,998cc,"15,000 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,17495.0,2021,1199cc,"8,552 miles",Petrol,Automatic,WHITE,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,135 g/km
+citroen,Berlingo 1.5 650 ENTERPRISE M BLUEHDI S/S 76 BHP,10250.0,2020,1.5L,"75,000 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,C3,16295.0,2022,1.2L,"11,033 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,135 g/km
+citroen,C3,15700.0,2022,1.2L,480 miles,Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,125 g/km
+citroen,C3,11180.0,2021,1.2L,"9,097 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,10438.0,2018,1.2L,"13,904 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,80 bhp,103 mph,14.1 seconds,116 g/km
+citroen,C3,10495.0,2019,1.2L,"23,759 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C1,8990.0,2020,1L,"8,293 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,111 g/km
+citroen,C5 Aircross,14768.0,2019,1.2L,"39,851 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,Berlingo,17490.0,1499cc,"23,343 miles",Diesel,Manual,Blue,MPV,55.4 mpg,4X2,5.0,5.0,101 bhp,107 mph,,107 g/km
+citroen,C4 Cactus,10900.0,2020,1.2L,"30,783 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,131 g/km
+citroen,C1,6000.0,2018,998cc,"64,293 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C3,5795.0,2012,1397cc,"47,000 miles",Petrol,Manual,Metalic,MPV,4X2,5.0,5.0,94 bhp,111 mph,12.2 seconds,145 g/km
+citroen,Relay,23994.0,2021,2.2L,"29,863 miles",Diesel,Manual,White,van,4X2,,,162 bhp,99 mph,,
+citroen,C5 Aircross,23320.0,2022,1.6L,"9,265 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,10499.0,2021,1.2L,"14,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,9990.0,2019,1.2L,"16,761 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,Berlingo,12995.0,2019,1560cc,"67,000 miles",Diesel,Manual,Grey,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Relay,28990.0,2023,0L,10 miles,Diesel,Manual,Icy White,Van,,,,,,,
+citroen,Berlingo,15980.0,2022,1500cc,"9,244 miles",Diesel,Manual,Polar White,Van,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,11750.0,2020,1500cc,"49,639 miles",Diesel,Manual,Polar White,Van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,8990.0,2020,1500cc,"106,803 miles",Diesel,Manual,Cumulus Grey,Van,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,14500.0,2019,1499cc,"65,000 miles",Diesel,Automatic,Grey,Van,4X2,,,129 bhp,114 mph,10.7 seconds,
+citroen,Dispatch,11945.0,2019,1997cc,"81,029 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,10800.0,2019,1560cc,"78,752 miles",Diesel,Manual,Grey,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Berlingo,14995.0,2020,1499cc,"24,404 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,Relay,10995.0,2017,1997cc,"84,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Berlingo,18594.0,2021,1500cc,"21,000 miles",Diesel,Manual,GREY,Other,,,,,,,
+citroen,Berlingo,13995.0,2019,1500cc,"85,100 miles",Diesel,Manual,Grey,Van,4X2,,,129 bhp,115 mph,10.1 seconds,
+citroen,Berlingo,10794.0,2018,1560cc,"62,896 miles",Diesel,Manual,WHITE,Other,4X2,,,98 bhp,101 mph,11.9 seconds,
+citroen,Relay,29250.0,2023,2179cc,60 miles,Diesel,Manual,White,Van,4X2,,,138 bhp,99 mph,,
+citroen,Berlingo,15588.0,2021,1500cc,"54,000 miles",Diesel,Manual,WHITE,Other,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,10800.0,2020,1500cc,"40,750 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,Relay,14995.0,2020,2200cc,"62,000 miles",Diesel,Manual,White,Van,4X2,,,138 bhp,87 mph,,
+citroen,C4,4795.0,2013,1598cc,"70,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,10.8 seconds,143 g/km
+citroen,C4 Picasso,1799.0,2007,1700cc,"126,000 miles",Petrol,Manual,Red,Other,4X2,5.0,7.0,123 bhp,115 mph,11.9 seconds,190 g/km
+citroen,C1,5995.0,2016,998cc,"50,621 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,4995.0,2012,1598cc,"47,253 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,121 bhp,117 mph,13.9 seconds,149 g/km
+citroen,C1,4499.0,2010,998cc,"41,473 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C4 Cactus,5995.0,2015,1200cc,"74,000 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,107 g/km
+citroen,Grand C4 Picasso,8995.0,2016,1560cc,"99,600 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4 Cactus,6920.0,2015,1560cc,"61,946 miles",Diesel,Manual,GREY,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,C4 Cactus,11450.0,2019,1500cc,"54,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,10.0 seconds,98 g/km
+citroen,C1,7495.0,2015,1000cc,"14,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.6 seconds,97 g/km
+citroen,C1,9990.0,2020,998cc,"30,993 miles",Petrol,Manual,Caldera Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,111 g/km
+citroen,C4,29990.0,2023,0L,5 miles,Other,Automatic,Nera Black,Hatchback,4X2,4.0,5.0,134 bhp,93 mph,,0 g/km
+citroen,C3,13490.0,2021,1199cc,"35,393 miles",Petrol,Manual,Elixir Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,15750.0,2022,1199cc,"10,091 miles",Petrol,Manual,Nera Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,17990.0,2020,1200cc,"2,588 miles",Petrol,Automatic,Spring Blue,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,139 g/km
+citroen,C4,19990.0,2022,1200cc,"15,403 miles",Petrol,Automatic,Platinum Grey,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,130 g/km
+citroen,C5,29990.0,2022,1600cc,"20,802 miles",Other,Automatic,Nera Black,Hatchback,4X2,4.0,5.0,221 bhp,145 mph,,30 g/km
+citroen,C3,15750.0,2022,1199cc,"10,490 miles",Petrol,Manual,Polar White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,15750.0,2021,1200cc,"14,100 miles",Petrol,Automatic,GREY,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,135 g/km
+citroen,C3,7695.0,2017,1200cc,"69,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,9295.0,2018,1200cc,"40,000 miles",Petrol,Manual,White,MPV,4X2,5.0,5.0,80 bhp,103 mph,14.1 seconds,116 g/km
+citroen,C4 Cactus,10695.0,2018,1200cc,"17,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,80 bhp,105 mph,,108 g/km
+citroen,C3,10995.0,2019,1199cc,"42,752 miles",Petrol,Manual,Platinum Grey,MPV,,,,,,,
+citroen,C3,12450.0,2021,1199cc,"7,005 miles",Petrol,Manual,Platinum Grey - Red Roof,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C5,34950.0,2023,1598cc,"6,113 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,28 g/km
+citroen,C3,9650.0,2020,1199cc,"52,097 miles",Petrol,Manual,Cobalt Blue - White Roof,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C4 Cactus,6990.0,2016,1560cc,"73,020 miles",Diesel,Manual,Black Metallic,SUV,4X2,5.0,5.0,129 bhp,128 mph,9.4 seconds,95 g/km
+citroen,C3,11950.0,2021,1199cc,"19,998 miles",Petrol,Manual,WHITE- EMERALD ROOF,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,10950.0,2020,1500cc,"49,244 miles",Diesel,Manual,Cumulus Grey - Black Roof,Hatchback,4X2,5.0,5.0,101 bhp,117 mph,,118 g/km
+citroen,DS3,5995.0,2015,1560cc,"56,035 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C5,15995.0,2020,1499cc,"55,866 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,102 g/km
+citroen,C3,16250.0,2022,1200cc,"16,010 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C1,5995.0,2016,998cc,"33,213 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Grand C4 Picasso,12999.0,2018,1600cc,"67,000 miles",Diesel,Manual,Beige,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,6295.0,2016,1200cc,"56,413 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,C3,10495.0,2018,1200cc,"38,374 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C1,9495.0,2019,1000cc,"22,295 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,Berlingo,30495.0,2023,0L,395 miles,Other,Automatic,Grey,Estate,4X2,5.0,5.0,134 bhp,84 mph,,0 g/km
+citroen,C4,20995.0,2023,1199cc,618 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,119 g/km
+citroen,C1,8995.0,2021,998cc,"19,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,DS3,7000.0,2014,1560cc,"57,800 miles",Diesel,Manual,BLUE,Hatchback,4X2,3.0,5.0,111 bhp,118 mph,10.8 seconds,
+citroen,C4,18495.0,2022,1.2L,"10,000 miles",Petrol,Semiauto,Brown,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,131 g/km
+citroen,C1,5480.0,2015,1.2L,"58,763 miles",Petrol,Manual,Grey,Hatchback,,,,,,,
+citroen,Dispatch,13490.0,2019,1560cc,"59,841 miles",Diesel,Manual,White,Van,,,,,,,
+citroen,Berlingo,19295.0,2023,1499cc,10 miles,Diesel,Manual,Perla Nera Black,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,9495.0,2019,1500cc,"75,000 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,20995.0,2023,1499cc,10 miles,Diesel,Manual,Solid - Icy White,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,20995.0,2023,1499cc,10 miles,Diesel,Manual,Solid - Icy White,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,17995.0,2023,1499cc,10 miles,Diesel,Manual,Solid - Icy White,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,19995.0,2023,1499cc,10 miles,Diesel,Manual,Metallic - Platinum Grey,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,9995.0,2017,1560cc,"23,369 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,18485.0,2022,1499cc,"6,000 miles",Diesel,Manual,Black,Van,4X2,,,101 bhp,101 mph,,
+citroen,Dispatch,21995.0,2022,2000cc,"22,000 miles",Diesel,Manual,Grey,Van,4X2,,,142 bhp,106 mph,,
+citroen,Berlingo,29995.0,2023,1000cc,12 miles,Other,Automatic,Black,Van,4X2,,,134 bhp,84 mph,,
+citroen,Berlingo,8350.0,2018,1600cc,"82,121 miles",Diesel,Manual,White,Van,,,,,,,
+citroen,Berlingo,13995.0,2021,1500cc,"23,305 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,Relay,12995.0,2016,1997cc,"51,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,Berlingo,9995.0,2019,1560cc,0 miles,Diesel,Manual,White,Van,,,,,,,
+citroen,Berlingo,7450.0,2018,1560cc,"110,069 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,101 mph,11.9 seconds,
+citroen,Berlingo,12995.0,2019,1560cc,"58,000 miles",Diesel,Manual,Grey,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Dispatch,11745.0,2017,1997cc,"73,000 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,DS3,5950.0,2014,1560cc,"90,000 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,10.8 seconds,94 g/km
+citroen,DS3,4995.0,2014,1560cc,"75,500 miles",Diesel,Manual,Mauve/Purple,Hatchback,4X2,3.0,5.0,111 bhp,118 mph,10.8 seconds,99 g/km
+citroen,C3,10695.0,2019,1199cc,"16,000 miles",Petrol,Manual,Polar White/Black Roof,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C5,29995.0,2022,1598cc,"12,000 miles",Petrol,Automatic,Metallic - Eclipse Blue,Hatchback,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C5,15495.0,2019,1200cc,"28,337 miles",Petrol,Manual,Metallic - Cumulus Grey,Hatchback,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C1,7895.0,2019,998cc,"29,230 miles",Petrol,Manual,Solid - Pacific Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C5,34995.0,2023,1598cc,"4,500 miles",Petrol,Automatic,Special Metallic - Cumulus Grey,Estate,4X2,4.0,5.0,221 bhp,145 mph,,28 g/km
+citroen,C5,34495.0,2023,1598cc,"6,000 miles",Petrol,Automatic,Metallic - Cumulus Grey,Hatchback,4X2,5.0,5.0,178 bhp,140 mph,,29 g/km
+citroen,C3,16950.0,2023,1199cc,10 miles,Petrol,Manual,Special Solid - Polar White,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,124 g/km
+citroen,C5,29995.0,2023,1199cc,10 miles,Petrol,Manual,Metallic - Cumulus Grey,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,143 g/km
+citroen,C5,28450.0,2023,1199cc,10 miles,Petrol,Manual,Pearl - Pearl White,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,C5,15795.0,2019,1200cc,"23,850 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C4 Picasso,6450.0,2014,1560cc,"69,197 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,91 bhp,108 mph,12.9 seconds,110 g/km
+citroen,C4,11490.0,2018,1560cc,"59,335 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,98 bhp,109 mph,,100 g/km
+citroen,C3,2995.0,2013,1560cc,"107,000 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,C1,4995.0,2015,998cc,"49,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,DS3,4495.0,2012,1598cc,"67,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,136 g/km
+citroen,C4,6450.0,2014,1560cc,"63,000 miles",Diesel,Manual,Bronze,Hatchback,4X2,5.0,5.0,113 bhp,122 mph,11.3 seconds,97 g/km
+citroen,C4 Picasso,9695.0,2017,1600cc,"72,300 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,DS3,4990.0,2015,1560cc,"73,000 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,118 bhp,118 mph,10.8 seconds,94 g/km
+citroen,C4,18495.0,2022,1199cc,"6,599 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,122 g/km
+citroen,C4,17495.0,2020,1199cc,"28,480 miles",Petrol,Manual,Grey,Estate,4X2,5.0,7.0,129 bhp,124 mph,,144 g/km
+citroen,C3,13690.0,2018,1200cc,"3,063 miles",Petrol,Automatic,Voltaic Blue,MPV,4X2,5.0,5.0,108 bhp,114 mph,,126 g/km
+citroen,C5,14599.0,2019,1200cc,"35,167 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,128 bhp,117 mph,,119 g/km
+citroen,C1,2995.0,2013,998cc,"101,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,DS3,3950.0,2011,1560cc,"109,341 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,C4,5995.0,2015,1560cc,"71,755 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,95 g/km
+citroen,Grand C4 Picasso,4850.0,2013,1560cc,"112,000 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,137 g/km
+citroen,C4 Cactus,7450.0,2016,1560cc,"86,192 miles",Diesel,Manual,Mauve/Purple,SUV,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,C1,3975.0,2011,998cc,"58,303 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,Grand C4 Picasso,2495.0,2012,1560cc,"160,132 miles",Diesel,Manual,Mauve/Purple,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,135 g/km
+citroen,C5 Aircross,17490.0,2020,1199cc,"11,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,117 mph,,149 g/km
+citroen,Berlingo,24490.0,2021,1499cc,"17,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,101 bhp,107 mph,,140 g/km
+citroen,C3,11490.0,2021,1199cc,"27,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,13795.0,2019,1.2L,"40,513 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,107 g/km
+citroen,Berlingo,17990.0,2023,1499cc,10 miles,Diesel,Manual,Onyx Black,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,17994.0,2020,1500cc,"12,797 miles",Diesel,Manual,WHITE,Other,4X2,,,75 bhp,94 mph,,
+citroen,C4 Cactus,7495.0,2016,1560cc,"64,325 miles",Diesel,Manual,SILVER,Hatchback,,,,,,,
+citroen,C1,2490.0,2013,998cc,"107,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,7900.0,2012,998cc,"20,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,4.0,67 bhp,98 mph,14.0 seconds,104 g/km
+citroen,DS3,3595.0,2012,1598cc,"86,643 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,136 g/km
+citroen,C3,5750.0,2014,1199cc,"35,384 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,Grand C4 Picasso,12191.0,2016,1560cc,"46,830 miles",Diesel,Automatic,BLUE,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,103 g/km
+citroen,SpaceTourer,24990.0,2019,2L,"17,182 miles",Diesel,Manual,Grey,MPV,4X2,5.0,8.0,148 bhp,100 mph,,145 g/km
+citroen,C3,7970.0,2019,1.2L,"76,542 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C3,3975.0,2015,1199cc,"95,000 miles",Petrol,Manual,Polar White,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,Grand C4 Picasso,9685.0,2016,1560cc,"77,024 miles",Diesel,Automatic,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,103 g/km
+citroen,C4,11480.0,2019,1499cc,"85,972 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,109 g/km
+citroen,C4,7000.0,2013,1598cc,"24,000 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,12.5 seconds,159 g/km
+citroen,C3,11490.0,2020,1199cc,"24,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,DS3,5900.0,2015,1199cc,"46,327 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,107 g/km
+citroen,C1,4995.0,2015,998cc,"68,711 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Berlingo 1000 ENTERPRISE PRO M BLUEHDI AIR CON EURO 6 ULEZ COMPLIANT,17250.0,2022,1500cc,"28,757 miles",Diesel,Manual,SILVER,PANEL VAN AIR CON EURO 6 ULEZ COMPLAINT,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,15999.0,2020,1.5L,"32,437 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,Dispatch,21594.0,2020,2L,"22,874 miles",Diesel,Manual,White,van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,C1,9290.0,2021,1L,"9,884 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,Relay 2.0 BlueHDi 35 Enterprise Panel Van 5dr Diesel Manual L2 Euro 6 (130 ps),9997.0,2017,2L,"85,611 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,C3,10595.0,2019,1.2L,"7,341 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C5 Aircross,15541.0,2020,1.2L,"21,900 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,128 bhp,117 mph,,149 g/km
+citroen,C5,17393.0,2020,1499cc,"18,409 miles",Diesel,Automatic,Red,SUV,4X2,5.0,5.0,129 bhp,117 mph,,100 g/km
+citroen,Berlingo,10490.0,2019,1560cc,"87,609 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,18995.0,2020,1560cc,"24,000 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Dispatch,9000.0,2019,1500cc,"109,835 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,13695.0,2020,1499cc,"21,209 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,101 mph,12.0 seconds,
+citroen,Dispatch,24490.0,2023,1999cc,10 miles,Diesel,Manual,Platinum Grey,Other,4X2,,,142 bhp,106 mph,,
+citroen,Dispatch,23950.0,2023,1499cc,10 miles,Diesel,Manual,Cumulus Grey,Other,4X2,,,101 bhp,99 mph,,
+citroen,Berlingo,5595.0,2014,1560cc,"103,647 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Dispatch,10758.0,2019,1997cc,"116,919 miles",Diesel,Manual,BLACK,Other,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,14340.0,2019,1560cc,"44,308 miles",Diesel,Manual,BLACK,Other,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,13995.0,2019,1997cc,"93,000 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,93 mph,21.7 seconds,
+citroen,Berlingo,14542.0,2021,1499cc,"83,608 miles",Diesel,Automatic,WHITE,Other,4X2,,,129 bhp,114 mph,,
+citroen,Berlingo,14394.0,2019,1500cc,"41,230 miles",Diesel,Manual,WHITE,Other,4X2,,,101 bhp,101 mph,12.0 seconds,
+citroen,C3,9995.0,2019,1199cc,"37,091 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,C4,15995.0,2019,1200cc,"28,687 miles",Petrol,Manual,Red,Estate,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C3,9995.0,2018,1199cc,"48,900 miles",Petrol,Manual,Black,MPV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,109 g/km
+citroen,C4,18750.0,2021,1200cc,"26,252 miles",Petrol,Automatic,Polar White,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,130 g/km
+citroen,C4,18750.0,2022,1200cc,"17,411 miles",Petrol,Manual,Platinum Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C1,5999.0,2016,1199cc,"58,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,5795.0,2014,1560cc,"107,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C1,3295.0,2008,998cc,"44,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,67 bhp,98 mph,13.7 seconds,108 g/km
+citroen,C1,5495.0,2016,1199cc,"84,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,9900.0,2016,1560cc,"82,003 miles",Diesel,Automatic,Blue,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,105 g/km
+citroen,DS3,3499.0,2011,1560cc,"114,000 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,DS4,4999.0,2011,1598cc,"67,659 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,198 bhp,146 mph,7.9 seconds,149 g/km
+citroen,C4,11950.0,2015,1560cc,"34,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C1,5299.0,2016,998cc,"61,789 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C4,15228.0,2021,1200cc,"48,300 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C3,12240.0,2019,1199cc,"24,612 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C3,4795.0,2016,1200cc,"71,516 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,Berlingo,12995.0,2018,1200cc,"13,972 miles",Petrol,Manual,GREY,MPV,4X2,5.0,5.0,109 bhp,112 mph,12.6 seconds,119 g/km
+citroen,C1,3665.0,2007,998cc,"43,602 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,67 bhp,98 mph,13.7 seconds,109 g/km
+citroen,C4 Picasso,3295.0,2008,1560cc,"85,705 miles",Diesel,Automatic,GREY,MPV,4X2,5.0,5.0,107 bhp,112 mph,13.2 seconds,150 g/km
+citroen,C1,7000.0,2016,1200cc,"26,220 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,Grand C4 Picasso,8699.0,2015,1560cc,"47,255 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,DS5,11888.0,2013,1997cc,"54,126 miles",Other,Automatic,WHITE,Hatchback,4X4,5.0,5.0,162 bhp,131 mph,8.6 seconds,102 g/km
+citroen,DS3,5791.0,2015,1200cc,"52,681 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,104 g/km
+citroen,DS3,6995.0,2015,1560cc,"40,079 miles",Diesel,Manual,SILVER,Hatchback,4X2,3.0,5.0,115 bhp,118 mph,10.8 seconds,99 g/km
+citroen,C3,7989.0,2019,1199cc,"74,000 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C4 Cactus,9890.0,2018,1200cc,"20,434 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,C1,6999.0,2017,1200cc,"22,600 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,7995.0,2017,1560cc,"80,214 miles",Diesel,Manual,BLACK,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,100 g/km
+citroen,C3,10750.0,2017,1200cc,"13,054 miles",Petrol,Manual,RED,MPV,4X2,5.0,5.0,109 bhp,116 mph,12.8 seconds,115 g/km
+citroen,C4,10399.0,2018,1200cc,"76,000 miles",Petrol,Manual,RED,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C3,12000.0,2018,1200cc,"66,486 miles",Petrol,Manual,BLUE,MPV,4X2,5.0,5.0,129 bhp,124 mph,8.8 seconds,119 g/km
+citroen,C4 Picasso,8295.0,2014,1560cc,"54,596 miles",Diesel,Automatic,WHITE,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C4 Picasso,7695.0,2015,1560cc,"71,014 miles",Diesel,Manual,GREY,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C3,11199.0,2019,1199cc,"23,223 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C3,12199.0,2020,1199cc,"18,397 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,Grand C4 Picasso,7895.0,2015,1.6L,"72,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,98 bhp,109 mph,13.1 seconds,99 g/km
+citroen,C4,16998.0,2019,1.5L,"51,783 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,108 g/km
+citroen,C3,9495.0,2018,1.2L,"58,500 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C1,10795.0,2020,1L,"7,577 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C3,15995.0,2020,1.2L,"17,014 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,121 mph,,114 g/km
+citroen,C3,10499.0,2018,1200cc,"29,182 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,108 bhp,115 mph,,115 g/km
+citroen,C3,11199.0,2020,1199cc,"15,215 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,Berlingo M 1.5 BLUEHDI 100 BHP ENTERPRISE 5DR  ( NO VAT ! ),15989.0,2020,1.5L,"37,000 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo XL 1.5 BLUEHDI 100 950KG LONG ENTERPRISE PRO 6DR,18989.0,2021,1.5L,"25,000 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,101 mph,,
+citroen,C4 Cactus,8395.0,2018,1199cc,"10,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,105 mph,,108 g/km
+citroen,C3,16490.0,2022,1199cc,"4,700 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,9500.0,2020,1199cc,"55,580 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C5 Aircross,13500.0,2020,1499cc,"80,810 miles",Diesel,Automatic,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,137 g/km
+citroen,C1,9795.0,0L,"13,717 miles",Petrol,Manual,GREEN,Hatchback,58.9 mpg,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,Dispatch,24958.0,2022,2L,"17,977 miles",Diesel,Manual,Grey,van,4X2,,,142 bhp,106 mph,,
+citroen,C3,5495.0,2014,1.56L,"71,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,91 bhp,108 mph,21.7 seconds,107 g/km
+citroen,C4,4290.0,2013,1.56L,"107,900 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,91 bhp,112 mph,12.9 seconds,104 g/km
+citroen,C3,12495.0,2019,1.2L,"35,600 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C3,14700.0,2021,1.2L,"10,107 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C3,12991.0,2021,1.2L,"10,121 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,16359.0,2022,1.2L,"11,746 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C5 Aircross,28236.0,2023,1.2L,10 miles,Petrol,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,143 g/km
+citroen,Berlingo,21247.0,2019,1.5L,"5,435 miles",Diesel,Semiauto,Blue,MPV,4X2,5.0,5.0,129 bhp,114 mph,11.0 seconds,113 g/km
+citroen,C5,28990.0,2023,1199cc,10 miles,Petrol,Automatic,Grey,Hatchback,4X2,4.0,5.0,129 bhp,132 mph,,138 g/km
+citroen,Berlingo,4650.0,2012,1560cc,"91,000 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,74 bhp,93 mph,14.3 seconds,139 g/km
+citroen,Grand C4 Picasso,8999.0,2014,1560cc,"68,100 miles",Diesel,Manual,Ruby Red,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,Relay,9495.0,2017,1997cc,"64,800 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.7 seconds,
+citroen,Berlingo,13200.0,2019,1560cc,"69,849 miles",Diesel,Manual,GREY,Other,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Dispatch,12480.0,2018,1560cc,"98,371 miles",Diesel,Manual,WHITE,Other,4X2,,,114 bhp,99 mph,12.9 seconds,
+citroen,Berlingo,11754.0,2018,1560cc,"49,365 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C4,14500.0,2000,1199cc,"20,703 miles",Petrol,Manual,Grey,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C1,5250.0,2017,1200cc,"72,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,DS3,4695.0,2015,1560cc,"90,000 miles",Diesel,Manual,Silver,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C5,32950.0,2023,1598cc,"5,650 miles",Other,Automatic,ECLIPSE BLUE,SUV,4X2,5.0,5.0,178 bhp,140 mph,,29 g/km
+citroen,DS4,4995.0,2013,1997cc,"107,490 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,162 bhp,132 mph,8.6 seconds,134 g/km
+citroen,Saxo,2995.0,2002,1587cc,"85,650 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,5.0,96 bhp,119 mph,9.4 seconds,159 g/km
+citroen,C4 Picasso,7400.0,2013,1560cc,"34,913 miles",Diesel,Automatic,BROWN,MPV,4X2,5.0,5.0,110 bhp,112 mph,13.3 seconds,130 g/km
+citroen,C3,7999.0,2017,1200cc,"65,800 miles",Petrol,Manual,BLACK,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,9990.0,2020,1199cc,"52,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,C4 Cactus,8995.0,2018,1500cc,"75,670 miles",Diesel,Manual,BLUE,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,10.0 seconds,97 g/km
+citroen,Berlingo,16945.0,2018,1560cc,825 miles,Diesel,Automatic,BLACK,MPV,4X2,5.0,5.0,98 bhp,106 mph,14.3 seconds,109 g/km
+citroen,C4 Cactus,9350.0,2016,1200cc,"39,750 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C4,6495.0,2015,1560cc,"76,788 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,98 g/km
+citroen,C1,6995.0,2016,1200cc,"44,615 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,Berlingo,15995.0,2017,1200cc,"4,000 miles",Petrol,Manual,Red,MPV,4X2,5.0,5.0,109 bhp,112 mph,,119 g/km
+citroen,Berlingo,8495.0,2016,1560cc,"51,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C3,2395.0,2009,1350cc,"81,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,96 bhp,114 mph,11.9 seconds,134 g/km
+citroen,C3,3750.0,2010,1.4L,"52,167 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,15.9 seconds,113 g/km
+citroen,C4 Cactus,13990.0,2020,1199cc,"6,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,C3,18990.0,2023,1199cc,"2,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C5 Aircross,15595.0,1499cc,"39,971 miles",Diesel,Manual,Red,SUV,57.7 mpg,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,C3,12000.0,2018,1.2L,"32,836 miles",Petrol,Semiauto,White,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,10.0 seconds,110 g/km
+citroen,Berlingo,9995.0,2019,1560cc,"69,998 miles",Diesel,Manual,Black,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Dispatch,10140.0,2019,1560cc,"111,835 miles",Diesel,Manual,WHITE,Other,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,11995.0,2019,1499cc,"77,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,115 mph,10.0 seconds,
+citroen,Berlingo,14994.0,2020,1500cc,"44,287 miles",Diesel,Manual,WHITE,Other,4X2,,,75 bhp,94 mph,,
+citroen,C1,6295.0,2015,998cc,"35,000 miles",Petrol,Manual,Carlinite Grey,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,8295.0,2018,1200cc,"49,685 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,Grand C4 Picasso,7495.0,2013,1560cc,"40,763 miles",Diesel,Manual,Brown,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,137 g/km
+citroen,C4 Picasso,13298.0,2017,1199cc,"25,664 miles",Petrol,Manual,Beige,MPV,4X2,5.0,5.0,129 bhp,125 mph,10.1 seconds,116 g/km
+citroen,C4 Picasso,6950.0,2015,1560cc,"107,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C1,3995.0,2010,998cc,"61,006 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,67 bhp,98 mph,13.7 seconds,106 g/km
+citroen,C1,4495.0,2014,998cc,"56,788 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,4794.0,2015,998cc,"55,650 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C4,16490.0,2019,1499cc,"53,000 miles",Diesel,Automatic,RED,MPV,4X2,5.0,7.0,129 bhp,123 mph,,99 g/km
+citroen,Grand C4 Picasso,2450.0,2010,1560cc,"80,600 miles",Diesel,Automatic,BROWN,MPV,4X2,5.0,7.0,107 bhp,112 mph,13.4 seconds,135 g/km
+citroen,DS3,3695.0,2014,1560cc,"98,500 miles",Diesel,Manual,BLACK,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C1,3999.0,2012,998cc,"57,976 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,Grand C4 Picasso,8500.0,2016,1560cc,"82,429 miles",Diesel,Manual,GREY,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,Dispatch,13995.0,2019,1560cc,"20,000 miles",Diesel,Manual,Grey,Van,4X2,,,114 bhp,99 mph,12.9 seconds,
+citroen,DS5,5995.0,2012,1997cc,"90,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,162 bhp,133 mph,9.9 seconds,133 g/km
+citroen,C4 Cactus,7485.0,2015,1199cc,"59,234 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,C4 Cactus,6790.0,2015,1200cc,"73,760 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,107 g/km
+citroen,C4 Picasso,7590.0,2015,1997cc,"58,094 miles",Diesel,Manual,SILVER,MPV,4X2,5.0,5.0,147 bhp,130 mph,9.7 seconds,102 g/km
+citroen,C5 Aircross,16399.0,2020,1499cc,"47,969 miles",Diesel,,White,SUV,4X2,5.0,5.0,129 bhp,117 mph,,137 g/km
+citroen,C3,13549.0,2022,1199cc,"27,411 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,15049.0,2019,1199cc,"27,795 miles",Petrol,,Grey,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C3,14249.0,2020,1199cc,"29,818 miles",Petrol,,White,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,138 g/km
+citroen,C3,12999.0,2021,1199cc,"3,370 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4 Cactus,10499.0,2019,1199cc,"47,010 miles",Petrol,,White,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,C3,9449.0,2019,1199cc,"53,231 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C3,11049.0,2019,1199cc,"22,788 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C3,11199.0,2020,1199cc,"35,825 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4,15949.0,2021,1199cc,"25,684 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C1,10599.0,2021,998cc,"4,133 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,13299.0,2021,1199cc,"19,409 miles",Petrol,,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C4,14049.0,2018,1499cc,"40,532 miles",Diesel,,Red,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,106 g/km
+citroen,C1,7599.0,2016,1199cc,"31,222 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C5 Aircross,17995.0,2020,1.5L,"21,311 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,Grand C4 Picasso,12995.0,2018,1.6L,"59,045 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,7495.0,2015,1.6L,"50,000 miles",Petrol,Semiauto,Other,MPV,4X2,5.0,5.0,121 bhp,117 mph,12.7 seconds,137 g/km
+citroen,C4 Cactus,9495.0,2016,1.2L,"48,453 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,80 bhp,107 mph,15.0 seconds,100 g/km
+citroen,C3,11227.0,2021,1.2L,"19,546 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Berlingo,19990.0,2020,1.5L,"11,479 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,101 bhp,107 mph,,143 g/km
+citroen,C5 Aircross,37000.0,2023,1.6L,"2,000 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,178 bhp,140 mph,,29 g/km
+citroen,C3,15750.0,2018,1.2L,"8,100 miles",Petrol,Semiauto,Silver,SUV,4X2,5.0,5.0,109 bhp,114 mph,,131 g/km
+citroen,C5 Aircross,24000.0,2021,1.6L,"22,478 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,11250.0,2017,1.2L,"25,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,C1,10990.0,2021,1L,"10,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,109 g/km
+citroen,C3,20990.0,2023,1.2L,5 miles,Petrol,Semiauto,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,144 g/km
+citroen,C3,8495.0,2018,1.6L,"47,850 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,98 bhp,115 mph,,95 g/km
+citroen,C3,14800.0,2020,1.2L,"17,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,3490.0,2009,1560cc,"79,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,125 g/km
+citroen,C5 Aircross,16490.0,2019,1199cc,"19,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C3,15990.0,2020,1199cc,"4,000 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,138 g/km
+citroen,C1,9490.0,2019,998cc,"18,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C4,18990.0,2019,1499cc,"18,000 miles",Diesel,Automatic,Red,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.0 seconds,106 g/km
+citroen,C5 Aircross,23990.0,2020,1.6L,"17,188 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,12750.0,2020,1.2L,"13,726 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,Berlingo BlueHDi 950 Enterprise XL,19750.0,2023,1500cc,363 miles,Diesel,Manual,White,Panel Van,4X2,,,101 bhp,102 mph,,
+citroen,C5 Aircross,16295.0,2020,1.5L,"10,375 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,C3,11700.0,2019,1.2L,"34,297 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,117 mph,10.0 seconds,109 g/km
+citroen,C3,11440.0,2021,1.2L,"8,047 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,10000.0,2020,1.2L,"26,495 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,DS3,7990.0,2012,1598cc,"24,918 miles",Petrol,Automatic,Black,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,153 g/km
+citroen,DS3,3995.0,2013,1560cc,"105,000 miles",Diesel,Manual,Metalic,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,Berlingo M 650 Bluehdi 75 Enterprise,10494.0,2019,1.5L,"54,850 miles",Diesel,Manual,White,Other,4X2,,,75 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,11995.0,2019,1560cc,"55,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,12995.0,2020,1560cc,"44,495 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Dispatch,8500.0,2017,1997cc,"138,000 miles",Diesel,Manual,Blue,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,12950.0,2019,1499cc,"51,750 miles",Diesel,Manual,Grey,Van,4X2,,,129 bhp,115 mph,10.0 seconds,
+citroen,C4,7950.0,2016,1560cc,"62,778 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,95 g/km
+citroen,DS3,5490.0,2013,1598cc,"48,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,150 bhp,133 mph,7.3 seconds,135 g/km
+citroen,C3,3995.0,2009,1560cc,"51,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,128 g/km
+citroen,C3,12199.0,2019,1199cc,"44,451 miles",Petrol,,Blue,Hatchback,4X2,5.0,5.0,109 bhp,119 mph,10.0 seconds,120 g/km
+citroen,C3,12199.0,2020,1199cc,"14,497 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,10049.0,2019,1199cc,"43,108 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C5 Aircross,17399.0,2020,1499cc,"21,035 miles",Diesel,,White,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,C1,9649.0,2019,998cc,"13,175 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,20490.0,2023,1.2L,"1,000 miles",Petrol,Semiauto,Beige,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,136 g/km
+citroen,C3,12603.0,2021,1.2L,299 miles,Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C1,10732.0,2021,1L,"8,393 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C1,9514.0,2021,1L,"12,272 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4 Cactus,12536.0,2020,1.2L,"11,258 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,131 g/km
+citroen,C1,8059.0,2020,1L,"37,353 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,Grand C4 Picasso,3995.0,2012,1560cc,"128,190 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,135 g/km
+citroen,C3,10711.0,2018,1.2L,"18,618 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,124 mph,8.8 seconds,119 g/km
+citroen,C3,12150.0,2020,1.2L,"8,731 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,12950.0,2021,1.2L,"21,340 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,137 g/km
+citroen,C3,11995.0,2021,1.2L,"12,786 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Berlingo,11250.0,2015,1.6L,"43,000 miles",Diesel,Semiauto,Blue,MPV,4X2,5.0,5.0,98 bhp,106 mph,14.3 seconds,109 g/km
+citroen,C3,9495.0,2017,1.2L,"47,922 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C5,25126.0,2022,1.6L,"9,502 miles",Petrol,Semiauto,Blue,Saloon,4X2,4.0,5.0,178 bhp,143 mph,,147 g/km
+citroen,C3,11255.0,2021,1.2L,"15,287 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,19023.0,2023,1.2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,17748.0,2023,1.2L,"1,263 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C1,8676.0,2021,1L,"19,249 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,16453.0,2022,1.2L,"9,361 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C4,13763.0,2021,1.2L,"29,536 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C3,10350.0,2019,1.2L,"22,506 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C3,10445.0,2021,1.2L,"35,643 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,11599.0,2021,1.2L,"11,931 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,11458.0,2020,1.2L,"8,922 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,11250.0,2020,1.2L,"50,136 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,110 g/km
+citroen,C3,11306.0,2020,1.2L,"25,305 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,12000.0,2020,1.2L,"37,800 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,141 g/km
+citroen,Berlingo,17990.0,2021,1499cc,"14,196 miles",Diesel,Manual,Platinum Grey Metallic,Van,4X2,,,101 bhp,101 mph,,
+citroen,DS3,4690.0,2012,1598cc,"56,596 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C1,7899.0,2018,998cc,"41,902 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,12.6 seconds,93 g/km
+citroen,C5 Aircross,15390.0,2019,1199cc,"34,507 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C5 Aircross,18295.0,2020,1.5L,"6,459 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C3,13198.0,2019,1.2L,"6,408 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,Dispatch,11995.0,2020,1499cc,"60,899 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,13995.0,2019,1560cc,"36,000 miles",Diesel,Manual,Grey,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,C3,4995.0,2015,1199cc,"72,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,108 mph,12.3 seconds,107 g/km
+citroen,C3,14795.0,2020,1499cc,"12,952 miles",Diesel,Manual,Breathing Blue,MPV,4X2,5.0,5.0,101 bhp,109 mph,,125 g/km
+citroen,C5,15995.0,2020,1200cc,"40,808 miles",Petrol,Manual,Cumulus Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,152 g/km
+citroen,C4,17790.0,2022,1200cc,"15,514 miles",Petrol,Manual,Icelandic Blue,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C3,15990.0,2021,1200cc,"19,527 miles",Petrol,Automatic,Beige/Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C5,16850.0,2021,1500cc,"37,946 miles",Diesel,Manual,Tijuca Blue,SUV,4X2,5.0,5.0,129 bhp,117 mph,,130 g/km
+citroen,C3,14950.0,2022,1499cc,"12,524 miles",Diesel,Manual,Platinum Grey / Black Roof,Hatchback,4X2,5.0,5.0,101 bhp,117 mph,,113 g/km
+citroen,C3,16450.0,2021,1200cc,"20,882 miles",Petrol,Automatic,White - Black Roof,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,135 g/km
+citroen,C3,6500.0,2016,1560cc,"68,475 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,
+citroen,C4,29995.0,2023,0L,"2,200 miles",Other,Automatic,Metallic - Cumulus Grey,Saloon,4X2,4.0,5.0,134 bhp,93 mph,,0 g/km
+citroen,C3,19995.0,2023,1199cc,"4,300 miles",Petrol,Manual,Metallic - Pepper Red,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,Grand C4 Picasso,12490.0,2017,1560cc,"35,320 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,105 g/km
+citroen,C4,20995.0,2020,1199cc,"17,144 miles",Petrol,Manual,Blue,MPV,4X2,5.0,7.0,129 bhp,124 mph,,145 g/km
+citroen,C3,16485.0,2020,1199cc,"9,822 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C4,6495.0,2014,1560cc,"101,000 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C1,5115.0,2014,1199cc,"66,000 miles",Petrol,Manual,Orange,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,12149.0,2018,1199cc,"24,905 miles",Petrol,,Grey,SUV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,109 g/km
+citroen,C1,9699.0,2019,998cc,"12,382 miles",Petrol,,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C1,8099.0,2018,998cc,"31,068 miles",Petrol,,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,Berlingo,17394.0,2020,1.5L,"18,105 miles",Diesel,Manual,Grey,van,4X2,,,101 bhp,107 mph,,
+citroen,C3,11998.0,2018,1.2L,"29,125 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,124 mph,8.8 seconds,119 g/km
+citroen,C5 Aircross,27499.0,2023,1.2L,"3,890 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,149 g/km
+citroen,C3,19999.0,2023,1.2L,"2,970 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C4,17495.0,2021,1.2L,"7,250 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C3,19495.0,2023,1199cc,"3,232 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,,
+citroen,C3,16795.0,2023,1199cc,"3,232 miles",Petrol,Manual,Unknown,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,
+citroen,Dispatch 1.6 HDI BLUE M 1000 ENTERPRISE LONG WHEEL BASE EURO 6 PANEL VAN,9999.0,2016,1.6L,"113,419 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,Dispatch 1.6 HDI BLUE M 1000 ENTERPRISE LONG WHEEL BASE EURO 6 PANEL VAN,9999.0,2016,1.6L,"113,419 miles",Diesel,Manual,White,Van,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,C5,38995.0,2023,1.6L,"3,000 miles",Hybrid,Semiauto,Blue,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,27 g/km
+citroen,C3,10300.0,2020,1199cc,"32,490 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,C4 Picasso,13995.0,2016,1199cc,"27,250 miles",Petrol,Automatic,Black,MPV,4X2,5.0,5.0,129 bhp,128 mph,10.1 seconds,115 g/km
+citroen,C3,10290.0,1199cc,"27,148 miles",Petrol,Manual,Grey,Hatchback,51.4 mpg,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,Berlingo BlueHDi 1000 Enterprise M Pro,14350.0,2022,1500cc,"51,339 miles",Diesel,Manual,White,Panel Van,4X2,,,101 bhp,101 mph,,
+citroen,DS3,3495.0,2012,1.6L,"85,000 miles",Petrol,Manual,Red,Hatchback,,,,,,,
+citroen,C4,3500.0,2014,1560cc,"132,300 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,113 bhp,122 mph,11.3 seconds,100 g/km
+citroen,Berlingo,15594.0,2019,1560cc,"31,088 miles",Diesel,Manual,WHITE,Other,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,C3,5995.0,2013,1397cc,"52,000 miles",Petrol,Manual,Red,MPV,4X2,5.0,5.0,94 bhp,111 mph,12.2 seconds,145 g/km
+citroen,Berlingo,20874.0,2021,1.5L,"23,905 miles",Diesel,Manual,Grey,van,4X2,,,75 bhp,94 mph,,
+citroen,C3,9450.0,2020,1199cc,"43,183 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,Grand C4 Picasso,14899.0,2017,1.2L,"35,000 miles",Petrol,Automatic,Grey,MPV,4X2,5.0,7.0,129 bhp,128 mph,10.8 seconds,115 g/km
+citroen,C3,11165.0,2021,1.2L,"16,382 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,12423.0,2018,1.2L,"39,800 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,108 bhp,114 mph,,126 g/km
+citroen,C3,9935.0,2019,1.2L,"22,794 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C1,10653.0,2021,1L,"9,356 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4,16335.0,2019,1.2L,"28,945 miles",Petrol,Manual,Grey,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C1,6289.0,2017,1199.0cc,"57,143 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4 Picasso,12049.0,2016,1560cc,"36,137 miles",Diesel,,Black,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C5 Aircross,22499.0,2021,1.6L,"14,259 miles",Hybrid,Semiauto,Black,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,Relay 35 L3H2 ENTERPRISE HDI,8995.0,2015,2198cc,"90,235 miles",Diesel,Manual,Silver,LCV,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,C3,12999.0,2021,1199cc,"25,191 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Grand C4 Picasso,12499.0,2017,1.6L,"23,924 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,14990.0,2020,1499cc,"14,000 miles",Diesel,Manual,Beige,SUV,4X2,5.0,5.0,101 bhp,109 mph,,125 g/km
+citroen,C3,15490.0,2021,1199cc,"5,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,137 g/km
+citroen,C4,4999.0,2013,1560cc,"74,248 miles",Diesel,Semi Auto,BLACK,Hatchback,4X2,5.0,5.0,110 bhp,122 mph,11.2 seconds,98 g/km
+citroen,C4,12800.0,2021,1199cc,"49,010 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C5 Aircross,16700.0,2020,1499cc,"10,302 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,140 g/km
+citroen,C4 Picasso,9500.0,2016,1560cc,"54,000 miles",Diesel,Manual,SILVER,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4 Cactus,7499.0,2016,1.6L,"59,968 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,Berlingo,7295.0,2016,1560cc,"61,999 miles",Diesel,Manual,Grey,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Relay,8950.0,2018,1997cc,"114,450 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,C1,9807.0,2020,1L,"8,757 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C3,9680.0,2017,1.2L,"23,227 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,15130.0,2021,1.2L,"11,591 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C4,15111.0,2018,1.2L,"8,631 miles",Petrol,Manual,Red,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,118 g/km
+citroen,C1,8498.0,2020,1L,"28,187 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C5 Aircross,17490.0,2022,1.5L,"58,375 miles",Diesel,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C3,11374.0,2021,1.2L,"11,632 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,11990.0,2018,1199cc,"37,000 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,124 mph,8.8 seconds,119 g/km
+citroen,C5,20495.0,2021,1499cc,"25,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,139 g/km
+citroen,C4 Picasso,1790.0,2008,1560cc,"99,373 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,107 bhp,112 mph,12.5 seconds,155 g/km
+citroen,Grand C4 Picasso,4495.0,2012,1560cc,"129,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,110 bhp,112 mph,13.1 seconds,135 g/km
+citroen,C3,4295.0,2014,1398cc,"68,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.5 seconds,99 g/km
+citroen,C5,18250.0,2020,1499cc,"42,597 miles",Diesel,Automatic,Solid - Polar White,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,11.8 seconds,100 g/km
+citroen,C5,15995.0,2020,1499cc,"35,900 miles",Diesel,Manual,Metallic - Perla Nera Black,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,DS3,3950.0,2014,1560cc,"119,416 miles",Diesel,Manual,Mauve/Purple,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C3,5695.0,2015,1560cc,"79,217 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,98 bhp,111 mph,13.3 seconds,101 g/km
+citroen,C4,13950.0,2019,1499cc,"66,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,129 bhp,123 mph,10.9 seconds,108 g/km
+citroen,Berlingo,9295.0,2013,1560cc,"29,000 miles",Diesel,Manual,White,MPV,4X2,5.0,5.0,91 bhp,102 mph,14.3 seconds,135 g/km
+citroen,C3,3000.0,2012,1560cc,"62,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,C3,3790.0,2011,1560cc,"95,947 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,C1,3495.0,2013,998cc,"74,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C4 Cactus,6490.0,2016,1560cc,"80,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,95 g/km
+citroen,C4 Picasso,4595.0,2016,1560cc,"106,567 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,98 bhp,109 mph,12.7 seconds,99 g/km
+citroen,C3,3495.0,2009,1600cc,"72,337 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,125 g/km
+citroen,Grand C4 Picasso,10695.0,2017,1560cc,"57,675 miles",Diesel,Manual,GREY,MPV,,,,,,,
+citroen,Berlingo,14990.0,2020,1499cc,"57,453 miles",Diesel,Automatic,White,Van,4X2,,,129 bhp,114 mph,,
+citroen,C3,15999.0,2021,1199cc,"7,734 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C3,10499.0,2020,1199cc,"37,206 miles",Petrol,,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,11199.0,2019,1199cc,"20,964 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,Berlingo,13750.0,2020,1500cc,"61,906 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,7499.0,2017,1560cc,"84,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C3,9990.0,2020,1199cc,"43,284 miles",Petrol,Manual,SPRING BLUE- BLACK ROOF,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,DS3,4750.0,2012,1560cc,"77,156 miles",Diesel,Manual,Blue,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,DS4,7395.0,2015,2000cc,"86,961 miles",Diesel,Manual,White,Hatchback,,,,,,,
+citroen,C5,1995.0,2009,1560cc,"123,000 miles",Diesel,Manual,Grey,Estate,4X2,5.0,5.0,110 bhp,117 mph,13.4 seconds,150 g/km
+citroen,C3,1495.0,2006,1360cc,"92,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,14.2 seconds,145 g/km
+citroen,DS3,4495.0,2014,1560cc,"84,000 miles",Diesel,Manual,Grey,Convertible,4X2,3.0,5.0,91 bhp,113 mph,12.2 seconds,95 g/km
+citroen,DS3,5395.0,2014,1560cc,"32,993 miles",Diesel,Manual,Purple,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C3,7200.0,2017,1600cc,"75,291 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,98 bhp,115 mph,,95 g/km
+citroen,C4 Picasso,10795.0,2017,1200cc,"33,702 miles",Petrol,Manual,Red,Other,4X2,5.0,5.0,129 bhp,125 mph,10.1 seconds,116 g/km
+citroen,Berlingo,17000.0,2021,1500cc,"66,501 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,7.0,101 bhp,107 mph,,140 g/km
+citroen,Dispatch,31194.0,2023,1.5L,"5,000 miles",Diesel,Manual,Grey,van,4X2,,,101 bhp,90 mph,,
+citroen,C3,11022.0,2020,1.2L,"21,527 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C4,15299.0,2022,1.2L,"14,617 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C3,10599.0,2021,1.2L,"37,609 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,10699.0,2021,1.2L,"41,894 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,15299.0,2021,1.2L,"27,128 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,129 bhp,130 mph,,131 g/km
+citroen,C3,9795.0,2018,1.2L,"36,404 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C4 Cactus,11999.0,2020,1.2L,"25,704 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,131 g/km
+citroen,C1,6000.0,2015,1.2L,"37,104 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,12995.0,2020,1199cc,"38,447 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,11990.0,2020,1199cc,"7,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C3,8695.0,2016,1.6L,"40,112 miles",Diesel,Manual,Karma Metallic,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,C1,6400.0,2014,1L,"29,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C4 Picasso,9900.0,2015,1.6L,"53,000 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,DS3,6990.0,2013,1598cc,"54,997 miles",Petrol,Automatic,Yellow,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,153 g/km
+citroen,C3,9490.0,2018,1199cc,"16,106 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,Berlingo,11995.0,2015,1560cc,"20,500 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,91 bhp,102 mph,14.3 seconds,135 g/km
+citroen,C4 Picasso,5995.0,2015,1560cc,"104,349 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C3,11690.0,2018,1199cc,"43,214 miles",Petrol,Manual,Natural,SUV,4X2,5.0,5.0,108 bhp,115 mph,,115 g/km
+citroen,C4,16597.0,2021,1.2L,"4,610 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C3,13855.0,2021,1.2L,"4,639 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,15462.0,2022,1.2L,"3,087 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C4 Cactus,11276.0,2019,1.2L,"21,681 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,C1,9313.0,2021,1L,"21,640 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C5 Aircross,17478.0,2021,1.5L,"30,920 miles",Diesel,Semiauto,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,,142 g/km
+citroen,C3,14000.0,2021,1.2L,"23,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Grand C4 Picasso,10795.0,2015,1600cc,"63,202 miles",Diesel,Automatic,Kyanos Blue Metallic,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,103 g/km
+citroen,Berlingo,8750.0,2018,1560cc,"80,000 miles",Diesel,Manual,White,Van,4X2,,,98 bhp,101 mph,11.9 seconds,
+citroen,Relay,10490.0,2017,1997cc,"72,089 miles",Diesel,Manual,Blue,Van,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,Berlingo,14495.0,2019,1199cc,"25,762 miles",Petrol,Manual,White,Van,4X2,,,109 bhp,104 mph,11.2 seconds,
+citroen,C1,3495.0,2011,998cc,"47,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C3,18995.0,2023,1200cc,"2,408 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,12595.0,2019,1199cc,"11,616 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C5,5995.0,2008,2720cc,"57,380 miles",Diesel,Automatic,Silver,Estate,4X2,5.0,5.0,201 bhp,138 mph,9.6 seconds,225 g/km
+citroen,DS3,3799.0,2010,1560cc,"72,162 miles",Diesel,Manual,White,Hatchback,4X2,3.0,5.0,110 bhp,118 mph,9.8 seconds,118 g/km
+citroen,C1,7980.0,2016,998cc,"45,000 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.6 seconds,97 g/km
+citroen,C4 Cactus,7895.0,2015,1199cc,"45,000 miles",Petrol,Manual,Purple,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,C1,4495.0,2012,998cc,"47,772 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C3,4995.0,2014,1397cc,"66,637 miles",Petrol,Manual,Silver,MPV,4X2,5.0,5.0,94 bhp,111 mph,12.2 seconds,145 g/km
+citroen,Berlingo,2250.0,2009,1560cc,"161,500 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,75 bhp,94 mph,17.1 seconds,150 g/km
+citroen,DS3,3895.0,2012,1600cc,"74,097 miles",Diesel,Manual,Red,Other,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,C5 Aircross,24644.0,2021,1.6L,"17,165 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C4,14799.0,2021,1.2L,"13,646 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C3,14456.0,2021,1.2L,"19,397 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,Dispatch 1000 1.5 BLUEHDI 100 XS SWB ENTERPRISE 6DR ( AIR CON ),17489.0,2019,1.5L,"14,000 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Relay 2.2 35 L3H2 ENTERPRISE BLUEHDI S/S 139 BHP,17995.0,2020,2.2L,"41,000 miles",Diesel,Manual,White,Van,4X2,,,138 bhp,87 mph,,
+citroen,C1,11090.0,2020,998cc,"9,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,11990.0,2021,1199cc,"15,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,3295.0,2012,1560cc,"90,000 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,Grand C4 Picasso,7995.0,2016,1.6L,"91,808 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4,7995.0,2016,1.2L,"32,768 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,10.9 seconds,110 g/km
+citroen,C3,8695.0,2018,1.2L,"56,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C3,14995.0,2022,1.5L,"10,019 miles",Diesel,Manual,Beige,Hatchback,4X2,5.0,5.0,101 bhp,117 mph,,113 g/km
+citroen,C3,14495.0,2022,1.2L,"20,155 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,14595.0,2022,1.2L,"18,347 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,SpaceTourer,25890.0,2019,1997cc,"38,524 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,8.0,175 bhp,100 mph,,143 g/km
+citroen,DS3,4995.0,2012,1598cc,"84,500 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C3,3995.0,2012,1560cc,"83,000 miles",Diesel,Manual,Red,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,Berlingo,6950.0,2017,1560cc,"98,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,11895.0,2020,1500cc,"53,000 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,Berlingo,14395.0,2020,1500cc,"23,000 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,107 mph,,
+citroen,Dispatch,13995.0,2019,1997cc,"54,000 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,8995.0,2018,1560cc,"54,000 miles",Diesel,Manual,Blue,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,13950.0,2021,1499cc,"12,800 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,C3,13995.0,2022,1200cc,"8,912 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,123 g/km
+citroen,C4 Picasso,4995.0,2013,1560cc,"110,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C4,9995.0,2018,1560cc,"93,570 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,98 bhp,109 mph,,100 g/km
+citroen,C3,6295.0,2011,1560cc,"40,600 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,C3,4795.0,2015,1560cc,"91,000 miles",Diesel,Manual,Mauve/Purple,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,11.3 seconds,90 g/km
+citroen,C1,5295.0,2014,1199cc,"58,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,Berlingo 1.5 BLUEHDI 100 BHP ENTERPRISE EDITION ( NO VAT ! ),12989.0,2019,1.5L,"50,000 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,101 mph,12.0 seconds,
+citroen,C3,12830.0,2020,1.2L,"17,980 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,16041.0,2021,1.2L,"3,182 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,133 g/km
+citroen,C3,11739.0,2021,1.2L,"11,698 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C5 Aircross,16995.0,2019,1.6L,"23,611 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,178 bhp,134 mph,8.2 seconds,129 g/km
+citroen,Berlingo,17400.0,2020,1.5L,"9,035 miles",Diesel,Manual,Black,van,4X2,,,75 bhp,94 mph,,
+citroen,C1,8495.0,2017,1.2L,"14,224 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,17995.0,2019,2L,"39,000 miles",Diesel,Semiauto,Grey,MPV,4X2,5.0,7.0,161 bhp,130 mph,9.2 seconds,127 g/km
+citroen,Berlingo,23495.0,2020,1.5L,"11,271 miles",Diesel,Semiauto,White,MPV,4X2,5.0,5.0,129 bhp,114 mph,,147 g/km
+citroen,C3,11490.0,2020,1.2L,"9,160 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C5 Aircross,14883.0,2020,1.5L,"34,617 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,C3,10816.0,2021,1.2L,"13,211 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,13972.0,2022,1.2L,"16,823 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,12005.0,2021,1.2L,"6,424 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,12446.0,2019,1.2L,"17,315 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C3,11691.0,2021,1.2L,"9,942 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,Berlingo 1000KG ENTERPRISE M 1.5BLUEHDI EURO 6 S/S 100PS *AIRCON*REV/SENSORS*CRUISE CTRL*,10690.0,2019,1.5L,"66,000 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,101 mph,12.0 seconds,
+citroen,Grand C4 Picasso,10290.0,2017,1560cc,"73,625 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,10100.0,2021,1199cc,"51,252 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C3,11990.0,2021,1199cc,"23,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C5 Aircross,16990.0,2019,1199cc,"16,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C4 Cactus,6290.0,2015,1199cc,"55,434 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,12.9 seconds,105 g/km
+citroen,C3,8600.0,2018,1199cc,"31,879 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C4,12000.0,2021,1199cc,"40,153 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,Relay 2.0BlueHDi 35 (130)(Eu6) L3H2 Enterprise Panel Van,10250.0,2017,2L,"124,477 miles",Diesel,Manual,White,Panel Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Relay 2.0BlueHDi 35 (130)(Eu6) L3H2 Enterprise Panel Van,10300.0,2017,2L,"132,589 miles",Diesel,Manual,White,Panel Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Relay 2.0BlueHDi 35 Heavy (130)(Eu6) L3H2 Enterprise Panel Van,11500.0,2019,2L,"116,415 miles",Diesel,Manual,White,Panel Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Relay 2.0BlueHDi 35 Heavy (130)(Eu6) L3H2 Enterprise Panel Van,11500.0,2019,2L,"112,547 miles",Diesel,Manual,White,Panel Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Relay 2.0BlueHDi 35 (130)(Eu6) L3H2 Enterprise Panel Van (129bhp),10500.0,2019,2L,"122,907 miles",Diesel,Manual,White,Panel Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,C3,15995.0,1199cc,"9,266 miles",Petrol,Automatic,Grey,SUV,47.1 mpg,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,Berlingo,18478.0,2021,1.5L,"39,520 miles",Diesel,Manual,Black,van,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,16558.0,2020,1.5L,"50,083 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,C3,10998.0,2019,1.2L,"43,656 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C1,10496.0,2021,1L,"5,260 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,12117.0,2021,1.2L,"4,739 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,11248.0,2020,1.2L,"10,738 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,123 g/km
+citroen,C3,15869.0,2022,1.2L,"4,535 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,C3,9849.0,2020,1.2L,"38,883 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,C3,19350.0,2023,1.2L,10 miles,Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,123 g/km
+citroen,C4,18250.0,2021,1.2L,"11,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,129 bhp,129 mph,,122 g/km
+citroen,C3,15499.0,2021,1199cc,"13,451 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C1,9949.0,2020,998cc,"14,914 miles",Petrol,,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,110 g/km
+citroen,C3,9799.0,2018,1199cc,"66,968 miles",Petrol,,Red,SUV,4X2,5.0,5.0,108 bhp,115 mph,,115 g/km
+citroen,Relay,32158.0,2023,2.2L,20 miles,Diesel,Manual,White,van,4X2,,,138 bhp,99 mph,,
+citroen,Relay,31194.0,2023,2.2L,"1,587 miles",Diesel,Manual,Grey,van,4X2,,,138 bhp,99 mph,,
+citroen,C3,11999.0,2021,1.2L,"24,964 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C3,13995.0,2020,1200cc,"22,531 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C5 Aircross,19689.0,2020,1.5L,"16,139 miles",Diesel,Semiauto,White,SUV,4X2,5.0,5.0,129 bhp,117 mph,,100 g/km
+citroen,C3,12358.0,2021,1.2L,"39,250 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C5 Aircross,20500.0,2023,1.2L,"1,451 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,121 mph,,140 g/km
+citroen,Berlingo 1000KG ENTERPRISE M 1.5BLUEHDI S/S 100ps *AIRCON*PARK.SENSORS*,13290.0,2020,1.5L,"48,500 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,107 mph,12.0 seconds,
+citroen,C3,11490.0,2021,1199cc,"27,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C1,12990.0,2019,998cc,"11,000 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,17.1 seconds,95 g/km
+citroen,C3,12290.0,2021,1199cc,"14,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4 Picasso,5990.0,2014,1560cc,"90,233 miles",Diesel,Manual,BLUE,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.1 seconds,105 g/km
+citroen,C5 Aircross,11600.0,2019,1499cc,"83,870 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,110 g/km
+citroen,Grand C4 Picasso,10100.0,2016,1560cc,"63,580 miles",Diesel,Manual,Blue,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,15495.0,1199cc,"16,958 miles",Petrol,Automatic,Grey,SUV,47.1 mpg,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C5 Aircross,13495.0,1199cc,"47,990 miles",Petrol,Manual,Grey,SUV,36.6 mpg,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,Berlingo,18990.0,2019,1199cc,"28,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,109 bhp,109 mph,11.5 seconds,125 g/km
+citroen,Berlingo M 650 Bluehdi 75 L1h1 Enterprise Swb Low Roof,13494.0,2021,1.5L,"36,542 miles",Diesel,Manual,White,Other,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,14988.0,2020,1.5L,"40,708 miles",Diesel,Manual,White,van,4X2,,,101 bhp,101 mph,12.0 seconds,
+citroen,C3,10395.0,2020,1.2L,"17,400 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,15695.0,2022,1.2L,"19,514 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C3,13900.0,2021,1.2L,"11,151 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,Berlingo,16986.0,2020,1.5L,"24,452 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,101 bhp,107 mph,,143 g/km
+citroen,C5,32000.0,2023,1.6L,245 miles,Hybrid,Semiauto,Grey,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,28 g/km
+citroen,C5 Aircross,13999.0,2019,1.5L,"31,468 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,102 g/km
+citroen,C5 Aircross,18808.0,2022,1.5L,"10,245 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,129 bhp,117 mph,,130 g/km
+citroen,C5 Aircross,17990.0,2020,1.5L,"26,635 miles",Diesel,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,117 mph,11.8 seconds,100 g/km
+citroen,C4,18089.0,2021,1.2L,"17,415 miles",Petrol,Semiauto,Grey,Hatchback,4X2,5.0,5.0,153 bhp,129 mph,,134 g/km
+citroen,C3,14907.0,2020,1.2L,"21,191 miles",Petrol,Semiauto,Red,SUV,4X2,5.0,5.0,129 bhp,121 mph,,150 g/km
+citroen,C3,12500.0,2021,1.2L,"17,483 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,15000.0,2022,1.2L,"10,319 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,21000.0,2022,1.2L,"14,640 miles",Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,128 bhp,124 mph,,131 g/km
+citroen,C4,19500.0,2021,1.5L,"10,000 miles",Diesel,Manual,Blue,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,113 g/km
+citroen,C5 Aircross,20000.0,2020,1.2L,"19,645 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,128 bhp,122 mph,,156 g/km
+citroen,C3,15000.0,2022,1.2L,"13,191 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C3,14290.0,2020,1199cc,"17,000 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,15490.0,2022,1499cc,"17,000 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,123 g/km
+citroen,C3,11390.0,1199cc,"23,045 miles",Petrol,Manual,Orange,SUV,45 mpg,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C3,13190.0,1199cc,"27,976 miles",Petrol,Manual,White,SUV,51.4 mpg,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,13990.0,1199cc,"9,149 miles",Petrol,Manual,White,Hatchback,54.3 mpg,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4 Picasso,8290.0,0L,"46,929 miles",Diesel,Automatic,WHITE,MPV,70.6 mpg,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C5,32970.0,2023,1.6L,"4,000 miles",Hybrid,Semiauto,Other,Saloon,4X2,4.0,5.0,221 bhp,145 mph,,28 g/km
+citroen,C3,4500.0,2014,1398cc,"55,348 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.5 seconds,99 g/km
+citroen,Relay,12995.0,2021,2200cc,"82,000 miles",Diesel,Manual,WHITE,Other,4X2,,,138 bhp,87 mph,,
+citroen,Berlingo,10200.0,2018,1560cc,"49,505 miles",Diesel,Manual,BLUE,Other,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,19993.0,2022,1499cc,"14,000 miles",Diesel,Manual,Grey,Van,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,8000.0,2018,1560cc,"74,400 miles",Diesel,Manual,Silver,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,15995.0,2020,1500cc,"13,900 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,14995.0,2018,1560cc,"9,974 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,98 bhp,103 mph,12.4 seconds,
+citroen,Berlingo,6950.0,2015,1560cc,"91,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Berlingo,19950.0,2023,1499cc,500 miles,Diesel,Manual,Black,Van,4X2,,,101 bhp,102 mph,,
+citroen,Berlingo,9250.0,2017,1560cc,"53,062 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,13995.0,2019,1560cc,"33,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,15995.0,2020,1500cc,"35,700 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,107 mph,,
+citroen,Berlingo,8750.0,2019,1560cc,"101,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,9594.0,2019,1997cc,"166,000 miles",Diesel,Manual,WHITE,Other,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,Berlingo,8499.0,2012,1560cc,"32,314 miles",Diesel,Manual,SILVER,Other,4X2,,,90 bhp,99 mph,15.0 seconds,
+citroen,C3,9999.0,2020,1199cc,"48,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,,130 g/km
+citroen,C1,5795.0,2017,1199cc,"60,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,DS3,6199.0,2014,1598cc,"44,327 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,5.0,154 bhp,130 mph,8.1 seconds,135 g/km
+citroen,C1,7995.0,2018,998cc,"4,098 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,DS5,8200.0,2015,1997cc,"63,175 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,162 bhp,134 mph,8.8 seconds,128 g/km
+citroen,C1,4299.0,2012,998cc,"61,825 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C3,11490.0,2018,1199cc,"27,000 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,109 g/km
+citroen,C4 Picasso,7990.0,2017,1560cc,"91,000 miles",Diesel,Manual,Beige,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C1,4695.0,2014,1199cc,"75,050 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C1,3990.0,2016,1200cc,"92,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,2475.0,2009,1560cc,"97,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,125 g/km
+citroen,C4,6650.0,2016,1560cc,"98,442 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,95 g/km
+citroen,C4 Cactus,8190.0,2016,1200cc,"53,731 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C4 Cactus,7190.0,2015,1199cc,"46,514 miles",Petrol,Manual,YELLOW,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,105 g/km
+citroen,C1,4690.0,2014,998cc,"73,571 miles",Petrol,Manual,GREY,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,4995.0,2013,1398cc,"71,000 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.7 seconds,99 g/km
+citroen,C3,10495.0,2017,1200cc,"15,122 miles",Petrol,Manual,Shark Grey (M),Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C1,10695.0,2021,998cc,"9,536 miles",Petrol,Manual,Special Solid - Scarlet Red,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,14995.0,2022,1199cc,"5,400 miles",Petrol,Manual,Metallic - Platinum Grey,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,125 g/km
+citroen,C1,8980.0,2020,998cc,"33,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,7895.0,2017,1199cc,"49,963 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C1,6990.0,2014,1199cc,"39,656 miles",Petrol,Manual,BLUE,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,15750.0,2022,1499cc,"10,835 miles",Diesel,Manual,Soft Sand/ Black,Hatchback,4X2,5.0,5.0,101 bhp,117 mph,,113 g/km
+citroen,DS3,6490.0,2012,1598cc,"61,553 miles",Petrol,Automatic,Blue,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,153 g/km
+citroen,DS3,4494.0,2014,1560cc,"106,000 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,DS3,4250.0,2012,1598cc,"67,692 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C3,5995.0,2016,1560cc,"78,454 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,98 bhp,111 mph,13.3 seconds,101 g/km
+citroen,C1,6870.0,2019,1000cc,"70,171 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C1,11995.0,2021,998cc,"9,678 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C4,6995.0,2016,1199cc,"57,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,105 g/km
+citroen,DS3,3995.0,1970,1598cc,"77,000 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C3,5995.0,2017,1200cc,"71,854 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,109 bhp,116 mph,12.8 seconds,115 g/km
+citroen,C3,12295.0,2021,1199cc,"10,900 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,124 g/km
+citroen,C4,3999.0,2013,1598cc,"71,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,10.8 seconds,143 g/km
+citroen,Grand C4 Picasso,11995.0,2016,1560cc,"43,000 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,98 bhp,109 mph,12.7 seconds,99 g/km
+citroen,C3,9199.0,2018,1199cc,"42,300 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C4 Cactus,5490.0,2015,1560cc,"81,310 miles",Diesel,Manual,BLACK,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,90 g/km
+citroen,C4,6995.0,2014,1560cc,"58,670 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,113 bhp,122 mph,11.3 seconds,97 g/km
+citroen,Berlingo,11495.0,2014,1560cc,"14,631 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,5.0,91 bhp,103 mph,15.5 seconds,115 g/km
+citroen,C4,7200.0,2015,1560cc,"35,451 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,95 g/km
+citroen,C3,2995.0,2012,1360cc,"73,057 miles",Petrol,Manual,Bronze,Hatchback,4X2,5.0,5.0,72 bhp,101 mph,15.1 seconds,145 g/km
+citroen,C3,10889.0,2020,1.2L,"13,325 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C5 Aircross,14988.0,2020,1.2L,"31,039 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,117 mph,,147 g/km
+citroen,C5 Aircross,26330.0,2022,1.6L,"11,121 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,Berlingo,21995.0,2023,1499cc,10 miles,Diesel,Manual,Perla Nera Black,Van,4X2,,,101 bhp,101 mph,,
+citroen,Grand C4 Picasso,9950.0,2017,1560cc,"60,796 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C3,20495.0,2023,1199cc,10 miles,Petrol,Manual,Voltaic Blue,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,,
+citroen,C3,19995.0,2023,1199cc,10 miles,Petrol,Manual,Polar White,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,,
+citroen,C3,2700.0,2009,1560cc,"57,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,90 bhp,107 mph,14.7 seconds,125 g/km
+citroen,C3,2495.0,2011,1600cc,"124,846 miles",Diesel,Manual,Silver,Other,4X2,5.0,5.0,90 bhp,112 mph,11.3 seconds,104 g/km
+citroen,C3,1895.0,2010,1400cc,"197,228 miles",Diesel,Manual,Grey,Other,4X2,5.0,5.0,68 bhp,101 mph,15.9 seconds,113 g/km
+citroen,Grand C4 Picasso,12199.0,2016,1560cc,"50,833 miles",Diesel,,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4 Cactus,14749.0,2020,1199cc,"18,878 miles",Petrol,,White,SUV,4X2,5.0,5.0,129 bhp,129 mph,8.6 seconds,138 g/km
+citroen,C3,9899.0,2019,1199cc,"38,812 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C1,7899.0,2017,1199cc,"24,287 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,13899.0,2021,1199cc,"19,518 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,109 bhp,123 mph,,125 g/km
+citroen,C3,10998.0,2018,1.6L,"32,005 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,118 bhp,114 mph,,107 g/km
+citroen,C4 Cactus,8698.0,2016,1.2L,"51,841 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C3,12935.0,2021,1.2L,"13,461 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,134 g/km
+citroen,C3,13495.0,2020,1.2L,"21,886 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,16995.0,2021,1.2L,"9,700 miles",Petrol,Semiauto,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,Berlingo 1000 ENTERPRISE M 1.5BLUEHDI EU6 S/S 100ps L1 *AIRCON*PARK/SENSORS*3 SEATS*E/PACK*,13490.0,2020,1.5L,"37,000 miles",Diesel,Manual,Black,Van,4X2,,,101 bhp,107 mph,,
+citroen,C3,3495.0,2012,1398cc,"109,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.7 seconds,107 g/km
+citroen,C3,10200.0,2021,1199cc,"51,733 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,C3,6995.0,2014,1598cc,"35,000 miles",Petrol,Automatic,BLUE,Hatchback,4X2,5.0,5.0,118 bhp,118 mph,10.9 seconds,150 g/km
+citroen,SpaceTourer,21950.0,2018,1560cc,"33,000 miles",Diesel,Manual,GREY,Other,4X2,5.0,9.0,114 bhp,99 mph,13.4 seconds,137 g/km
+citroen,C4 Cactus,12012.0,2018,1200cc,"24,679 miles",Petrol,Manual,PURPLE,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,C4 Cactus,9049.0,2017,1199cc,"36,164 miles",Petrol,,Yellow,SUV,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,105 g/km
+citroen,C1,6199.0,2017,998cc,"64,992 miles",Petrol,,Red,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,23075.0,2023,1.2L,1 miles,Petrol,Semiauto,Blue,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,136 g/km
+citroen,C4 Cactus,9500.0,2018,1.2L,"35,632 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,108 bhp,117 mph,,104 g/km
+citroen,C3,15995.0,2022,1.2L,"8,495 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,C3,10597.0,2019,1200cc,"44,544 miles",Petrol,Manual,SILVER,MPV,4X2,5.0,5.0,128 bhp,124 mph,8.8 seconds,119 g/km
+citroen,C5,22495.0,2022,1199cc,"4,101 miles",Petrol,Automatic,Blue,Estate,4X2,4.0,5.0,129 bhp,130 mph,,136 g/km
+citroen,C5 Aircross,29999.0,2023,1.6L,2 miles,Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,178 bhp,140 mph,,29 g/km
+citroen,C3,20995.0,2023,1.2L,5 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,Berlingo,8991.0,2018,1560cc,"49,136 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C3,10295.0,2020,1199cc,"30,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,DS3,3999.0,2013,1598cc,"76,850 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,132 g/km
+citroen,C3,9799.0,2019,1.2L,"28,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,9.4 seconds,108 g/km
+citroen,C1,5495.0,2014,1L,"53,500 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,Relay,12599.0,2016,2.2L,"33,224 miles",Diesel,Manual,White,van,4X2,,,129 bhp,93 mph,21.8 seconds,
+citroen,C5 Aircross,22465.0,2023,1.2L,10 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C5 Aircross,23619.0,2023,1.2L,10 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C3,7499.0,2017,1.2L,"58,689 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C5 Aircross,16995.0,2021,1.5L,"28,880 miles",Diesel,Semiauto,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,,140 g/km
+citroen,C4 Picasso,9772.0,2016,1.2L,"51,331 miles",Petrol,Manual,Blue,MPV,4X2,5.0,5.0,129 bhp,125 mph,10.1 seconds,116 g/km
+citroen,C5 Aircross,14198.0,2019,1.5L,"34,003 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,110 g/km
+citroen,C3,12991.0,2020,1.2L,"22,503 miles",Petrol,Manual,Red,SUV,,,,,,,
+citroen,C3,13447.0,2020,1.2L,"12,846 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,110 g/km
+citroen,DS3,6995.0,2011,1.6L,"53,000 miles",Diesel,Manual,Belle Ile Blue Metallic,Hatchback,4X2,3.0,5.0,110 bhp,118 mph,9.8 seconds,109 g/km
+citroen,C5 Aircross,11500.0,2020,1499cc,"99,050 miles",Diesel,Manual,Grey,SUV,4X2,5.0,5.0,129 bhp,117 mph,10.4 seconds,102 g/km
+citroen,C4,5490.0,2015,1560cc,"62,000 miles",Diesel,Manual,RED,Hatchback,4X2,5.0,5.0,98 bhp,111 mph,11.5 seconds,95 g/km
+citroen,C5 Aircross,18795.0,2020,1.2L,"9,449 miles",Petrol,Semiauto,White,SUV,4X2,5.0,5.0,128 bhp,122 mph,,156 g/km
+citroen,C5 Aircross,26540.0,2022,1.6L,"9,211 miles",Hybrid,Semiauto,Grey,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,Berlingo,18999.0,2019,1499cc,"6,879 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,5.0,129 bhp,114 mph,11.0 seconds,114 g/km
+citroen,Dispatch XS 1000 ENTERPRISE 1.5 BLUEHDI AIR CON P SENSORS SWB,13475.0,2020,1.5L,"64,636 miles",Diesel,Manual,Black,Van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Relay 35 ENTERPRISE 2.0 BLUEHDI 130 AIR CON P SENSORS L2/H2 MWB NO VAT,18475.0,2018,2L,"46,510 miles",Diesel,Manual,Black,Van,4X2,,,129 bhp,92 mph,21.8 seconds,
+citroen,DS4,6100.0,2014,1997cc,"65,105 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,161 bhp,132 mph,8.6 seconds,130 g/km
+citroen,C4 Picasso,11000.0,2017,1.6L,"56,217 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C1,7480.0,2018,1.2L,"37,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,20995.0,2023,1.2L,735 miles,Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,,136 g/km
+citroen,Dispatch,6745.0,2012,1997cc,"83,848 miles",Diesel,Manual,Blue,Van,4X2,,,126 bhp,106 mph,12.3 seconds,
+citroen,DS3,3790.0,2011,1598cc,"68,000 miles",Petrol,Manual,WHITE,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,136 g/km
+citroen,DS3,3995.0,2015,1199cc,"87,224 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,5.0,109 bhp,118 mph,9.6 seconds,107 g/km
+citroen,C3,2995.0,2009,1360cc,"9,000 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,72 bhp,104 mph,12.4 seconds,145 g/km
+citroen,Berlingo ENT EDITION BHDI 100PS,19850.0,2023,1500cc,5 miles,Diesel,Manual,ICY WHITE,PANEL VAN,4X2,,,101 bhp,102 mph,,
+citroen,Grand C4 Picasso,10049.0,2016,1560cc,"64,291 miles",Diesel,,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,105 g/km
+citroen,C5 Aircross,16149.0,2019,1199cc,"24,430 miles",Petrol,,Red,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C3,11099.0,2020,1199cc,"14,532 miles",Petrol,,Green,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,Grand C4 Picasso,18549.0,2018,1560cc,"6,688 miles",Diesel,,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.5 seconds,106 g/km
+citroen,Berlingo,13495.0,2022,1500cc,"74,000 miles",Diesel,Manual,White,Van,4X2,,,101 bhp,101 mph,,
+citroen,Berlingo,10495.0,2016,1560cc,"57,000 miles",Diesel,Manual,Blue,Other,4X2,5.0,5.0,98 bhp,103 mph,12.4 seconds,
+citroen,Dispatch,13495.0,2019,1560cc,"30,000 miles",Diesel,Manual,Grey,Van,4X2,,,94 bhp,90 mph,15.5 seconds,
+citroen,Berlingo,9995.0,2019,1560cc,"82,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,5995.0,2009,1560cc,"75,000 miles",Diesel,Manual,Grey,Van,4X2,,,90 bhp,99 mph,14.3 seconds,
+citroen,C3,3495.0,2010,1398cc,"53,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,68 bhp,101 mph,15.9 seconds,113 g/km
+citroen,C1,9995.0,2016,998cc,"16,000 miles",Petrol,Automatic,Blue,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.6 seconds,97 g/km
+citroen,C3,3250.0,2005,1360cc,"41,796 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,87 bhp,112 mph,14.4 seconds,143 g/km
+citroen,C3,990.0,2010,1124cc,"89,957 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,59 bhp,95 mph,17.3 seconds,140 g/km
+citroen,C3,9890.0,2019,1199cc,"19,628 miles",Petrol,Manual,Cumulus Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C4,2850.0,2013,1560cc,"92,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,91 bhp,112 mph,12.9 seconds,110 g/km
+citroen,C4 Cactus,5450.0,2015,1560cc,"83,048 miles",Diesel,Manual,Silver,SUV,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,87 g/km
+citroen,Grand C4 Picasso,9495.0,2015,1997cc,"62,647 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,147 bhp,130 mph,9.8 seconds,105 g/km
+citroen,Berlingo,14495.0,2016,1560cc,"25,797 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,5.0,98 bhp,106 mph,14.3 seconds,109 g/km
+citroen,C3,3695.0,2013,1360cc,"76,796 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,72 bhp,101 mph,15.1 seconds,139 g/km
+citroen,C3,9695.0,2018,1199cc,"49,258 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,C1,7200.0,2015,998cc,"45,790 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.6 seconds,97 g/km
+citroen,C1,6648.0,2018,998cc,"40,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C4 Cactus,6990.0,2016,1560cc,"68,101 miles",Diesel,Manual,Silver,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,95 g/km
+citroen,C4,5990.0,2013,1560cc,"51,000 miles",Diesel,Automatic,Bronze,Hatchback,4X2,5.0,5.0,115 bhp,118 mph,11.2 seconds,98 g/km
+citroen,C1,9450.0,2019,998cc,"33,365 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C1,8750.0,2019,998cc,"24,259 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,10250.0,2019,1199cc,"65,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,96 g/km
+citroen,Berlingo,5770.0,2012,1560cc,"93,000 miles",Diesel,Automatic,Red,MPV,4X2,5.0,5.0,91 bhp,102 mph,14.3 seconds,125 g/km
+citroen,DS5,8489.0,2014,1997cc,"62,000 miles",Diesel,Automatic,Black,Hatchback,4X2,5.0,5.0,162 bhp,132 mph,10.1 seconds,158 g/km
+citroen,C4,8000.0,2014,1997cc,"86,816 miles",Diesel,Automatic,White,MPV,4X2,5.0,7.0,147 bhp,128 mph,10.2 seconds,120 g/km
+citroen,C3,2580.0,2011,1560cc,"114,815 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,90 bhp,108 mph,13.5 seconds,119 g/km
+citroen,C3,7990.0,2017,1199cc,"35,000 miles",Petrol,Manual,Orange,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C4 Picasso,5390.0,2014,1560cc,"90,000 miles",Diesel,Automatic,Blue,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,C4,15594.0,2019,1199cc,"16,000 miles",Petrol,Manual,White,MPV,4X2,5.0,7.0,128 bhp,124 mph,11.2 seconds,115 g/km
+citroen,C4 Cactus,7594.0,2017,1199cc,"55,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C1,4695.0,2011,998cc,"60,928 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,DS3,4999.0,2015,1560cc,"70,000 miles",Diesel,Manual,Yellow,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,95 g/km
+citroen,C4 Cactus,7572.0,2016,1199cc,"58,900 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C3,2500.0,2011,1397cc,"81,400 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,96 bhp,114 mph,11.9 seconds,136 g/km
+citroen,DS3,4389.0,2013,1598cc,"78,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,10.9 seconds,136 g/km
+citroen,C1,3645.0,2009,998cc,"41,046 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,67 bhp,98 mph,13.7 seconds,106 g/km
+citroen,Nemo,2695.0,2009,1400cc,"84,284 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,68 bhp,94 mph,18.7 seconds,119 g/km
+citroen,C3,3195.0,2014,1400cc,"104,737 miles",Diesel,Manual,Red,Other,4X2,5.0,5.0,67 bhp,101 mph,13.5 seconds,99 g/km
+citroen,C4,11995.0,2021,1200cc,"51,510 miles",Petrol,Manual,Brown,Other,4X2,5.0,5.0,129 bhp,129 mph,,121 g/km
+citroen,C1,5400.0,2016,998cc,"48,281 miles",Petrol,Manual,RED,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C5,1975.0,2007,2000cc,"116,000 miles",Diesel,Automatic,Grey,Other,4X2,5.0,5.0,134 bhp,127 mph,11.3 seconds,189 g/km
+citroen,C3,9588.0,2019,1199cc,"58,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,DS3,5000.0,2015,1598cc,"61,990 miles",Petrol,Manual,SILVER,Hatchback,4X2,3.0,5.0,154 bhp,130 mph,8.1 seconds,135 g/km
+citroen,C4 Cactus,10995.0,2020,1200cc,"49,071 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,131 g/km
+citroen,DS5,8390.0,2014,1997cc,"70,232 miles",Diesel,Automatic,SILVER,Hatchback,4X2,5.0,5.0,162 bhp,132 mph,10.1 seconds,158 g/km
+citroen,C4 Picasso,6495.0,2015,1560cc,"69,000 miles",Diesel,Manual,BLACK,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C4 Picasso,8995.0,2014,1560cc,"76,459 miles",Diesel,Manual,WHITE,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,Berlingo,20400.0,2022,1.5L,"9,641 miles",Diesel,Manual,White,van,4X2,,,101 bhp,101 mph,,
+citroen,C1,8798.0,2019,1L,"21,062 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,93 g/km
+citroen,C4 Cactus,7295.0,2015,1.6L,"44,500 miles",Diesel,Manual,Other,SUV,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,90 g/km
+citroen,C5 Aircross,16495.0,2019,1.2L,"5,047 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C5 Aircross,17495.0,2020,1.2L,"11,398 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,128 bhp,117 mph,,147 g/km
+citroen,C1,7995.0,2017,1199cc,"61,000 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,6995.0,2016,1560cc,"50,100 miles",Diesel,Manual,Black,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,C4 Picasso,7595.0,2016,1560cc,"56,000 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,98 bhp,109 mph,12.7 seconds,99 g/km
+citroen,C4 Picasso,8495.0,2015,1560cc,"55,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.3 seconds,100 g/km
+citroen,C5 Aircross,17495.0,2019,1200cc,"5,436 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,119 g/km
+citroen,C3,11879.0,2019,1.2L,"21,500 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,109 g/km
+citroen,C5 Aircross,22995.0,2023,1.2L,50 miles,Petrol,Manual,White,SUV,4X2,5.0,5.0,129 bhp,121 mph,,141 g/km
+citroen,C3,12292.0,2020,1.2L,"10,171 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,141 g/km
+citroen,C1,7095.0,2017,1.2L,"30,484 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4 Cactus,8224.0,2018,1.2L,"76,205 miles",Petrol,Manual,Other,SUV,4X2,5.0,5.0,109 bhp,122 mph,9.3 seconds,106 g/km
+citroen,C5 Aircross,16250.0,2019,1.6L,"46,346 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,178 bhp,134 mph,8.2 seconds,129 g/km
+citroen,C1,5290.0,2014,1L,"65,050 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,Berlingo 1.6 BLUEHDI 100 BHP L1 850KG ENTERPRISE ( SAT NAV / NO VAT ! ),12689.0,2018,1.6L,"42,000 miles",Diesel,Manual,Silver,Van,4X2,,,98 bhp,101 mph,11.9 seconds,
+citroen,Berlingo 1.6 BLUEHDI ENTERPRISE EDITION ( SAT NAV ! ),12989.0,2019,1.6L,"40,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,C3,7985.0,2016,1560cc,"55,685 miles",Diesel,Manual,Grey,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,C4,21490.0,2021,1199cc,"25,000 miles",Petrol,Automatic,Blue,MPV,4X2,5.0,7.0,129 bhp,124 mph,,140 g/km
+citroen,C1,7990.0,2018,998cc,"37,000 miles",Petrol,Manual,Green,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,,95 g/km
+citroen,C1,5790.0,2012,1L,"61,600 miles",Petrol,Automatic,Caldera Black Metallic,Hatchback,4X2,5.0,4.0,67 bhp,98 mph,14.0 seconds,104 g/km
+citroen,C4 Cactus,6490.0,2015,1560cc,"65,502 miles",Diesel,Manual,WHITE,Hatchback,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,C1,3950.0,2013,998cc,"49,668 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C3,2495.0,2010,1397cc,"74,000 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,96 bhp,114 mph,11.9 seconds,136 g/km
+citroen,Dispatch MWB L1H1 1000kg Enterprise Air Con Sensors Curise EURO 6 National Delivery Available,14794.0,2020,1499cc,"40,816 miles",Diesel,Manual,White,van,4X2,,,101 bhp,90 mph,15.5 seconds,
+citroen,Berlingo 1000 ENTERPRISE M BLUEHDI S/S AUTOMATIC PANEL VAN AIR CON EURO 6 ULEZ COMPLIANT **NO VAT**,15995.0,2020,1499cc,"57,130 miles",Diesel,Automatic,WHITE,PANEL VAN AUTOMATIC AIR CON EURO 6 ULEZ COMPLAINT,4X2,,,129 bhp,114 mph,,
+citroen,C3,12421.0,2023,1.2L,10 miles,Petrol,Manual,Beige,Hatchback,4X2,5.0,5.0,82 bhp,103 mph,,123 g/km
+citroen,C1,7995.0,2019,1L,"33,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,Dispatch 2.0 BlueHDi 1400 Enterprise M Panel Van 6dr Diesel Manual FWD 2 Euro 6 (s/s) (120 ps),12997.0,2020,2L,"72,511 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,11993.0,2019,1560cc,"87,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,13995.0,2020,2179cc,"54,000 miles",Diesel,Manual,White,Van,4X2,,,162 bhp,99 mph,,
+citroen,C4,19700.0,2022,1499cc,"18,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,128 mph,,121 g/km
+citroen,C5 Aircross,15950.0,2020,1499cc,"26,330 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,138 g/km
+citroen,Berlingo,8995.0,2020,1500cc,"97,337 miles",Diesel,Manual,Black,Van,4X2,,,101 bhp,107 mph,,
+citroen,Dispatch,19995.0,2021,2000cc,"16,328 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,6495.0,2014,1560cc,"93,500 miles",Diesel,Automatic,White,Van,,,,,,,
+citroen,Berlingo,13000.0,2019,1560cc,"27,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Relay,31995.0,2007,2198cc,"83,873 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,,,
+citroen,Relay,6795.0,2015,2198cc,"145,000 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.6 seconds,
+citroen,Berlingo,9490.0,2019,1560cc,"115,000 miles",Diesel,Manual,Black,Van,4X2,,,98 bhp,103 mph,12.5 seconds,
+citroen,Dispatch,4995.0,2015,1560cc,"100,160 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,90 mph,16.5 seconds,
+citroen,Berlingo,6995.0,2014,1560cc,"62,000 miles",Diesel,Automatic,Silver,MPV,4X2,5.0,5.0,91 bhp,103 mph,15.5 seconds,120 g/km
+citroen,C3,2990.0,2010,1397cc,"60,000 miles",Petrol,Manual,Grey,MPV,4X2,5.0,5.0,95 bhp,111 mph,13.9 seconds,157 g/km
+citroen,Grand C4 Picasso,8985.0,2015,1560cc,"51,753 miles",Diesel,Manual,Special Solid - Pola,Estate,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4 Cactus,6350.0,2016,1200cc,"64,500 miles",Petrol,Manual,White,SUV,4X2,5.0,5.0,109 bhp,117 mph,9.3 seconds,100 g/km
+citroen,C3,6200.0,2017,1560cc,"87,510 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,98 bhp,115 mph,,95 g/km
+citroen,C1,2900.0,2013,998cc,"103,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,6995.0,2018,1200cc,"12,890 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,10490.0,2019,1199cc,"27,000 miles",Petrol,Manual,Cobalt Blue,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,99 g/km
+citroen,C3,4495.0,2014,1000cc,"49,000 miles",Petrol,Manual,White,Other,4X2,5.0,5.0,67 bhp,101 mph,14.2 seconds,99 g/km
+citroen,C3,8699.0,2017,1199cc,"58,281 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,10649.0,2019,1199cc,"33,331 miles",Petrol,,Black,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,98 g/km
+citroen,C4,6999.0,2016,1199cc,"43,974 miles",Petrol,,Grey,Hatchback,4X2,5.0,5.0,109 bhp,114 mph,10.9 seconds,110 g/km
+citroen,C3,15695.0,2020,1.2L,"11,671 miles",Petrol,Manual,Orange,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C5 Aircross,17490.0,2020,1.5L,"11,234 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,129 bhp,117 mph,,102 g/km
+citroen,C3,19813.0,2022,1.2L,"6,364 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,129 bhp,121 mph,,142 g/km
+citroen,C3,7499.0,2017,1.2L,"62,196 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,13673.0,2021,1.2L,"10,090 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,,135 g/km
+citroen,DS3,6995.0,2015,1.6L,"40,360 miles",Petrol,Manual,White,Convertible,4X2,3.0,5.0,118 bhp,118 mph,9.9 seconds,129 g/km
+citroen,C5 Aircross,28995.0,2023,1.2L,"2,586 miles",Petrol,Semiauto,Blue,SUV,4X2,5.0,5.0,129 bhp,117 mph,,151 g/km
+citroen,C1,8995.0,2021,1L,"29,923 miles",Petrol,Manual,White,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,,110 g/km
+citroen,C3,9490.0,2017,1.2L,"12,084 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,80 bhp,104 mph,13.2 seconds,109 g/km
+citroen,C3,11695.0,2020,1.2L,"33,728 miles",Petrol,Manual,Black,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,110 g/km
+citroen,C1,7299.0,2019,1L,"50,696 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,85 g/km
+citroen,C3,9999.0,2020,1.2L,"33,500 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,131 g/km
+citroen,Berlingo,12599.0,2018,1560cc,"64,392 miles",Diesel,Manual,GREY,Other,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C4 Cactus,4490.0,2015,1199cc,"124,000 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,105 g/km
+citroen,C3,9999.0,2020,1.2L,"37,772 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,82 bhp,105 mph,,130 g/km
+citroen,C3,10395.0,2018,1199cc,"19,324 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,109 g/km
+citroen,Berlingo 1.6 625 ENTERPRISE PANEL VAN L1 EURO 6 AIR CON,6999.0,2018,1.6L,"95,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo 1.6 625 ENTERPRISE PANEL VAN L1 EURO 6 AIR CON,6999.0,2018,1.6L,"95,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C3,15990.0,2022,1199cc,"18,000 miles",Petrol,Automatic,Black,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,134 g/km
+citroen,C5 Aircross,14490.0,2019,1199cc,"26,493 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,Berlingo 1.6 HDi 625 Enterprise L1 5dr FINANCE AVAILABLE,6000.0,2016,1560cc,"77,000 miles",Diesel,Manual,Black,van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Berlingo,13188.0,2020,1.2L,"62,907 miles",Petrol,Manual,White,van,4X2,,,109 bhp,108 mph,11.2 seconds,
+citroen,Berlingo,17988.0,2020,1.5L,"27,808 miles",Diesel,Manual,White,van,4X2,,,101 bhp,107 mph,,
+citroen,C4 Cactus,9000.0,2015,1.6L,"33,615 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,92 g/km
+citroen,C3,11998.0,2020,1.2L,"32,566 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,143 g/km
+citroen,C3,10185.0,2018,1.2L,"21,500 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,80 bhp,103 mph,14.1 seconds,116 g/km
+citroen,C4,17735.0,2022,1.5L,"13,001 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,114 g/km
+citroen,C3,12995.0,2020,1.2L,"24,092 miles",Petrol,Manual,Grey,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C1,3990.0,2012,998cc,"47,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C4,5495.0,2014,1560cc,"69,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,91 bhp,112 mph,12.9 seconds,109 g/km
+citroen,Grand C4 Picasso,7299.0,2014,1997cc,"109,930 miles",Diesel,Automatic,Blue,MPV,4X2,5.0,7.0,147 bhp,128 mph,10.2 seconds,120 g/km
+citroen,DS4,5395.0,2014,1560cc,"69,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,113 bhp,118 mph,11.3 seconds,113 g/km
+citroen,C3,8999.0,2017,1.2L,"40,500 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,5.0,108 bhp,117 mph,,103 g/km
+citroen,C1,8999.0,2020,1L,"7,587 miles",Petrol,Manual,Beige,Hatchback,4X2,5.0,4.0,71 bhp,99 mph,14.0 seconds,109 g/km
+citroen,Nemo,4995.0,2018,1248cc,"147,000 miles",Diesel,Manual,White,Van,4X2,,,79 bhp,101 mph,15.6 seconds,
+citroen,Relay,10000.0,2017,1997cc,"99,108 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,93 mph,21.7 seconds,
+citroen,Berlingo,12395.0,2019,1499cc,"75,000 miles",Diesel,Manual,Black,Van,4X2,,,129 bhp,115 mph,10.0 seconds,
+citroen,Dispatch,13295.0,2017,1560cc,"40,000 miles",Diesel,Manual,White,Van,4X2,,,114 bhp,99 mph,12.9 seconds,
+citroen,Berlingo,14795.0,2017,1598cc,"11,900 miles",Petrol,Manual,Silver,Other,4X2,5.0,5.0,96 bhp,106 mph,12.8 seconds,
+citroen,Relay,21000.0,2015,2198cc,"73,567 miles",Diesel,Manual,White,Van,4X2,,,129 bhp,92 mph,21.6 seconds,
+citroen,Berlingo,4995.0,2014,1560cc,"99,002 miles",Diesel,Manual,Red,Van,4X2,,,88 bhp,99 mph,12.8 seconds,
+citroen,Dispatch,7995.0,2018,1997cc,"117,000 miles",Diesel,Manual,White,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,Berlingo,12495.0,2020,1499cc,"32,000 miles",Diesel,Manual,White,Van,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,6495.0,2017,1560cc,"109,700 miles",Diesel,Manual,Black,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Dispatch,18995.0,2021,1997cc,"18,000 miles",Diesel,Manual,Black,Van,4X2,,,121 bhp,106 mph,13.3 seconds,
+citroen,C3,12200.0,2000,1199cc,"8,775 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,109 bhp,114 mph,10.1 seconds,143 g/km
+citroen,C3,9300.0,2000,1199cc,"52,929 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,109 bhp,117 mph,,130 g/km
+citroen,C1,5485.0,2015,998cc,"39,677 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C1,6995.0,2017,1199cc,"31,499 miles",Petrol,Manual,Grey,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4 Cactus,5395.0,2015,1560cc,"110,000 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,98 bhp,114 mph,10.7 seconds,87 g/km
+citroen,C4,18450.0,2022,1499cc,"22,142 miles",Diesel,Manual,Platinum Grey,Hatchback,4X2,5.0,5.0,109 bhp,120 mph,,113 g/km
+citroen,C4,16980.0,2023,1199cc,10 miles,Petrol,Manual,Perla Nera Black,Hatchback,4X2,5.0,5.0,99 bhp,114 mph,,122 g/km
+citroen,C3,8890.0,2018,1200cc,"47,309 miles",Petrol,Manual,Passion Red,SUV,4X2,5.0,5.0,108 bhp,115 mph,,115 g/km
+citroen,DS3,3450.0,2012,1560cc,"92,710 miles",Diesel,Manual,Red,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,DS4,3250.0,2012,1560cc,"126,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,110 bhp,118 mph,11.3 seconds,122 g/km
+citroen,C4,14995.0,2021,1500cc,"43,998 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,129 bhp,128 mph,,120 g/km
+citroen,C4,16980.0,2023,1199cc,48 miles,Petrol,Manual,Black,Hatchback,4X2,5.0,5.0,99 bhp,114 mph,,122 g/km
+citroen,C4 Cactus,13450.0,2020,1200cc,"21,641 miles",Petrol,Automatic,Blue,SUV,4X2,5.0,5.0,129 bhp,129 mph,8.6 seconds,109 g/km
+citroen,C3,5495.0,2015,1560cc,"45,000 miles",Diesel,Manual,Purple,Hatchback,4X2,5.0,5.0,74 bhp,106 mph,11.3 seconds,90 g/km
+citroen,C5,17490.0,2020,1499cc,"18,000 miles",Diesel,Automatic,White,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,137 g/km
+citroen,C4 Cactus,8995.0,2015,1199cc,"37,002 miles",Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,80 bhp,107 mph,15.0 seconds,98 g/km
+citroen,C4,8499.0,2015,1560cc,"75,130 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C1,6349.0,2016,1199cc,"55,331 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C3,7964.0,2016,1560cc,"41,558 miles",Diesel,Manual,GREY,MPV,4X2,5.0,5.0,98 bhp,111 mph,12.8 seconds,101 g/km
+citroen,C1,6495.0,2015,1199cc,"56,563 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C1,6795.0,2016,1199cc,"27,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,80 bhp,106 mph,11.0 seconds,99 g/km
+citroen,C4,4290.0,2012,1997cc,"79,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,149 bhp,134 mph,8.6 seconds,130 g/km
+citroen,DS3,6975.0,2012,1598cc,"35,000 miles",Petrol,Automatic,White,Hatchback,4X2,3.0,5.0,121 bhp,118 mph,8.9 seconds,153 g/km
+citroen,DS3,4299.0,2013,1598cc,"65,248 miles",Petrol,Manual,White,Hatchback,4X2,3.0,5.0,150 bhp,133 mph,7.3 seconds,135 g/km
+citroen,Grand C4 Picasso,8395.0,2015,1560cc,"90,250 miles",Diesel,Automatic,Red,MPV,4X2,5.0,7.0,113 bhp,117 mph,12.6 seconds,105 g/km
+citroen,C3,5295.0,2013,1560cc,"49,000 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,91 bhp,113 mph,11.3 seconds,95 g/km
+citroen,C1,5999.0,2016,998cc,"52,124 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C3,3995.0,2012,1360cc,"67,265 miles",Petrol,Manual,White,Hatchback,4X2,5.0,5.0,72 bhp,101 mph,14.2 seconds,139 g/km
+citroen,C1,3999.0,2012,998cc,"75,136 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,4250.0,2013,998cc,"73,573 miles",Petrol,Manual,Black,Hatchback,4X2,5.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C4 Cactus,8995.0,2017,1199cc,"48,993 miles",Petrol,Manual,Yellow,Hatchback,4X2,5.0,5.0,80 bhp,106 mph,12.9 seconds,107 g/km
+citroen,DS3,4895.0,2013,1560cc,"62,000 miles",Diesel,Manual,Grey,Hatchback,4X2,3.0,5.0,90 bhp,113 mph,12.5 seconds,98 g/km
+citroen,Berlingo,6495.0,2013,1560cc,"73,200 miles",Diesel,Manual,Blue,MPV,4X2,5.0,5.0,113 bhp,107 mph,12.1 seconds,139 g/km
+citroen,C Crosser,3195.0,2008,2179cc,"89,911 miles",Diesel,Manual,Blue,SUV,4X4,5.0,7.0,157 bhp,124 mph,9.9 seconds,194 g/km
+citroen,C1,4695.0,2013,998cc,"34,222 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,67 bhp,99 mph,12.3 seconds,99 g/km
+citroen,C1,5989.0,2016,998cc,"43,000 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,4.0,68 bhp,99 mph,14.3 seconds,95 g/km
+citroen,C5,21588.0,2020,1499cc,"26,340 miles",Diesel,Automatic,GREY,Hatchback,4X2,5.0,5.0,129 bhp,117 mph,,139 g/km
+citroen,C4 Picasso,9000.0,2015,1560cc,"63,555 miles",Diesel,Automatic,WHITE,MPV,4X2,5.0,5.0,118 bhp,117 mph,11.2 seconds,101 g/km
+citroen,C3,11160.0,2019,1200cc,"58,516 miles",Petrol,Manual,BLACK,MPV,4X2,5.0,5.0,109 bhp,117 mph,10.1 seconds,109 g/km
+citroen,C3,9495.0,2018,1199cc,"29,585 miles",Petrol,Manual,ORANGE,Hatchback,4X2,5.0,5.0,81 bhp,105 mph,13.2 seconds,110 g/km
+citroen,C5 Aircross,24000.0,2021,1.6L,"4,292 miles",Hybrid,Semiauto,White,SUV,4X2,5.0,5.0,221 bhp,140 mph,,32 g/km
+citroen,C3,9799.0,2019,1.2L,"50,000 miles",Petrol,Manual,Blue,SUV,4X2,5.0,5.0,81 bhp,100 mph,14.1 seconds,118 g/km
+citroen,C4,1990.0,2012,1560cc,"95,000 miles",Diesel,Manual,Red,Hatchback,4X2,5.0,5.0,91 bhp,112 mph,12.9 seconds,110 g/km
+citroen,C1,3485.0,2011,998cc,"50,000 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,4.0,68 bhp,98 mph,13.7 seconds,103 g/km
+citroen,C4,21990.0,2023,1199cc,10 miles,Petrol,Automatic,Black,SUV,4X2,4.0,5.0,129 bhp,124 mph,,129 g/km
+citroen,C3,9500.0,2018,1499cc,"77,530 miles",Diesel,Manual,White,SUV,4X2,5.0,5.0,101 bhp,100 mph,10.8 seconds,105 g/km
+citroen,C4 Picasso,8250.0,2013,1560cc,"48,316 miles",Diesel,Automatic,Red,MPV,4X2,5.0,5.0,113 bhp,117 mph,12.3 seconds,105 g/km
+citroen,Grand C4 Picasso,8700.0,2016,1560cc,"63,508 miles",Diesel,Manual,Grey,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,Dispatch 2.0 BlueHDi 1400 Enterprise Edition M FWD 2 Euro 6 (s/s) 6dr   2.0 145hp   DELIVERY MILES,23990.0,2023,1997cc,10 miles,Diesel,Manual,Grey,van,4X2,,,142 bhp,106 mph,,
+citroen,Berlingo,10950.0,2019,1560cc,"41,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,94 mph,15.9 seconds,
+citroen,Berlingo,8650.0,2017,1560cc,"91,000 miles",Diesel,Manual,Silver,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,Berlingo,5450.0,2014,1560cc,"104,000 miles",Diesel,Manual,White,Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Berlingo,12995.0,2020,1500cc,"31,240 miles",Diesel,Manual,Cumulus Grey,Van,4X2,,,75 bhp,94 mph,,
+citroen,Berlingo,8494.0,2016,1560cc,"107,000 miles",Diesel,Manual,Black,Van,4X2,,,74 bhp,92 mph,16.6 seconds,
+citroen,Berlingo,7495.0,2016,1560cc,"74,699 miles",Diesel,Manual,White,Van,4X2,,,88 bhp,99 mph,12.8 seconds,
+citroen,Berlingo,9990.0,2017,1560cc,"30,000 miles",Diesel,Manual,Grey,Van,4X2,,,74 bhp,98 mph,14.2 seconds,
+citroen,C4,8695.0,2016,1560cc,"52,000 miles",Diesel,Automatic,Grey,Hatchback,4X2,5.0,5.0,118 bhp,122 mph,11.1 seconds,98 g/km
+citroen,C5,13995.0,2019,1200cc,"19,000 miles",Petrol,Manual,Red,Hatchback,4X2,5.0,5.0,128 bhp,121 mph,10.5 seconds,121 g/km
+citroen,C3,3950.0,2012,1398cc,"91,000 miles",Diesel,Manual,White,Hatchback,4X2,5.0,5.0,67 bhp,101 mph,13.7 seconds,107 g/km
+citroen,C4 Cactus,12495.0,2021,1500cc,"54,250 miles",Diesel,Manual,Metallic - Steel Grey,Hatchback,4X2,5.0,5.0,101 bhp,118 mph,,119 g/km
+citroen,C3,6495.0,2016,1200cc,"71,998 miles",Petrol,Manual,Purple,MPV,4X2,5.0,5.0,109 bhp,116 mph,12.8 seconds,115 g/km
+citroen,DS3,5495.0,2015,1560cc,"58,000 miles",Diesel,Manual,Black,Hatchback,4X2,3.0,5.0,91 bhp,113 mph,11.3 seconds,95 g/km
+citroen,C4,10327.0,2015,1560cc,"32,000 miles",Diesel,Automatic,Grey,MPV,4X2,5.0,7.0,91 bhp,109 mph,14.0 seconds,98 g/km
+citroen,C4,6995.0,2015,1560cc,"99,367 miles",Diesel,Manual,Red,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,106 g/km
+citroen,C4,7490.0,2016,1560cc,"90,556 miles",Diesel,Manual,Black,MPV,4X2,5.0,7.0,118 bhp,117 mph,11.6 seconds,105 g/km

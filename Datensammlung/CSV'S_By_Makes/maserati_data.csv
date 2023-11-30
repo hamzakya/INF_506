@@ -1,0 +1,35 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+maserati,Ghibli,14950.0,2017,2987cc,"96,313 miles",Diesel,Automatic,BLUE,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,GranTurismo,29950.0,2013,4691cc,"56,000 miles",Petrol,Automatic,WHITE,Coupe,4X2,2.0,4.0,453 bhp,186 mph,4.7 seconds,354 g/km
+maserati,GranTurismo,53900.0,2015,4691cc,"18,400 miles",Petrol,Automatic,BLACK,Convertible,4X2,2.0,4.0,453 bhp,181 mph,4.9 seconds,337 g/km
+maserati,Ghibli,14495.0,2014,2987cc,"68,600 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,Levante,39948.0,2020,2979cc,"28,000 miles",Petrol,Automatic,Black,Estate,4X4,5.0,5.0,344 bhp,156 mph,6.0 seconds,264 g/km
+maserati,Grecale,74950.0,2023,2L,"1,000 miles",Hybrid,Semiauto,White,SUV,4X4,5.0,5.0,326 bhp,149 mph,,210 g/km
+maserati,Ghibli,44950.0,2021,2L,"6,000 miles",Petrol/Electric Hybrids,Automatic,NERO ASSOLUTO,Saloon,4X2,4.0,5.0,326 bhp,158 mph,,208 g/km
+maserati,Levante,36750.0,2019,2979cc,"24,000 miles",Petrol,Automatic,Black,SUV,4X4,5.0,5.0,344 bhp,156 mph,6.0 seconds,278 g/km
+maserati,Ghibli,23995.0,2019,2979cc,"82,000 miles",Petrol,Automatic,BLACK,Saloon,4X2,4.0,5.0,344 bhp,165 mph,4.9 seconds,263 g/km
+maserati,Ghibli,16590.0,2016,2987cc,"68,994 miles",Diesel,Automatic,BLACK,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,Levante,40000.0,2019,2979cc,"26,299 miles",Petrol,Automatic,GREY,Estate,4X4,5.0,5.0,344 bhp,156 mph,6.0 seconds,264 g/km
+maserati,Ghibli,17550.0,2015,2979cc,"58,000 miles",Petrol,Automatic,Grigio Metallic,Saloon,4X2,4.0,5.0,326 bhp,163 mph,5.6 seconds,207 g/km
+maserati,Quattroporte,17995.0,2015,2987cc,"73,000 miles",Diesel,Automatic,Grey,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,163 g/km
+maserati,Quattroporte,22950.0,2009,4691cc,"61,000 miles",Petrol,Automatic,Blue,Saloon,4X2,4.0,4.0,425 bhp,174 mph,5.4 seconds,365 g/km
+maserati,Levante,47950.0,2022,2L,"11,593 miles",Hybrid,Semiauto,Black,SUV,4X4,5.0,5.0,326 bhp,152 mph,,225 g/km
+maserati,Ghibli,89999.0,2022,3.8L,"6,009 miles",Petrol,Semiauto,Blue,Saloon,4X2,4.0,5.0,572 bhp,202 mph,,285 g/km
+maserati,Levante,29000.0,2018,2987cc,"61,120 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,5.0,271 bhp,142 mph,6.9 seconds,220 g/km
+maserati,GranCabrio,32999.0,2012,4691cc,"55,000 miles",Petrol,Automatic,Grey,Convertible,4X2,2.0,4.0,433 bhp,185 mph,5.3 seconds,358 g/km
+maserati,Ghibli,15895.0,2015,3L,"64,000 miles",Diesel,Semiauto,Grey,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,Ghibli,23995.0,2018,2987cc,"32,000 miles",Diesel,Automatic,Blue,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,GranTurismo,26990.0,2008,4244cc,"23,000 miles",Petrol,Automatic,Black,Coupe,,,,,,,
+maserati,3200,17995.0,2000,3217cc,"63,800 miles",Petrol,Automatic,Blue,Coupe,4X2,2.0,5.0,363 bhp,174 mph,5.1 seconds,0 g/km
+maserati,Grecale,79950.0,2023,3L,"7,500 miles",Petrol,Semiauto,Grey,SUV,4X4,5.0,5.0,530 bhp,177 mph,,254 g/km
+maserati,Grecale,49999.0,2023,2L,"7,550 miles",Hybrid,Semiauto,Other,SUV,4X4,5.0,5.0,300 bhp,149 mph,,204 g/km
+maserati,GranTurismo,45950.0,2017,4.7L,"18,000 miles",Petrol,Automatic,BLUE SOFISTICATO,Coupe,4X2,2.0,4.0,453 bhp,186 mph,4.7 seconds,331 g/km
+maserati,Grecale,81653.0,2023,3L,"5,000 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,530 bhp,177 mph,,254 g/km
+maserati,Ghibli,16989.0,2016,2987cc,"58,000 miles",Diesel,Automatic,Black,Saloon,4X2,4.0,5.0,271 bhp,155 mph,6.3 seconds,158 g/km
+maserati,Ghibli,16490.0,2016,2987cc,"71,000 miles",Diesel,Automatic,Grey,Saloon,,,,,,,
+maserati,Grecale,57950.0,2023,2L,"5,000 miles",Hybrid,Semiauto,Grey,SUV,4X4,5.0,5.0,326 bhp,149 mph,,204 g/km
+maserati,Grecale,58950.0,2023,2L,"7,000 miles",Hybrid,Semiauto,Grey,SUV,4X4,5.0,5.0,326 bhp,149 mph,,210 g/km
+maserati,Levante,99950.0,2023,3.8L,"1,000 miles",Petrol,Semiauto,Yellow,SUV,4X4,5.0,5.0,572 bhp,186 mph,,329 g/km
+maserati,Levante,34950.0,2020,3L,"33,500 miles",Petrol,Semiauto,Blue,SUV,4X4,5.0,5.0,344 bhp,156 mph,6.0 seconds,259 g/km
+maserati,Ghibli,23450.0,2015,2979cc,"12,000 miles",Petrol,Automatic,Nero Ribelle,Saloon,4X2,4.0,5.0,326 bhp,163 mph,5.6 seconds,223 g/km
+maserati,MC20,194500.0,2021,2992cc,126 miles,Petrol,Automatic,BLACK,Coupe,4X2,2.0,2.0,620 bhp,202 mph,,261 g/km

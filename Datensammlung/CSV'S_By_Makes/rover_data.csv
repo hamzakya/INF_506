@@ -1,0 +1,8 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+rover,45,3995.0,2003,1589cc,"33,810 miles",Petrol,Manual,Gold,Hatchback,4X2,5.0,5.0,107 bhp,118 mph,10.3 seconds,168 g/km
+rover,75,4990.0,2003,2L,"40,500 miles",Petrol,Manual,Gold,Saloon,4X2,4.0,5.0,149 bhp,130 mph,9.6 seconds,228 g/km
+rover,Mini,8950.0,1995,1275cc,"41,063 miles",Petrol,Automatic,Blue,Saloon,,,,,,,
+rover,Cityrover,1295.0,2003,1405cc,"33,000 miles",Petrol,Manual,BLUE,Hatchback,4X2,5.0,5.0,84 bhp,100 mph,11.9 seconds,167 g/km
+rover,Other,3995.0,1968,3529cc,"71,279 miles",Petrol,Automatic,White,Saloon,4X2,4.0,,,,,0 g/km
+rover,2000,3495.0,1969,1978cc,"77,543 miles",Petrol,Automatic,White,Saloon,4X2,4.0,,,,,0 g/km
+rover,200,4999.0,1995,1590cc,"57,000 miles",Petrol,Automatic,Red,Convertible,4X2,2.0,,122 bhp,117 mph,10.8 seconds,0 g/km

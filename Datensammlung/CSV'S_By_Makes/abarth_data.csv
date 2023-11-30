@@ -1,0 +1,36 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+abarth,595,12699.0,2019,1368cc,"21,930 miles",Petrol,,Grey,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,151 g/km
+abarth,595,9992.0,2018,1.4L,"44,373 miles",Petrol,Manual,Yellow,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,151 g/km
+abarth,500,32950.0,2023,"2,000 miles",Electric,Automatic,Green,Hatchback,0.1 mpg,4X2,3.0,4.0,152 bhp,96 mph,,0 g/km
+abarth,595,15750.0,2020,1.4L,"38,106 miles",Petrol,Manual,Other,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,171 g/km
+abarth,595,11999.0,2019,1.4L,"22,944 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,153 g/km
+abarth,595,10849.0,2017,1368cc,"29,391 miles",Petrol,,Yellow,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,595,16990.0,2020,1.4L,"17,622 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,171 g/km
+abarth,595,12995.0,2020,1.4L,"9,000 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,162 g/km
+abarth,595C,13500.0,2017,1368cc,"33,670 miles",Petrol,Manual,Black,Convertible,4X2,3.0,4.0,177 bhp,140 mph,6.7 seconds,139 g/km
+abarth,124,22000.0,2019,1.4L,"6,914 miles",Petrol,Semiauto,Blue,Convertible,4X2,2.0,2.0,168 bhp,142 mph,6.9 seconds,153 g/km
+abarth,500,7995.0,2013,1368cc,"51,662 miles",Petrol,Manual,White,Convertible,4X2,3.0,4.0,133 bhp,129 mph,8.1 seconds,
+abarth,695,25480.0,2023,1.4L,250 miles,Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,165 g/km
+abarth,595,12259.0,2018,1.4L,"13,184 miles",Petrol,Manual,Black,Convertible,4X2,3.0,4.0,145 bhp,130 mph,,154 g/km
+abarth,595,12999.0,2016,1.4L,"41,193 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,6.7 seconds,139 g/km
+abarth,595,11199.0,2018,1.4L,"22,400 miles",Petrol,Manual,Black,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,500,13999.0,2019,1.39L,"6,500 miles",Petrol,Manual,Red,Convertible,4X2,3.0,4.0,145 bhp,130 mph,,154 g/km
+abarth,595,12350.0,2018,1.4L,"16,130 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,158 bhp,134 mph,,139 g/km
+abarth,595,8950.0,2016,1368cc,"67,000 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,500,36695.0,2023,416 miles,Electric,Automatic,Other,Hatchback,0.1 mpg,4X2,3.0,4.0,152 bhp,96 mph,,0 g/km
+abarth,595,12000.0,2019,1.4L,"26,808 miles",Petrol,Manual,White,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,151 g/km
+abarth,595,9800.0,2016,1400cc,"37,200 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,595,14795.0,2020,1.4L,"10,083 miles",Petrol,Manual,Grey,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,162 g/km
+abarth,595,17672.0,2022,1.4L,"15,973 miles",Petrol,Semiauto,Grey,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,155 g/km
+abarth,595,9895.0,2017,1.4L,"59,457 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,158 bhp,134 mph,,139 g/km
+abarth,595,16312.0,2021,1.4L,"5,937 miles",Petrol,Manual,Blue,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,,153 g/km
+abarth,595,15199.0,2019,1368cc,"24,923 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,155 g/km
+abarth,595,13499.0,2018,1368cc,"21,880 miles",Petrol,,White,Hatchback,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+abarth,595,11990.0,1368cc,"21,670 miles",Petrol,Manual,Blue,,48.7 mpg,4X2,3.0,4.0,158 bhp,130 mph,7.6 seconds,134 g/km
+abarth,595,10750.0,2018,1.4L,"23,121 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,595,11058.0,2016,1.4L,"48,629 miles",Petrol,Manual,Black,Convertible,4X2,3.0,4.0,165 bhp,135 mph,7.3 seconds,139 g/km
+abarth,500,7894.0,2014,1368.0cc,"49,927 miles",Petrol,Manual,WHITE,Sports,4X2,3.0,4.0,133 bhp,129 mph,8.1 seconds,155 g/km
+abarth,595,11999.0,2019,1368cc,"28,443 miles",Petrol,,Blue,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,,151 g/km
+abarth,595,14999.0,2019,1368cc,"30,828 miles",Petrol,,Red,Hatchback,4X2,3.0,4.0,177 bhp,140 mph,,155 g/km
+abarth,595,9106.0,2016,1.4L,"43,000 miles",Petrol,Manual,Red,Hatchback,4X2,3.0,4.0,145 bhp,130 mph,7.8 seconds,139 g/km
+abarth,500,15000.0,2021,1.4L,"26,793 miles",Petrol,Manual,Convertible,40.9 mpg,4X2,3.0,4.0,165 bhp,135 mph,,

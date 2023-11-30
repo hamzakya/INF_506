@@ -1,0 +1,95 @@
+Make,Model,Price,Year,Engine Size,Mileage,Fuel Type,Transmission,Color,Body Type,Wheel Drive,Doors,Seats,Engine Power,Top Speed,Acceleration,CO2 Rating
+ssangyong,Tivoli,23495.0,2023,1.5L,5 miles,Petrol,Manual,Silver,SUV,4X2,5.0,5.0,161 bhp,112 mph,,161 g/km
+ssangyong,Musso,35700.0,2022,2157cc,"17,137 miles",Diesel,Automatic,GREY,Other,4X4,,,178 bhp,107 mph,,236 g/km
+ssangyong,Musso,32495.0,2023,2157cc,"8,905 miles",Diesel,Automatic,GREY,Other,4X4,,,178 bhp,107 mph,,236 g/km
+ssangyong,Musso,20399.0,2018,2157cc,"60,800 miles",Diesel,Automatic,WHITE,Other,4X4,4.0,,178 bhp,115 mph,,226 g/km
+ssangyong,Tivoli,24354.0,2023,1500cc,5 miles,Petrol,Manual,BLACK,Other,4X2,5.0,5.0,161 bhp,112 mph,,161 g/km
+ssangyong,Tivoli,15995.0,2021,1597cc,"9,198 miles",Diesel,Manual,Grey,Hatchback,4X2,5.0,5.0,134 bhp,108 mph,,146 g/km
+ssangyong,Tivoli,20995.0,2023,1497cc,"2,608 miles",Petrol,Automatic,Red,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Turismo,18750.0,2019,2157cc,"21,906 miles",Diesel,Automatic,Blue,MPV,4X4,5.0,7.0,174 bhp,116 mph,10.0 seconds,205 g/km
+ssangyong,Korando,6495.0,2016,1998cc,"42,050 miles",Diesel,Manual,Blue,SUV,4X2,5.0,5.0,146 bhp,112 mph,10.0 seconds,147 g/km
+ssangyong,Rodius,17249.0,2018,2157cc,"30,855 miles",Diesel,Automatic,BLACK,MPV,4X4,5.0,7.0,174 bhp,116 mph,10.0 seconds,210 g/km
+ssangyong,Musso,40194.0,2023,600 miles,Diesel,Automatic,BLUE,Other,31.4 mpg,4X4,,,178 bhp,107 mph,,236 g/km
+ssangyong,Tivoli,14700.0,2022,1200cc,"16,741 miles",Petrol,,Red,,4X2,5.0,5.0,126 bhp,112 mph,,158 g/km
+ssangyong,Korando,30500.0,2023,1L,500 miles,Other,Automatic,Black,Hatchback,4X2,5.0,5.0,188 bhp,97 mph,,
+ssangyong,Rexton,6400.0,2012,2.7L,"57,000 miles",Diesel,Automatic,THUNDER GREY,Estate,4X4,5.0,7.0,162 bhp,112 mph,13.2 seconds,250 g/km
+ssangyong,Rexton,6400.0,2012,2.7L,"57,000 miles",Diesel,Automatic,THUNDER GREY,Estate,4X4,5.0,7.0,162 bhp,112 mph,13.2 seconds,250 g/km
+ssangyong,Rexton,42499.0,2023,2.2L,500 miles,Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,199 bhp,114 mph,,227 g/km
+ssangyong,Korando,19490.0,2019,1597cc,"32,321 miles",Diesel,Automatic,Red,Estate,4X4,5.0,5.0,134 bhp,112 mph,12.0 seconds,170 g/km
+ssangyong,Tivoli,10295.0,2018,1597cc,"37,888 miles",Diesel,Automatic,RED,Hatchback,4X2,5.0,5.0,113 bhp,106 mph,10.0 seconds,146 g/km
+ssangyong,Tivoli,9199.0,2017,1.6L,"27,200 miles",Diesel,Manual,Black,Hatchback,4X2,5.0,5.0,113 bhp,109 mph,10.0 seconds,113 g/km
+ssangyong,Korando,14995.0,2018,2200cc,"21,679 miles",Diesel,Automatic,White,Other,4X4,5.0,5.0,175 bhp,115 mph,,179 g/km
+ssangyong,Korando,11990.0,2018,2157cc,"55,111 miles",Diesel,Manual,BLACK,Estate,4X2,5.0,5.0,175 bhp,115 mph,,139 g/km
+ssangyong,Rexton,48828.0,2023,2200cc,5 miles,Diesel,Automatic,GREY,Other,,,,,,,
+ssangyong,Korando,3995.0,2013,1998cc,"88,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,146 bhp,110 mph,10.0 seconds,157 g/km
+ssangyong,Musso,39900.0,2023,2200cc,"1,133 miles",Diesel,Automatic,WHITE,Other,4X4,,,199 bhp,107 mph,,241 g/km
+ssangyong,Korando,6995.0,2015,1998cc,"62,000 miles",Diesel,Manual,GREY,Estate,4X4,5.0,5.0,146 bhp,112 mph,10.0 seconds,157 g/km
+ssangyong,Turismo,12795.0,2017,2.2L,"25,080 miles",Diesel,Manual,White,MPV,4X2,5.0,7.0,174 bhp,116 mph,10.0 seconds,189 g/km
+ssangyong,Tivoli,17990.0,2022,1497cc,"6,781 miles",Petrol,Manual,GREY,Hatchback,4X2,5.0,5.0,161 bhp,112 mph,,161 g/km
+ssangyong,Tivoli,15599.0,2021,1.5L,"6,626 miles",Petrol,Manual,Silver,Hatchback,4X2,5.0,5.0,161 bhp,112 mph,,161 g/km
+ssangyong,Musso 2.2 RHINO 179 BHP,28500.0,2021,2.2L,"17,000 miles",Diesel,Automatic,Blue,Van,4X4,,,178 bhp,107 mph,,
+ssangyong,Tivoli,12995.0,2018,1597cc,"18,397 miles",Diesel,Automatic,Black,Estate,4X2,5.0,5.0,113 bhp,108 mph,10.0 seconds,154 g/km
+ssangyong,Tivoli,6995.0,2017,1597cc,"73,000 miles",Diesel,Manual,Red,SUV,4X2,5.0,5.0,113 bhp,109 mph,10.0 seconds,113 g/km
+ssangyong,Tivoli,6265.0,2016,1597cc,"59,231 miles",Diesel,Manual,Black,SUV,4X2,5.0,5.0,113 bhp,109 mph,10.0 seconds,113 g/km
+ssangyong,Korando,6999.0,2016,2000cc,"62,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,146 bhp,112 mph,10.0 seconds,147 g/km
+ssangyong,Rexton,36699.0,2023,2.2L,"7,101 miles",Diesel,Automatic,Grey,SUV,4X4,5.0,7.0,199 bhp,114 mph,,227 g/km
+ssangyong,Tivoli,18290.0,2021,1497cc,"11,291 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Tivoli,19495.0,2022,1497cc,447 miles,Petrol,Automatic,Solid - Grand White,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Tivoli,7995.0,2016,1597cc,"53,805 miles",Petrol,Manual,Blue,Hatchback,4X2,5.0,5.0,126 bhp,106 mph,10.0 seconds,149 g/km
+ssangyong,Rexton,34999.0,2022,2157cc,"14,000 miles",Diesel,Automatic,BLACK,Estate,4X4,5.0,7.0,199 bhp,114 mph,,225 g/km
+ssangyong,Korando,18999.0,2019,1597cc,"32,000 miles",Diesel,Automatic,WHITE,Estate,4X4,5.0,5.0,134 bhp,112 mph,12.0 seconds,170 g/km
+ssangyong,Korando,24999.0,2021,1597cc,"10,900 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,134 bhp,111 mph,,176 g/km
+ssangyong,Musso,25999.0,2020,2157cc,"19,800 miles",Diesel,Automatic,RED,Other,4X4,,,178 bhp,115 mph,,216 g/km
+ssangyong,Musso,34495.0,2023,2200cc,5 miles,Diesel,Automatic,Space Black,Van,4X4,,,178 bhp,107 mph,,
+ssangyong,Rodius,2250.0,2012,2696cc,"94,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,162 bhp,106 mph,13.5 seconds,223 g/km
+ssangyong,Korando,18501.0,2020,1597cc,"22,500 miles",Diesel,Automatic,WHITE,Estate,4X2,5.0,5.0,134 bhp,112 mph,12.0 seconds,159 g/km
+ssangyong,Korando,6295.0,2017,2157cc,"92,000 miles",Diesel,Manual,Black,Estate,4X2,5.0,5.0,176 bhp,115 mph,,139 g/km
+ssangyong,Rexton,7250.0,2015,1998cc,"91,540 miles",Diesel,Manual,SILVER,Estate,4X4,5.0,7.0,153 bhp,108 mph,21.2 seconds,196 g/km
+ssangyong,Rexton,12995.0,2016,2157cc,"59,070 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,7.0,174 bhp,116 mph,10.0 seconds,194 g/km
+ssangyong,Tivoli,23999.0,2023,1.5L,15 miles,Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Korando,7479.0,2017,2000cc,Petrol,Manual,Black,SUV,37.7 mpg,4X2,5.0,5.0,147 bhp,101 mph,,175 g/km
+ssangyong,Rodius,6200.0,2014,1998cc,"66,000 miles",Diesel,Manual,Silver,MPV,,,,,,,
+ssangyong,Turismo,6200.0,2014,1998cc,"66,000 miles",Diesel,Manual,Silver,MPV,4X2,5.0,7.0,154 bhp,105 mph,10.0 seconds,199 g/km
+ssangyong,Turismo,12990.0,2016,2157cc,"50,000 miles",Diesel,Automatic,Grey,MPV,4X4,5.0,7.0,174 bhp,116 mph,10.0 seconds,205 g/km
+ssangyong,Korando,24990.0,2023,1497cc,"2,301 miles",Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,161 bhp,116 mph,,182 g/km
+ssangyong,Rexton,44995.0,2023,2157cc,5 miles,Diesel,Automatic,Black,SUV,,,,,,,
+ssangyong,Musso Double Cab Pick Up Rhino 4dr Auto AWD,24162.0,2020,2157cc,"35,897 miles",Diesel,Automatic,White,VAN,4X4,,,178 bhp,107 mph,,
+ssangyong,Korando,28250.0,2023,1497cc,6 miles,Petrol,Automatic,Grey,SUV,4X2,5.0,5.0,161 bhp,116 mph,,
+ssangyong,Tivoli,12600.0,2020,1.6L,"20,309 miles",Petrol,Manual,Silver,SUV,4X2,5.0,5.0,126 bhp,112 mph,12.0 seconds,168 g/km
+ssangyong,Tivoli,17750.0,2021,1497cc,"23,960 miles",Petrol,Automatic,Grey,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Korando,3995.0,2012,1998cc,"82,000 miles",Diesel,Manual,Grey,SUV,4X4,5.0,5.0,173 bhp,111 mph,10.0 seconds,169 g/km
+ssangyong,Korando,22788.0,2022,1.5L,"11,090 miles",Petrol,Semiauto,Grey,SUV,4X2,5.0,5.0,161 bhp,116 mph,,182 g/km
+ssangyong,Musso,26990.0,2022,2.2L,"6,658 miles",Diesel,Automatic,White,Pick Up,4X4,,,178 bhp,115 mph,,251 g/km
+ssangyong,Rexton,11795.0,2016,2.2L,"83,000 miles",Diesel,Manual,Black,Estate,4X4,5.0,7.0,174 bhp,119 mph,10.0 seconds,184 g/km
+ssangyong,Korando,17995.0,2019,1597cc,"17,682 miles",Diesel,Automatic,Grey,Estate,4X2,5.0,5.0,134 bhp,112 mph,12.0 seconds,144 g/km
+ssangyong,Musso,29995.0,2021,2157cc,"9,700 miles",Diesel,Automatic,Red,Van,4X4,4.0,,178 bhp,115 mph,,
+ssangyong,Rexton,18400.0,2018,2157cc,"86,046 miles",Diesel,Automatic,GREY,Estate,4X4,5.0,5.0,178 bhp,116 mph,,213 g/km
+ssangyong,Tivoli,21990.0,2023,1497cc,"3,282 miles",Petrol,Automatic,White,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Korando,4895.0,2013,1998cc,"61,000 miles",Diesel,Manual,Black,SUV,4X4,5.0,5.0,146 bhp,110 mph,10.0 seconds,157 g/km
+ssangyong,Korando,7970.0,2017,2157cc,"45,718 miles",Diesel,Manual,GREEN,Estate,4X2,5.0,5.0,176 bhp,115 mph,,139 g/km
+ssangyong,Rodius,13970.0,2018,2157cc,"39,996 miles",Diesel,Automatic,SILVER,MPV,4X2,5.0,7.0,174 bhp,116 mph,10.0 seconds,196 g/km
+ssangyong,Korando,13899.0,2018,2157cc,"45,768 miles",Diesel,,White,SUV,4X4,5.0,5.0,175 bhp,115 mph,,179 g/km
+ssangyong,Tivoli,19490.0,2023,1497cc,"5,000 miles",Petrol,Automatic,Space Black Metallic,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Korando,17490.0,2020,1597cc,"23,500 miles",Diesel,Automatic,Dandy Blue Metallic,Estate,4X2,5.0,5.0,134 bhp,112 mph,12.0 seconds,159 g/km
+ssangyong,Tivoli,25045.0,2023,1497cc,122 miles,Petrol,Automatic,Silver,Hatchback,4X2,5.0,5.0,161 bhp,109 mph,,175 g/km
+ssangyong,Korando,31190.0,2023,1497cc,443 miles,Petrol,Automatic,Grey,Estate,4X2,5.0,5.0,161 bhp,116 mph,,182 g/km
+ssangyong,Korando,29995.0,2023,1L,5 miles,Other,Automatic,White,Hatchback,,,,,,,
+ssangyong,Korando,29995.0,2023,1L,5 miles,Other,Automatic,Space Black,SUV,,,,,,,
+ssangyong,Tivoli,13995.0,2021,1197cc,"15,523 miles",Petrol,Manual,SILVER,Hatchback,4X2,5.0,5.0,126 bhp,112 mph,,158 g/km
+ssangyong,Korando,13795.0,2021,2157cc,"9,027 miles",Diesel,Manual,WHITE,Estate,,,,,,,
+ssangyong,Tivoli,7995.0,2016,1597cc,"69,000 miles",Diesel,Manual,Red,SUV,4X4,5.0,5.0,113 bhp,109 mph,10.0 seconds,123 g/km
+ssangyong,Tivoli,7195.0,2017,1.6L,"84,350 miles",Diesel,Manual,White,4X4,4X2,5.0,5.0,113 bhp,109 mph,10.0 seconds,113 g/km
+ssangyong,Tivoli,6495.0,2016,1597cc,"59,896 miles",Petrol,Manual,Red,SUV,4X2,5.0,5.0,126 bhp,106 mph,10.0 seconds,149 g/km
+ssangyong,Korando,18990.0,2020,1597cc,"3,600 miles",Diesel,Automatic,Silent Silver Metallic,Estate,4X2,5.0,5.0,134 bhp,112 mph,12.0 seconds,159 g/km
+ssangyong,Korando,4875.0,2016,2157cc,"92,000 miles",Diesel,Manual,Red,Estate,4X2,5.0,5.0,174 bhp,115 mph,10.0 seconds,139 g/km
+ssangyong,Musso,12000.0,2017,2157cc,"94,000 miles",Diesel,Automatic,White,Van,4X4,4.0,,175 bhp,108 mph,,
+ssangyong,Tivoli,7499.0,2016,1597cc,"40,923 miles",Petrol,,Red,SUV,4X2,5.0,5.0,126 bhp,106 mph,10.0 seconds,149 g/km
+ssangyong,Turismo,9400.0,2015,2L,"63,000 miles",Diesel,Automatic,STERLING SILVER,MPV,4X4,5.0,7.0,154 bhp,108 mph,10.0 seconds,212 g/km
+ssangyong,Turismo,9400.0,2015,2L,"63,000 miles",Diesel,Automatic,STERLING SILVER,MPV,4X4,5.0,7.0,154 bhp,108 mph,10.0 seconds,212 g/km
+ssangyong,Rexton,10790.0,2016,2157cc,"80,000 miles",Diesel,Auto,Black,4x4,4X4,5.0,7.0,174 bhp,116 mph,10.0 seconds,194 g/km
+ssangyong,Korando,7995.0,2014,1998cc,"66,000 miles",Diesel,Manual,Blue,Van,4X4,5.0,,146 bhp,112 mph,10.0 seconds,
+ssangyong,Turismo,13990.0,2016,2200cc,"25,000 miles",Diesel,Automatic,Maroon,MPV,,,,,,,
+ssangyong,Turismo,9990.0,2016,2200cc,"70,000 miles",Diesel,Manual,Burgundy,MPV,,,,,,,
+ssangyong,Korando,19990.0,2022,1497cc,"5,000 miles",Petrol,Automatic,White,SUV,4X2,5.0,5.0,161 bhp,119 mph,,182 g/km
+ssangyong,Korando,29990.0,2023,1L,25 miles,Other,Automatic,White,Estate,4X2,5.0,5.0,201 bhp,97 mph,,0 g/km
+ssangyong,Rexton,31995.0,2021,2157cc,"10,644 miles",Diesel,Automatic,BLUE,Estate,4X4,5.0,7.0,199 bhp,114 mph,,225 g/km
